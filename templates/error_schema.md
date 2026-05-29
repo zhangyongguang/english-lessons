@@ -42,6 +42,7 @@ adverb, conditional, modal,
 phrasal-verb, false-friend, register,
 filler, linking, stress,
 comparative, relative-clause, word-choice,
+pronoun (missing / wrong personal or possessive pronouns, inconsistent subject),
 conciseness (tighten / combine clauses, avoid comma splices), word-boundary (compound-word boundaries / blending into one word), …
 
 > When adding a new tag, record it here. Don't create synonyms (e.g. don't keep both `prep` and `preposition`).
