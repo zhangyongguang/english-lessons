@@ -1,20 +1,20 @@
 ---
-description: 汇总某一周的英语错误，分析高频弱点，输出每周报告
-argument-hint: "[ISO 周，可选，如 2026-W22]"
+description: Summarize a week's English errors, analyze high-frequency weak spots, output a weekly report
+argument-hint: "[ISO week, optional, e.g. 2026-W22]"
 allowed-tools: Bash(python3:*), Bash(python:*), Read, Write
 ---
 
-## 刷新总表
+## Refresh the master table
 !`python3 scripts/build_master.py`
 
-## 各周状态（待汇总 / 已汇总）
+## Week status (pending / summarized)
 !`python3 scripts/list_weeks.py`
 
-## 任务
-1. **确定要汇总的周 WEEK**：若 `$ARGUMENTS` 给了 ISO 周（如 `2026-W22`）就用它；否则取上面「最近一个待汇总」的周。若没有待汇总的周，告诉我并停止。
-2. 读取 `database/errors_master.csv`，**只筛选属于 WEEK 这一周**的错误（按每行的 `date` 判断其 ISO 周是否等于 WEEK）。
-3. 按下面的要求做规律分析，写入 `analysis/weekly/WEEK.md`（如 `analysis/weekly/2026-W22.md`），中文，先结论后数据，简洁：
+## Task
+1. **Decide which week WEEK to summarize**: if `$ARGUMENTS` gives an ISO week (e.g. `2026-W22`), use it; otherwise take the "most recent pending" week above. If there are no pending weeks, tell me and stop.
+2. Read `database/errors_master.csv` and **filter only the errors belonging to WEEK** (judge each row by whether its `date`'s ISO week equals WEEK).
+3. Do the pattern analysis below and write it to `analysis/weekly/WEEK.md` (e.g. `analysis/weekly/2026-W22.md`), in English, conclusions first then data, concise:
 
 @prompts/analyze_patterns.md
 
-4. 用一句话告诉我这一周最该攻克的那个点。
+4. Tell me in one sentence the single thing I should fix this week.

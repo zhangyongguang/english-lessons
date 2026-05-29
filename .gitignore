@@ -2,5 +2,5 @@ __pycache__/
 *.pyc
 .DS_Store
 
-# 隐私：如需托管公开仓库，取消下一行注释以排除原始转写
+# Privacy: for a public repo, uncomment the next line to exclude raw transcripts
 # data/raw/

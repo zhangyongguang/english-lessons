@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""列出 data/raw/ 里的转写，按日期分组，并标出哪天还没提取错误。
+"""List transcripts in data/raw/, grouped by date, marking which days are not yet extracted.
 
-用法:  python scripts/list_raw.py
-被 /extract 工作流用来决定该处理哪一天。
+Usage:  python scripts/list_raw.py
+Used by the /extract workflow to decide which day to process.
 """
 from collections import defaultdict
 from _common import ROOT, parse_date
@@ -14,29 +14,29 @@ ERRORS = ROOT / "data" / "errors"
 def main():
     groups = defaultdict(list)
     for f in sorted(RAW.glob("*.txt")):
-        d = parse_date(f.name) or "未知日期"
+        d = parse_date(f.name) or "unknown-date"
         groups[d].append(f.name)
 
     if not groups:
-        print("data/raw/ 里没有转写文件。把腾讯会议下载的 .txt 放进去即可。")
+        print("No transcripts in data/raw/. Drop the .txt files downloaded from Tencent Meeting here.")
         return
 
     pending = []
     for d in sorted(groups):
         done = (ERRORS / f"{d}.json").exists()
-        mark = "✅ 已提取" if done else "⬜ 待提取"
+        mark = "✅ extracted" if done else "⬜ pending"
         if not done:
             pending.append(d)
-        print(f"{d}  {mark}  （{len(groups[d])} 个转写）")
+        print(f"{d}  {mark}  ({len(groups[d])} transcript(s))")
         for n in groups[d]:
             print(f"      - {n}")
 
     print()
     if pending:
-        print(f"待提取的日期：{', '.join(pending)}")
-        print(f"最近一个待提取：{pending[-1]}")
+        print(f"Pending dates: {', '.join(pending)}")
+        print(f"Most recent pending: {pending[-1]}")
     else:
-        print("全部已提取 🎉")
+        print("All extracted 🎉")
 
 
 if __name__ == "__main__":

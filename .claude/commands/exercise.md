@@ -1,15 +1,15 @@
 ---
-description: 根据最近的错误生成针对性练习（改错/填空/翻译/选择）
-argument-hint: "[标签，可选，如 articles]"
+description: Generate targeted practice from recent errors (correction / fill-in / translation / multiple choice)
+argument-hint: "[tag, optional, e.g. articles]"
 allowed-tools: Bash(python3:*), Bash(python:*), Read, Write
 ---
 
-## 刷新总表
+## Refresh the master table
 !`python3 scripts/build_master.py`
 
-## 任务
-读取 `database/errors_master.csv`。如果 `$ARGUMENTS` 指定了标签（如 `articles`），只围绕那个标签出题；否则覆盖我最高频的 3 个弱点。
+## Task
+Read `database/errors_master.csv`. If `$ARGUMENTS` specifies a tag (e.g. `articles`), build questions around that tag only; otherwise cover my 3 most frequent weak spots.
 
-按下面的要求出 10 题（用全新句子，不要照搬我的原句；题目与答案分开），写入 `exercises/generated/<日期>-<主题>.md`，并告诉我文件路径：
+Following the requirements below, write 10 questions (use brand-new sentences, don't copy my originals; keep questions and answers separate) to `exercises/generated/<date>-<topic>.md`, and tell me the file path:
 
 @prompts/generate_exercises.md

@@ -1,19 +1,19 @@
-# 提示词：生成练习（按需用）
+# Prompt: generate exercises (on demand)
 
-把这段 + 你想练的错误（可以是某个 tag、最近的 errors JSON、或整张 master 表）发给 Claude。
+Send this + the errors you want to practice (a single tag, recent errors JSON, or the whole master table) to Claude.
 
 ---
 
-基于我下面的错误库，帮我生成针对性练习。要求：
+Based on my error log below, generate targeted practice. Requirements:
 
-- 练习要用**新的句子/场景**，不要直接重复我的原句（否则只是背答案）。
-- 围绕我犯过的错误类型设计，确保练到那个具体的点。
-- 题型混合：
-  1. **改错**：给一句含同类错误的新句子，让我找出并改正。
-  2. **填空**：给语境，挖掉容易错的词（冠词/介词/时态等）。
-  3. **中译英**：给中文，让我翻译，专门考目标结构。
-  4. **选择**：两三个易混说法选最地道的。
-- 一共出 10 题，难度循序渐进。
-- 题目和答案**分开放**：先全部题目，最后统一给「答案 + 简短解析」，方便我先自测。
+- Use **new sentences/scenarios**; don't just repeat my original sentences (otherwise I'm only memorizing answers).
+- Design around the error types I've made, so I actually drill that specific point.
+- Mix question types:
+  1. **Error correction**: a new sentence containing the same kind of error; I find and fix it.
+  2. **Fill in the blank**: give context, blank out the easy-to-miss word (article / preposition / tense, etc.).
+  3. **Translation**: give a short prompt to render into natural English, targeting the structure being tested.
+  4. **Multiple choice**: pick the most natural option among two or three easily-confused versions.
+- 10 questions total, gradually increasing in difficulty.
+- Keep **questions and answers separate**: all questions first, then a combined "answers + short explanation" section, so I can self-test first.
 
-如果我指定了某个 tag（如 articles），就只练那个；没指定就覆盖我最高频的 3 个弱点。
+If I specify a tag (e.g. articles), drill only that one; if not, cover my 3 most frequent weak spots.

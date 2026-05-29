@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""把 data/errors/*.json 合并成 database/errors_master.csv。
+"""Merge data/errors/*.json into database/errors_master.csv.
 
-用法:  python scripts/build_master.py
-只用标准库，无需联网或安装依赖。
+Usage:  python scripts/build_master.py
+Standard library only, no network or dependencies needed.
 """
 import csv
 import json
@@ -46,16 +46,16 @@ def main():
     files = sorted(p for p in ERRORS_DIR.glob("*.json")
                    if not p.name.endswith(".example.json"))
     if not files:
-        print("没找到真实数据文件（*.example.json 会被跳过）。")
-        print("先把当天提取好的 JSON 存到 data/errors/YYYY-MM-DD.json")
+        print("No real data files found (*.example.json is skipped).")
+        print("Save each day's extracted JSON to data/errors/YYYY-MM-DD.json first.")
         return
     for f in files:
         try:
             data = json.loads(f.read_text(encoding="utf-8"))
         except json.JSONDecodeError as e:
-            print(f"⚠️  跳过 {f.name}：JSON 解析失败 ({e})")
+            print(f"⚠️  Skipping {f.name}: JSON parse failed ({e})")
             continue
-        if isinstance(data, dict):  # 容错：单条也接受
+        if isinstance(data, dict):  # tolerate a single record
             data = [data]
         for rec in data:
             rows.append(flatten(rec))
@@ -66,7 +66,7 @@ def main():
         w = csv.DictWriter(fh, fieldnames=COLUMNS)
         w.writeheader()
         w.writerows(rows)
-    print(f"✅ 写入 {len(rows)} 条错误 → {OUT.relative_to(ROOT)}")
+    print(f"✅ Wrote {len(rows)} errors → {OUT.relative_to(ROOT)}")
 
 
 if __name__ == "__main__":

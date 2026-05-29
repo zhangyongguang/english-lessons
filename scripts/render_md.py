@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""把某天的 data/errors/DATE.json 渲染成一个简洁的两列表格 Markdown。
+"""Render a day's data/errors/DATE.json into a compact two-column Markdown table.
 
-只输出「错误」和「正确」两列，其余字段（解释、例句、上下文等）不展示。
-用法:  python scripts/render_md.py 2026-05-28
-生成:  data/errors/2026-05-28.md
+Only the "Mistake" and "Correct" columns are shown; other fields
+(explanation, examples, context, etc.) are omitted.
+Usage:  python scripts/render_md.py 2026-05-28
+Output: data/errors/2026-05-28.md
 """
 import json
 import sys
@@ -11,18 +12,18 @@ from _common import ROOT
 
 
 def cell(text):
-    """让一段文本能安全放进 Markdown 表格单元格：转义竖线、压平换行。"""
+    """Make text safe inside a Markdown table cell: escape pipes, flatten newlines."""
     return str(text).replace("|", "\\|").replace("\n", " ").strip()
 
 
 def main():
     if len(sys.argv) < 2:
-        print("用法: python scripts/render_md.py YYYY-MM-DD")
+        print("Usage: python scripts/render_md.py YYYY-MM-DD")
         return
     date = sys.argv[1]
     src = ROOT / "data" / "errors" / f"{date}.json"
     if not src.exists():
-        print(f"找不到 {src.relative_to(ROOT)}")
+        print(f"Not found: {src.relative_to(ROOT)}")
         return
 
     data = json.loads(src.read_text(encoding="utf-8"))
@@ -41,7 +42,7 @@ def main():
 
     out = ROOT / "data" / "errors" / f"{date}.md"
     out.write_text("\n".join(lines), encoding="utf-8")
-    print(f"✅ 生成报告 → {out.relative_to(ROOT)}（{len(data)} 条）")
+    print(f"✅ Generated report → {out.relative_to(ROOT)} ({len(data)} rows)")
 
 
 if __name__ == "__main__":

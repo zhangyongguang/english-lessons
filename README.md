@@ -1,76 +1,77 @@
-# english-lessons —— 我的英语错题库
+# english-lessons — my English error log
 
-把每天 3 小时 1v1 课的腾讯会议转写，沉淀成结构化错题库，
-用 **Claude Code** 斜杠命令一键提取错误、找规律、出练习、导 Anki。
+Turn the Tencent Meeting transcripts of my daily 3-hour 1-on-1 class into a structured error log,
+using **Claude Code** slash commands to extract errors, find patterns, generate practice, and export to Anki — all in one step.
 
-## 四个命令（在 Claude Code 里输入 `/`）
+## The commands (type `/` in Claude Code)
 
-| 命令 | 作用 | 产出 |
+| Command | What it does | Output |
 |---|---|---|
-| `/extract [日期\|all]` | 从待提取的转写里提取我的错误 | `data/errors/日期.md`（易读）+ `.json` |
-| `/weekly [周]`  | 汇总某一周、分析高频弱点 | `analysis/weekly/年-周.md` |
-| `/exercise [标签]` | 按弱点生成针对性练习 | `exercises/generated/...md` |
-| `/anki` | 导出 Anki 卡片 | `exercises/anki/anki_import.tsv` |
+| `/extract [date\|all]` | Extract my errors from pending transcripts | `data/errors/DATE.md` (readable) + `.json` |
+| `/weekly [week]` | Summarize a week, analyze high-frequency weak spots | `analysis/weekly/YEAR-Wnn.md` |
+| `/exercise [tag]` | Generate targeted practice by weak spot | `exercises/generated/...md` |
+| `/anki` | Export Anki cards | `exercises/anki/anki_import.tsv` |
+| `/sync [message]` | Commit and push changes to GitHub | — |
 
-参数都可省：
-- `/extract` 默认处理「最近一个待提取」的日期；`/extract 2026-05-28` 指定某天；`/extract all` 把攒下的几天一次补齐。
-- `/weekly` 默认汇总「最近一个待汇总」的周；`/weekly 2026-W22` 指定某周。
-- `/exercise articles` 只练某个标签。
+All arguments are optional:
+- `/extract` defaults to the "most recent pending" date; `/extract 2026-05-28` targets one day; `/extract all` clears everything that piled up.
+- `/weekly` defaults to the "most recent pending" week; `/weekly 2026-W22` targets one week.
+- `/exercise articles` drills a single tag.
 
-## "今天/本周新增的"是怎么判断的
+## How "new today/this week" is determined
 
-不靠系统时钟或文件下载时间，而是看**处理过没有**（幂等）：
-- **天**：`data/raw/` 里有某天的转写、但 `data/errors/日期.json` 还不存在 → 该天「待提取」。日期是从腾讯文件名里解析的（`_20260528...` → 2026-05-28）。
-- **周**：某 ISO 周有错误、但 `analysis/weekly/年-周.md` 还不存在 → 该周「待汇总」。
+Not based on the system clock or download time, but on **whether it's been processed** (idempotent):
+- **Day**: a transcript for some date exists in `data/raw/` but `data/errors/DATE.json` does not → that day is "pending". The date is parsed from the Tencent filename (`_20260528...` → 2026-05-28).
+- **Week**: an ISO week has errors but `analysis/weekly/YEAR-Wnn.md` does not exist → that week is "pending".
 
-所以哪天补的、一天几段录音、漏几天再补都不影响，重复运行也不会重复处理。
-随时看状态：`python3 scripts/list_raw.py`（按天）、`python3 scripts/list_weeks.py`（按周）。
+So which day you backfilled, several recordings per day, or backfilling missed days later — none of it matters, and re-running won't reprocess.
+Check status anytime: `python3 scripts/list_raw.py` (by day), `python3 scripts/list_weeks.py` (by week).
 
-## 目录结构
+## Directory layout
 
 ```
 english-lessons/
-├── CLAUDE.md               # 项目说明，Claude Code 每次自动加载（相当于"规则"）
-├── .claude/commands/       # ★ 四个斜杠命令
-│   ├── extract.md  weekly.md  exercise.md  anki.md
+├── CLAUDE.md               # project notes, auto-loaded by Claude Code (the "rules")
+├── .claude/commands/       # ★ the slash commands
+│   ├── extract.md  weekly.md  exercise.md  anki.md  sync.md
 ├── data/
-│   ├── raw/                # 原始转写，保留腾讯原文件名（日期在文件名里），永不修改
-│   ├── processed/          # 清洗版本（可选）
-│   └── errors/             # 日期.json（结构化）+ 日期.md（易读）
-├── database/errors_master.csv    # 所有错误汇总总表（脚本生成）
-├── exercises/{generated,anki}/   # 练习 + Anki 文件
-├── analysis/weekly/        # 每周规律报告
-├── prompts/                # 三个提示词，命令用 @ 引用它们做单一事实源
-├── scripts/                # 小工具（纯标准库，无需联网或装依赖）
+│   ├── raw/                # raw transcripts, original Tencent filename (date inside), never modified
+│   ├── processed/          # cleaned versions (optional)
+│   └── errors/             # DATE.json (structured) + DATE.md (readable)
+├── database/errors_master.csv    # master table of all errors (script-generated)
+├── exercises/{generated,anki}/   # practice + Anki files
+├── analysis/weekly/        # weekly pattern reports
+├── prompts/                # the prompts; commands reference them via @ as the single source of truth
+├── scripts/                # small tools (pure standard library, no network or install)
 │   ├── list_raw.py  list_weeks.py  render_md.py  build_master.py  make_anki.py  new_day.py
-└── templates/error_schema.md     # 每条错误的字段定义 + 标签词表
+└── templates/error_schema.md     # field definitions + tag vocabulary for each error
 ```
 
-## 安装
+## Setup
 
-1. 用 Claude Code 打开本文件夹即可——`.claude/commands/` 会被自动识别，输入 `/` 就能看到 `extract`、`weekly` 等命令；`CLAUDE.md` 会自动作为项目上下文加载。
-2. 需要本机装好 Python 3（命令里跑脚本用 `python3`；Windows 改成 `python`）。
+1. Open this folder in Claude Code — `.claude/commands/` is auto-detected, so typing `/` shows `extract`, `weekly`, etc.; `CLAUDE.md` is auto-loaded as project context.
+2. You need Python 3 installed (scripts run with `python3`; on Windows use `python`).
 
-> 说明：Claude Code 较新版本已把斜杠命令并入 Skills（`.claude/skills/`），但 `.claude/commands/` 仍然完全可用。这种自己手动调用的命令用 commands 更简单。
+> Note: newer Claude Code merges slash commands into Skills (`.claude/skills/`), but `.claude/commands/` still works fully. For these manually-invoked commands, `commands` is simpler.
 
-## 设计思路
+## Design ideas
 
-1. **raw 永远不改**：原始转写是底稿，所有加工都生成新文件，方便回溯。
-2. **结构化 + 易读双轨**：`/extract` 先让 Claude 把错误抽成结构化 JSON（统一字段/标签，见 `templates/error_schema.md`），再由脚本渲染成你快速浏览的 Markdown。JSON 喂统计和 Anki，Markdown 给你看。
-3. **Claude 动脑、脚本动手**：提取/分析/出题靠 Claude + prompts；列清单、渲染、合并、导出靠脚本，确定且省 token。
-4. **靠"处理过没有"判断新增**：见上一节，幂等、不依赖时钟。
+1. **raw is never changed**: the raw transcript is the source; all processing produces new files for traceability.
+2. **Structured + readable, two tracks**: `/extract` first has Claude extract errors into structured JSON (unified fields/tags, see `templates/error_schema.md`), then a script renders a quick-browse Markdown table. JSON feeds stats and Anki; the Markdown is for you.
+3. **Claude thinks, scripts do the legwork**: extraction/analysis/exercises rely on Claude + prompts; listing, rendering, merging, exporting rely on scripts — deterministic and token-cheap.
+4. **"Processed or not" determines what's new**: see the section above — idempotent, clock-independent.
 
-## 几个注意点
+## A few notes
 
-- **转写会出错**（尤其口音英文）。命令已让 Claude 按上下文还原本意、优先采信老师的纠正。你的转写有清晰说话人标注（`Jack` = 你，`ZIVA_Teacher` = 老师），准确率较高。
-- **隐私**：转写含课堂对话。若托管到公开 Git 仓库，建议在 `.gitignore` 取消注释 `data/raw/`。
+- **Transcripts have errors** (especially accented English). The commands tell Claude to restore intended meaning from context and trust the teacher's corrections first. Your transcripts have clear speaker labels (`Jack` = you, `ZIVA_Teacher` = the teacher), so accuracy is decent.
+- **Privacy**: transcripts contain class conversation. If hosting on a public Git repo, consider uncommenting `data/raw/` in `.gitignore`.
 
 ---
-不装 Claude Code 也能跑（手动验证）：
+Works without Claude Code too (manual verification):
 ```bash
-python3 scripts/list_raw.py            # 哪天待提取
+python3 scripts/list_raw.py            # which days are pending
 python3 scripts/render_md.py 2026-05-28
 python3 scripts/build_master.py
-python3 scripts/list_weeks.py          # 哪周待汇总
+python3 scripts/list_weeks.py          # which weeks are pending
 python3 scripts/make_anki.py
 ```

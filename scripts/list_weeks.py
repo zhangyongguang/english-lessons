@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""按 ISO 周列出已提取的错误，并标出哪一周还没生成每周报告。
+"""List extracted errors by ISO week, marking which weeks have no weekly report yet.
 
-用法:  python scripts/list_weeks.py
-被 /weekly 用来决定该汇总哪一周（逻辑和 list_raw.py 一致：
-有数据但 analysis/weekly/<周>.md 不存在 = 待汇总）。
+Usage:  python scripts/list_weeks.py
+Used by /weekly to decide which week to summarize (same logic as list_raw.py:
+has data but analysis/weekly/<week>.md does not exist = pending).
 """
 import csv
 from collections import defaultdict
@@ -21,7 +21,7 @@ def iso_week(d: str) -> str:
 
 def main():
     if not MASTER.exists():
-        print("还没有总表，先运行：python scripts/build_master.py")
+        print("No master table yet. Run first: python scripts/build_master.py")
         return
 
     weeks = defaultdict(lambda: {"count": 0, "dates": set()})
@@ -38,25 +38,25 @@ def main():
             weeks[wk]["dates"].add(d)
 
     if not weeks:
-        print("总表里还没有错误数据。先用 /extract 提取几天。")
+        print("No error data in the master table yet. Extract a few days with /extract first.")
         return
 
     pending = []
     for wk in sorted(weeks):
         done = (WEEKLY / f"{wk}.md").exists()
-        mark = "✅ 已汇总" if done else "⬜ 待汇总"
+        mark = "✅ summarized" if done else "⬜ pending"
         if not done:
             pending.append(wk)
         info = weeks[wk]
         span = f"{min(info['dates'])} ~ {max(info['dates'])}"
-        print(f"{wk}  {mark}  （{info['count']} 条错误，{len(info['dates'])} 天：{span}）")
+        print(f"{wk}  {mark}  ({info['count']} errors, {len(info['dates'])} day(s): {span})")
 
     print()
     if pending:
-        print(f"待汇总的周：{', '.join(pending)}")
-        print(f"最近一个待汇总：{pending[-1]}")
+        print(f"Pending weeks: {', '.join(pending)}")
+        print(f"Most recent pending: {pending[-1]}")
     else:
-        print("全部已汇总 🎉")
+        print("All summarized 🎉")
 
 
 if __name__ == "__main__":

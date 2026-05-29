@@ -1,47 +1,47 @@
-# 错误记录结构（error schema）
+# Error record schema
 
-每天的错误存成一个 **JSON 数组**，文件名 `data/errors/YYYY-MM-DD.json`。
-数组里每个元素是一条错误，字段如下：
+Each day's errors are stored as a **JSON array**, file `data/errors/YYYY-MM-DD.json`.
+Every element is one error with these fields:
 
-| 字段 | 说明 | 必填 |
+| Field | Description | Required |
 |---|---|---|
-| `id` | 唯一编号，建议 `日期-序号`，如 `2026-05-29-001` | ✅ |
-| `date` | 上课日期 `YYYY-MM-DD` | ✅ |
-| `category` | 大类（见下方受控词表） | ✅ |
-| `tag` | 细分标签（见下方），方便统计规律 | ✅ |
-| `my_sentence` | 你说的原句（可能被语音转写弄错，尽量还原本意） | ✅ |
-| `correction` | 老师的正确说法；可给多个，用 ` / ` 隔开 | ✅ |
-| `explanation` | 为什么错、规则是什么（默认中文，便于理解） | ✅ |
-| `correct_examples` | 1–2 个正确例句，数组 | ✅ |
-| `context` | 上下文/当时在聊什么（可选） | ⬜ |
-| `review` | 复习状态对象，见下 | ✅ |
-| `source_ref` | 在原始转写里的位置，如 `line 412`（可选） | ⬜ |
+| `id` | Unique id, suggested `date-index`, e.g. `2026-05-29-001` | ✅ |
+| `date` | Class date `YYYY-MM-DD` | ✅ |
+| `category` | Top-level category (see controlled vocabulary below) | ✅ |
+| `tag` | Fine-grained tag (see below), for pattern stats | ✅ |
+| `my_sentence` | What you said (may be garbled by speech-to-text; restore your intended meaning) | ✅ |
+| `correction` | The teacher's correct version; multiple separated by ` / ` | ✅ |
+| `explanation` | Why it's wrong and what the rule is (in English) | ✅ |
+| `correct_examples` | 1–2 correct example sentences, an array | ✅ |
+| `context` | What you were talking about (optional) | ⬜ |
+| `review` | Review-status object, see below | ✅ |
+| `source_ref` | Location in the transcript, e.g. `line 412` (optional) | ⬜ |
 
-`review` 对象：
+`review` object:
 ```json
 { "status": "new", "times_seen_again": 0, "last_reviewed": null }
 ```
-- `status`: `new`（新错） / `learning`（在练） / `mastered`（已掌握）
-- `times_seen_again`: 之后又犯了几次（统计顽固错误）
-- `last_reviewed`: 上次复习日期或 null
+- `status`: `new` / `learning` / `mastered`
+- `times_seen_again`: how many times you made it again afterwards (tracks stubborn errors)
+- `last_reviewed`: last review date, or null
 
-## 受控词表（保持统一，统计才准）
+## Controlled vocabulary (keep it consistent so stats stay accurate)
 
-`category`（大类，固定这 6 个）：
-- `grammar` 语法
-- `vocabulary` 词汇/选词
-- `collocation` 搭配
-- `naturalness` 不地道/中式表达
-- `pronunciation` 发音
-- `discourse` 篇章/连贯/口语流利度
+`category` (top level, fixed to these 6):
+- `grammar`
+- `vocabulary` (word choice)
+- `collocation`
+- `naturalness` (un-idiomatic / L1-influenced phrasing)
+- `pronunciation`
+- `discourse` (cohesion / fluency)
 
-`tag`（细分，可扩展，但尽量复用现有的）：
-articles（冠词）, tense（时态）, aspect（体）, preposition（介词）,
-plural（单复数）, agreement（主谓一致）, word-order（语序）,
-adverb（副词用法）, conditional（条件句）, modal（情态动词）,
-phrasal-verb（短语动词）, false-friend（伪同义词）, register（语体/正式度）,
-filler（口头禅/赘词）, linking（连读弱读）, stress（重音）,
-comparative（比较级）, relative-clause（关系/定语从句）, word-choice（选词）,
-conciseness（精简/合句，避免逗号粘连）, word-boundary（复合词词界/连读成一个词）, …
+`tag` (fine-grained, extendable, but reuse existing ones where possible):
+articles, tense, aspect, preposition,
+plural, agreement, word-order,
+adverb, conditional, modal,
+phrasal-verb, false-friend, register,
+filler, linking, stress,
+comparative, relative-clause, word-choice,
+conciseness (tighten / combine clauses, avoid comma splices), word-boundary (compound-word boundaries / blending into one word), …
 
-> 新增 tag 时记到这里，别造同义词（比如 `prep` 和 `preposition` 不要并存）。
+> When adding a new tag, record it here. Don't create synonyms (e.g. don't keep both `prep` and `preposition`).

@@ -1,22 +1,22 @@
 ---
-description: 自动把改动提交并推送到 GitHub（add + commit + push）
-argument-hint: "[提交说明，可选；不填则自动生成]"
+description: Automatically commit and push changes to GitHub (add + commit + push)
+argument-hint: "[commit message, optional; auto-generated if omitted]"
 allowed-tools: Bash(git:*)
 ---
 
-## 当前改动
+## Current changes
 !`git status --short`
 
-## 任务
-把工作区改动同步到 GitHub。按顺序执行：
+## Task
+Sync working-tree changes to GitHub. Do these in order:
 
-1. **若没有任何改动**（上面为空且本地没领先远程）：告诉我「没有要同步的改动」，停止。
-2. **暂存全部**：`git add -A`
-3. **提交**：
-   - 若 `$ARGUMENTS` 非空，用它作为提交说明。
-   - 否则自动生成一句中文说明，概括本次改动（如「更新 2026-05-28 错题」「新增 sync 命令」）。
-   - 提交信息末尾加一行：`Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>`
-4. **推送**：`git push`（首次或没有上游时用 `git push -u origin main`）。
-5. **汇报**：一句话说明提交了什么、推到了哪个分支。失败就把 git 报错原样贴给我。
+1. **If there are no changes** (the list above is empty and the local branch is not ahead of remote): tell me "nothing to sync" and stop.
+2. **Stage everything**: `git add -A`
+3. **Commit**:
+   - If `$ARGUMENTS` is non-empty, use it as the commit message.
+   - Otherwise auto-generate a short message summarizing the change (e.g. "Update 2026-05-28 errors", "Add sync command").
+   - Append a final line to the message: `Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>`
+4. **Push**: `git push` (use `git push -u origin main` on the first push or when there's no upstream).
+5. **Report back**: one sentence on what was committed and which branch it went to. On failure, paste the raw git error.
 
-> 不交互、不反问，直接跑完。
+> No interaction, no questions — just run it through.

@@ -1,15 +1,15 @@
-# 提示词：分析错误规律（每周/每月用）
+# Prompt: analyze error patterns (weekly / monthly)
 
-把这段 + `database/errors_master.csv`（或最近几天的 errors JSON）发给 Claude。
+Send this + `database/errors_master.csv` (or the last few days' errors JSON) to Claude.
 
 ---
 
-这是我最近积累的英语错误库。请帮我做规律分析，目标是找出**少数高频弱点**，让我重点突破，而不是平均用力。
+This is my recent English error log. Help me analyze the patterns. The goal is to find a **few high-frequency weak spots** so I can focus my effort instead of spreading it evenly.
 
-请给我：
-1. **错误分布**：按 category 和 tag 统计数量、占比，从高到低排。
-2. **顽固错误**：`times_seen_again` 较高、或反复出现的同类错误，单独点名。
-3. **3 个本周重点**：基于数据，给我本周最该攻克的 3 个点，每个配一句话的诊断和一个最小练习建议。
-4. **进步信号**：和更早的数据比，哪些 tag 在减少（如果数据够）。
+Give me:
+1. **Error distribution**: counts and percentages by category and tag, sorted high to low.
+2. **Stubborn errors**: errors with a high `times_seen_again`, or the same kind recurring — call them out separately.
+3. **3 priorities for the week**: based on the data, the 3 things I should fix first; for each give a one-line diagnosis and one minimal practice suggestion.
+4. **Progress signals**: compared with earlier data, which tags are decreasing (if there's enough data).
 
-用中文，简洁，先给结论再给数据。别堆术语。
+Write in English, be concise, conclusions first then data. Don't pile on jargon.

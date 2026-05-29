@@ -1,11 +1,11 @@
 ---
-description: 把错误库导出成 Anki 可导入的卡片文件
+description: Export the error log into an Anki-importable card file
 allowed-tools: Bash(python3:*), Bash(python:*)
 ---
 
-## 生成卡片
+## Generate cards
 !`python3 scripts/build_master.py`
 !`python3 scripts/make_anki.py`
 
-## 任务
-根据上面的输出，告诉我：生成了多少张卡片、文件在 `exercises/anki/anki_import.tsv`，以及导入方法 —— Anki ▸ File ▸ Import，分隔符选 **Tab**，三列分别映射到 正面 / 背面 / 标签。
+## Task
+Based on the output above, tell me: how many cards were generated, that the file is at `exercises/anki/anki_import.tsv`, and how to import it — Anki ▸ File ▸ Import, separator = **Tab**, map the three columns to Front / Back / Tags.
