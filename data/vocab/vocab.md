@@ -1,9 +1,30 @@
 # Vocabulary  (latest first)
 
-27 word(s).
+48 word(s).
 
 | Word | Meaning | Example |
 |---|---|---|
+| shift back _(phrase)_ | to move back to a previous position or state; to switch back | Let's shift back to the original plan. |
+| cool off _(phrase)_ | to become cooler; or to calm down after being angry or excited | Take a walk to cool off before you reply. |
+| reprimand _(verb)_ | to criticize someone formally and severely for a fault | The manager reprimanded him for being late. |
+| come up _(phrase)_ | to be mentioned or arise; to approach; or (of an event) to be about to happen | Your name came up in the meeting. |
+| conducive _(adjective)_ | helping to make something happen; favorable to | A quiet room is conducive to studying. |
+| promptly _(adverb)_ | quickly without delay; or exactly on time | She replied promptly to my email. |
+| endorse _(verb)_ | to publicly support or approve of someone or something | The mayor endorsed the new plan. |
+| unpack _(verb)_ | to take things out of a bag or box; or to analyze a complex idea in detail | Let me unpack this idea a bit more. |
+| follow-up _(noun)_ | a further action or contact made after something earlier | The doctor scheduled a follow-up next week. |
+| nail down _(phrase)_ | to fix in place with nails; or to settle or define something firmly | Let's nail down the date for the meeting. |
+| readout _(noun)_ | data shown by a device; or a summary report after a meeting or event | The screen gave a clear temperature readout. |
+| pin down _(phrase)_ | to hold firmly in place; or to define or establish something exactly | It's hard to pin down the exact cause. |
+| reach out _(phrase)_ | to extend a hand; or to contact someone to offer or ask for help | Feel free to reach out if you have questions. |
+| revive _(verb)_ | to bring back to life, consciousness, or activity | Doctors managed to revive the patient. |
+| back off _(phrase)_ | to move away; or to stop pressuring or interfering | Back off and give him some space. |
+| rotation _(noun)_ | the act of turning; or a regular taking of turns among people or things | The Earth's rotation takes 24 hours. |
+| subtext _(noun)_ | an underlying meaning that is not stated directly | The subtext of her message was that she was angry. |
+| committee _(noun)_ | a group of people chosen to make decisions or manage something | The committee meets every Monday. |
+| go door to door _(phrase)_ | to visit each house in turn, e.g. to sell or ask for something | Volunteers went door to door asking for donations. |
+| rush out _(phrase)_ | to leave quickly; or to release a product hurriedly | She rushed out of the room in tears. |
+| in terms of _(phrase)_ | with regard to a particular aspect or subject | In terms of price, this one is better. |
 | shortcoming _(noun)_ | a fault or weakness; a failure to reach a good standard | Despite its shortcomings, the plan worked. |
 | dedicated _(adjective)_ | giving a lot of time and effort to something; or set aside for one special purpose | She's a dedicated teacher who stays late every day. |
 | time and time again _(idiom)_ | repeatedly; many times over | I've told him time and time again to be careful. |
