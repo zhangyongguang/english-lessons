@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Render data/vocab/vocab.json into a readable Markdown table (newest lookups first).
 
-Columns: Date | Word | Meaning | Example. Date is first_seen, so words cluster
-by day for easy review. The first example sentence is shown so you can grasp
-the usage at a glance.
+Columns: Word | Meaning | Example | Date. Date (first_seen) is last since it's
+secondary; words still cluster by day for review. The first example sentence is
+shown so you can grasp the usage at a glance.
 Usage:  python scripts/render_vocab_md.py
 Output: data/vocab/vocab.md
 """
@@ -52,7 +52,7 @@ def main():
         "",
         f"{len(data)} word(s).",
         "",
-        "| Date | Word | Meaning | Example |",
+        "| Word | Meaning | Example | Date |",
         "|---|---|---|---|",
     ]
     for e in data:
@@ -60,7 +60,7 @@ def main():
         pos = e.get("pos", "")
         head = f"{word} _({pos})_" if pos else word
         date = e.get("first_seen", "")
-        lines.append(f"| {cell(date)} | {cell(head)} | {cell(e.get('definition', ''))} | {cell(first_example(e))} |")
+        lines.append(f"| {cell(head)} | {cell(e.get('definition', ''))} | {cell(first_example(e))} | {cell(date)} |")
     lines.append("")
 
     OUT.write_text("\n".join(lines), encoding="utf-8")
