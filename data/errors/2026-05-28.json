@@ -1,0 +1,210 @@
+[
+  {
+    "id": "2026-05-28-001",
+    "date": "2026-05-28",
+    "category": "grammar",
+    "tag": "comparative",
+    "my_sentence": "A veterinarian are educated than landscaper.",
+    "correction": "Veterinarians are better educated than landscapers.",
+    "explanation": "A comparison needs a comparative form plus 'than': say 'better educated', not just 'educated'. Also, to talk about a profession in general, use the bare plural (veterinarians / landscapers) and make the verb agree (are). 'A veterinarian are' mixes a singular subject with a plural verb.",
+    "correct_examples": [
+      "Engineers are better paid than teachers.",
+      "City doctors are better trained than rural ones."
+    ],
+    "context": "Comparing how educated vets and landscapers are.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "session 20:03 / 00:04:51"
+  },
+  {
+    "id": "2026-05-28-002",
+    "date": "2026-05-28",
+    "category": "grammar",
+    "tag": "word-order",
+    "my_sentence": "Become more a veterinarian.",
+    "correction": "become a veterinarian",
+    "explanation": "Drop the extra 'more' — it doesn't belong here. To say you enter a profession, the pattern is 'become a + job'. The teacher kept repeating just 'Become.' to signal that the extra words were unnecessary.",
+    "correct_examples": [
+      "He wants to become a vet.",
+      "She became a teacher after college."
+    ],
+    "context": "Explaining how to become a veterinarian.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "session 20:03 / 00:09:54"
+  },
+  {
+    "id": "2026-05-28-003",
+    "date": "2026-05-28",
+    "category": "grammar",
+    "tag": "relative-clause",
+    "my_sentence": "anyone went to the college can choose this major",
+    "correction": "anyone who went to college can choose this major",
+    "explanation": "You need the relative pronoun 'who' to link the clause to 'anyone'; without it the sentence has two verbs and no connection between them. Also drop 'the': 'go to college' (like 'go to school') takes no article when it means attending as a student.",
+    "correct_examples": [
+      "Anyone who finishes the course gets a certificate.",
+      "Students who go to college can apply for this scholarship."
+    ],
+    "context": "Saying anyone can choose the landscaping major.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "session 20:03 / 00:10:58"
+  },
+  {
+    "id": "2026-05-28-004",
+    "date": "2026-05-28",
+    "category": "collocation",
+    "tag": "preposition",
+    "my_sentence": "I need to focus my English skills and my family.",
+    "correction": "I need to focus on my English skills and my family.",
+    "explanation": "'Focus' meaning 'concentrate on' always takes the preposition 'on': focus on something. Don't drop it.",
+    "correct_examples": [
+      "Let's focus on the main problem.",
+      "This year I want to focus on my health."
+    ],
+    "context": "Explaining why he has no time for movies.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "session 20:03 / 00:27:44"
+  },
+  {
+    "id": "2026-05-28-005",
+    "date": "2026-05-28",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "Only my daughter or my wife want to watch a movie, and then I will company with them.",
+    "correction": "I will accompany them.",
+    "explanation": "'Company' is a noun; the verb meaning 'go somewhere with someone' is 'accompany'. It is transitive, so it takes a direct object with no 'with': 'accompany them', not 'company with them'.",
+    "correct_examples": [
+      "I'll accompany you to the hospital.",
+      "She accompanied her mother to the market."
+    ],
+    "context": "Saying he goes to movies only to be with his family.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "session 20:03 / 00:28:12"
+  },
+  {
+    "id": "2026-05-28-006",
+    "date": "2026-05-28",
+    "category": "collocation",
+    "tag": "word-order",
+    "my_sentence": "They can't earn money. They need to ask money for their parents.",
+    "correction": "They need to ask their parents for money. / They need to ask them for it.",
+    "explanation": "The pattern is 'ask somebody for something': the person comes right after 'ask', then 'for + the thing'. 'Ask money for their parents' reverses the roles and means something else. (The teacher's 'ask it from their parents' also works.)",
+    "correct_examples": [
+      "He asked his boss for a raise.",
+      "Don't be afraid to ask me for help."
+    ],
+    "context": "Star fans are students who get money from their parents.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "session 20:03 / 00:32:16"
+  },
+  {
+    "id": "2026-05-28-007",
+    "date": "2026-05-28",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "He built his own company, so he recruit many students. They recruit some students to help.",
+    "correction": "He recruited many students. / They recruited some students to help.",
+    "explanation": "When you narrate past events, keep the verbs in the past tense: recruit -> recruited. You dropped the past '-ed' several times in a row. Watch verb endings ('-ed' for past, '-s' for he/she/it) — it is a recurring pattern for you. See also [[2026-05-28-008]].",
+    "correct_examples": [
+      "He recruited several interns last summer.",
+      "They hired students for part-time work."
+    ],
+    "context": "Describing how an aerobics instructor staffed his company.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "session 20:03 / 00:34:25"
+  },
+  {
+    "id": "2026-05-28-008",
+    "date": "2026-05-28",
+    "category": "grammar",
+    "tag": "agreement",
+    "my_sentence": "If someone become the soccer coach, they can earn a lot.",
+    "correction": "If someone becomes a good soccer coach, they can earn a lot.",
+    "explanation": "(assistant note) After a third-person singular subject ('someone'), the present-tense verb needs '-s': becomes. Use 'a' (a soccer coach) since you are not pointing to one specific, already-known coach. Same verb-ending weakness as [[2026-05-28-007]].",
+    "correct_examples": [
+      "If someone becomes a doctor, they can help many people.",
+      "When she becomes a manager, she will travel a lot."
+    ],
+    "context": "Arguing that good soccer coaches earn a lot.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "session 20:03 / 00:30:06"
+  },
+  {
+    "id": "2026-05-28-009",
+    "date": "2026-05-28",
+    "category": "discourse",
+    "tag": "conciseness",
+    "my_sentence": "Ground water means the water, we can see it on the ground.",
+    "correction": "Groundwater is the water that you see on the ground.",
+    "explanation": "Don't split a definition into two comma-spliced clauses ('the water, we can see it...'). Join them with a relative pronoun: 'the water that you see on the ground'. The teacher pointed out this is exactly what conjunctions and relative pronouns are for — keep a definition to one clean sentence.",
+    "correct_examples": [
+      "A greenhouse is a place where you grow plants.",
+      "An eyewitness is a person who sees an event happen."
+    ],
+    "context": "Defining 'groundwater' during the compound-noun lesson.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "session 21:06 / 00:27:20"
+  },
+  {
+    "id": "2026-05-28-010",
+    "date": "2026-05-28",
+    "category": "naturalness",
+    "tag": "register",
+    "my_sentence": "Sorry teacher, what's the public speaker?",
+    "correction": "Excuse me, could you explain what a public speaker is? / Sorry, what does \"public speaker\" mean?",
+    "explanation": "(assistant note) 'Sorry teacher' is a word-for-word translation from Chinese. To politely interrupt or ask, start with 'Excuse me' or 'Sorry,' and follow with a full question. Also, when asking what a type of thing is, use 'a' (general) rather than 'the' (a specific, already-known one): 'what's a public speaker'.",
+    "correct_examples": [
+      "Excuse me, what does that word mean?",
+      "Sorry, could you explain what a barista is?"
+    ],
+    "context": "Asking the teacher to define 'public speaker'.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "session 20:03 / 00:12:52"
+  },
+  {
+    "id": "2026-05-28-011",
+    "date": "2026-05-28",
+    "category": "naturalness",
+    "tag": "word-choice",
+    "my_sentence": "I think that's because there should are interesting and comedy.",
+    "correction": "because they are interesting and humorous",
+    "explanation": "Use 'they are' (subject + be), not 'there should are', which is ungrammatical. And describe the shows with the adjective 'humorous', not the noun 'comedy'. So: 'because they are interesting and humorous.'",
+    "correct_examples": [
+      "I watch them because they are funny and relaxing.",
+      "The show is interesting and humorous."
+    ],
+    "context": "Explaining why he watches stand-up comedy.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "session 20:03 / 00:16:14"
+  },
+  {
+    "id": "2026-05-28-012",
+    "date": "2026-05-28",
+    "category": "collocation",
+    "tag": "preposition",
+    "my_sentence": "They can spend money for the soccer team.",
+    "correction": "They can spend money on the soccer team.",
+    "explanation": "(assistant note) The collocation is 'spend money on something', not 'for'. Use 'spend time/money on + the thing or activity'.",
+    "correct_examples": [
+      "Fans spend a lot of money on their idols.",
+      "I don't want to spend money on things I don't need."
+    ],
+    "context": "Talking about how much soccer fans spend.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "session 20:03 / 00:30:41"
+  },
+  {
+    "id": "2026-05-28-013",
+    "date": "2026-05-28",
+    "category": "pronunciation",
+    "tag": "word-boundary",
+    "my_sentence": "Reading compound nouns as separate words: takeaway -> 'take her away', popcorn -> 'pop a coin', courthouse -> 'got our house', textbook -> 'text the book', eyeball -> 'I ball'.",
+    "correction": "takeaway / popcorn / courthouse / textbook / eyeball — one blended word, stressed on the first part.",
+    "explanation": "A compound noun is a single word: blend it together and don't insert extra syllables or articles in the middle. Most noun+noun compounds are stressed on the first element (TAKEaway, POPcorn, COURThouse, TEXTbook, EYEball). This was the focus of today's lesson.",
+    "correct_examples": [
+      "POPcorn ['pɒpkɔːn], not pop-a-corn",
+      "TEXTbook ['tekstbʊk], not text-the-book"
+    ],
+    "context": "Reading-aloud drill for compound nouns.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "session 21:06 / 00:07:19, 00:13:02"
+  }
+]
