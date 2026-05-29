@@ -206,5 +206,53 @@
     "context": "Reading-aloud drill for compound nouns.",
     "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
     "source_ref": "session 21:06 / 00:07:19, 00:13:02"
+  },
+  {
+    "id": "2026-05-28-014",
+    "date": "2026-05-28",
+    "category": "grammar",
+    "tag": "plural",
+    "my_sentence": "There are many greenhouse there.",
+    "correction": "There are many greenhouses there.",
+    "explanation": "After 'many', a countable noun must be plural: many greenhouses. The teacher modeled the plural ('so many greenhouses there'). Same missing '-s' pattern as your verb endings in [[2026-05-28-007]] and [[2026-05-28-008]].",
+    "correct_examples": [
+      "There are many greenhouses in my hometown.",
+      "She visited many countries last year."
+    ],
+    "context": "Saying his hometown has many greenhouses.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "session 21:06 / 00:26:48"
+  },
+  {
+    "id": "2026-05-28-015",
+    "date": "2026-05-28",
+    "category": "grammar",
+    "tag": "plural",
+    "my_sentence": "We need to collect many information from anywhere.",
+    "correction": "We need to collect a lot of information from anywhere.",
+    "explanation": "(assistant note) 'Information' is uncountable: it has no plural and doesn't take 'many'. Use 'a lot of information' / 'much information', and never 'informations'.",
+    "correct_examples": [
+      "We collected a lot of information for the report.",
+      "There isn't much information about it online."
+    ],
+    "context": "Comparing CIA work to his company's security department.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "session 20:03 / 00:46:27"
+  },
+  {
+    "id": "2026-05-28-016",
+    "date": "2026-05-28",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "When we meet someone we need to handshake with them.",
+    "correction": "When we meet someone we shake hands with them.",
+    "explanation": "(assistant note) 'Handshake' is a noun (the gesture). The action is the verb phrase 'shake hands with someone'. So 'shake hands with them', not 'handshake with them'. Same noun-used-as-verb slip as [[2026-05-28-005]] (company/accompany).",
+    "correct_examples": [
+      "It's polite to shake hands with your host.",
+      "They shook hands and sat down."
+    ],
+    "context": "Explaining what a handshake is.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "session 21:06 / 00:29:17"
   }
 ]
