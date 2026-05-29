@@ -6,16 +6,10 @@ Output: exercises/anki/vocab_anki.tsv
 Import: Anki -> File -> Import, separator = Tab, map fields to Front/Back/Tags.
 Standard library only.
 """
-import json
-from _common import ROOT
+from _common import ROOT, as_records, read_json, tsv_clean
 
 SRC = ROOT / "data" / "vocab" / "vocab.json"
 OUT = ROOT / "exercises" / "anki" / "vocab_anki.tsv"
-
-
-def clean(s):
-    # Newlines/tabs would break the TSV layout
-    return str(s).replace("\t", " ").replace("\n", "<br>")
 
 
 def build_card(entry):
@@ -42,16 +36,14 @@ def main():
     if not SRC.exists():
         print(f"Not found: {SRC.relative_to(ROOT)}")
         return
-    data = json.loads(SRC.read_text(encoding="utf-8"))
-    if isinstance(data, dict):
-        data = [data]
+    data = as_records(read_json(SRC, []))
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     n = 0
     with OUT.open("w", encoding="utf-8", newline="") as out:
         for entry in data:
             front, back, tags = build_card(entry)
-            out.write(f"{clean(front)}\t{clean(back)}\t{clean(tags)}\n")
+            out.write(f"{tsv_clean(front)}\t{tsv_clean(back)}\t{tsv_clean(tags)}\n")
             n += 1
     print(f"✅ Generated {n} vocab cards → {OUT.relative_to(ROOT)}")
     print("   In Anki: separator = Tab, map the 3 columns to Front / Back / Tags.")

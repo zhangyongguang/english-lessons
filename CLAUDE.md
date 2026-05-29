@@ -48,4 +48,11 @@ Not based on the system clock or file download time, but on **whether it has bee
 - `scripts/render_vocab_md.py` — vocab.json → vocab.md (newest first)
 - `scripts/make_vocab_anki.py` — vocab.json → vocab Anki import file
 - `scripts/list_vocab.py` — vocabulary status (totals, this week, repeat lookups)
+- `scripts/validate.py` — validate errors/vocab against the schemas (controlled vocab, required fields, duplicate id/word); read-only, used in CI
+- `scripts/_common.py` — shared helpers (date parsing, JSON loading, Markdown/TSV escaping); put common logic here, not duplicated
 - Run with `python3` (use `python` on Windows).
+
+## Tests & CI
+- `tests/` holds a zero-dependency `unittest` suite (read-only — it uses temp files, never touches real data). Run: `python3 -m unittest discover -s tests`.
+- GitHub Actions (`.github/workflows/ci.yml`) runs the tests and `scripts/validate.py` on every push/PR.
+- When changing a script that produces output, regenerate and confirm data files are untouched (`git status --short data/`).

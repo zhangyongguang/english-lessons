@@ -7,16 +7,10 @@ shown so you can grasp the usage at a glance.
 Usage:  python scripts/render_vocab_md.py
 Output: data/vocab/vocab.md
 """
-import json
-from _common import ROOT
+from _common import ROOT, as_records, md_cell, read_json
 
 SRC = ROOT / "data" / "vocab" / "vocab.json"
 OUT = ROOT / "data" / "vocab" / "vocab.md"
-
-
-def cell(text):
-    """Make text safe inside a Markdown table cell: escape pipes, flatten newlines."""
-    return str(text).replace("|", "\\|").replace("\n", " ").strip()
 
 
 def first_example(entry):
@@ -40,9 +34,7 @@ def main():
     if not SRC.exists():
         print(f"Not found: {SRC.relative_to(ROOT)}")
         return
-    data = json.loads(SRC.read_text(encoding="utf-8"))
-    if isinstance(data, dict):
-        data = [data]
+    data = as_records(read_json(SRC, []))
 
     ordered = sorted(enumerate(data), key=sort_key, reverse=True)
     data = [entry for _, entry in ordered]
@@ -60,7 +52,7 @@ def main():
         pos = e.get("pos", "")
         head = f"{word} _({pos})_" if pos else word
         date = e.get("first_seen", "")
-        lines.append(f"| {cell(head)} | {cell(e.get('definition', ''))} | {cell(first_example(e))} | {cell(date)} |")
+        lines.append(f"| {md_cell(head)} | {md_cell(e.get('definition', ''))} | {md_cell(first_example(e))} | {md_cell(date)} |")
     lines.append("")
 
     OUT.write_text("\n".join(lines), encoding="utf-8")

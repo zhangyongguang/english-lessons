@@ -1,7 +1,17 @@
-# english-lessons — my English error log
+# english-lessons — a personal English error log & vocabulary store
 
-Turn the Tencent Meeting transcripts of my daily 3-hour 1-on-1 class into a structured error log,
-using **Claude Code** slash commands to extract errors, find patterns, generate practice, and export to Anki — all in one step.
+[![CI](https://github.com/zhangyongguang/english-lessons/actions/workflows/ci.yml/badge.svg)](https://github.com/zhangyongguang/english-lessons/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
+
+Two things, one toolkit, driven by **Claude Code** slash commands:
+
+1. **Error log** — turn the Tencent Meeting transcript of a 1-on-1 English class into a structured database of my mistakes + the teacher's corrections, then find patterns, generate practice, and export to Anki.
+2. **Vocabulary store** — capture the unfamiliar words I look up day to day (translate/define them), dedup and date them, and export to Anki.
+
+It's deliberately small: a few **pure-standard-library** Python scripts (no dependencies), Markdown prompts as the single source of truth, and slash commands that glue them together. Claude does the thinking; the scripts do the deterministic legwork.
+
+> ⚠️ **Privacy**: real transcripts under `data/raw/` contain personal classroom conversation. If you host your own copy publicly, uncomment `data/raw/` in `.gitignore` to keep transcripts local.
 
 ## The commands (type `/` in Claude Code)
 
@@ -50,9 +60,15 @@ english-lessons/
 ├── prompts/                # the prompts; commands reference them via @ as the single source of truth
 ├── scripts/                # small tools (pure standard library, no network or install)
 │   ├── list_raw.py  list_weeks.py  render_md.py  build_master.py  make_anki.py  new_day.py
-│   └── render_vocab_md.py  make_vocab_anki.py  list_vocab.py
+│   ├── render_vocab_md.py  make_vocab_anki.py  list_vocab.py
+│   ├── _common.py          # shared helpers (date parsing, JSON loading, escaping)
+│   └── validate.py         # schema/data validation (run in CI)
+├── tests/                  # zero-dependency unittest suite
 ├── templates/error_schema.md     # field definitions + tag vocabulary for each error
-└── templates/vocab_schema.md     # field definitions + tag vocabulary for each word
+├── templates/vocab_schema.md     # field definitions + tag vocabulary for each word
+├── .github/                # CI workflow + issue/PR templates
+├── CONTRIBUTING.md
+└── LICENSE                 # MIT
 ```
 
 ## Setup
@@ -72,14 +88,26 @@ english-lessons/
 ## A few notes
 
 - **Transcripts have errors** (especially accented English). The commands tell Claude to restore intended meaning from context and trust the teacher's corrections first. Your transcripts have clear speaker labels (`Jack` = you, `ZIVA_Teacher` = the teacher), so accuracy is decent.
-- **Privacy**: transcripts contain class conversation. If hosting on a public Git repo, consider uncommenting `data/raw/` in `.gitignore`.
+- **Privacy**: see the callout at the top — transcripts contain class conversation; uncomment `data/raw/` in `.gitignore` for a public copy.
 
----
-Works without Claude Code too (manual verification):
+## Development
+
+Everything runs on the standard library — no install step. Works without Claude Code too:
+
 ```bash
 python3 scripts/list_raw.py            # which days are pending
 python3 scripts/render_md.py 2026-05-28
 python3 scripts/build_master.py
 python3 scripts/list_weeks.py          # which weeks are pending
 python3 scripts/make_anki.py
+
+python3 -m unittest discover -s tests  # run the test suite
+python3 scripts/validate.py            # validate data against the schemas
 ```
+
+CI (GitHub Actions) runs the tests and the validator on every push and pull request.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the ground rules.
+
+## License
+
+[MIT](LICENSE).

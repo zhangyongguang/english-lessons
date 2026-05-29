@@ -5,10 +5,9 @@ Usage:  python scripts/list_vocab.py
 Shows total words, status breakdown, how many added this ISO week,
 and the most-looked-up (stubborn) words.
 """
-import json
 from collections import Counter
 from datetime import date
-from _common import ROOT
+from _common import ROOT, as_records, read_json
 
 SRC = ROOT / "data" / "vocab" / "vocab.json"
 
@@ -22,9 +21,7 @@ def main():
     if not SRC.exists():
         print(f"Not found: {SRC.relative_to(ROOT)}. Use /word to add some words first.")
         return
-    data = json.loads(SRC.read_text(encoding="utf-8"))
-    if isinstance(data, dict):
-        data = [data]
+    data = as_records(read_json(SRC, []))
     if not data:
         print("No words yet. Use /word <word…> to add some.")
         return

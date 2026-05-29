@@ -6,14 +6,8 @@ Only the "Mistake" and "Correct" columns are shown; other fields
 Usage:  python scripts/render_md.py 2026-05-28
 Output: data/errors/2026-05-28.md
 """
-import json
 import sys
-from _common import ROOT
-
-
-def cell(text):
-    """Make text safe inside a Markdown table cell: escape pipes, flatten newlines."""
-    return str(text).replace("|", "\\|").replace("\n", " ").strip()
+from _common import ROOT, as_records, md_cell, read_json
 
 
 def main():
@@ -26,9 +20,7 @@ def main():
         print(f"Not found: {src.relative_to(ROOT)}")
         return
 
-    data = json.loads(src.read_text(encoding="utf-8"))
-    if isinstance(data, dict):
-        data = [data]
+    data = as_records(read_json(src, []))
 
     lines = [
         f"# Mistakes · {date}",
@@ -37,7 +29,7 @@ def main():
         "|---|---|",
     ]
     for e in data:
-        lines.append(f"| {cell(e.get('my_sentence', ''))} | {cell(e.get('correction', ''))} |")
+        lines.append(f"| {md_cell(e.get('my_sentence', ''))} | {md_cell(e.get('correction', ''))} |")
     lines.append("")
 
     out = ROOT / "data" / "errors" / f"{date}.md"

@@ -6,9 +6,9 @@ Standard library only, no network or dependencies needed.
 """
 import csv
 import json
-from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+from _common import ROOT, as_records, read_json
+
 ERRORS_DIR = ROOT / "data" / "errors"
 OUT = ROOT / "database" / "errors_master.csv"
 
@@ -51,13 +51,11 @@ def main():
         return
     for f in files:
         try:
-            data = json.loads(f.read_text(encoding="utf-8"))
+            data = read_json(f, [])
         except json.JSONDecodeError as e:
             print(f"⚠️  Skipping {f.name}: JSON parse failed ({e})")
             continue
-        if isinstance(data, dict):  # tolerate a single record
-            data = [data]
-        for rec in data:
+        for rec in as_records(data):
             rows.append(flatten(rec))
 
     rows.sort(key=lambda r: (r["date"], r["id"]))

@@ -7,9 +7,8 @@ Import: Anki -> File -> Import, separator = Tab, map fields to Front/Back/Tags.
 Standard library only.
 """
 import csv
-from pathlib import Path
+from _common import ROOT, tsv_clean
 
-ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "database" / "errors_master.csv"
 OUT = ROOT / "exercises" / "anki" / "anki_import.tsv"
 
@@ -29,11 +28,6 @@ def build_card(row):
     return front, back, tags
 
 
-def clean(s):
-    # Newlines/tabs would break the TSV layout
-    return s.replace("\t", " ").replace("\n", "<br>")
-
-
 def main():
     if not SRC.exists():
         print("Master table not found. Run first: python scripts/build_master.py")
@@ -45,7 +39,7 @@ def main():
         reader = csv.DictReader(fh)
         for row in reader:
             front, back, tags = build_card(row)
-            out.write(f"{clean(front)}\t{clean(back)}\t{clean(tags)}\n")
+            out.write(f"{tsv_clean(front)}\t{tsv_clean(back)}\t{tsv_clean(tags)}\n")
             n += 1
     print(f"✅ Generated {n} cards → {OUT.relative_to(ROOT)}")
     print("   In Anki: separator = Tab, map the 3 columns to Front / Back / Tags.")
