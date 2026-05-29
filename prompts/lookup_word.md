@@ -6,7 +6,9 @@ controlled vocabulary are in `templates/vocab_schema.md`.
 
 ---
 
-For each word to capture (passed as arguments, or harvested from this session):
+First, **filter out words not worth studying**: skip ones too rare/obscure/archaic or hyper-specialized to reuse, ones so basic I clearly already know, and proper nouns or transcription noise. Keep only common, useful words. (For words I passed explicitly, be lenient.)
+
+For each remaining word to capture (passed as arguments, or harvested from this session):
 
 1. **Deduplicate first**: search `data/vocab/vocab.json` for the same lowercase `word`.
    - **Not there** → append a new entry with `first_seen` = today and `review.times_looked_up` = 1.
