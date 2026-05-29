@@ -25,10 +25,14 @@ def first_example(entry):
     return ex[0] if ex else ""
 
 
-def sort_key(entry):
-    # Newest lookup first: by last_seen, then first_seen, descending.
+def sort_key(item):
+    # Newest first: by last_seen date, then by insertion order in the file.
+    # New entries are appended, so a higher index = added more recently. This
+    # breaks same-day ties so the most recently added word is always on top.
+    idx, entry = item
     review = entry.get("review") or {}
-    return (review.get("last_seen") or "", entry.get("first_seen") or "")
+    last = review.get("last_seen") or entry.get("first_seen") or ""
+    return (last, idx)
 
 
 def main():
@@ -39,7 +43,8 @@ def main():
     if isinstance(data, dict):
         data = [data]
 
-    data.sort(key=sort_key, reverse=True)
+    ordered = sorted(enumerate(data), key=sort_key, reverse=True)
+    data = [entry for _, entry in ordered]
 
     lines = [
         "# Vocabulary  (latest first)",
