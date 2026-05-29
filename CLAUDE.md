@@ -37,7 +37,7 @@ Not based on the system clock or file download time, but on **whether it has bee
 ## Vocabulary store (separate from the error log)
 - A single growing file `data/vocab/vocab.json` (JSON array) is the source of truth; words are deduplicated by lowercase lemma, with `times_looked_up` bumped on re-lookup.
 - Fields and controlled tags (`pos`, `topic`) are in `templates/vocab_schema.md`. Definitions and examples are in English; the first `example` must be one short, everyday sentence.
-- `scripts/render_vocab_md.py` renders `vocab.md` (newest lookups first). No per-day files and no master CSV — a single file needs no merging.
+- `scripts/render_vocab_md.py` renders `vocab.md` as a `Date | Word | Meaning | Example` table, newest lookups first (Date = `first_seen`, so words cluster by day for review). No per-day files and no master CSV — a single file needs no merging.
 
 ## Scripts (pure standard library, no network or install needed)
 - `scripts/list_raw.py` — list transcripts, mark which days are pending
