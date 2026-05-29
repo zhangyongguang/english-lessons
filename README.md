@@ -10,13 +10,17 @@ using **Claude Code** slash commands to extract errors, find patterns, generate 
 | `/extract [date\|all]` | Extract my errors from pending transcripts | `data/errors/DATE.md` (readable) + `.json` |
 | `/weekly [week]` | Summarize a week, analyze high-frequency weak spots | `analysis/weekly/YEAR-Wnn.md` |
 | `/exercise [tag]` | Generate targeted practice by weak spot | `exercises/generated/...md` |
-| `/anki` | Export Anki cards | `exercises/anki/anki_import.tsv` |
+| `/anki` | Export error Anki cards | `exercises/anki/anki_import.tsv` |
+| `/word [word(s)]` | Save looked-up words (or harvest them from this chat) | `data/vocab/vocab.md` + `vocab.json` |
+| `/vocab-quiz [topic]` | Quiz from recent/unmastered words | `exercises/generated/...md` |
+| `/vocab-anki` | Export vocab Anki cards | `exercises/anki/vocab_anki.tsv` |
 | `/sync [message]` | Commit and push changes to GitHub | — |
 
 All arguments are optional:
 - `/extract` defaults to the "most recent pending" date; `/extract 2026-05-28` targets one day; `/extract all` clears everything that piled up.
 - `/weekly` defaults to the "most recent pending" week; `/weekly 2026-W22` targets one week.
 - `/exercise articles` drills a single tag.
+- `/word eloquent junkyard` saves those words; bare `/word` harvests the words you asked about in the current session.
 
 ## How "new today/this week" is determined
 
@@ -34,17 +38,21 @@ english-lessons/
 ├── CLAUDE.md               # project notes, auto-loaded by Claude Code (the "rules")
 ├── .claude/commands/       # ★ the slash commands
 │   ├── extract.md  weekly.md  exercise.md  anki.md  sync.md
+│   └── word.md  vocab-quiz.md  vocab-anki.md
 ├── data/
 │   ├── raw/                # raw transcripts, original Tencent filename (date inside), never modified
 │   ├── processed/          # cleaned versions (optional)
-│   └── errors/             # DATE.json (structured) + DATE.md (readable)
+│   ├── errors/             # DATE.json (structured) + DATE.md (readable)
+│   └── vocab/              # vocab.json (single growing store) + vocab.md (readable, newest first)
 ├── database/errors_master.csv    # master table of all errors (script-generated)
-├── exercises/{generated,anki}/   # practice + Anki files
+├── exercises/{generated,anki}/   # practice + Anki files (anki_import.tsv = errors, vocab_anki.tsv = words)
 ├── analysis/weekly/        # weekly pattern reports
 ├── prompts/                # the prompts; commands reference them via @ as the single source of truth
 ├── scripts/                # small tools (pure standard library, no network or install)
 │   ├── list_raw.py  list_weeks.py  render_md.py  build_master.py  make_anki.py  new_day.py
-└── templates/error_schema.md     # field definitions + tag vocabulary for each error
+│   └── render_vocab_md.py  make_vocab_anki.py  list_vocab.py
+├── templates/error_schema.md     # field definitions + tag vocabulary for each error
+└── templates/vocab_schema.md     # field definitions + tag vocabulary for each word
 ```
 
 ## Setup

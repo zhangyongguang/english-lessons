@@ -13,10 +13,18 @@ Turn the Tencent Meeting transcripts of my daily 1-on-1 English class into a str
 - **Output language**: `explanation` / examples and the docs are in **English**; `my_sentence` / `correction` keep the original English. (Raw transcripts stay as recorded.)
 
 ## Commands (type `/` to invoke)
+Error log (from class transcripts):
 - `/extract [date|all]` — extract errors → `data/errors/DATE.md` + `.json`
 - `/weekly [week]` — weekly pattern summary → `analysis/weekly/`
 - `/exercise [tag]` — generate targeted practice → `exercises/generated/`
-- `/anki` — export Anki cards → `exercises/anki/anki_import.tsv`
+- `/anki` — export error Anki cards → `exercises/anki/anki_import.tsv`
+
+Vocabulary (words I look up day to day):
+- `/word [word(s)]` — save looked-up words → `data/vocab/vocab.json` + `vocab.md`. With arguments, saves those words; with none, harvests the words I asked about in the current chat session.
+- `/vocab-quiz [topic]` — quiz from recent/unmastered words → `exercises/generated/`
+- `/vocab-anki` — export vocab Anki cards → `exercises/anki/vocab_anki.tsv`
+
+Misc:
 - `/sync [message]` — commit and push to GitHub (add + commit + push)
 
 ## How "new" is determined (important)
@@ -26,10 +34,18 @@ Not based on the system clock or file download time, but on **whether it has bee
 - Benefit: which day you backfilled, several recordings in a day, or backfilling missed days later — none of it matters; re-running won't reprocess (idempotent).
 - Check status: `python3 scripts/list_raw.py` (by day), `python3 scripts/list_weeks.py` (by week).
 
+## Vocabulary store (separate from the error log)
+- A single growing file `data/vocab/vocab.json` (JSON array) is the source of truth; words are deduplicated by lowercase lemma, with `times_looked_up` bumped on re-lookup.
+- Fields and controlled tags (`pos`, `topic`) are in `templates/vocab_schema.md`. Definitions and examples are in English; the first `example` must be one short, everyday sentence.
+- `scripts/render_vocab_md.py` renders `vocab.md` (newest lookups first). No per-day files and no master CSV — a single file needs no merging.
+
 ## Scripts (pure standard library, no network or install needed)
 - `scripts/list_raw.py` — list transcripts, mark which days are pending
 - `scripts/list_weeks.py` — list errors by ISO week, mark which weeks are pending
 - `scripts/render_md.py DATE` — DATE.json → readable DATE.md
 - `scripts/build_master.py` — merge each day's JSON → master CSV
-- `scripts/make_anki.py` — master table → Anki import file
+- `scripts/make_anki.py` — master table → error Anki import file
+- `scripts/render_vocab_md.py` — vocab.json → vocab.md (newest first)
+- `scripts/make_vocab_anki.py` — vocab.json → vocab Anki import file
+- `scripts/list_vocab.py` — vocabulary status (totals, this week, repeat lookups)
 - Run with `python3` (use `python` on Windows).
