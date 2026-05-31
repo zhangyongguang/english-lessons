@@ -1,0 +1,489 @@
+Jack(00:00:01): Teacher. Sorry teacher, I can't hear you. 
+
+ZIVA_Teacher(00:00:11): Sorry my my microphone was wait okay, sorry for that. Yeah, okay. 
+
+Jack(00:00:18): 行。
+
+ZIVA_Teacher(00:00:23): So can you see this? 
+
+Jack(00:00:25): 行也好爱看戏。
+
+ZIVA_Teacher(00:00:28): Okay, so I guess we'll continue our class and now we have this one. So. Wait a moment. 
+
+Jack(00:00:40): 行也好爱看戏。
+
+ZIVA_Teacher(00:00:44): Ok, so what is the best way to make someone remember the special days we will talk. We'll have a conversation between the male and the female. So you're the male. I will be the female, sir. Go on. 
+
+Jack(00:01:01): Yeah, yeah, why do you have that string wrapped around your finger? Is there some new kind of? Of fashion statement. 
+
+ZIVA_Teacher(00:01:17): Hmm, okay, Wait, wait, wait. I think we need to read the vocabulary versus okay, so fashion statement. 
+
+Jack(00:01:23): Of fashion statement. Fashion statement. 
+
+ZIVA_Teacher(00:01:28): Figure out. A retrieval retrieval? Okay, so please can you read all of them? 
+
+Jack(00:01:29): Figure out. Retrieval. Fashion statement manner of dressing that expressed one's personality. Figure out understand. Retrieval. Process of getting. Something back. 
+
+ZIVA_Teacher(00:01:49): Mm. Okay, so alright. Now, let's see, so we have the fashion statement that's a noun figure out, the phrasal verb retrieval That's a noun. 
+
+Jack(00:02:03): Retrieval. Process of getting. Something back. 行。
+
+ZIVA_Teacher(00:02:11): So let's have this 101 more time. You are the male. 
+
+Jack(00:02:14): Retrieval. Process of getting. Something back. 行。Why do you have that string wrapped around your finger? Is this some new kind of fashion statement? 
+
+ZIVA_Teacher(00:02:26): Ok, wait a moment. It helps me remember things. I'll constantly be seeing it. There, and I'll only be forced to remind myself to remember something important. Ok. 
+
+Jack(00:02:45): Really? Does it work. 
+
+ZIVA_Teacher(00:02:48): It does now, but. 哼 excuse me。It does now, but it took me a while to learn how to associate the fact that I needed to remember something with the actual item. I wanted to remember, but once you figure out that trick, it works every time.。
+
+Jack(00:03:12): Hmm, very interesting, but what do you mean? Trick? 
+
+ZIVA_Teacher(00:03:19): Developing a good memory is really just playing games with your mind. All of the information is there, but sometimes you just have to be creative in the retrieval process. It's easier to do it if you make it fun. 
+
+Jack(00:03:35): Can you give me an example? 
+
+ZIVA_Teacher(00:03:35): Ok, this is a green string on my finger right? I associate green with a park so this reminds me that I have to get a gift for my neighbor. Mr. Park to celebrate his daughter's wedding. What? 
+
+Jack(00:03:55): I see, but don't you need lots of colors of string and how do you keep them all straight in your mind? 
+
+ZIVA_Teacher(00:04:06): This isn't about a long term memory at all. It's just a hint to remind me I could just as easily have associated this string with my boss, Miss Green. Or I could have worn a blue string to remind me how blue my neighbor was when he found out that he was about to lose his daughter. Ok. 
+
+Jack(00:04:33): It seemed easy enough, but I really have a terrible memory. I'm sure that I'd forgot to tie the string to my finger in the first palace. 
+
+ZIVA_Teacher(00:04:47): Play play Sir. First play. Sorry. 
+
+Jack(00:04:47): So I relation first place, so I won't have any clue that. 
+
+ZIVA_Teacher(00:04:56): I wouldn't. 
+
+Jack(00:04:57): I wouldn't have any clue that I was supposed to remember something. 
+
+ZIVA_Teacher(00:05:03): You just need to get into the habit of doing something. It doesn't have to be a string round finger to jog your memory. Once you make a concerted effort, it's all pretty easy, actually. Okay, so do you have any questions about these statements, sir. 
+
+Jack(00:05:27): No, I don't have any questions about it. 
+
+ZIVA_Teacher(00:05:31): okactually uh。Yeah, as we were talking about. This a third topic I reading as you were reading about their topic. I actually have the same. How do I put this? I have the same. No, no, no. I have the same solution as her wherein I'd whenever I see something, I try to remember what I did during that time. Yeah. That's also how I jog my memory. For example a word, if I try to memorize something, I'll just have one word. And if the teacher asks a different word that is related to it, I'll associate it with that. Yeah. Yeah, it makes the memorization better, but it does not actually work when it comes to formulas or creativity. 
+
+ZIVA_Teacher(00:06:45): Okay, so there we go. You are the female. I'll be the male. Why, why have you? Why do you have that string wrapped around your finger? Is this some new kind of fashion statement? 
+
+Jack(00:06:51): Down. 
+
+Jack(00:07:03): Down it helps me remember things I will constantly be. I will, I'll I'll I'll constantly be seeing it there, and so I will be forced to remind myself to remember something important. 
+
+ZIVA_Teacher(00:07:09): I'll constantly. Aisle aisle contraction. 
+
+ZIVA_Teacher(00:07:22): Really? Does it work. 
+
+Jack(00:07:26): It does now, but it took me a while to learn how to associate the fact that I needed to remember something with the actual item I wanted to remember. But once you figure out that trick, it works every time. 
+
+ZIVA_Teacher(00:07:45): Very interesting, but what do you mean? Trick? 
+
+Jack(00:07:51): Developing a good memory is really just playing games with your mind. All of the information is there, but sometimes you just have to be creative in the retrieval process. 
+
+ZIVA_Teacher(00:08:05): Sorry. 
+
+Jack(00:08:07): Yeah, it's easy to do if you make it fine. 
+
+ZIVA_Teacher(00:08:13): Mm Fun fun if you make it fun. 
+
+Jack(00:08:16): Fine. It make you fine, make it fine. 
+
+ZIVA_Teacher(00:08:19): Can you give me an example? 
+
+Jack(00:08:22): Ok, this is green string on my finger, right? I associate green with the park, so this reminds me that I have to get a gift for my neighbor, Mr. Park to celebrate his daughter's wedding. 
+
+ZIVA_Teacher(00:08:25): He. 
+
+ZIVA_Teacher(00:08:42): Ok, Mm wait a moment I see. But do you need lots of colors? Don't you need lots of colors? For off string, and how do you keep them all straight in your mind? 
+
+Jack(00:09:02): This isn't about long term memory at all, it's just a hint to remind me I could just as easily have associated this string with my boss, Mr. Miss Green, so I could have worn a blue dress string to remind me how blue my neighbor was when he find out that he was able to lose his daughter. 
+
+ZIVA_Teacher(00:09:34): Ok, it sounds easy enough, but I really have a terrible memory. I'm sure that I'd forget to tie the string to my finger in the first place so I wouldn't have any clue that I was supposed to remember something. 
+
+Jack(00:09:53): You just need to get into the habit of doing something. It doesn't have to be a string around the finger to drag your memory. Once you make a concerted effort, it's all pretty easy actually. 
+
+ZIVA_Teacher(00:10:14): Okay. So alright. No. That's all, do you have any questions? 
+
+Jack(00:10:22): Hmm, No, I don't have any questions. 
+
+ZIVA_Teacher(00:10:24): Okay, so that's how they had the tricks of. Yeah, okay, let's try to have this one. Okay, so for this, what do you say about her? What do you call this trick? Or what do you say about this? Do sentences? Yeah, I want you to defend your answer. 
+
+Jack(00:10:55): Yeah. 
+
+Jack(00:11:08): Yeah, I think maybe it's a good way to help you remember something, Something just. Especially some thing Mm something something is more important in your life you can use them to. Associate。With the. other。
+
+ZIVA_Teacher(00:11:42): So. 
+
+Jack(00:11:45): So it can help you remember them. 
+
+ZIVA_Teacher(00:11:51): Ok. And. 
+
+Jack(00:11:54): So it can help you remember them. andit can。
+
+ZIVA_Teacher(00:11:55): 肯定你。
+
+Jack(00:12:01): And you won't forget them, you will. You will keep a good memory. 
+
+ZIVA_Teacher(00:12:13): Okay, so do you think what she? Yeah, her trick is useful. 
+
+Jack(00:12:24): Hmm, Yeah, I think. Maybe it's useful, but I'm not sure it if it works for every day for everyone. 
+
+ZIVA_Teacher(00:12:35): Ok. That's all. 
+
+Jack(00:12:37): 行。Yeah, that's all. 
+
+ZIVA_Teacher(00:12:42): Ok, but let's see about that. Okay, now really does it now. It does now, but it took me a while to learn how to associate the fact that I needed to remember something. 
+
+Jack(00:12:47): Yeah, that's all. 有。
+
+ZIVA_Teacher(00:12:57): With the actual item I wanted to remember, but once you figure out the trick, it works every time. What do you usually do to remember? Or let's say yeah. Remember things that you've already forgotten? Yeah. 
+
+Jack(00:13:14): For me, I can't remember English words, so I try to find some methods to help me remember it. like。Suffix or prefix. I think。
+
+ZIVA_Teacher(00:13:36): Can wait, sir, can you make it louder and it's the rain outside is so it's annoying. Sorry yeah. 
+
+Jack(00:13:41): 行。Yeah, I think maybe I do. Huge error. F. 
+
+ZIVA_Teacher(00:13:48): Are. Okay. Or maybe I should try. Hello. 
+
+Jack(00:14:00): Sorry, teacher, can you hear me now? 
+
+ZIVA_Teacher(00:14:01): Okay. Or maybe I should try. Hello. Yeah, yeah, I can hear you. Can you hear me? 
+
+Jack(00:14:04): Yeah, yeah, I can hear you. 
+
+ZIVA_Teacher(00:14:06): Okay, I think that's all right. Okay, so there we go now, excuse me, let's see about that. So hmm. Alright. How do you figure out something that you've forgotten? Before. 
+
+Jack(00:14:30): How do you figure out something? Figure out means to understand? Figure out me, the remember Sora teacher. 
+
+ZIVA_Teacher(00:14:34): Yeah, that you forgotten before. 
+
+ZIVA_Teacher(00:14:39): Yeah. 
+
+Jack(00:14:41): Yeah。Yeah, for me, I need to imagine some scenario to. To remember to remember the words like imagine a story or imagine a picture to help me remember them. We can use Ai or some apps, we just need to give them the word and then it can. Generate many pictures to help me. understand。Yeah, I think it's a good way for me to recite English words. 
+
+ZIVA_Teacher(00:15:34): Ok, alright, so yeah, alright, actually, I think yeah, in relation to our classes. Yeah, that's one of the things that you usually forget like your yeah, my reminders, Yeah, but yeah, you can do it. I mean, though, it's quite hard to remember all of them, all of the things that you need to know. 
+
+ZIVA_Teacher(00:16:12): As much as possible, even if I want to teach you, yeah, all the things that I know, I still have to minimize it because. 
+
+Jack(00:16:18): Yeah. 
+
+ZIVA_Teacher(00:16:24): I if I give it all then it will take away the chance for you to learn from your mistakes or process it first and then take the other. Yeah. Most of the time, slow learning is the best way. Yeah, because you can process the yeah, you can process the knowledge better. 
+
+Jack(00:16:43): Yeah. 
+
+ZIVA_Teacher(00:16:51): And stronger until you have a strong foundation and then you can just try to pour it all in. Yeah, and get new knowledge again. Something like that I don't know if it applies to you, but that's how I yeah, that's how I try to learn Ok. 
+
+Jack(00:17:12): Yeah, yeah, caught it. 
+
+ZIVA_Teacher(00:17:13): So all right, I guess in this one now. Developing a good memory is really just playing games with your mind. All of the information is there, but sometimes you have to be creative in the retrieval process. It's easier to do if you make it fun. What do you say about this, sir? I would like you to have in three sentences. 
+
+ZIVA_Teacher(00:17:43): I want you to expand your answer. Ok, alright, gone, what do you say about what she said? Do you agree or disagree? And what can be? Yeah, what can you do to apply it? 
+
+Jack(00:17:47): Young. 
+
+ZIVA_Teacher(00:18:04): Ok. 
+
+Jack(00:18:07): Yeah, yeah, I think I agree with this statement in my opinion, I believe if you have a good time. 
+
+Jack(00:18:20): You can remember it for longer if you are if you feel boring or tired you. You can't remember the things that you a learned during that time. So for me, I want to make the process. More interesting and fine. I think that's a good way to improve my memory. 
+
+ZIVA_Teacher(00:19:06): Continue. 
+
+Jack(00:19:07): When I learn, yeah, when I learning something. 
+
+ZIVA_Teacher(00:19:11): Whenever I learn something. 
+
+Jack(00:19:14): Whenever I learn something. 
+
+ZIVA_Teacher(00:19:17): Ok. And. 
+
+Jack(00:19:26): And just like children, they can learn many things on the playground. Didn't we cite many sentences or rulers? They just play. They learned many things, many things. By the time. 
+
+ZIVA_Teacher(00:19:56): Ok, how do you develop a good memory? Then how do you develop a good memory if you if let's say you were to be? Faced with a very hard no, no, no, no. With a very complex and difficult project, how are you going to? Focus on it, Yeah. How are you going to develop a good memory? 
+
+Jack(00:20:40): Yeah, I think for a difficult or complex a project. We need to. Cut it, we need to cut it smaller. 他推车 Down yeah, I mean, we need to make it smaller and then we can try to understand one by one. For example, we want to recite 100 sentences of article. We can cut it to ten. 
+
+Jack(00:21:30): timepart。We every day we just need to learn one part and then ten days later we can remember. Them all. 
+
+ZIVA_Teacher(00:21:46): Ok. And. 
+
+Jack(00:21:49): and。Each time we can spend a little time to learn. And understand. 
+
+ZIVA_Teacher(00:22:02): Okay, so that's it, sir. 
+
+Jack(00:22:08): Yeah, that's it. 
+
+ZIVA_Teacher(00:22:09): Ok. do you think with our today with the today's technology is it possible to do is it possible for us to use it to develop our memory。Yeah, develop. Is it possible to use it to develop a good memory? I should say yeah, especially for Ai. 
+
+Jack(00:22:38): No, I think it's difficult to use technology improve. 
+
+ZIVA_Teacher(00:22:45): 喂 The technology. 
+
+Jack(00:22:49): Our memory nowadays. 
+
+ZIVA_Teacher(00:22:51): It is, it is you say it again, it is impossible. 
+
+Jack(00:22:57): It is impossible to use Ai to improve our memory. For Ai? Yeah for Ai. 
+
+ZIVA_Teacher(00:23:07): IT OK。
+
+Jack(00:23:10): Uh for ai 就对 Yeah for Ai, for Ai? Yeah, yeah for Ai. 
+
+ZIVA_Teacher(00:23:14): For Ai, sir for Ai. Aiaim. 
+
+Jack(00:23:23): They don't have good memory, good memories nowadays. 这种塔我估就 They do not have a good memory nowadays. 
+
+ZIVA_Teacher(00:23:28): They do not have. So. 
+
+Jack(00:23:36): So, for example, today we ask them a question tomorrow. 
+
+ZIVA_Teacher(00:23:46): Some questions. 
+
+Jack(00:23:47): Today we ask them some questions, tomorrow they will. Forget them. 
+
+ZIVA_Teacher(00:23:55): Okay, yeah, well, yeah. Also. We have to know that because of what was that again? What's the turn for that dopamine? Yeah, like what we talked about before because of dopamine addiction, people are literally spending more time on their gadgets. And if these ones can kill the brain cells, neuron the the some of the neuron cells, let's say hundreds of them. 
+
+ZIVA_Teacher(00:24:35): In our brain, that's why we don't sleep much, right? Yeah, whenever we have this one. So. 
+
+Jack(00:24:37): Yeah. Yeah, yeah, right. 
+
+ZIVA_Teacher(00:24:47): It goes to show that it's. How do I put this? Mm. It's problematic? Yeah. 
+
+Jack(00:24:57): Yeah. 
+
+ZIVA_Teacher(00:24:58): But maybe if if only they okay. By the way, sir, I have a question. This is personal, though I hope you won't take it into heart. It's not an insult or anything. I just want to ask if you're using an anti rad. Glasses or you don't usually put it on whenever wherever you go. 
+
+Jack(00:25:28): Anti red glasses. 
+
+ZIVA_Teacher(00:25:31): Yeah, your glasses. Are they for your eyes or just to protect them? 
+
+Jack(00:25:37): Protect solitude, protect what. 
+
+ZIVA_Teacher(00:25:41): Protect your, your eyes, your eye glasses, sir. Are they for your eyes or just to protect them from radiation? 
+
+Jack(00:25:49): Yeah, I think for me I have some I problem to if I my. 
+
+ZIVA_Teacher(00:25:56): You mean myopia? Myopia. 
+
+Jack(00:26:00): Your pial. 
+
+ZIVA_Teacher(00:26:01): Yeah, I think sorry, you mean Myopia? 
+
+Jack(00:26:08): Yeah, yeah, yeah, yeah, if I take it up, if I take it down, I can't say. 
+
+ZIVA_Teacher(00:26:08): This is the most common. 
+
+Jack(00:26:19): I can see something. Yeah, I can see something so far clearly, yeah. 
+
+ZIVA_Teacher(00:26:20): Nearly. Clearly, clearly. When did it? When did it start, sir? I I think it started in. 
+
+Jack(00:26:32): Yeah from my. I think it started in my high school. 点一下。
+
+ZIVA_Teacher(00:26:42): During my high school. Okay, well I guess that's also a problem. Okay for me, how do I put this? Yeah for me, I think I just. Yeah, how do I? I never experienced that one. But you see, after eight years of the no, no no, after more than eight years of teaching online and in being in front of the computer. The only solution that I found because I sometimes whenever I teach yeah you might not see it, but I I'm the one feeling it like. 
+
+ZIVA_Teacher(00:27:29): Suddenly it will become blurry, yeah, and if I blink my eyes it's it will come back. Yeah, in a better way so I think I need to get a check up also. Yeah. 
+
+Jack(00:27:45): Yeah, yeah. 
+
+ZIVA_Teacher(00:27:46): However, you see how they put it my, my monitor is there. It's too far, yeah, so I had. Yeah, that's the only solution that I found like. 
+
+Jack(00:27:53): 我靠。
+
+ZIVA_Teacher(00:28:01): I have to put it so far away from me and then so yeah, I have to put it so far away from me and my bangs wait a moment. 
+
+Jack(00:28:11): Young. 
+
+ZIVA_Teacher(00:28:11): My bangs keep on hurting my eyes. My gosh, okay. 
+
+Jack(00:28:18): Yeah, I think for me I also have this problem. I work. I work on the computer every day. More than 8h, so I have the same problem, but I don't think it's a good solution you. 
+
+Jack(00:28:42): Keep keep distance with your computer with your monitor. I mean keep distance Keeping distance can't. 
+
+ZIVA_Teacher(00:28:47): What do you mean. 
+
+Jack(00:28:57): Can't release or can't fix your problem? Yeah, yeah, I think you can search. 
+
+ZIVA_Teacher(00:29:04): OK！So why why is that? 
+
+Jack(00:29:08): Iii think you can talk it with Ai if you have some time. Hmm for me. Yeah, for me, I don't agree with it. 
+
+ZIVA_Teacher(00:29:25): Okay, but at least I'm not. No, no, no, I just noted. I just did this one, because when was the time that I okay? Here's the thing. During my younger years as an Esl teacher, I was close to the. A monitor like this one here, computer or. 
+
+Jack(00:29:49): Yeah, yeah. 
+
+ZIVA_Teacher(00:29:56): And so Ok and sitting okay, so here, let's just say I spent most of my time having this kind of position now. 
+
+Jack(00:30:12): Yeah, yeah yeah you, you can see the picture. They are not so so this time so long so far. Yeah, if you can't see your monitor very clearly, you need to. 
+
+Jack(00:30:33): youneed to more。Focus on more. You need to focus more. It will hurt your. It will hurt your eyes. 
+
+ZIVA_Teacher(00:30:39): You need to focus more, sir. 
+
+ZIVA_Teacher(00:30:44): Yeah, but the thing is all of my fonts are in big letters so I can see them clearly. yeah, okay. Maybe I'll try to buy a bigger. What do you call this a bigger monitor sometime? 
+
+Jack(00:30:54): yeah。
+
+ZIVA_Teacher(00:31:04): I don't know. Yeah, I'll try to buy a bigger monitor sometimes though, yeah, but if someday I'll be able to buy my own laptop, I think I'd have to use. Yeah, that's also a problem, yeah, but let's see. 
+
+Jack(00:31:24): Yeah. 
+
+ZIVA_Teacher(00:31:27): Ok, all right. However, let's go back to the topic for Ai though. I think we can use it to have to do some things like the improvement of our body but not the brain. Definitely not the brain because you see if if you put electricity in it, yeah and then it will just fry your brain. 
+
+Jack(00:31:47): Yeah. 
+
+ZIVA_Teacher(00:31:58): You're not careful. Come on, it's it's Ai, so of course it has something to do with vibrations instead of helping it. Yeah, what if it will? What do you call this? It will die of overuse and it's it will just. Yeah, make your rain explode. Yeah. That's. 
+
+Jack(00:32:26): Yeah, yeah. However, nowadays there are many smart glasses you can use it to translate or navigate, or. Remind you something. I think it's very beautiful about something about some things. Yeah, I think it's very useful. 
+
+ZIVA_Teacher(00:32:42): Hmm about some things. About some things? Yeah. Okay, well, I think, yeah, I understand your point. Yeah, I think most of those ones are being used by secret agents, right? Yeah, and also no. 
+
+Jack(00:33:05): No, no, no. I think it's not for secret agent, it's for ordinary people. Yeah, really. Yeah, we are using it now. Like Xiaomi Company, Huawei, and other companies, they published many smart glasses. 
+
+ZIVA_Teacher(00:33:12): Really? We're using it now. What. 
+
+Jack(00:33:25): For me I have my Upl so I can't wear it. If not, I will buy a wine to try it. 
+
+ZIVA_Teacher(00:33:26): Okay, no. But my gosh, your company, your country is really advanced. Why, why is it if you being? Come on, I mean my goodness? Yeah, this is one thing that I really hate about corruption because. 
+
+Jack(00:33:51): 你好。
+
+ZIVA_Teacher(00:33:58): We're definitely devoid of advanced technology. Yeah, we have the capability. The people have the capability. Come on. We have. We are more than 100 million people here in my country, and it's so small. But these 100 million people can work their assets off. Sorry there. 
+
+ZIVA_Teacher(00:34:23): Bodies off okay, can work their bodies off, so I imagine, let's say even half of it, like 50 million. Of 50 million people are in the working force, and let's just say the other half can be in the what do you call this vocational job force? Yeah, vocational sector. 
+
+Jack(00:34:52): Yeah. 
+
+ZIVA_Teacher(00:34:53): How much money can we get from that? Yeah, Or let's just say no, no, no. Here's the range. Let's say okay. Four, No 30, 30 million people are in the workforce. Let's say that this one. 30 million are in the work force. Let's say sorry. Excuse me, 10 million can be in the. 
+
+ZIVA_Teacher(00:35:23): Elite Force like the the ones with businesses, yeah, millionaires, billionaires, those ones. And then we have the. Ok, 10 million for the what do you call this middle class like the elite middle class or high paying jobs? 
+
+ZIVA_Teacher(00:35:47): This is for the average yeah, 10 million for the high paying jobs and 10 million for the elite, like the business people. And.。Let's say we have the 50 million for the ones who are just doing the vocational job, or, let's just say, miscellaneous job. But at least this one can bring a lot of money into the country and also this one, this one. And for them they have the possibility of increasing their. What do you call this? 
+
+ZIVA_Teacher(00:36:31): They have the possibility of increasing their, they have the potential, I should say they have the potential of increasing their own. What do you call that? What the savings? No, no, yeah, yeah, yeah, their savings. So. Who's to say that because of corruption it robbed our place to advance. Yeah, and the people are the ones getting affected a lot. 
+
+ZIVA_Teacher(00:37:06): Like me, how much May I know, sir? How much are those smart glasses? Are they affordable? 
+
+Jack(00:37:06): Yeah, yeah. 有 Three or 5000 yuan, I forgot it. Yeah. 
+
+ZIVA_Teacher(00:37:25): That's only one month's salary. My gosh, that's yeah, if if my if in my country. 
+
+Jack(00:37:29): Yeah, only one month salary, Yeah. 
+
+ZIVA_Teacher(00:37:35): It can be for one month. Yeah, for the high paying jobs, 5000 yuan. Sorry. 
+
+Jack(00:37:37): Yeah, only one month salary, Yeah. It's dollar. It's dollar, not yuan 5000. You input 50000. 
+
+ZIVA_Teacher(00:37:46): Sorry. Sorry. Let's just say. Sorry. Sorry. Let's just say. 没当然。So there, yeah, for the high paying jobs, like researchers, scientists or for the scientists. I think the lowest has the same salary with me, like 25 or something. Yeah, Ok, but at least this is very affordable, you know. 
+
+ZIVA_Teacher(00:38:23): Just like Apple smartphones? Yeah. But you see, if it comes here in my country, it's double the price like 100 K. Okay, so where did that? Fifty thousand go? My gosh, what happened to the world? You'll just question yourself like if you live here like you, say. 
+
+Jack(00:38:25): Yeah, yeah, right? Yeah. Yeah, yeah, right. 
+
+ZIVA_Teacher(00:38:56): Is this really my country? Maybe I should go to another place. Yeah, you see a lot of people here now like the children, the younger ones are telling us that they want to. Flee my country, it's one. Yeah, they want to flee. One of their choices are most of their choices when I when I research about it. But yeah, it was one of my one of the things that I wanted to research though, so the rate was like. 
+
+Jack(00:39:17): Yeah. Lee, yeah, got it. 
+
+ZIVA_Teacher(00:39:36): Yeah, it was high. 30% wanted to flee the country, mostly Japan. The number one is Japan. We have Thailand. Yeah, and we had China. Yeah, they, they said. We're not afraid, at least in China. They have advanced technology. Okay, fine you go Okay, yeah, we're not afraid of the country, even if they I don't know. But it's their choice. Yeah, so those countries, Japan, Thailand, China, what else? What's that one? No, not the U. S, Because they said most. I think the problem would be about the what do you go that? 
+
+ZIVA_Teacher(00:40:31): The use of so too much paparazzi and also right the Hollywood fame. And also there are legal guns. Pang Pang Pang, yeah. 
+
+Jack(00:40:40): Yeah. 
+
+ZIVA_Teacher(00:40:46): Yeah, the legality of guns and the divorce divorce option. So yeah, like people made it into a. Bleeding marriage was made into a plaything. So yeah, those ones. I think Canada, Yeah, the last one was Canada, so those four countries were the best choices that they've chosen. 
+
+ZIVA_Teacher(00:41:14): So I think I like okay, I don't blame you guys, you can go. But. Still are, I guess that's that can also state the way a nation is being run. I'm so jealous you have a smart. When did they? When did they? What do you call this? Produce this one, sir, or when did they manufacture it? 
+
+Jack(00:41:59): Yeah, I think they produced smart glasses for many years. However, yeah, I think from. 
+
+ZIVA_Teacher(00:42:07): When when. It's done. It started in in in in third year. 
+
+Jack(00:42:11): It started in Yeah, it started in 2021. Yeah, or maybe or Maybe. 
+
+ZIVA_Teacher(00:42:21): During the fighting. 
+
+Jack(00:42:26): 比 But yeah, I think before 2021, every year they need to upgrade. 
+
+ZIVA_Teacher(00:42:35): They needed to. 
+
+Jack(00:42:37): They needed to upgrade their smart glasses. 
+
+ZIVA_Teacher(00:42:44): OK。
+
+Jack(00:42:47): Yeah, yeah, like smart phone like smart phone every year or every twice a year, they need to upgrade their smart devices. usemore 是 more？Use more speed Cpu, a higher battery and. Better monitoring. 
+
+ZIVA_Teacher(00:43:18): Ok. Ok. So. 
+
+Jack(00:43:23): Especially nowadays, we can use Ai in many scenarios so they try to mix the smart glasses and Ai. itwill help us in more scenarios in the future。
+
+ZIVA_Teacher(00:43:45): Okay, so I guess that also says the yeah, Yeah, I think. Wait, let me just see, because that was yeah, that was way back in 2024 when Apple released their latest model. But I don't know now if the president has done issued something okay. So it's。
+
+Jack(00:44:13): Yeah, yeah, for for Apple latest smart glasses, we didn't have Ai. However, nowadays we can use Ai. It can help, it can help us more. Yeah Ii think you can search Ali Ali smart glasses, hmm it has a. 
+
+Jack(00:44:36): Alice Aar model I think it's very useful. 
+
+ZIVA_Teacher(00:44:40): Okay, so see, see, look at that. Would you look at that? 
+
+Jack(00:44:45): 你好。It's not a. 行。
+
+ZIVA_Teacher(00:44:48): But that this is.。Go on, sir, this is not. 
+
+Jack(00:44:55): It looks not very expensive. 
+
+ZIVA_Teacher(00:45:01): Yeah, right now I think they literally, but this is for twelve Mp, Sir Twelve Mp. That's the basic one. I think this is for the basic it's not the high, Yeah. 
+
+Jack(00:45:06): 一样。
+
+ZIVA_Teacher(00:45:18): High is it's not the one with high specifications that could enhance or something like that. So. 
+
+Jack(00:45:28): Yeah, yeah. 
+
+ZIVA_Teacher(00:45:29): Yeah, I guess Mm yeah, this one at least. But maybe during his first years. Maybe that was in 2022 or. Yeah, 2022 or 2024. It would have been higher, yeah. 
+
+Jack(00:45:52): Yeah. 
+
+ZIVA_Teacher(00:45:54): But they there would be new technologies coming in. So yeah, that's still. How do you Ok? How? What's the worth of it, sir? Yeah. 
+
+Jack(00:46:10): What the hell of it? 
+
+ZIVA_Teacher(00:46:10): For this one, yeah, with twelve Mp, yes in your country. 
+
+Jack(00:46:17): Sorry teacher, you mean, watch the world. 
+
+ZIVA_Teacher(00:46:20): Worth worth. Not worth worth. Worth. Or what's the price? 
+
+Jack(00:46:22): What's the verse? You mean. What's the price? 
+
+ZIVA_Teacher(00:46:30): With a smart glass with smart glasses that had have twelve Mp Dpov camera. 
+
+Jack(00:46:33): Sorry. Sorry yeah, I think for smart glasses, camera is not the most important is not very important. 
+
+Jack(00:46:50): itdepends on different。Different features, for example, Ai Cpu monitor. And other features is not depend on camera only. 
+
+ZIVA_Teacher(00:47:16): Ok. 
+
+Jack(00:47:17): So we can't just use the camera to to confirm each price. 
+
+ZIVA_Teacher(00:47:27): OK。So alright, but I guess right now it had gone down, right? Yeah. Do you think maybe in the future we could use the smart glasses to save memory or is it the direct? Is it a direct line to that can send pictures to someone? 
+
+Jack(00:47:58): Yeah, I think that's. That is not a problem. It's easy to fix to finish it. 
+
+ZIVA_Teacher(00:48:04): Okay, yeah, you can just put an Sd card inside them. A smaller one. 
+
+Jack(00:48:13): Yeah, the the The Smart classes has each network so you can record or take picture live in. Live in, live in stream. Love to dream? Yeah, love to dream. 
+
+ZIVA_Teacher(00:48:27): Live stream Live stream. Well, I guess that also can be done. Yeah, yeah, maybe if I want to build a Youtube account, yeah, if I want to grow a Youtube account, I'll just try to buy it and then voila, I'll jump from the sky and then woo. Okay, just kidding, that's really that's really crazy, no okay, but for smart glasses, really, that's awesome. Yeah, however, yeah, that is still for a lot of us. Yeah, especially for the I guess for this one, this is a one month pay. 
+
+Jack(00:48:37): Yeah, yeah. 
+
+ZIVA_Teacher(00:49:17): For high high paying jobs like let's see if you're if in your country, the you have ten K per month that's already high paying. If you lower it in my regard, this is considered a high paying job, but you see. 
+
+Jack(00:49:39): Yeah. 
+
+ZIVA_Teacher(00:49:43): That's it. We still use Philippine pencil. I hope in the future we can change that. Maybe in. In an eternity, okay, all right. So thank you, sir, we will continue this later on. Yeah for the next one. 
+
+Jack(00:50:03): Yeah, See you later. 
+
+ZIVA_Teacher(00:50:05): Yes, so see you later, sir. Ok. 
