@@ -669,5 +669,203 @@
     "note": "looked up during listening practice; also a noun ('a crack in the wall'); 'crack a problem' = solve it",
     "first_seen": "2026-06-01",
     "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "retract",
+    "pos": "verb",
+    "definition": "to take back something you said; or to pull something back in",
+    "example": ["He was forced to retract his statement.", "The cat retracted its claws."],
+    "synonyms": ["withdraw", "take back"],
+    "topic": "communication",
+    "note": "looked up during listening practice; senses — take back words, and pull in",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "shame",
+    "pos": "noun",
+    "definition": "a painful feeling of guilt or embarrassment; or a pity (a regrettable thing)",
+    "example": ["What a shame you can't come!", "She felt deep shame about the lie."],
+    "synonyms": ["embarrassment", "disgrace", "pity"],
+    "topic": "emotion",
+    "note": "looked up during listening practice; 'What a shame!' = how unfortunate",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "remorse",
+    "pos": "noun",
+    "definition": "deep regret for something wrong you have done",
+    "example": ["He showed no remorse for his crime.", "She was filled with remorse afterwards."],
+    "synonyms": ["regret", "guilt", "contrition"],
+    "topic": "emotion",
+    "note": "looked up during listening practice; stronger than ordinary regret",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "sidestep",
+    "pos": "verb",
+    "definition": "to avoid a problem or question; or to step to one side to avoid something",
+    "example": ["The politician sidestepped the question.", "He sidestepped to dodge the ball."],
+    "synonyms": ["avoid", "dodge", "evade"],
+    "topic": "communication",
+    "note": "looked up during listening practice",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "cease",
+    "pos": "verb",
+    "definition": "to stop or come to an end (formal)",
+    "example": ["The rain finally ceased.", "The two sides agreed to cease fire."],
+    "synonyms": ["stop", "halt", "end"],
+    "topic": "daily",
+    "note": "looked up during listening practice; formal; common in 'ceasefire'",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "back down",
+    "pos": "phrase",
+    "definition": "to give in or withdraw a demand or position in an argument",
+    "example": ["He refused to back down.", "The company backed down after public pressure."],
+    "synonyms": ["give in", "concede", "yield"],
+    "topic": "communication",
+    "note": "looked up during listening practice; admitting defeat in a dispute",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "remark",
+    "pos": "noun",
+    "definition": "something said; a comment",
+    "example": ["She made a rude remark.", "His remarks upset the audience."],
+    "synonyms": ["comment", "observation", "statement"],
+    "topic": "communication",
+    "note": "looked up during listening practice; also a verb ('he remarked that...')",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "retaliatory",
+    "pos": "adjective",
+    "definition": "done to get revenge or hit back at someone",
+    "example": ["The country imposed retaliatory tariffs.", "It was a retaliatory attack."],
+    "synonyms": ["revengeful", "reciprocal"],
+    "topic": "business",
+    "note": "looked up during listening practice; common in 'retaliatory tariffs/measures'",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "strip",
+    "pos": "verb",
+    "definition": "to remove a covering or layer; to take away; (noun) a long narrow piece",
+    "example": ["They stripped the paint off the door.", "He was stripped of his medals."],
+    "synonyms": ["remove", "peel", "deprive"],
+    "topic": "daily",
+    "note": "looked up during listening practice; also a noun ('a strip of paper')",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "equivalent",
+    "pos": "adjective",
+    "definition": "equal in value, amount, or meaning",
+    "example": ["A mile is roughly equivalent to 1.6 kilometers.", "There's no English equivalent for this word."],
+    "synonyms": ["equal", "comparable"],
+    "topic": "academic",
+    "note": "looked up during listening practice; also a noun ('the equivalent of')",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "surplus",
+    "pos": "noun",
+    "definition": "an amount left over after needs are met; more than is needed",
+    "example": ["The country has a trade surplus.", "We have a surplus of food this year."],
+    "synonyms": ["excess", "extra"],
+    "topic": "business",
+    "note": "looked up during listening practice; opposite of deficit; also an adjective ('surplus stock')",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "deficit",
+    "pos": "noun",
+    "definition": "the amount by which spending is greater than income; a shortage",
+    "example": ["The government is trying to cut the budget deficit.", "They have a trade deficit with China."],
+    "synonyms": ["shortfall", "shortage"],
+    "topic": "business",
+    "note": "looked up during listening practice; opposite of surplus",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "indigenous",
+    "pos": "adjective",
+    "definition": "naturally belonging to a place; native (of people, plants, or animals)",
+    "example": ["Kangaroos are indigenous to Australia.", "The museum honors indigenous peoples."],
+    "synonyms": ["native", "local"],
+    "topic": "nature",
+    "note": "looked up during listening practice; 'indigenous people' = original inhabitants",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "parade",
+    "pos": "noun",
+    "definition": "a public procession of people or vehicles; a military review",
+    "example": ["We watched the New Year parade.", "Soldiers marched in the military parade."],
+    "synonyms": ["procession", "march"],
+    "topic": "daily",
+    "note": "looked up during listening practice; 'military parade' = 阅兵",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "patriot",
+    "pos": "noun",
+    "definition": "a person who loves and strongly supports their country",
+    "example": ["He was a true patriot.", "The patriots fought to defend their homeland."],
+    "synonyms": ["nationalist"],
+    "topic": "communication",
+    "note": "looked up the English for 爱国者; adjective is 'patriotic'",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "recruitment",
+    "pos": "noun",
+    "definition": "the process of finding and hiring new people for a job or group",
+    "example": ["The company has paused recruitment.", "Army recruitment has fallen this year."],
+    "synonyms": ["hiring", "enlistment"],
+    "topic": "business",
+    "note": "looked up during listening practice; verb is 'recruit'",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "popularity",
+    "pos": "noun",
+    "definition": "the state of being liked or supported by many people",
+    "example": ["The show's popularity grew quickly.", "His popularity among voters is rising."],
+    "synonyms": ["fame", "appeal"],
+    "topic": "communication",
+    "note": "looked up during listening practice",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "collude",
+    "pos": "verb",
+    "definition": "to work together secretly to do something wrong or deceive others",
+    "example": ["The two companies colluded to fix prices.", "They were accused of colluding with the enemy."],
+    "synonyms": ["conspire", "plot", "connive"],
+    "topic": "communication",
+    "note": "explained while translating a sentence; noun is 'collusion'",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
   }
 ]

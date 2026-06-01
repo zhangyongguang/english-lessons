@@ -1,9 +1,27 @@
 # Vocabulary  (latest first)
 
-61 word(s).
+79 word(s).
 
 | Word | Meaning | Example | Date |
 |---|---|---|---|
+| collude _(verb)_ | to work together secretly to do something wrong or deceive others | The two companies colluded to fix prices. | 2026-06-01 |
+| popularity _(noun)_ | the state of being liked or supported by many people | The show's popularity grew quickly. | 2026-06-01 |
+| recruitment _(noun)_ | the process of finding and hiring new people for a job or group | The company has paused recruitment. | 2026-06-01 |
+| patriot _(noun)_ | a person who loves and strongly supports their country | He was a true patriot. | 2026-06-01 |
+| parade _(noun)_ | a public procession of people or vehicles; a military review | We watched the New Year parade. | 2026-06-01 |
+| indigenous _(adjective)_ | naturally belonging to a place; native (of people, plants, or animals) | Kangaroos are indigenous to Australia. | 2026-06-01 |
+| deficit _(noun)_ | the amount by which spending is greater than income; a shortage | The government is trying to cut the budget deficit. | 2026-06-01 |
+| surplus _(noun)_ | an amount left over after needs are met; more than is needed | The country has a trade surplus. | 2026-06-01 |
+| equivalent _(adjective)_ | equal in value, amount, or meaning | A mile is roughly equivalent to 1.6 kilometers. | 2026-06-01 |
+| strip _(verb)_ | to remove a covering or layer; to take away; (noun) a long narrow piece | They stripped the paint off the door. | 2026-06-01 |
+| retaliatory _(adjective)_ | done to get revenge or hit back at someone | The country imposed retaliatory tariffs. | 2026-06-01 |
+| remark _(noun)_ | something said; a comment | She made a rude remark. | 2026-06-01 |
+| back down _(phrase)_ | to give in or withdraw a demand or position in an argument | He refused to back down. | 2026-06-01 |
+| cease _(verb)_ | to stop or come to an end (formal) | The rain finally ceased. | 2026-06-01 |
+| sidestep _(verb)_ | to avoid a problem or question; or to step to one side to avoid something | The politician sidestepped the question. | 2026-06-01 |
+| remorse _(noun)_ | deep regret for something wrong you have done | He showed no remorse for his crime. | 2026-06-01 |
+| shame _(noun)_ | a painful feeling of guilt or embarrassment; or a pity (a regrettable thing) | What a shame you can't come! | 2026-06-01 |
+| retract _(verb)_ | to take back something you said; or to pull something back in | He was forced to retract his statement. | 2026-06-01 |
 | crack _(verb)_ | to break with a sharp sound or form a line of damage; or to solve/break a difficult problem or code | The glass cracked when I dropped it. | 2026-06-01 |
 | plead guilty _(phrase)_ | to formally admit in court that you committed the crime | He pleaded guilty to theft. | 2026-06-01 |
 | obsession _(noun)_ | a thought or interest that fills your mind and you cannot stop thinking about | Her obsession with cleanliness drives everyone crazy. | 2026-06-01 |
