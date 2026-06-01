@@ -34,6 +34,28 @@ class TestParseDate(unittest.TestCase):
         self.assertIsNone(_common.parse_date("notes.txt"))
 
 
+class TestErrorPaths(unittest.TestCase):
+    def test_month_of(self):
+        self.assertEqual(_common.month_of("2026-05-28"), "2026-05")
+
+    def test_error_json_path(self):
+        p = _common.error_json_path("2026-05-28")
+        self.assertEqual(p, _common.ERRORS_JSON_DIR / "2026-05" / "2026-05-28.json")
+
+    def test_error_md_path(self):
+        p = _common.error_md_path("2026-05-28")
+        self.assertEqual(p, _common.ERRORS_MD_DIR / "2026-05" / "2026-05-28.md")
+
+    def test_error_json_files_are_sharded_and_sorted(self):
+        files = _common.error_json_files()
+        self.assertTrue(files, "expected at least one error JSON file")
+        for f in files:
+            # Each file lives under json/YYYY-MM/ and ends in .json
+            self.assertEqual(f.suffix, ".json")
+            self.assertRegex(f.parent.name, r"^\d{4}-\d{2}$")
+        self.assertEqual(files, sorted(files))
+
+
 class TestReadJson(unittest.TestCase):
     def test_missing_returns_default(self):
         self.assertEqual(_common.read_json(ROOT / "nope.json", []), [])

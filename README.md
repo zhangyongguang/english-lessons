@@ -17,7 +17,7 @@ It's deliberately small: a few **pure-standard-library** Python scripts (no depe
 
 | Command | What it does | Output |
 |---|---|---|
-| `/extract [date\|all]` | Extract my errors from pending transcripts | `data/errors/DATE.md` (readable) + `.json` |
+| `/extract [date\|all]` | Extract my errors from pending transcripts | `data/errors/json/YYYY-MM/DATE.json` + `md/YYYY-MM/DATE.md` |
 | `/weekly [week]` | Summarize a week, analyze high-frequency weak spots | `analysis/weekly/YEAR-Wnn.md` |
 | `/exercise [tag]` | Generate targeted practice by weak spot | `exercises/generated/...md` |
 | `/anki` | Export error Anki cards | `exercises/anki/anki_import.tsv` |
@@ -35,7 +35,7 @@ All arguments are optional:
 ## How "new today/this week" is determined
 
 Not based on the system clock or download time, but on **whether it's been processed** (idempotent):
-- **Day**: a transcript for some date exists in `data/raw/` but `data/errors/DATE.json` does not → that day is "pending". The date is parsed from the Tencent filename (`_20260528...` → 2026-05-28).
+- **Day**: a transcript for some date exists in `data/raw/` but `data/errors/json/YYYY-MM/DATE.json` does not → that day is "pending". The date is parsed from the Tencent filename (`_20260528...` → 2026-05-28).
 - **Week**: an ISO week has errors but `analysis/weekly/YEAR-Wnn.md` does not exist → that week is "pending".
 
 So which day you backfilled, several recordings per day, or backfilling missed days later — none of it matters, and re-running won't reprocess.
@@ -52,7 +52,9 @@ english-lessons/
 ├── data/
 │   ├── raw/                # raw transcripts, original Tencent filename (date inside), never modified
 │   ├── processed/          # cleaned versions (optional)
-│   ├── errors/             # DATE.json (structured) + DATE.md (readable)
+│   ├── errors/             # split by kind, then sharded by year-month:
+│   │   ├── json/YYYY-MM/DATE.json   # structured
+│   │   └── md/YYYY-MM/DATE.md       # readable
 │   └── vocab/              # vocab.json (single growing store) + vocab.md (readable, newest first)
 ├── database/errors_master.csv    # master table of all errors (script-generated)
 ├── exercises/{generated,anki}/   # practice + Anki files (anki_import.tsv = errors, vocab_anki.tsv = words)

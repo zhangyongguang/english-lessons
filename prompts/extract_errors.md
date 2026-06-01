@@ -1,6 +1,7 @@
 # Prompt: extract errors from a transcript (daily use)
 
-Send this prompt + that day's `data/raw/YYYY-MM-DD.txt` to Claude.
+Send this prompt + that day's transcript from `data/raw/` to Claude. The result is
+saved to `data/errors/json/YYYY-MM/YYYY-MM-DD.json` (sharded by year-month).
 
 ---
 

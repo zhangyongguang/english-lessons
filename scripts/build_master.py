@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Merge data/errors/*.json into database/errors_master.csv.
+"""Merge data/errors/json/**/*.json into database/errors_master.csv.
 
 Usage:  python scripts/build_master.py
 Standard library only, no network or dependencies needed.
@@ -7,9 +7,8 @@ Standard library only, no network or dependencies needed.
 import csv
 import json
 
-from _common import ROOT, as_records, read_json
+from _common import ROOT, as_records, error_json_files, read_json
 
-ERRORS_DIR = ROOT / "data" / "errors"
 OUT = ROOT / "database" / "errors_master.csv"
 
 COLUMNS = [
@@ -43,11 +42,10 @@ def flatten(rec):
 
 def main():
     rows = []
-    files = sorted(p for p in ERRORS_DIR.glob("*.json")
-                   if not p.name.endswith(".example.json"))
+    files = error_json_files()
     if not files:
         print("No real data files found (*.example.json is skipped).")
-        print("Save each day's extracted JSON to data/errors/YYYY-MM-DD.json first.")
+        print("Save each day's extracted JSON to data/errors/json/YYYY-MM/YYYY-MM-DD.json first.")
         return
     for f in files:
         try:

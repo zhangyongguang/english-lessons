@@ -5,10 +5,9 @@ Usage:  python scripts/list_raw.py
 Used by the /extract workflow to decide which day to process.
 """
 from collections import defaultdict
-from _common import ROOT, parse_date
+from _common import ROOT, error_json_path, parse_date
 
 RAW = ROOT / "data" / "raw"
-ERRORS = ROOT / "data" / "errors"
 
 
 def main():
@@ -23,7 +22,7 @@ def main():
 
     pending = []
     for d in sorted(groups):
-        done = (ERRORS / f"{d}.json").exists()
+        done = error_json_path(d).exists()
         mark = "✅ extracted" if done else "⬜ pending"
         if not done:
             pending.append(d)

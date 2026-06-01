@@ -9,9 +9,8 @@ Usage:  python scripts/validate.py
 """
 import re
 import sys
-from _common import ROOT, as_records, read_json
+from _common import ROOT, as_records, error_json_files, read_json
 
-ERRORS_DIR = ROOT / "data" / "errors"
 VOCAB = ROOT / "data" / "vocab" / "vocab.json"
 
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
@@ -47,7 +46,7 @@ def check_review(obj, where):
 
 def validate_errors():
     seen_ids = {}
-    files = sorted(p for p in ERRORS_DIR.glob("*.json") if not p.name.endswith(".example.json"))
+    files = error_json_files()
     total = 0
     for f in files:
         try:

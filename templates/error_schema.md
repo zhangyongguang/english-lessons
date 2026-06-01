@@ -1,6 +1,8 @@
 # Error record schema
 
-Each day's errors are stored as a **JSON array**, file `data/errors/YYYY-MM-DD.json`.
+Each day's errors are stored as a **JSON array**, file
+`data/errors/json/YYYY-MM/YYYY-MM-DD.json` (sharded by year-month). The readable
+report is generated alongside at `data/errors/md/YYYY-MM/YYYY-MM-DD.md`.
 Every element is one error with these fields:
 
 | Field | Description | Required |
