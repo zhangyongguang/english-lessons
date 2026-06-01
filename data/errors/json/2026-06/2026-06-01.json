@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2026-06-01-001",
+    "date": "2026-06-01",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "Every day I just need to package some smart devices.",
+    "correction": "Every day I just needed to package some smart devices.",
+    "explanation": "You're describing a past job, so use the past tense 'needed', not 'need'.",
+    "correct_examples": ["Back then I needed to work overtime.", "Last summer she needed to commute every day."],
+    "context": "Describing a winter job packaging devices at Foxconn.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 (19:56) line 321"
+  },
+  {
+    "id": "2026-06-01-002",
+    "date": "2026-06-01",
+    "category": "grammar",
+    "tag": "plural",
+    "my_sentence": "They are chef.",
+    "correction": "They are chefs.",
+    "explanation": "When the subject is plural ('they'), the noun must be plural too: 'they are chefs'.",
+    "correct_examples": ["They are doctors.", "We are engineers."],
+    "context": "Identifying jobs in a picture exercise.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 485"
+  },
+  {
+    "id": "2026-06-01-003",
+    "date": "2026-06-01",
+    "category": "grammar",
+    "tag": "articles",
+    "my_sentence": "She works in the office.",
+    "correction": "She works in an office.",
+    "explanation": "Use 'an office' for a non-specific office (any office). 'the office' would point to one particular office, e.g. your boss's.",
+    "correct_examples": ["He works in a bank.", "She works in an office downtown."],
+    "context": "Describing where an office worker works.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 491"
+  },
+  {
+    "id": "2026-06-01-004",
+    "date": "2026-06-01",
+    "category": "grammar",
+    "tag": "word-choice",
+    "my_sentence": "I spent two months to earn 4000 yuan.",
+    "correction": "I spent two months earning 4000 yuan.",
+    "explanation": "(assistant note) Use 'spend + time + -ing': 'spend two months earning'. The infinitive 'to earn' is wrong after 'spend (time)'.",
+    "correct_examples": ["I spent the weekend studying.", "She spends hours practicing the piano."],
+    "context": "Talking about how much he earned in a winter job.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 307"
+  },
+  {
+    "id": "2026-06-01-005",
+    "date": "2026-06-01",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "During my college years, I had taken some winter jobs.",
+    "correction": "During my college years, I took some winter jobs.",
+    "explanation": "(assistant note) Use the simple past 'took' for a finished past action. The past perfect 'had taken' needs another past event as a reference point, which there isn't here.",
+    "correct_examples": ["I took a part-time job last summer.", "She worked at a cafe during college."],
+    "context": "Talking about part-time jobs during college.",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 299"
+  }
+]
