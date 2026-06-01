@@ -459,7 +459,7 @@
     "topic": "business",
     "note": "looked up during listening practice; used for public approval / celebrity endorsement",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": { "status": "new", "times_looked_up": 2, "last_seen": "2026-06-01" }
   },
   {
     "word": "promptly",
@@ -526,5 +526,148 @@
     "note": "looked up during listening practice",
     "first_seen": "2026-05-29",
     "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+  },
+  {
+    "word": "deliver",
+    "pos": "verb",
+    "definition": "to take goods to someone; or to give a speech; or to do what you promised",
+    "example": ["They deliver pizza to your door.", "The CEO delivered an inspiring speech and delivered on her promises."],
+    "synonyms": ["bring", "hand over", "fulfill"],
+    "topic": "business",
+    "note": "looked up during listening practice; senses — take to, give (speech), and fulfill (a promise)",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "grief",
+    "pos": "noun",
+    "definition": "deep sadness, especially after someone dies",
+    "example": ["She was overcome with grief at the funeral.", "It took him years to get over his grief."],
+    "synonyms": ["sorrow", "mourning", "heartache"],
+    "topic": "emotion",
+    "note": "looked up during listening practice",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "outrage",
+    "pos": "noun",
+    "definition": "strong anger and shock; or an act that causes this",
+    "example": ["The decision caused public outrage.", "People expressed outrage at the cruel attack."],
+    "synonyms": ["fury", "indignation"],
+    "topic": "emotion",
+    "note": "looked up during listening practice; can also be a verb ('the news outraged everyone')",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "dictate",
+    "pos": "verb",
+    "definition": "to say words aloud for someone to write down; or to command or control something",
+    "example": ["She dictated the letter to her assistant.", "The weather will dictate our plans for the day."],
+    "synonyms": ["command", "determine", "impose"],
+    "topic": "communication",
+    "note": "looked up as 'dictating' during listening practice; two senses — say for writing, and control/decide",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "stay out",
+    "pos": "phrase",
+    "definition": "to remain outside or away; to not get involved",
+    "example": ["Stay out of it — it's not your problem.", "The kids stayed out until dark."],
+    "synonyms": ["keep out", "steer clear"],
+    "topic": "daily",
+    "note": "looked up during listening practice; 'stay out of it' = don't interfere",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "fist",
+    "pos": "noun",
+    "definition": "a hand with the fingers closed tightly together",
+    "example": ["He banged his fist on the table.", "She raised her fist in protest."],
+    "synonyms": [],
+    "topic": "daily",
+    "note": "looked up during listening practice",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "in reality",
+    "pos": "phrase",
+    "definition": "used to say what is actually true, in contrast to how things seem",
+    "example": ["He seems confident, but in reality he's shy.", "In reality, the project took twice as long."],
+    "synonyms": ["actually", "in fact"],
+    "topic": "communication",
+    "note": "looked up during listening practice; corrects or contrasts with appearances",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "fate",
+    "pos": "noun",
+    "definition": "the power believed to control events; or what finally happens to someone",
+    "example": ["No one knows what fate has in store.", "The court will decide his fate tomorrow."],
+    "synonyms": ["destiny", "fortune"],
+    "topic": "daily",
+    "note": "looked up during listening practice",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "pep talk",
+    "pos": "noun",
+    "definition": "a short speech meant to encourage someone or boost confidence",
+    "example": ["The coach gave the team a pep talk before the game.", "I needed a quick pep talk before the interview."],
+    "synonyms": ["encouragement"],
+    "topic": "communication",
+    "note": "looked up during listening practice; informal",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "pyramid",
+    "pos": "noun",
+    "definition": "a structure with a square base and triangular sides meeting at a point; or a structure shaped like this",
+    "example": ["We visited the pyramids in Egypt.", "The company has a clear pyramid structure."],
+    "synonyms": [],
+    "topic": "daily",
+    "note": "looked up during listening practice; also used figuratively for hierarchies",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "obsession",
+    "pos": "noun",
+    "definition": "a thought or interest that fills your mind and you cannot stop thinking about",
+    "example": ["Her obsession with cleanliness drives everyone crazy.", "Football is his only obsession."],
+    "synonyms": ["fixation", "preoccupation"],
+    "topic": "emotion",
+    "note": "looked up during listening practice",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "plead guilty",
+    "pos": "phrase",
+    "definition": "to formally admit in court that you committed the crime",
+    "example": ["He pleaded guilty to theft.", "She decided to plead guilty and avoid a trial."],
+    "synonyms": ["admit guilt"],
+    "topic": "communication",
+    "note": "looked up during listening practice; legal term; opposite is 'plead not guilty'",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "crack",
+    "pos": "verb",
+    "definition": "to break with a sharp sound or form a line of damage; or to solve/break a difficult problem or code",
+    "example": ["The glass cracked when I dropped it.", "They finally cracked the code."],
+    "synonyms": ["split", "break", "solve"],
+    "topic": "daily",
+    "note": "looked up during listening practice; also a noun ('a crack in the wall'); 'crack a problem' = solve it",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
   }
 ]

@@ -1,16 +1,29 @@
 # Vocabulary  (latest first)
 
-48 word(s).
+61 word(s).
 
 | Word | Meaning | Example | Date |
 |---|---|---|---|
+| crack _(verb)_ | to break with a sharp sound or form a line of damage; or to solve/break a difficult problem or code | The glass cracked when I dropped it. | 2026-06-01 |
+| plead guilty _(phrase)_ | to formally admit in court that you committed the crime | He pleaded guilty to theft. | 2026-06-01 |
+| obsession _(noun)_ | a thought or interest that fills your mind and you cannot stop thinking about | Her obsession with cleanliness drives everyone crazy. | 2026-06-01 |
+| pyramid _(noun)_ | a structure with a square base and triangular sides meeting at a point; or a structure shaped like this | We visited the pyramids in Egypt. | 2026-06-01 |
+| pep talk _(noun)_ | a short speech meant to encourage someone or boost confidence | The coach gave the team a pep talk before the game. | 2026-06-01 |
+| fate _(noun)_ | the power believed to control events; or what finally happens to someone | No one knows what fate has in store. | 2026-06-01 |
+| in reality _(phrase)_ | used to say what is actually true, in contrast to how things seem | He seems confident, but in reality he's shy. | 2026-06-01 |
+| fist _(noun)_ | a hand with the fingers closed tightly together | He banged his fist on the table. | 2026-06-01 |
+| stay out _(phrase)_ | to remain outside or away; to not get involved | Stay out of it — it's not your problem. | 2026-06-01 |
+| dictate _(verb)_ | to say words aloud for someone to write down; or to command or control something | She dictated the letter to her assistant. | 2026-06-01 |
+| outrage _(noun)_ | strong anger and shock; or an act that causes this | The decision caused public outrage. | 2026-06-01 |
+| grief _(noun)_ | deep sadness, especially after someone dies | She was overcome with grief at the funeral. | 2026-06-01 |
+| deliver _(verb)_ | to take goods to someone; or to give a speech; or to do what you promised | They deliver pizza to your door. | 2026-06-01 |
+| endorse _(verb)_ | to publicly support or approve of someone or something | The mayor endorsed the new plan. | 2026-05-29 |
 | shift back _(phrase)_ | to move back to a previous position or state; to switch back | Let's shift back to the original plan. | 2026-05-29 |
 | cool off _(phrase)_ | to become cooler; or to calm down after being angry or excited | Take a walk to cool off before you reply. | 2026-05-29 |
 | reprimand _(verb)_ | to criticize someone formally and severely for a fault | The manager reprimanded him for being late. | 2026-05-29 |
 | come up _(phrase)_ | to be mentioned or arise; to approach; or (of an event) to be about to happen | Your name came up in the meeting. | 2026-05-29 |
 | conducive _(adjective)_ | helping to make something happen; favorable to | A quiet room is conducive to studying. | 2026-05-29 |
 | promptly _(adverb)_ | quickly without delay; or exactly on time | She replied promptly to my email. | 2026-05-29 |
-| endorse _(verb)_ | to publicly support or approve of someone or something | The mayor endorsed the new plan. | 2026-05-29 |
 | unpack _(verb)_ | to take things out of a bag or box; or to analyze a complex idea in detail | Let me unpack this idea a bit more. | 2026-05-29 |
 | follow-up _(noun)_ | a further action or contact made after something earlier | The doctor scheduled a follow-up next week. | 2026-05-29 |
 | nail down _(phrase)_ | to fix in place with nails; or to settle or define something firmly | Let's nail down the date for the meeting. | 2026-05-29 |
