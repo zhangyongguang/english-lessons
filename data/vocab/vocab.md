@@ -1,9 +1,33 @@
 # Vocabulary  (latest first)
 
-79 word(s).
+103 word(s).
 
 | Word | Meaning | Example | Date |
 |---|---|---|---|
+| bypass _(verb)_ | to go around or avoid something; (noun) a road around a town, or a heart operation | You can bypass the city center by taking this road. | 2026-06-02 |
+| pro-democracy _(adjective)_ | supporting democracy and democratic reform | Thousands joined the pro-democracy protests. | 2026-06-02 |
+| extradition _(noun)_ | the official handing over of an accused person to another country to be tried | The US requested his extradition. | 2026-06-02 |
+| collusion _(noun)_ | secret cooperation to do something wrong or to deceive others | The firms acted in collusion to raise prices. | 2026-06-02 |
+| mastermind _(noun)_ | the person who plans and directs a clever or complex scheme; (verb) to plan such a scheme | He was the mastermind behind the robbery. | 2026-06-02 |
+| conviction _(noun)_ | a formal court decision that someone is guilty; or a firmly held belief | He has a previous conviction for theft. | 2026-06-02 |
+| mole _(noun)_ | a spy who works secretly inside an organization; also a small dark spot on the skin, or a small burrowing animal | There was a mole leaking secrets to the press. | 2026-06-02 |
+| offshore _(adjective)_ | located in the sea away from the coast; or based in a foreign country (often for tax) | They are building an offshore wind farm. | 2026-06-02 |
+| revise _(verb)_ | to change or correct something; or (British) to study again for an exam | We had to revise our plans. | 2026-06-02 |
+| undercover _(adjective)_ | working secretly, hiding your true identity to get information | He is an undercover police officer. | 2026-06-02 |
+| surgical _(adjective)_ | relating to surgery; or done with great precision | She needs surgical treatment. | 2026-06-02 |
+| suspicious _(adjective)_ | making you think something is wrong; or feeling that someone is guilty or untrustworthy | The police found a suspicious package. | 2026-06-02 |
+| reconsideration _(noun)_ | the act of thinking about a decision or matter again | The plan is under reconsideration. | 2026-06-02 |
+| recall vote _(phrase)_ | a vote by the public to decide whether to remove an elected official before their term ends | Voters demanded a recall vote against the mayor. | 2026-06-02 |
+| sanction _(noun)_ | a penalty for breaking a rule (often plural); or official permission or approval | The US imposed sanctions on the country. | 2026-06-01 |
+| credibility _(noun)_ | the quality of being trusted and believed in | The scandal damaged his credibility. | 2026-06-01 |
+| crossroad _(noun)_ | a place where roads meet; (often 'crossroads') a point where an important choice must be made | Turn left at the crossroad. | 2026-06-01 |
+| precision _(noun)_ | the quality of being exact and accurate | The parts are made with great precision. | 2026-06-01 |
+| defend _(verb)_ | to protect from attack; or to argue in support of someone or something | Soldiers defended the city. | 2026-06-01 |
+| commission _(noun)_ | a committee with official duties; or a fee paid for selling; or the act of committing (a crime) | She earns a 10% commission on each sale. | 2026-06-01 |
+| violation _(noun)_ | the act of breaking a rule or law; or an act that disrespects something | He got a parking violation. | 2026-06-01 |
+| show up _(phrase)_ | to arrive or appear, especially at an arranged place or event | He didn't show up for the meeting. | 2026-06-01 |
+| frustrated _(adjective)_ | annoyed or discouraged because you cannot do or get what you want | I'm frustrated with the slow internet. | 2026-06-01 |
+| commentary _(noun)_ | a spoken or written description and analysis of an event as it happens | He gave live commentary on the match. | 2026-06-01 |
 | collude _(verb)_ | to work together secretly to do something wrong or deceive others | The two companies colluded to fix prices. | 2026-06-01 |
 | popularity _(noun)_ | the state of being liked or supported by many people | The show's popularity grew quickly. | 2026-06-01 |
 | recruitment _(noun)_ | the process of finding and hiring new people for a job or group | The company has paused recruitment. | 2026-06-01 |
@@ -36,6 +60,7 @@
 | grief _(noun)_ | deep sadness, especially after someone dies | She was overcome with grief at the funeral. | 2026-06-01 |
 | deliver _(verb)_ | to take goods to someone; or to give a speech; or to do what you promised | They deliver pizza to your door. | 2026-06-01 |
 | endorse _(verb)_ | to publicly support or approve of someone or something | The mayor endorsed the new plan. | 2026-05-29 |
+| in terms of _(phrase)_ | with regard to a particular aspect or subject | In terms of price, this one is better. | 2026-05-29 |
 | shift back _(phrase)_ | to move back to a previous position or state; to switch back | Let's shift back to the original plan. | 2026-05-29 |
 | cool off _(phrase)_ | to become cooler; or to calm down after being angry or excited | Take a walk to cool off before you reply. | 2026-05-29 |
 | reprimand _(verb)_ | to criticize someone formally and severely for a fault | The manager reprimanded him for being late. | 2026-05-29 |
@@ -55,7 +80,6 @@
 | committee _(noun)_ | a group of people chosen to make decisions or manage something | The committee meets every Monday. | 2026-05-29 |
 | go door to door _(phrase)_ | to visit each house in turn, e.g. to sell or ask for something | Volunteers went door to door asking for donations. | 2026-05-29 |
 | rush out _(phrase)_ | to leave quickly; or to release a product hurriedly | She rushed out of the room in tears. | 2026-05-29 |
-| in terms of _(phrase)_ | with regard to a particular aspect or subject | In terms of price, this one is better. | 2026-05-29 |
 | shortcoming _(noun)_ | a fault or weakness; a failure to reach a good standard | Despite its shortcomings, the plan worked. | 2026-05-29 |
 | dedicated _(adjective)_ | giving a lot of time and effort to something; or set aside for one special purpose | She's a dedicated teacher who stays late every day. | 2026-05-29 |
 | time and time again _(idiom)_ | repeatedly; many times over | I've told him time and time again to be careful. | 2026-05-29 |

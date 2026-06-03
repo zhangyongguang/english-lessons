@@ -305,7 +305,7 @@
     "topic": "communication",
     "note": "looked up during listening practice; used to specify which angle you're talking about",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": { "status": "new", "times_looked_up": 2, "last_seen": "2026-06-01" }
   },
   {
     "word": "rush out",
@@ -646,7 +646,7 @@
     "topic": "emotion",
     "note": "looked up during listening practice",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": { "status": "new", "times_looked_up": 2, "last_seen": "2026-06-01" }
   },
   {
     "word": "plead guilty",
@@ -867,5 +867,269 @@
     "note": "explained while translating a sentence; noun is 'collusion'",
     "first_seen": "2026-06-01",
     "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "commentary",
+    "pos": "noun",
+    "definition": "a spoken or written description and analysis of an event as it happens",
+    "example": ["He gave live commentary on the match.", "The book offers a commentary on modern life."],
+    "synonyms": ["analysis", "narration"],
+    "topic": "communication",
+    "note": "looked up during listening practice; common for sports/news 'live commentary'",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "frustrated",
+    "pos": "adjective",
+    "definition": "annoyed or discouraged because you cannot do or get what you want",
+    "example": ["I'm frustrated with the slow internet.", "She felt frustrated by the constant delays."],
+    "synonyms": ["annoyed", "discouraged", "exasperated"],
+    "topic": "emotion",
+    "note": "looked up during listening practice; verb 'frustrate', noun 'frustration'",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "show up",
+    "pos": "phrase",
+    "definition": "to arrive or appear, especially at an arranged place or event",
+    "example": ["He didn't show up for the meeting.", "Only half the guests showed up."],
+    "synonyms": ["appear", "turn up", "arrive"],
+    "topic": "daily",
+    "note": "looked up during listening practice; informal",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "violation",
+    "pos": "noun",
+    "definition": "the act of breaking a rule or law; or an act that disrespects something",
+    "example": ["He got a parking violation.", "It was a clear violation of human rights."],
+    "synonyms": ["breach", "infringement"],
+    "topic": "business",
+    "note": "looked up during listening practice; verb is 'violate'",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "commission",
+    "pos": "noun",
+    "definition": "a committee with official duties; or a fee paid for selling; or the act of committing (a crime)",
+    "example": ["She earns a 10% commission on each sale.", "A commission was set up to investigate the accident."],
+    "synonyms": ["committee", "fee", "percentage"],
+    "topic": "business",
+    "note": "looked up during listening practice; several senses — body, sales fee, and 'commission a work'",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "defend",
+    "pos": "verb",
+    "definition": "to protect from attack; or to argue in support of someone or something",
+    "example": ["Soldiers defended the city.", "She defended her decision in the meeting."],
+    "synonyms": ["protect", "guard", "justify"],
+    "topic": "communication",
+    "note": "looked up during listening practice; senses — protect, and argue for; noun 'defense'",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "precision",
+    "pos": "noun",
+    "definition": "the quality of being exact and accurate",
+    "example": ["The parts are made with great precision.", "She answered with precision."],
+    "synonyms": ["accuracy", "exactness"],
+    "topic": "academic",
+    "note": "looked up during listening practice; adjective is 'precise'",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "sanction",
+    "pos": "noun",
+    "definition": "a penalty for breaking a rule (often plural); or official permission or approval",
+    "example": ["The US imposed sanctions on the country.", "The plan needs the board's sanction."],
+    "synonyms": ["penalty", "embargo", "approval"],
+    "topic": "business",
+    "note": "looked up during listening practice; note the two opposite senses — punish vs. approve",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 2, "last_seen": "2026-06-02" }
+  },
+  {
+    "word": "crossroad",
+    "pos": "noun",
+    "definition": "a place where roads meet; (often 'crossroads') a point where an important choice must be made",
+    "example": ["Turn left at the crossroad.", "Her career is at a crossroads."],
+    "synonyms": ["junction", "turning point"],
+    "topic": "daily",
+    "note": "looked up during listening practice; figurative 'at a crossroads' = decisive moment",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "credibility",
+    "pos": "noun",
+    "definition": "the quality of being trusted and believed in",
+    "example": ["The scandal damaged his credibility.", "The report lacks credibility."],
+    "synonyms": ["trustworthiness", "reliability"],
+    "topic": "communication",
+    "note": "looked up during listening practice; adjective is 'credible'",
+    "first_seen": "2026-06-01",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+  },
+  {
+    "word": "recall vote",
+    "pos": "phrase",
+    "definition": "a vote by the public to decide whether to remove an elected official before their term ends",
+    "example": ["Voters demanded a recall vote against the mayor.", "The governor survived the recall vote."],
+    "synonyms": [],
+    "topic": "communication",
+    "note": "looked up during listening practice; here 'recall' = remove from office",
+    "first_seen": "2026-06-02",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+  },
+  {
+    "word": "reconsideration",
+    "pos": "noun",
+    "definition": "the act of thinking about a decision or matter again",
+    "example": ["The plan is under reconsideration.", "She asked the court for reconsideration of the ruling."],
+    "synonyms": ["review", "rethinking"],
+    "topic": "communication",
+    "note": "looked up during listening practice; verb is 'reconsider'",
+    "first_seen": "2026-06-02",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+  },
+  {
+    "word": "suspicious",
+    "pos": "adjective",
+    "definition": "making you think something is wrong; or feeling that someone is guilty or untrustworthy",
+    "example": ["The police found a suspicious package.", "She was suspicious of his motives."],
+    "synonyms": ["doubtful", "wary", "dubious"],
+    "topic": "emotion",
+    "note": "looked up during listening practice; two senses — looks dodgy, and feels distrustful",
+    "first_seen": "2026-06-02",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+  },
+  {
+    "word": "surgical",
+    "pos": "adjective",
+    "definition": "relating to surgery; or done with great precision",
+    "example": ["She needs surgical treatment.", "The army carried out a surgical strike on the base."],
+    "synonyms": ["precise", "targeted"],
+    "topic": "health",
+    "note": "looked up during listening practice; 'surgical strike' = a precise, targeted attack",
+    "first_seen": "2026-06-02",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+  },
+  {
+    "word": "undercover",
+    "pos": "adjective",
+    "definition": "working secretly, hiding your true identity to get information",
+    "example": ["He is an undercover police officer.", "She went undercover to investigate the gang."],
+    "synonyms": ["covert", "secret"],
+    "topic": "communication",
+    "note": "looked up during listening practice; can also be an adverb ('go undercover')",
+    "first_seen": "2026-06-02",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+  },
+  {
+    "word": "revise",
+    "pos": "verb",
+    "definition": "to change or correct something; or (British) to study again for an exam",
+    "example": ["We had to revise our plans.", "She's revising for her history exam."],
+    "synonyms": ["amend", "edit", "review"],
+    "topic": "academic",
+    "note": "looked up during listening practice; the 'study for exam' sense is British English",
+    "first_seen": "2026-06-02",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+  },
+  {
+    "word": "offshore",
+    "pos": "adjective",
+    "definition": "located in the sea away from the coast; or based in a foreign country (often for tax)",
+    "example": ["They are building an offshore wind farm.", "He hid money in an offshore account."],
+    "synonyms": ["overseas"],
+    "topic": "business",
+    "note": "looked up during listening practice; two senses — out at sea, and based abroad",
+    "first_seen": "2026-06-02",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+  },
+  {
+    "word": "mole",
+    "pos": "noun",
+    "definition": "a spy who works secretly inside an organization; also a small dark spot on the skin, or a small burrowing animal",
+    "example": ["There was a mole leaking secrets to the press.", "She has a small mole on her cheek."],
+    "synonyms": ["spy", "informant"],
+    "topic": "communication",
+    "note": "looked up during listening practice; the 'inside spy' sense is the non-obvious one",
+    "first_seen": "2026-06-02",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+  },
+  {
+    "word": "conviction",
+    "pos": "noun",
+    "definition": "a formal court decision that someone is guilty; or a firmly held belief",
+    "example": ["He has a previous conviction for theft.", "She spoke with great conviction."],
+    "synonyms": ["sentence", "belief", "certainty"],
+    "topic": "communication",
+    "note": "looked up during listening practice; two senses — guilty verdict, and strong belief; verb 'convict'",
+    "first_seen": "2026-06-02",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+  },
+  {
+    "word": "mastermind",
+    "pos": "noun",
+    "definition": "the person who plans and directs a clever or complex scheme; (verb) to plan such a scheme",
+    "example": ["He was the mastermind behind the robbery.", "She masterminded the whole campaign."],
+    "synonyms": ["planner", "architect", "orchestrator"],
+    "topic": "communication",
+    "note": "looked up during listening practice; often used for the brain behind a crime or plan",
+    "first_seen": "2026-06-02",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+  },
+  {
+    "word": "collusion",
+    "pos": "noun",
+    "definition": "secret cooperation to do something wrong or to deceive others",
+    "example": ["The firms acted in collusion to raise prices.", "There was collusion between the officials."],
+    "synonyms": ["conspiracy", "connivance"],
+    "topic": "communication",
+    "note": "looked up during listening practice; noun form of 'collude'",
+    "first_seen": "2026-06-02",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+  },
+  {
+    "word": "extradition",
+    "pos": "noun",
+    "definition": "the official handing over of an accused person to another country to be tried",
+    "example": ["The US requested his extradition.", "There is no extradition treaty between the two countries."],
+    "synonyms": [],
+    "topic": "communication",
+    "note": "looked up during listening practice; verb is 'extradite'",
+    "first_seen": "2026-06-02",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+  },
+  {
+    "word": "pro-democracy",
+    "pos": "adjective",
+    "definition": "supporting democracy and democratic reform",
+    "example": ["Thousands joined the pro-democracy protests.", "She is a well-known pro-democracy activist."],
+    "synonyms": [],
+    "topic": "communication",
+    "note": "looked up during listening practice; prefix 'pro-' = in favor of",
+    "first_seen": "2026-06-02",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+  },
+  {
+    "word": "bypass",
+    "pos": "verb",
+    "definition": "to go around or avoid something; (noun) a road around a town, or a heart operation",
+    "example": ["You can bypass the city center by taking this road.", "The new system bypasses the usual approval process."],
+    "synonyms": ["go around", "skip", "circumvent"],
+    "topic": "daily",
+    "note": "looked up during listening practice; also a noun (road / heart bypass surgery)",
+    "first_seen": "2026-06-02",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
   }
 ]
