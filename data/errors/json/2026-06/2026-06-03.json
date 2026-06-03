@@ -1,0 +1,290 @@
+[
+  {
+    "id": "2026-06-03-001",
+    "date": "2026-06-03",
+    "category": "collocation",
+    "tag": "preposition",
+    "my_sentence": "I have a higher interest about writing code.",
+    "correction": "I have a higher interest in writing code.",
+    "explanation": "The noun 'interest' takes the preposition 'in', not 'about', when naming the thing you are interested in: 'an interest in X'. (assistant note)",
+    "correct_examples": [
+      "She has a strong interest in photography.",
+      "He showed little interest in the project."
+    ],
+    "context": "Talking about level of interest in his own job (writing code)",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 281-289"
+  },
+  {
+    "id": "2026-06-03-002",
+    "date": "2026-06-03",
+    "category": "grammar",
+    "tag": "modal",
+    "my_sentence": "I prefer continue doing it until I retire.",
+    "correction": "I prefer to continue doing it until I retire.",
+    "explanation": "'Prefer' is followed by a to-infinitive (or a gerund), so it must be 'prefer to continue', not 'prefer continue'.",
+    "correct_examples": [
+      "I prefer to walk to work.",
+      "They prefer to stay home on weekends."
+    ],
+    "context": "Saying he wants to keep writing code until retirement",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 301-305"
+  },
+  {
+    "id": "2026-06-03-003",
+    "date": "2026-06-03",
+    "category": "collocation",
+    "tag": "word-choice",
+    "my_sentence": "It can give me a kind of achievement.",
+    "correction": "It can give me a sense of achievement.",
+    "explanation": "The fixed collocation is 'a sense of achievement' (the feeling of having accomplished something), not 'a kind of achievement'.",
+    "correct_examples": [
+      "Finishing the marathon gave her a real sense of achievement.",
+      "There's a great sense of achievement in solving a hard problem."
+    ],
+    "context": "Why he enjoys writing code",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 309-313"
+  },
+  {
+    "id": "2026-06-03-004",
+    "date": "2026-06-03",
+    "category": "grammar",
+    "tag": "preposition",
+    "my_sentence": "I don't have any opportunity to communicate with them, so I can't show my respect with them.",
+    "correction": "I don't have any opportunity to communicate with them, so I can't show my respect to them.",
+    "explanation": "You 'show respect to' someone (the recipient takes 'to'), not 'show respect with' them. 'With' would imply doing it together.",
+    "correct_examples": [
+      "Students should show respect to their teachers.",
+      "He always shows respect to his elders."
+    ],
+    "context": "Why he can't say how much he respects a professor's job",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 385-391"
+  },
+  {
+    "id": "2026-06-03-005",
+    "date": "2026-06-03",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "Compare to some people who live in the big city, my salary is lower.",
+    "correction": "Compared to some people who live in big cities, my salary is lower.",
+    "explanation": "Use the past participle 'compared to' (a reduced passive) to introduce a comparison, not the bare verb 'compare to'. (assistant note)",
+    "correct_examples": [
+      "Compared to last year, sales have doubled.",
+      "Compared to my old phone, this one is much faster."
+    ],
+    "context": "Comparing his salary with people in big cities",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 427"
+  },
+  {
+    "id": "2026-06-03-006",
+    "date": "2026-06-03",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "I think it can be worse.",
+    "correction": "It can be worth it.",
+    "explanation": "'Worth it' (worthwhile / a good trade-off) and 'worse' (more bad) are different words; he meant the high salary made the hard life worthwhile, so the phrase is 'worth it'.",
+    "correct_examples": [
+      "The job is stressful, but the pay makes it worth it.",
+      "It was a long trip, but the view was worth it."
+    ],
+    "context": "Whether a professor's busy life is worth the high salary",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 489-493"
+  },
+  {
+    "id": "2026-06-03-007",
+    "date": "2026-06-03",
+    "category": "naturalness",
+    "tag": "collocation",
+    "my_sentence": "It's the 25th in the GDP in my country.",
+    "correction": "It is in the 25th place when it comes to the GDP.",
+    "explanation": "Use 'in the Nth place' to give a ranking, and 'when it comes to X' to introduce the criterion, rather than 'the 25th in the GDP'.",
+    "correct_examples": [
+      "Our team finished in the third place.",
+      "When it comes to cost, this option is the best."
+    ],
+    "context": "Yantai's GDP ranking among Chinese cities",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 535-549"
+  },
+  {
+    "id": "2026-06-03-008",
+    "date": "2026-06-03",
+    "category": "grammar",
+    "tag": "agreement",
+    "my_sentence": "Working conditions means the condition of your office or working places.",
+    "correction": "Working conditions refer to the state of your workplace.",
+    "explanation": "'Conditions' is plural, so it takes 'refer' not 'means'; and when defining a term, don't repeat the word itself ('conditions means the condition') — use 'refer to the state of'.",
+    "correct_examples": [
+      "Working conditions refer to the environment in which you work.",
+      "These terms refer to two different things."
+    ],
+    "context": "Defining what 'working conditions' means",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 11-19"
+  },
+  {
+    "id": "2026-06-03-009",
+    "date": "2026-06-03",
+    "category": "grammar",
+    "tag": "relative-clause",
+    "my_sentence": "Most people you meet, you are familiar with them.",
+    "correction": "You are familiar with most of the people you meet.",
+    "explanation": "Don't add a resumptive pronoun ('them') at the end of a relative clause; the object is already the head noun. Also use 'most of the people' before a defining clause.",
+    "correct_examples": [
+      "You are familiar with most of the people you meet there.",
+      "I know most of the songs they play."
+    ],
+    "context": "Why the office feels secure — you know most people",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 47-51"
+  },
+  {
+    "id": "2026-06-03-010",
+    "date": "2026-06-03",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "I went to the Tokyo office many years ago, and I find that they have better conditions than us.",
+    "correction": "I went to the Tokyo office many years ago, and I found that they had better conditions than us.",
+    "explanation": "The event is in the past ('many years ago'), so the reporting verb must be past 'found', and the reported clause shifts to 'had' for sequence of tenses.",
+    "correct_examples": [
+      "I visited the factory last year and found that it was very modern.",
+      "She called and said she was on her way."
+    ],
+    "context": "Comparing the Tokyo office's working conditions",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 101-105"
+  },
+  {
+    "id": "2026-06-03-011",
+    "date": "2026-06-03",
+    "category": "grammar",
+    "tag": "conditional",
+    "my_sentence": "Even you are a manager, you can't earn much more than your members.",
+    "correction": "Even if you are a manager, you can't earn much more than your team members.",
+    "explanation": "To express a hypothetical/concessive condition you need 'even if', not just 'even', before a clause. (assistant note)",
+    "correct_examples": [
+      "Even if you work hard, the salary stays the same.",
+      "Even if it rains, we'll go."
+    ],
+    "context": "In Japan, salaries are similar regardless of position",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 229"
+  },
+  {
+    "id": "2026-06-03-012",
+    "date": "2026-06-03",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "You can go anyone in five or 10 min.",
+    "correction": "You can go anywhere in five or ten minutes.",
+    "explanation": "Use 'anywhere' (any place) for a destination, not 'anyone' (any person); also spell out 'minutes' as a plural noun.",
+    "correct_examples": [
+      "From here you can get anywhere in ten minutes.",
+      "You can go anywhere you like."
+    ],
+    "context": "Shopping malls being close to the Tokyo office",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 281-287"
+  },
+  {
+    "id": "2026-06-03-013",
+    "date": "2026-06-03",
+    "category": "grammar",
+    "tag": "adverb",
+    "my_sentence": "So people can easy to buy things.",
+    "correction": "So people can easily go there and buy something.",
+    "explanation": "After a modal ('can') use a bare verb modified by an adverb ('easily go / buy'), not 'easy to buy'. 'Easy' is an adjective and can't modify a verb here.",
+    "correct_examples": [
+      "You can easily find it online.",
+      "People can easily get there by bus."
+    ],
+    "context": "Stores on the first floor make shopping convenient",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 339-347"
+  },
+  {
+    "id": "2026-06-03-014",
+    "date": "2026-06-03",
+    "category": "collocation",
+    "tag": "word-choice",
+    "my_sentence": "People never meet earthquake.",
+    "correction": "We never experience earthquakes. / We never have earthquakes.",
+    "explanation": "You 'experience' or 'have' a natural disaster, not 'meet' it; and 'earthquake' is countable, so use the plural 'earthquakes' for the general case.",
+    "correct_examples": [
+      "This region rarely experiences earthquakes.",
+      "We sometimes have typhoons in summer."
+    ],
+    "context": "His city doesn't have natural disasters",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 379-385"
+  },
+  {
+    "id": "2026-06-03-015",
+    "date": "2026-06-03",
+    "category": "collocation",
+    "tag": "word-choice",
+    "my_sentence": "If you have a big rainfall, it will go to the sea.",
+    "correction": "If there is a heavy rainfall, it usually goes down to the sea.",
+    "explanation": "Rain intensity collocates with 'heavy', not 'big' ('heavy rainfall'); use existential 'there is' for weather events rather than 'you have'. ('rain' itself is uncountable — 'a heavy rainfall' is fine but not 'a rain').",
+    "correct_examples": [
+      "If there is heavy rainfall, the river rises quickly.",
+      "We had heavy rain all night."
+    ],
+    "context": "His city is near the sea, so rain drains away",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 391-407"
+  },
+  {
+    "id": "2026-06-03-016",
+    "date": "2026-06-03",
+    "category": "grammar",
+    "tag": "articles",
+    "my_sentence": "At the noon, it's more than 30 degrees Celsius.",
+    "correction": "At noon, it's more than 30 degrees Celsius.",
+    "explanation": "'Noon' is used without an article in time expressions: 'at noon' (compare 'at night', 'at midnight'). (assistant note)",
+    "correct_examples": [
+      "We'll meet at noon.",
+      "The shop closes at midnight."
+    ],
+    "context": "Big temperature swings in high-altitude areas",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 563"
+  },
+  {
+    "id": "2026-06-03-017",
+    "date": "2026-06-03",
+    "category": "grammar",
+    "tag": "articles",
+    "my_sentence": "Because of height.",
+    "correction": "Because of the height.",
+    "explanation": "A specific, identifiable noun needs the definite article: 'the height' (of that place). 'Because of height' as a bare noun is ungrammatical here.",
+    "correct_examples": [
+      "The flight was delayed because of the weather.",
+      "It's cold up there because of the altitude."
+    ],
+    "context": "Why the temperature varies so much in Tibet",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 567-571"
+  },
+  {
+    "id": "2026-06-03-018",
+    "date": "2026-06-03",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "There are many mountain cities.",
+    "correction": "There are many mountainous cities.",
+    "explanation": "Use the adjective 'mountainous' (full of mountains) to describe a place, not the noun 'mountain' as a modifier here.",
+    "correct_examples": [
+      "It's a mountainous region with few roads.",
+      "Many mountainous areas are hard to farm."
+    ],
+    "context": "Much of western China is mountainous",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 591-597"
+  }
+]
