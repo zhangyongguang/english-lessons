@@ -1,0 +1,226 @@
+[
+  {
+    "id": "2026-06-04-001",
+    "date": "2026-06-04",
+    "category": "grammar",
+    "tag": "preposition",
+    "my_sentence": "I can stay the company 1h instead.",
+    "correction": "I can stay in the company for an hour instead.",
+    "explanation": "'Stay' needs the preposition 'in' before a place ('stay in the company'), and a duration takes 'for' ('for an hour'). Also say 'an hour', not the figure '1h', in speech.",
+    "correct_examples": [
+      "I can stay in the office for an hour after work.",
+      "She stayed at home for two days."
+    ],
+    "context": "Flexible working hours — making up time by staying late",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 153-163"
+  },
+  {
+    "id": "2026-06-04-002",
+    "date": "2026-06-04",
+    "category": "grammar",
+    "tag": "agreement",
+    "my_sentence": "It not depend on your gender.",
+    "correction": "It doesn't depend on your gender.",
+    "explanation": "A negative present-simple statement needs the auxiliary 'do' plus 'not', and with a third-person singular subject it is 'doesn't depend' (not 'not depend').",
+    "correct_examples": [
+      "It doesn't depend on the weather.",
+      "The price doesn't change very often."
+    ],
+    "context": "Whether working hours differ by gender",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 295-297"
+  },
+  {
+    "id": "2026-06-04-003",
+    "date": "2026-06-04",
+    "category": "grammar",
+    "tag": "agreement",
+    "my_sentence": "The company need to pay a lot of money for him.",
+    "correction": "The company needs to pay a lot of money for him.",
+    "explanation": "A singular subject ('the company') takes the third-person singular verb 'needs' in the present simple.",
+    "correct_examples": [
+      "The company needs to hire more staff.",
+      "Each employee needs a badge to enter."
+    ],
+    "context": "A worker injured in a dangerous factory",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 317-329"
+  },
+  {
+    "id": "2026-06-04-004",
+    "date": "2026-06-04",
+    "category": "grammar",
+    "tag": "comparative",
+    "my_sentence": "Some people who work in the office, it's the safe job.",
+    "correction": "Working in an office is the safest job.",
+    "explanation": "To say something ranks highest among all options, use the superlative 'the safest', not 'the safe job'. The definite article 'the' signals a superlative.",
+    "correct_examples": [
+      "This is the safest option of all.",
+      "It's the easiest job in the company."
+    ],
+    "context": "Which jobs are the most comfortable / safe",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 341-345"
+  },
+  {
+    "id": "2026-06-04-005",
+    "date": "2026-06-04",
+    "category": "collocation",
+    "tag": "preposition",
+    "my_sentence": "Many people will try to apply it.",
+    "correction": "Many people will try to apply for it.",
+    "explanation": "You 'apply for' a job or position (and 'apply to be' something), so the verb needs the preposition 'for'; 'apply it' means something different (put it into use). (assistant note)",
+    "correct_examples": [
+      "Hundreds of people applied for the job.",
+      "She applied to be a volunteer."
+    ],
+    "context": "Easy jobs attract many applicants",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 419, 435, 475"
+  },
+  {
+    "id": "2026-06-04-006",
+    "date": "2026-06-04",
+    "category": "grammar",
+    "tag": "articles",
+    "my_sentence": "It's not good thing.",
+    "correction": "It's not a good thing.",
+    "explanation": "A singular countable noun ('thing') needs an article; here use the indefinite 'a' — 'a good thing'.",
+    "correct_examples": [
+      "That's a good thing.",
+      "It was a bad idea."
+    ],
+    "context": "Discussing the cons of the legal system",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 21-25"
+  },
+  {
+    "id": "2026-06-04-007",
+    "date": "2026-06-04",
+    "category": "grammar",
+    "tag": "adverb",
+    "my_sentence": "You can easy find evidence to protect yourself.",
+    "correction": "You can easily find evidence to protect yourself.",
+    "explanation": "Use the adverb 'easily' to modify the verb 'find', not the adjective 'easy'. (This is a recurring weak spot.)",
+    "correct_examples": [
+      "You can easily check it online.",
+      "He easily solved the problem."
+    ],
+    "context": "CCTV cameras make it easy to find evidence",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 95-97"
+  },
+  {
+    "id": "2026-06-04-008",
+    "date": "2026-06-04",
+    "category": "grammar",
+    "tag": "word-choice",
+    "my_sentence": "For me, I'm interest in my job.",
+    "correction": "For me, I'm interested in my job.",
+    "explanation": "To describe how you feel, use the -ed participle adjective 'interested in', not the noun/verb 'interest'. (assistant note)",
+    "correct_examples": [
+      "I'm interested in history.",
+      "She's very interested in the project."
+    ],
+    "context": "The benefit of liking your own job",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 151"
+  },
+  {
+    "id": "2026-06-04-009",
+    "date": "2026-06-04",
+    "category": "grammar",
+    "tag": "preposition",
+    "my_sentence": "Their salary is lower at the beginning.",
+    "correction": "Their salaries are lower in the beginning.",
+    "explanation": "The fixed time phrase is 'in the beginning' (= at first), not 'at the beginning' here; and a plural subject ('their salaries') takes 'are'.",
+    "correct_examples": [
+      "In the beginning, the pay is quite low.",
+      "Salaries are usually lower in the beginning."
+    ],
+    "context": "Doctors earn little when they start out",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 217-223"
+  },
+  {
+    "id": "2026-06-04-010",
+    "date": "2026-06-04",
+    "category": "grammar",
+    "tag": "agreement",
+    "my_sentence": "When they become older, their salary become more.",
+    "correction": "When they get older, their salary becomes higher.",
+    "explanation": "The singular subject 'their salary' takes 'becomes'; and salaries 'get/become higher', not 'become more'. (assistant note)",
+    "correct_examples": [
+      "As she gets older, her salary becomes higher.",
+      "The work becomes easier with practice."
+    ],
+    "context": "Doctors' pay rising with age and experience",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 233-237"
+  },
+  {
+    "id": "2026-06-04-011",
+    "date": "2026-06-04",
+    "category": "grammar",
+    "tag": "articles",
+    "my_sentence": "Having high salary means you can buy anything that you want.",
+    "correction": "Having a high salary means you can buy anything you want.",
+    "explanation": "The singular countable noun phrase 'high salary' needs the article 'a'. ('that' is also optional in the object relative clause.) (assistant note)",
+    "correct_examples": [
+      "Having a high salary gives you more freedom.",
+      "She wants a good job with a high salary."
+    ],
+    "context": "The pros of a high salary",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 363"
+  },
+  {
+    "id": "2026-06-04-012",
+    "date": "2026-06-04",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "If they want to get higher salaries, they have to lose their time.",
+    "correction": "If they want to get higher salaries, they have to sacrifice their time.",
+    "explanation": "Giving up your time deliberately for a goal is 'sacrifice your time', not 'lose your time' (which sounds accidental/wasteful).",
+    "correct_examples": [
+      "They sacrifice their free time to earn more.",
+      "He sacrificed his weekends to finish the project."
+    ],
+    "context": "The cons of chasing a high salary",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 401-405"
+  },
+  {
+    "id": "2026-06-04-013",
+    "date": "2026-06-04",
+    "category": "grammar",
+    "tag": "word-choice",
+    "my_sentence": "They don't have some time to take care of their families.",
+    "correction": "They don't have any time to take care of their families.",
+    "explanation": "In a negative sentence, use 'any', not 'some': 'don't have any time'. ('some' is for affirmatives/offers.) (assistant note)",
+    "correct_examples": [
+      "I don't have any money left.",
+      "There isn't any time to waste."
+    ],
+    "context": "No time for family when working too much",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 407-413"
+  },
+  {
+    "id": "2026-06-04-014",
+    "date": "2026-06-04",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "You can use your power to let them drink a lot of alcohol even though they don't like it.",
+    "correction": "You can use your power to make them drink a lot of alcohol even though they don't like it.",
+    "explanation": "'Make someone do something' means to force/compel them; 'let someone do something' means to allow them. Since they don't want to, the right causative is 'make'. (assistant note)",
+    "correct_examples": [
+      "The boss made them stay late.",
+      "Don't make me repeat myself."
+    ],
+    "context": "A senior person pressuring juniors to drink at work",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 465-469"
+  }
+]
