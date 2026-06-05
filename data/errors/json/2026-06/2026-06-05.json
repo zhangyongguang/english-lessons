@@ -1,0 +1,274 @@
+[
+  {
+    "id": "2026-06-05-001",
+    "date": "2026-06-05",
+    "category": "grammar",
+    "tag": "plural",
+    "my_sentence": "They shouldn't expect too much thing from me.",
+    "correction": "They shouldn't expect too many things from me.",
+    "explanation": "'Thing' is countable, so use 'many' (not 'much') and the plural 'things': 'too many things'. 'too much' goes with uncountable nouns.",
+    "correct_examples": [
+      "Don't expect too many things from one person.",
+      "He buys too many things he doesn't need."
+    ],
+    "context": "How much his parents should expect of him",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 109-115"
+  },
+  {
+    "id": "2026-06-05-002",
+    "date": "2026-06-05",
+    "category": "grammar",
+    "tag": "aspect",
+    "my_sentence": "Most cases will be fixed.",
+    "correction": "Most cases are being fixed.",
+    "explanation": "For something happening / in progress right now, use the present continuous passive 'are being fixed', not the simple future 'will be fixed'.",
+    "correct_examples": [
+      "The problems are being fixed at the moment.",
+      "These bugs are being solved one by one."
+    ],
+    "context": "Missing-children cases mostly being resolved",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 199-205"
+  },
+  {
+    "id": "2026-06-05-003",
+    "date": "2026-06-05",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "A student missed in school, it quickly become the top new.",
+    "correction": "When a student went missing at school, it quickly became the top news.",
+    "explanation": "This is a past event, so use the past tense 'became', not the base form 'become'. (Also 'went missing' for a person, and 'the top news'.)",
+    "correct_examples": [
+      "The story quickly became big news.",
+      "It became the top news overnight."
+    ],
+    "context": "A student who went missing made the headlines",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 215-219"
+  },
+  {
+    "id": "2026-06-05-004",
+    "date": "2026-06-05",
+    "category": "grammar",
+    "tag": "word-choice",
+    "my_sentence": "Most teachers don't have interest about teaching.",
+    "correction": "Most teachers aren't interested in teaching.",
+    "explanation": "To say someone feels interest, use the adjective 'interested in', not 'have interest about'. (This is a recurring weak spot.)",
+    "correct_examples": [
+      "Many teachers aren't really interested in teaching.",
+      "She's very interested in science."
+    ],
+    "context": "Teachers who teach only for the money",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 273-285"
+  },
+  {
+    "id": "2026-06-05-005",
+    "date": "2026-06-05",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "You have to stand their behavior and habits.",
+    "correction": "You have to tolerate their behaviour and habits.",
+    "explanation": "To mean 'put up with' something annoying, use 'tolerate' (or 'put up with'); 'stand' works only in the negative ('can't stand'). Don't confuse it with 'understand'.",
+    "correct_examples": [
+      "You have to tolerate your roommate's habits.",
+      "I can't stand the noise."
+    ],
+    "context": "Sharing an apartment with roommates",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 449-467"
+  },
+  {
+    "id": "2026-06-05-006",
+    "date": "2026-06-05",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "It is a terrible experience.",
+    "correction": "It was a terrible experience.",
+    "explanation": "The experience happened in the past, so use the past tense 'was', not the present 'is'.",
+    "correct_examples": [
+      "It was a terrible experience.",
+      "The trip was a wonderful experience."
+    ],
+    "context": "Looking back on living in a dormitory",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 485-493"
+  },
+  {
+    "id": "2026-06-05-007",
+    "date": "2026-06-05",
+    "category": "grammar",
+    "tag": "comparative",
+    "my_sentence": "Many years ago their salary is more lower than now.",
+    "correction": "Many years ago their salaries were lower than now.",
+    "explanation": "Never combine 'more' with an '-er' comparative; 'lower' is already comparative. Also use past tense 'were' for the past, and plural 'salaries'.",
+    "correct_examples": [
+      "Salaries were lower ten years ago.",
+      "Prices were much lower back then."
+    ],
+    "context": "Teachers' pay used to be lower than today",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 513-517"
+  },
+  {
+    "id": "2026-06-05-008",
+    "date": "2026-06-05",
+    "category": "grammar",
+    "tag": "agreement",
+    "my_sentence": "If the English teacher have some problem and can't teach.",
+    "correction": "If the English teacher has some problems and can't teach.",
+    "explanation": "A singular subject ('the English teacher') takes 'has', not 'have'; and 'problem' should be plural 'problems' here.",
+    "correct_examples": [
+      "If the teacher has a problem, another one takes over.",
+      "If she has some problems, she tells us in advance."
+    ],
+    "context": "Teachers swapping classes when one can't teach",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 555-557"
+  },
+  {
+    "id": "2026-06-05-009",
+    "date": "2026-06-05",
+    "category": "grammar",
+    "tag": "word-order",
+    "my_sentence": "We will go to the math class to instead.",
+    "correction": "We would go to a math class instead.",
+    "explanation": "'Instead' is an adverb that comes at the end on its own — drop the 'to' before it. Also use 'a math class' (one of several).",
+    "correct_examples": [
+      "We would go to a math class instead.",
+      "He stayed home and read a book instead."
+    ],
+    "context": "Switching to another class when a teacher is away",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 559-567"
+  },
+  {
+    "id": "2026-06-05-010",
+    "date": "2026-06-05",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "People who want to become a doctor had higher interest than other jobs.",
+    "correction": "People who want to become a doctor have a higher interest than in other jobs.",
+    "explanation": "This is a general / present truth, so use the present tense 'have', not the past 'had'. The teacher reminded you: for present or future events, use the present or future tense.",
+    "correct_examples": [
+      "Students have more interest in subjects they enjoy.",
+      "People have a higher interest in well-paid jobs."
+    ],
+    "context": "How interested people are in becoming doctors",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 59-65"
+  },
+  {
+    "id": "2026-06-05-011",
+    "date": "2026-06-05",
+    "category": "grammar",
+    "tag": "word-choice",
+    "my_sentence": "It's not only for make money.",
+    "correction": "It's not only to make money.",
+    "explanation": "To express purpose before a verb, use the infinitive 'to make', not 'for make'. ('for' would need a noun: 'for money'.)",
+    "correct_examples": [
+      "They study hard to pass the exam.",
+      "He works two jobs to support his family."
+    ],
+    "context": "People become doctors for more than money",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 65-69"
+  },
+  {
+    "id": "2026-06-05-012",
+    "date": "2026-06-05",
+    "category": "collocation",
+    "tag": "word-choice",
+    "my_sentence": "Most of them give up becoming a doctor.",
+    "correction": "Most of them gave up the dream of becoming a doctor.",
+    "explanation": "The natural phrasing is 'give up the dream of (doing) something'. Here the past tense 'gave up' is also needed for the past event.",
+    "correct_examples": [
+      "She gave up the dream of becoming a singer.",
+      "Many give up the dream of studying abroad."
+    ],
+    "context": "Students who can't get the scores abandon medicine",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 85-87"
+  },
+  {
+    "id": "2026-06-05-013",
+    "date": "2026-06-05",
+    "category": "grammar",
+    "tag": "articles",
+    "my_sentence": "You can have opportunity to cure others.",
+    "correction": "You can have the opportunity to cure others.",
+    "explanation": "'Opportunity' here is a specific, definite one, so it needs the article 'the': 'have the opportunity to do something'.",
+    "correct_examples": [
+      "You'll have the opportunity to help people.",
+      "She had the opportunity to study overseas."
+    ],
+    "context": "Top students get the chance to become doctors",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 89-113"
+  },
+  {
+    "id": "2026-06-05-014",
+    "date": "2026-06-05",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "The doctor in the city had a more hectic working hours.",
+    "correction": "The doctor in the city has more hectic working hours.",
+    "explanation": "This is a present fact, so use 'has', not 'had'; and drop 'a' before the plural 'working hours'.",
+    "correct_examples": [
+      "City doctors have more hectic working hours.",
+      "She has a hectic schedule."
+    ],
+    "context": "City doctors are busier than rural ones",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 473-481"
+  },
+  {
+    "id": "2026-06-05-015",
+    "date": "2026-06-05",
+    "category": "grammar",
+    "tag": "articles",
+    "my_sentence": "You send the passenger to destination.",
+    "correction": "You send the passenger to the destination.",
+    "explanation": "'Destination' is a specific, countable noun, so it needs the article 'the': 'to the destination'.",
+    "correct_examples": [
+      "The driver takes you to the destination.",
+      "We arrived at the destination on time."
+    ],
+    "context": "What a taxi driver's job involves",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 531-535"
+  },
+  {
+    "id": "2026-06-05-016",
+    "date": "2026-06-05",
+    "category": "naturalness",
+    "tag": "word-choice",
+    "my_sentence": "I think it's no interest.",
+    "correction": "There's nothing interesting (about it).",
+    "explanation": "To say an activity is dull, say 'there's nothing interesting' or 'it's not interesting', not 'it's no interest'.",
+    "correct_examples": [
+      "There's nothing interesting about the job.",
+      "The work isn't interesting at all."
+    ],
+    "context": "A taxi driver's job is boring",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 577-585"
+  },
+  {
+    "id": "2026-06-05-017",
+    "date": "2026-06-05",
+    "category": "naturalness",
+    "tag": "word-choice",
+    "my_sentence": "It's very easy, everyone can do it.",
+    "correction": "It's very easy; anyone can do this job.",
+    "explanation": "To stress that there is no barrier and any person is able to do it, 'anyone can do this job' is more natural than 'everyone can do it'. (assistant note)",
+    "correct_examples": [
+      "It's so simple that anyone can do it.",
+      "Anyone can apply for this job."
+    ],
+    "context": "Driving a taxi has no entry barrier",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 121, 503-505"
+  }
+]
