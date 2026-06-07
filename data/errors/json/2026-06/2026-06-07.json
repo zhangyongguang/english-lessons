@@ -1,0 +1,338 @@
+[
+  {
+    "id": "2026-06-07-001",
+    "date": "2026-06-07",
+    "category": "grammar",
+    "tag": "word-order",
+    "my_sentence": "Last night I sleep not well.",
+    "correction": "Last night I did not sleep well.",
+    "explanation": "English negates a verb with do-support: 'did not sleep', not 'sleep not'. For a past event use 'did not' + the base verb.",
+    "correct_examples": [
+      "I didn't sleep well last night.",
+      "She didn't eat breakfast this morning."
+    ],
+    "context": "Describing a bad night's sleep",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 31-37"
+  },
+  {
+    "id": "2026-06-07-002",
+    "date": "2026-06-07",
+    "category": "grammar",
+    "tag": "plural",
+    "my_sentence": "In the future, if we become a billionaire, we can help others.",
+    "correction": "In the future, if we can become billionaires, we can help others.",
+    "explanation": "When the subject is plural ('we'), the predicate noun is also plural: 'we become billionaires', not 'a billionaire'.",
+    "correct_examples": [
+      "If they become millionaires, they'll travel the world.",
+      "We want to be doctors one day."
+    ],
+    "context": "Hypothetically becoming rich enough to help others",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 95-117"
+  },
+  {
+    "id": "2026-06-07-003",
+    "date": "2026-06-07",
+    "category": "grammar",
+    "tag": "word-choice",
+    "my_sentence": "We can help them away from poor.",
+    "correction": "We can help them get out of poverty.",
+    "explanation": "After a preposition you need the noun 'poverty', not the adjective 'poor'. The natural phrase is 'get/lift someone out of poverty'.",
+    "correct_examples": [
+      "The program helped many families out of poverty.",
+      "Education can lift people out of poverty."
+    ],
+    "context": "Helping poor people become rich",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 105-109"
+  },
+  {
+    "id": "2026-06-07-004",
+    "date": "2026-06-07",
+    "category": "grammar",
+    "tag": "phrasal-verb",
+    "my_sentence": "You have to give up it.",
+    "correction": "You have to give it up.",
+    "explanation": "With a separable phrasal verb, a pronoun object goes in the middle: 'give it up', never 'give up it'. (A noun can go either side.)",
+    "correct_examples": [
+      "I tried to give it up.",
+      "She turned it off / turned off the light."
+    ],
+    "context": "Giving up a purchase in order to save money",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 255-259"
+  },
+  {
+    "id": "2026-06-07-005",
+    "date": "2026-06-07",
+    "category": "grammar",
+    "tag": "word-order",
+    "my_sentence": "If you are too care about saving money, you can't catch any opportunity.",
+    "correction": "If you care too much about saving money, you can't have any opportunities.",
+    "explanation": "'Care' is a verb, so don't put 'are' before it; intensify it with 'too much' after the verb: 'care too much about'.",
+    "correct_examples": [
+      "He cares too much about money.",
+      "Don't worry too much about it."
+    ],
+    "context": "The downside of being too focused on saving",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 281-285"
+  },
+  {
+    "id": "2026-06-07-006",
+    "date": "2026-06-07",
+    "category": "collocation",
+    "tag": "collocation",
+    "my_sentence": "You can't catch any opportunity in the future.",
+    "correction": "You can't have any opportunities in the future.",
+    "explanation": "The natural collocation is 'have an opportunity' (or 'miss/take an opportunity'), not 'catch an opportunity'; and use plural 'any opportunities' in a negative.",
+    "correct_examples": [
+      "You won't have any opportunities to invest.",
+      "She took the opportunity to study abroad."
+    ],
+    "context": "Over-saving means missing future chances",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 285-293"
+  },
+  {
+    "id": "2026-06-07-007",
+    "date": "2026-06-07",
+    "category": "grammar",
+    "tag": "word-choice",
+    "my_sentence": "I don't familiar with these people.",
+    "correction": "I'm not familiar with these people.",
+    "explanation": "'Familiar' is an adjective, so it needs the be-verb: 'I'm not familiar', not 'I don't familiar' (do-support is only for ordinary verbs).",
+    "correct_examples": [
+      "I'm not familiar with this area.",
+      "She isn't familiar with the rules."
+    ],
+    "context": "Not knowing people who saved money but couldn't use it",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 411-413"
+  },
+  {
+    "id": "2026-06-07-008",
+    "date": "2026-06-07",
+    "category": "grammar",
+    "tag": "word-choice",
+    "my_sentence": "They are not belong to the people who are old and rich.",
+    "correction": "They do not belong to the people who are old and rich.",
+    "explanation": "'Belong' is an ordinary verb, so negate it with do-support: 'do not belong', not 'are not belong'.",
+    "correct_examples": [
+      "This book doesn't belong to me.",
+      "They don't belong to that group."
+    ],
+    "context": "His young friends aren't the old-and-rich type",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 437-439"
+  },
+  {
+    "id": "2026-06-07-009",
+    "date": "2026-06-07",
+    "category": "collocation",
+    "tag": "preposition",
+    "my_sentence": "I need to win the trust from them.",
+    "correction": "I need to build trust with them. / I need to earn their trust.",
+    "explanation": "You 'build trust with' someone or 'earn someone's trust' — the preposition is 'with', not 'from', and the verb is 'build/earn', not 'win'.",
+    "correct_examples": [
+      "It takes time to build trust with clients.",
+      "He earned their trust over the years."
+    ],
+    "context": "Gaining colleagues' trust before starting a business",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 477-485"
+  },
+  {
+    "id": "2026-06-07-010",
+    "date": "2026-06-07",
+    "category": "grammar",
+    "tag": "word-choice",
+    "my_sentence": "We use a POS system build by a Japanese manager.",
+    "correction": "We use a POS system built by a Japanese manager.",
+    "explanation": "A thing that something was done to takes the past participle in the passive: 'a system built by…', not 'build by…' (short for 'that was built by').",
+    "correct_examples": [
+      "It's a tool built by our own team.",
+      "The house was built in 1990."
+    ],
+    "context": "A POS system made by a former colleague",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 519-523"
+  },
+  {
+    "id": "2026-06-07-011",
+    "date": "2026-06-07",
+    "category": "grammar",
+    "tag": "word-choice",
+    "my_sentence": "Different industries will not the same.",
+    "correction": "Different industries will not be the same.",
+    "explanation": "After the modal 'will' you still need the verb 'be': 'will not be the same'. A modal can't stand without its main verb.",
+    "correct_examples": [
+      "The results will not be the same.",
+      "It won't be easy."
+    ],
+    "context": "Start-up capital differs by industry",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 27-29"
+  },
+  {
+    "id": "2026-06-07-012",
+    "date": "2026-06-07",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "It's about a relative who will died abroad and had a lot of money.",
+    "correction": "It's about a relative who died abroad and had a lot of money.",
+    "explanation": "Don't combine 'will' with a past form; for a completed past event use the simple past 'died' alone.",
+    "correct_examples": [
+      "He had an uncle who died abroad.",
+      "The man who died left a fortune."
+    ],
+    "context": "A movie plot about inheriting a fortune",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 89-91"
+  },
+  {
+    "id": "2026-06-07-013",
+    "date": "2026-06-07",
+    "category": "collocation",
+    "tag": "preposition",
+    "my_sentence": "Everyone will lose trust with him.",
+    "correction": "Everyone will lose trust in him.",
+    "explanation": "You have / lose trust 'in' someone (and 'trust someone'), not 'trust with' someone.",
+    "correct_examples": [
+      "People lost trust in the company.",
+      "I have a lot of trust in her."
+    ],
+    "context": "A gambler losing everyone's trust",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 199-205"
+  },
+  {
+    "id": "2026-06-07-014",
+    "date": "2026-06-07",
+    "category": "grammar",
+    "tag": "articles",
+    "my_sentence": "Her husband is addicted to the gambling.",
+    "correction": "Her husband is addicted to gambling.",
+    "explanation": "'Gambling' here is a general activity (uncountable), so use no article: 'addicted to gambling', not 'to the gambling'. (assistant note)",
+    "correct_examples": [
+      "He's addicted to gambling.",
+      "She's addicted to shopping."
+    ],
+    "context": "A coworker's husband's gambling addiction",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 257"
+  },
+  {
+    "id": "2026-06-07-015",
+    "date": "2026-06-07",
+    "category": "naturalness",
+    "tag": "word-choice",
+    "my_sentence": "Finally she had nothing.",
+    "correction": "In the end, she ended up with nothing.",
+    "explanation": "To describe the final result, 'ended up with nothing' is more natural than 'had nothing'; and use 'in the end' (not 'finally') for the eventual outcome.",
+    "correct_examples": [
+      "He ended up with nothing after the divorce.",
+      "They ended up losing everything."
+    ],
+    "context": "The wife of the gambler losing everything",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 273-277"
+  },
+  {
+    "id": "2026-06-07-016",
+    "date": "2026-06-07",
+    "category": "grammar",
+    "tag": "comparative",
+    "my_sentence": "Earning money by gambling is quicker than every businesses.",
+    "correction": "Earning money by gambling is quicker than setting up your own business.",
+    "explanation": "Keep the two sides of a comparison parallel (gerund vs gerund: 'earning… than setting up…'); and 'every' takes a singular noun ('every business'), never a plural.",
+    "correct_examples": [
+      "Renting is cheaper than buying a house.",
+      "Every business has risks."
+    ],
+    "context": "Why gambling feels faster than honest work",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 319-335"
+  },
+  {
+    "id": "2026-06-07-017",
+    "date": "2026-06-07",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "You must have special skills and lucky.",
+    "correction": "You must have some special skills and luck.",
+    "explanation": "After 'have' you need the noun 'luck', not the adjective 'lucky'. ('lucky' describes a person: 'you are lucky'.)",
+    "correct_examples": [
+      "You need skill and luck to win.",
+      "With a bit of luck, we'll make it."
+    ],
+    "context": "What it takes to marry into wealth",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 367-371"
+  },
+  {
+    "id": "2026-06-07-018",
+    "date": "2026-06-07",
+    "category": "grammar",
+    "tag": "adverb",
+    "my_sentence": "You can easy get it.",
+    "correction": "You can't easily get it.",
+    "explanation": "Use the adverb 'easily' to modify the verb 'get', not the adjective 'easy'. (This is a recurring weak spot.)",
+    "correct_examples": [
+      "You can't easily change it.",
+      "She easily passed the test."
+    ],
+    "context": "Marrying a rich person isn't easy",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 387-389"
+  },
+  {
+    "id": "2026-06-07-019",
+    "date": "2026-06-07",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "A man has 1 million yuan before marry.",
+    "correction": "A man has 1 million yuan before marriage.",
+    "explanation": "Use the noun 'marriage' after a preposition. ('marry' is the present-tense verb; 'get married' is the phrasal verb.) The teacher flagged this explicitly.",
+    "correct_examples": [
+      "They signed an agreement before marriage.",
+      "He saved a lot before getting married."
+    ],
+    "context": "Pre-marital property in a divorce",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 465-473, 543-547"
+  },
+  {
+    "id": "2026-06-07-020",
+    "date": "2026-06-07",
+    "category": "grammar",
+    "tag": "pronoun",
+    "my_sentence": "Marrying a rich person it's a good way to getting rich.",
+    "correction": "Marrying a rich person is a good way to get rich.",
+    "explanation": "When the gerund phrase ('Marrying a rich person') is the subject, don't add a second subject 'it's' — just use 'is'. Also 'a way to get rich' takes the infinitive 'to get', not 'to getting'. (assistant note)",
+    "correct_examples": [
+      "Saving money is a good way to get rich.",
+      "Reading every day is the best way to learn."
+    ],
+    "context": "Marrying into money as a route to wealth",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 351"
+  },
+  {
+    "id": "2026-06-07-021",
+    "date": "2026-06-07",
+    "category": "grammar",
+    "tag": "conditional",
+    "my_sentence": "If they married for two or three years, they find they are not suitable.",
+    "correction": "If they were married for a few years, they would find they were not suitable.",
+    "explanation": "In a hypothetical example keep the tenses consistent: the result clause needs 'would find', and the embedded clause backshifts to 'were not suitable'.",
+    "correct_examples": [
+      "If they stayed together, they would realize it didn't work.",
+      "If he tried it, he would find it was hard."
+    ],
+    "context": "A hypothetical short marriage ending in divorce",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 481-485"
+  }
+]
