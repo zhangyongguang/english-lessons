@@ -1131,5 +1131,181 @@
     "note": "looked up during listening practice; also a noun (road / heart bypass surgery)",
     "first_seen": "2026-06-02",
     "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+  },
+  {
+    "word": "wrongful",
+    "pos": "adjective",
+    "definition": "(of an act) unfair, unjust, or against the law",
+    "example": ["He sued the company for wrongful dismissal.", "She was freed after a wrongful conviction."],
+    "synonyms": ["unjust", "unlawful", "unfair"],
+    "topic": "communication",
+    "note": "looked up while translating; common in 'wrongful dismissal/conviction/death'",
+    "first_seen": "2026-06-10",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+  },
+  {
+    "word": "confession",
+    "pos": "noun",
+    "definition": "a statement admitting you have done something wrong or committed a crime",
+    "example": ["The suspect signed a confession.", "His confession led to a quick conviction."],
+    "synonyms": ["admission", "acknowledgment"],
+    "topic": "communication",
+    "note": "looked up while translating; verb is 'confess'",
+    "first_seen": "2026-06-10",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+  },
+  {
+    "word": "spark",
+    "pos": "verb",
+    "definition": "to cause something to start; to trigger a reaction or feeling",
+    "example": ["The new tax sparked widespread protests.", "A single comment sparked the whole argument."],
+    "synonyms": ["trigger", "provoke", "ignite"],
+    "topic": "communication",
+    "note": "looked up as 'sparked' while translating; also a noun ('a spark of interest')",
+    "first_seen": "2026-06-10",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+  },
+  {
+    "word": "surname",
+    "pos": "noun",
+    "definition": "a person's family name, shared with relatives",
+    "example": ["Please write your surname first.", "'Smith' is a very common English surname."],
+    "synonyms": ["family name", "last name"],
+    "topic": "daily",
+    "note": "looked up while translating; opposite of 'first name / given name'",
+    "first_seen": "2026-06-10",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+  },
+  {
+    "word": "charge with",
+    "pos": "phrase",
+    "definition": "to formally accuse someone of a crime",
+    "example": ["He was charged with theft.", "Police charged her with dangerous driving."],
+    "synonyms": ["accuse of", "indict for"],
+    "topic": "communication",
+    "note": "looked up while translating; legal term; followed by the offence ('charge sb with murder')",
+    "first_seen": "2026-06-10",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+  },
+  {
+    "word": "intentional",
+    "pos": "adjective",
+    "definition": "done on purpose, not by accident",
+    "example": ["The foul was clearly intentional.", "Her rudeness wasn't intentional."],
+    "synonyms": ["deliberate", "purposeful"],
+    "topic": "daily",
+    "note": "looked up while translating; opposite of 'accidental'; adverb 'intentionally'",
+    "first_seen": "2026-06-10",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+  },
+  {
+    "word": "homicide",
+    "pos": "noun",
+    "definition": "the crime of killing a person",
+    "example": ["He was charged with homicide.", "Detectives are treating the death as a homicide."],
+    "synonyms": ["murder", "manslaughter", "killing"],
+    "topic": "communication",
+    "note": "looked up while translating; legal/police term covering intentional or accidental killing",
+    "first_seen": "2026-06-10",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+  },
+  {
+    "word": "grudge",
+    "pos": "noun",
+    "definition": "a lasting feeling of resentment over a past insult or wrong",
+    "example": ["She holds a grudge against her old boss.", "He's not the type to bear a grudge."],
+    "synonyms": ["resentment", "bitterness"],
+    "topic": "emotion",
+    "note": "looked up while translating; common in 'hold/bear a grudge'",
+    "first_seen": "2026-06-10",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+  },
+  {
+    "word": "retrial",
+    "pos": "noun",
+    "definition": "a second trial of a case that has already been judged once",
+    "example": ["The judge ordered a retrial.", "New evidence led to a retrial."],
+    "synonyms": ["new trial"],
+    "topic": "communication",
+    "note": "looked up while translating; prefix 're-' = again",
+    "first_seen": "2026-06-10",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+  },
+  {
+    "word": "re-examine",
+    "pos": "verb",
+    "definition": "to look at or consider something again carefully",
+    "example": ["We need to re-examine the evidence.", "The lawyer asked to re-examine the witness."],
+    "synonyms": ["review", "reassess", "reconsider"],
+    "topic": "communication",
+    "note": "looked up as 're-examining' while translating",
+    "first_seen": "2026-06-10",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+  },
+  {
+    "word": "scramble",
+    "pos": "verb",
+    "definition": "to move or climb quickly with difficulty; or to mix something up into disorder",
+    "example": ["They scrambled up the rocky hill.", "The message was scrambled so no one could read it."],
+    "synonyms": ["clamber", "jumble", "mix up"],
+    "topic": "daily",
+    "note": "looked up as 'scrambled' while translating; senses — struggle/rush, and jumble/encrypt",
+    "first_seen": "2026-06-10",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+  },
+  {
+    "word": "shady",
+    "pos": "adjective",
+    "definition": "dishonest or of doubtful honesty; (literally) giving or full of shade",
+    "example": ["I don't trust him — he seems shady.", "He made some shady business deals."],
+    "synonyms": ["dishonest", "dubious", "dodgy"],
+    "topic": "daily",
+    "note": "looked up while translating; the 'dishonest' sense is the non-obvious one",
+    "first_seen": "2026-06-10",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+  },
+  {
+    "word": "scam",
+    "pos": "noun",
+    "definition": "a dishonest scheme to cheat people out of money",
+    "example": ["He lost money in an online scam.", "Be careful of phone scams."],
+    "synonyms": ["fraud", "con", "swindle"],
+    "topic": "business",
+    "note": "looked up while translating; also a verb ('they scammed him out of $500')",
+    "first_seen": "2026-06-10",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+  },
+  {
+    "word": "sanitation",
+    "pos": "noun",
+    "definition": "systems for keeping places clean and for disposing of sewage and waste",
+    "example": ["Poor sanitation spreads disease.", "The city improved its water and sanitation."],
+    "synonyms": ["hygiene", "sewerage"],
+    "topic": "health",
+    "note": "looked up while translating; 'sanitation worker' = 环卫工人",
+    "first_seen": "2026-06-10",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+  },
+  {
+    "word": "hospitalize",
+    "pos": "verb",
+    "definition": "to admit someone to hospital for treatment",
+    "example": ["He was hospitalized after the accident.", "She had to be hospitalized for a week."],
+    "synonyms": ["admit to hospital"],
+    "topic": "health",
+    "note": "looked up as 'hospitalized' while translating; usually passive ('be hospitalized')",
+    "first_seen": "2026-06-10",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+  },
+  {
+    "word": "proceed",
+    "pos": "verb",
+    "definition": "to continue or go ahead with something; to move forward",
+    "example": ["Let's proceed with the plan.", "Please proceed to gate 12."],
+    "synonyms": ["continue", "go ahead", "advance"],
+    "topic": "daily",
+    "note": "looked up while translating; slightly formal; note 'proceeds' (noun) = money from a sale",
+    "first_seen": "2026-06-10",
+    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
   }
 ]

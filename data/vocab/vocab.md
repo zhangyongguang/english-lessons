@@ -1,9 +1,25 @@
 # Vocabulary  (latest first)
 
-103 word(s).
+119 word(s).
 
 | Word | Meaning | Example | Date |
 |---|---|---|---|
+| proceed _(verb)_ | to continue or go ahead with something; to move forward | Let's proceed with the plan. | 2026-06-10 |
+| hospitalize _(verb)_ | to admit someone to hospital for treatment | He was hospitalized after the accident. | 2026-06-10 |
+| sanitation _(noun)_ | systems for keeping places clean and for disposing of sewage and waste | Poor sanitation spreads disease. | 2026-06-10 |
+| scam _(noun)_ | a dishonest scheme to cheat people out of money | He lost money in an online scam. | 2026-06-10 |
+| shady _(adjective)_ | dishonest or of doubtful honesty; (literally) giving or full of shade | I don't trust him — he seems shady. | 2026-06-10 |
+| scramble _(verb)_ | to move or climb quickly with difficulty; or to mix something up into disorder | They scrambled up the rocky hill. | 2026-06-10 |
+| re-examine _(verb)_ | to look at or consider something again carefully | We need to re-examine the evidence. | 2026-06-10 |
+| retrial _(noun)_ | a second trial of a case that has already been judged once | The judge ordered a retrial. | 2026-06-10 |
+| grudge _(noun)_ | a lasting feeling of resentment over a past insult or wrong | She holds a grudge against her old boss. | 2026-06-10 |
+| homicide _(noun)_ | the crime of killing a person | He was charged with homicide. | 2026-06-10 |
+| intentional _(adjective)_ | done on purpose, not by accident | The foul was clearly intentional. | 2026-06-10 |
+| charge with _(phrase)_ | to formally accuse someone of a crime | He was charged with theft. | 2026-06-10 |
+| surname _(noun)_ | a person's family name, shared with relatives | Please write your surname first. | 2026-06-10 |
+| spark _(verb)_ | to cause something to start; to trigger a reaction or feeling | The new tax sparked widespread protests. | 2026-06-10 |
+| confession _(noun)_ | a statement admitting you have done something wrong or committed a crime | The suspect signed a confession. | 2026-06-10 |
+| wrongful _(adjective)_ | (of an act) unfair, unjust, or against the law | He sued the company for wrongful dismissal. | 2026-06-10 |
 | bypass _(verb)_ | to go around or avoid something; (noun) a road around a town, or a heart operation | You can bypass the city center by taking this road. | 2026-06-02 |
 | pro-democracy _(adjective)_ | supporting democracy and democratic reform | Thousands joined the pro-democracy protests. | 2026-06-02 |
 | extradition _(noun)_ | the official handing over of an accused person to another country to be tried | The US requested his extradition. | 2026-06-02 |
