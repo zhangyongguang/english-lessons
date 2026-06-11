@@ -1,9 +1,36 @@
 # Vocabulary  (latest first)
 
-119 word(s).
+146 word(s).
 
 | Word | Meaning | Example | Date |
 |---|---|---|---|
+| in order _(phrase)_ | ① arranged neatly or correctly; ② proper, valid, or appropriate | Get your affairs in order. | 2026-06-11 |
+| forge _(verb)_ | ① to make an illegal copy to deceive; ② to shape metal by heating and hammering; ③ to create (a relationship) with effort | He forged her signature. | 2026-06-11 |
+| guideline _(noun)_ | a piece of advice or a rule about how to do something | Follow the safety guidelines. | 2026-06-11 |
+| barbed wire _(noun)_ | wire with sharp points along it, used for fences or barriers | The camp was surrounded by barbed wire. | 2026-06-11 |
+| red line _(idiom)_ | a limit that must not be crossed; an issue on which no compromise is allowed | Using chemical weapons would cross a red line. | 2026-06-11 |
+| outcry _(noun)_ | a strong public expression of anger or protest | The decision sparked a public outcry. | 2026-06-11 |
+| go through _(phrase)_ | ① to experience (esp. something difficult); ② to examine carefully; ③ (of a deal/law) to be approved | She's going through a tough time. | 2026-06-11 |
+| chronic _(adjective)_ | (of an illness or problem) lasting a long time and hard to cure or stop | She suffers from chronic pain. | 2026-06-11 |
+| treatment _(noun)_ | ① medical care for an illness; ② the way someone or something is dealt with; ③ a process applied to a material | He is receiving treatment for cancer. | 2026-06-11 |
+| tidal _(adjective)_ | relating to or affected by the tides of the sea | Tidal energy is a renewable resource. | 2026-06-11 |
+| legislate _(verb)_ | to make or pass laws | The government plans to legislate against discrimination. | 2026-06-11 |
+| judgement _(noun)_ | ① the ability to make sensible decisions; ② an opinion or evaluation; ③ a court ruling | Use your own judgement. | 2026-06-11 |
+| depict _(verb)_ | to show or describe something in a picture, writing, etc.; to portray | The painting depicts a battle. | 2026-06-11 |
+| obscene _(adjective)_ | offensive or disgusting by accepted standards, esp. sexually; also: shockingly large/unfair | They removed the obscene photos. | 2026-06-11 |
+| anticipate _(verb)_ | to expect something and often prepare for it in advance | We anticipate strong demand. | 2026-06-11 |
+| probation _(noun)_ | ① a period of supervision instead of prison for an offender; ② a trial period for a new employee | He was put on probation for two years. | 2026-06-11 |
+| flat out _(idiom)_ | ① directly and bluntly (refuse/deny); ② as fast or hard as possible | He flat out refused. | 2026-06-11 |
+| crackdown _(noun)_ | severe action taken to stop or punish illegal or unacceptable behavior | The government launched a crackdown on tax evasion. | 2026-06-11 |
+| abbreviate _(verb)_ | to shorten a word or text; to make something shorter | "Doctor" is abbreviated to "Dr." | 2026-06-11 |
+| shiver _(verb)_ | to shake slightly because of cold, fear, or fever | She was shivering in the cold. | 2026-06-11 |
+| well off _(phrase)_ | having plenty of money; wealthy; also: in a good or fortunate situation | Her family is quite well off. | 2026-06-11 |
+| explicit _(adjective)_ | stated clearly and in detail, leaving no room for confusion; also: showing sex/violence openly | She gave explicit instructions. | 2026-06-11 |
+| netizen _(noun)_ | an active or frequent user of the internet (internet + citizen) | Netizens criticized the policy online. | 2026-06-11 |
+| reverse _(verb)_ | to change something to its opposite; to turn around or undo (a decision, direction, order) | The court reversed the decision. | 2026-06-11 |
+| cripple _(verb)_ | to seriously damage someone or something so it can no longer function normally; to make a person unable to walk or move properly | The strike crippled the airline. | 2026-06-11 |
+| overstate _(verb)_ | to describe or explain something as larger, more important, or more serious than it really is; to exaggerate | Don't overstate the problem. | 2026-06-11 |
+| on the spot _(idiom)_ | at once, immediately, and right where you are; (put sb on the spot) to force someone to answer or act with no time to prepare, often causing embarrassment | He decided on the spot. | 2026-06-11 |
 | proceed _(verb)_ | to continue or go ahead with something; to move forward | Let's proceed with the plan. | 2026-06-10 |
 | hospitalize _(verb)_ | to admit someone to hospital for treatment | He was hospitalized after the accident. | 2026-06-10 |
 | sanitation _(noun)_ | systems for keeping places clean and for disposing of sewage and waste | Poor sanitation spreads disease. | 2026-06-10 |

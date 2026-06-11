@@ -3,1309 +3,3061 @@
     "word": "take down",
     "pos": "phrase",
     "definition": "to write down information, especially something said aloud",
-    "example": ["Let me take down your phone number.", "The officer took down every detail of the witness's statement."],
-    "synonyms": ["note down", "write down", "record"],
+    "example": [
+      "Let me take down your phone number.",
+      "The officer took down every detail of the witness's statement."
+    ],
+    "synonyms": [
+      "note down",
+      "write down",
+      "record"
+    ],
     "topic": "communication",
     "note": "looked up while doing listening practice; in listening it usually means 'to record/note', not 'to dismantle'",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "mesh",
     "pos": "noun",
     "definition": "material made of a net of wire or thread with small open spaces between",
-    "example": ["The window has a fine mesh to keep insects out.", "The bag is made of a light nylon mesh."],
-    "synonyms": ["net", "netting"],
+    "example": [
+      "The window has a fine mesh to keep insects out.",
+      "The bag is made of a light nylon mesh."
+    ],
+    "synonyms": [
+      "net",
+      "netting"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice; can also be a verb meaning 'to fit/work together'",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "engulf",
     "pos": "verb",
     "definition": "to surround or cover someone or something completely",
-    "example": ["Flames quickly engulfed the building.", "She was engulfed by a wave of sadness."],
-    "synonyms": ["overwhelm", "swallow up", "submerge"],
+    "example": [
+      "Flames quickly engulfed the building.",
+      "She was engulfed by a wave of sadness."
+    ],
+    "synonyms": [
+      "overwhelm",
+      "swallow up",
+      "submerge"
+    ],
     "topic": "nature",
     "note": "looked up during listening practice; often used for fire, water, or strong emotions",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "in no time",
     "pos": "idiom",
     "definition": "very quickly; in a very short while",
-    "example": ["Don't worry, we'll be there in no time.", "With the new tool, the job was done in no time."],
-    "synonyms": ["very soon", "quickly", "in a flash"],
+    "example": [
+      "Don't worry, we'll be there in no time.",
+      "With the new tool, the job was done in no time."
+    ],
+    "synonyms": [
+      "very soon",
+      "quickly",
+      "in a flash"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "brigade",
     "pos": "noun",
     "definition": "a large group of soldiers; also an organized group of people working together",
-    "example": ["The fire brigade arrived within minutes.", "An army brigade was sent to the border."],
-    "synonyms": ["unit", "team", "squad"],
+    "example": [
+      "The fire brigade arrived within minutes.",
+      "An army brigade was sent to the border."
+    ],
+    "synonyms": [
+      "unit",
+      "team",
+      "squad"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice; common in 'fire brigade'",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "assist",
     "pos": "verb",
     "definition": "to help someone do something",
-    "example": ["A nurse assisted the doctor during surgery.", "Can you assist me with this report?"],
-    "synonyms": ["help", "aid", "support"],
+    "example": [
+      "A nurse assisted the doctor during surgery.",
+      "Can you assist me with this report?"
+    ],
+    "synonyms": [
+      "help",
+      "aid",
+      "support"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "pearl",
     "pos": "noun",
     "definition": "a small, hard, shiny white ball formed inside an oyster, used as a jewel",
-    "example": ["She wore a necklace of white pearls.", "Pearls form when sand gets inside an oyster's shell."],
+    "example": [
+      "She wore a necklace of white pearls.",
+      "Pearls form when sand gets inside an oyster's shell."
+    ],
     "synonyms": [],
     "topic": "daily",
     "note": "looked up during listening practice",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "facade",
     "pos": "noun",
     "definition": "the front of a building; also a false outward appearance hiding the truth",
-    "example": ["The hotel has a beautiful stone facade.", "Behind his calm facade, he was very nervous."],
-    "synonyms": ["front", "exterior", "appearance"],
+    "example": [
+      "The hotel has a beautiful stone facade.",
+      "Behind his calm facade, he was very nervous."
+    ],
+    "synonyms": [
+      "front",
+      "exterior",
+      "appearance"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice; two senses — building front, and a fake outward show",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "inflated",
     "pos": "adjective",
     "definition": "filled with air; or (of prices/figures) made higher than is reasonable; exaggerated",
-    "example": ["The prices here are really inflated.", "He gave an inflated account of his own role."],
-    "synonyms": ["exaggerated", "overblown"],
+    "example": [
+      "The prices here are really inflated.",
+      "He gave an inflated account of his own role."
+    ],
+    "synonyms": [
+      "exaggerated",
+      "overblown"
+    ],
     "topic": "business",
     "note": "looked up during listening practice",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "contractor",
     "pos": "noun",
     "definition": "a person or company hired to do work, especially building work",
-    "example": ["We hired a contractor to build the garage.", "The contractor finished the project ahead of schedule."],
-    "synonyms": ["builder"],
+    "example": [
+      "We hired a contractor to build the garage.",
+      "The contractor finished the project ahead of schedule."
+    ],
+    "synonyms": [
+      "builder"
+    ],
     "topic": "business",
     "note": "looked up during listening practice",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "exterior",
     "pos": "noun",
     "definition": "the outside of something, especially a building",
-    "example": ["They painted the exterior of the house white.", "The car's exterior was scratched."],
-    "synonyms": ["outside", "facade"],
+    "example": [
+      "They painted the exterior of the house white.",
+      "The car's exterior was scratched."
+    ],
+    "synonyms": [
+      "outside",
+      "facade"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice; opposite of interior; can also be an adjective ('exterior wall')",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "intangible",
     "pos": "adjective",
     "definition": "not able to be touched or measured; hard to define",
-    "example": ["Trust is intangible but very valuable.", "The brand's reputation is an intangible asset."],
-    "synonyms": ["abstract"],
+    "example": [
+      "Trust is intangible but very valuable.",
+      "The brand's reputation is an intangible asset."
+    ],
+    "synonyms": [
+      "abstract"
+    ],
     "topic": "business",
     "note": "looked up during listening practice; opposite of tangible",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "erect",
     "pos": "verb",
     "definition": "to build or put up a structure",
-    "example": ["Workers are erecting a new bridge.", "They erected a tent in the field."],
-    "synonyms": ["build", "construct", "put up"],
+    "example": [
+      "Workers are erecting a new bridge.",
+      "They erected a tent in the field."
+    ],
+    "synonyms": [
+      "build",
+      "construct",
+      "put up"
+    ],
     "topic": "daily",
     "note": "looked up as 'erecting' during listening practice",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "wage",
     "pos": "noun",
     "definition": "money paid to a worker, usually by the hour or week",
-    "example": ["The average wage in this city is quite high.", "Workers demanded higher wages."],
-    "synonyms": ["pay", "salary", "earnings"],
+    "example": [
+      "The average wage in this city is quite high.",
+      "Workers demanded higher wages."
+    ],
+    "synonyms": [
+      "pay",
+      "salary",
+      "earnings"
+    ],
     "topic": "business",
     "note": "looked up as 'average wage' during listening practice",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "flammable",
     "pos": "adjective",
     "definition": "easily set on fire",
-    "example": ["Keep flammable liquids away from the stove.", "The label warns that the gas is highly flammable."],
-    "synonyms": ["inflammable", "combustible"],
+    "example": [
+      "Keep flammable liquids away from the stove.",
+      "The label warns that the gas is highly flammable."
+    ],
+    "synonyms": [
+      "inflammable",
+      "combustible"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "face it out",
     "pos": "idiom",
     "definition": "to bravely deal with a difficult situation instead of avoiding it",
-    "example": ["He decided to stay and face it out.", "Rather than run away, she faced it out."],
-    "synonyms": ["brave it out", "tough it out"],
+    "example": [
+      "He decided to stay and face it out.",
+      "Rather than run away, she faced it out."
+    ],
+    "synonyms": [
+      "brave it out",
+      "tough it out"
+    ],
     "topic": "emotion",
     "note": "looked up during listening practice",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "phase out",
     "pos": "phrase",
     "definition": "to stop using or producing something gradually, in stages",
-    "example": ["The company will phase out the old model next year.", "They are phasing out plastic bags."],
-    "synonyms": ["discontinue", "wind down"],
+    "example": [
+      "The company will phase out the old model next year.",
+      "They are phasing out plastic bags."
+    ],
+    "synonyms": [
+      "discontinue",
+      "wind down"
+    ],
     "topic": "business",
     "note": "looked up during listening practice; opposite is 'phase in'",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "distinctive",
     "pos": "adjective",
     "definition": "having a special quality that makes something easy to recognize",
-    "example": ["The bird has a distinctive red head.", "Her voice is very distinctive."],
-    "synonyms": ["unique", "characteristic"],
+    "example": [
+      "The bird has a distinctive red head.",
+      "Her voice is very distinctive."
+    ],
+    "synonyms": [
+      "unique",
+      "characteristic"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "break off",
     "pos": "phrase",
     "definition": "to suddenly stop something; or to separate a piece by breaking",
-    "example": ["She broke off in the middle of her sentence.", "He broke off a piece of chocolate."],
-    "synonyms": ["stop", "discontinue", "snap off"],
+    "example": [
+      "She broke off in the middle of her sentence.",
+      "He broke off a piece of chocolate."
+    ],
+    "synonyms": [
+      "stop",
+      "discontinue",
+      "snap off"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "infamous",
     "pos": "adjective",
     "definition": "well known for something bad",
-    "example": ["The area is infamous for crime.", "He is an infamous criminal."],
-    "synonyms": ["notorious"],
+    "example": [
+      "The area is infamous for crime.",
+      "He is an infamous criminal."
+    ],
+    "synonyms": [
+      "notorious"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice; negative version of 'famous'",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "sensible",
     "pos": "adjective",
     "definition": "reasonable and showing good judgment",
-    "example": ["That's a sensible approach to the problem.", "She made a sensible decision."],
-    "synonyms": ["reasonable", "practical", "wise"],
+    "example": [
+      "That's a sensible approach to the problem.",
+      "She made a sensible decision."
+    ],
+    "synonyms": [
+      "reasonable",
+      "practical",
+      "wise"
+    ],
     "topic": "daily",
     "note": "looked up as 'sensible approach' during listening practice; note: 'sensible' = reasonable, not the same as 'sensitive'",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 2, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 2,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "compliant",
     "pos": "adjective",
     "definition": "willing to obey or agree; or meeting official rules and standards",
-    "example": ["The new car is compliant with safety rules.", "He was quiet and compliant, never arguing."],
-    "synonyms": ["obedient", "conforming"],
+    "example": [
+      "The new car is compliant with safety rules.",
+      "He was quiet and compliant, never arguing."
+    ],
+    "synonyms": [
+      "obedient",
+      "conforming"
+    ],
     "topic": "business",
     "note": "looked up during listening practice; common as 'compliant with' rules/standards",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "underway",
     "pos": "adjective",
     "definition": "already started and in progress",
-    "example": ["The project is now underway.", "Preparations for the event are well underway."],
-    "synonyms": ["in progress", "ongoing"],
+    "example": [
+      "The project is now underway.",
+      "Preparations for the event are well underway."
+    ],
+    "synonyms": [
+      "in progress",
+      "ongoing"
+    ],
     "topic": "business",
     "note": "looked up during listening practice",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "oversight",
     "pos": "noun",
     "definition": "supervision or control; or a mistake made by not noticing something",
-    "example": ["Missing the deadline was an oversight on my part.", "The committee provides oversight of the budget."],
-    "synonyms": ["supervision", "lapse", "omission"],
+    "example": [
+      "Missing the deadline was an oversight on my part.",
+      "The committee provides oversight of the budget."
+    ],
+    "synonyms": [
+      "supervision",
+      "lapse",
+      "omission"
+    ],
     "topic": "business",
     "note": "looked up during listening practice; two senses — supervision, and an accidental error",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "time and time again",
     "pos": "idiom",
     "definition": "repeatedly; many times over",
-    "example": ["I've told him time and time again to be careful.", "Time and time again, she proved them wrong."],
-    "synonyms": ["repeatedly", "over and over", "again and again"],
+    "example": [
+      "I've told him time and time again to be careful.",
+      "Time and time again, she proved them wrong."
+    ],
+    "synonyms": [
+      "repeatedly",
+      "over and over",
+      "again and again"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "dedicated",
     "pos": "adjective",
     "definition": "giving a lot of time and effort to something; or set aside for one special purpose",
-    "example": ["She's a dedicated teacher who stays late every day.", "This is a dedicated server for backups."],
-    "synonyms": ["committed", "devoted"],
+    "example": [
+      "She's a dedicated teacher who stays late every day.",
+      "This is a dedicated server for backups."
+    ],
+    "synonyms": [
+      "committed",
+      "devoted"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice; two senses — hardworking/devoted, and reserved for one use",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "shortcoming",
     "pos": "noun",
     "definition": "a fault or weakness; a failure to reach a good standard",
-    "example": ["Despite its shortcomings, the plan worked.", "He admitted his own shortcomings."],
-    "synonyms": ["weakness", "flaw", "defect"],
+    "example": [
+      "Despite its shortcomings, the plan worked.",
+      "He admitted his own shortcomings."
+    ],
+    "synonyms": [
+      "weakness",
+      "flaw",
+      "defect"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice; often used in plural",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "in terms of",
     "pos": "phrase",
     "definition": "with regard to a particular aspect or subject",
-    "example": ["In terms of price, this one is better.", "The plan is risky in terms of cost."],
-    "synonyms": ["regarding", "with respect to"],
+    "example": [
+      "In terms of price, this one is better.",
+      "The plan is risky in terms of cost."
+    ],
+    "synonyms": [
+      "regarding",
+      "with respect to"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice; used to specify which angle you're talking about",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 2, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 2,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "rush out",
     "pos": "phrase",
     "definition": "to leave quickly; or to release a product hurriedly",
-    "example": ["She rushed out of the room in tears.", "They rushed out the new phone before testing it properly."],
-    "synonyms": ["dash out", "hurry out"],
+    "example": [
+      "She rushed out of the room in tears.",
+      "They rushed out the new phone before testing it properly."
+    ],
+    "synonyms": [
+      "dash out",
+      "hurry out"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice; two senses — leave fast, and launch in a hurry",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "go door to door",
     "pos": "phrase",
     "definition": "to visit each house in turn, e.g. to sell or ask for something",
-    "example": ["Volunteers went door to door asking for donations.", "Salesmen used to go door to door."],
+    "example": [
+      "Volunteers went door to door asking for donations.",
+      "Salesmen used to go door to door."
+    ],
     "synonyms": [],
     "topic": "daily",
     "note": "looked up during listening practice",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "committee",
     "pos": "noun",
     "definition": "a group of people chosen to make decisions or manage something",
-    "example": ["The committee meets every Monday.", "She was elected to the planning committee."],
-    "synonyms": ["board", "panel"],
+    "example": [
+      "The committee meets every Monday.",
+      "She was elected to the planning committee."
+    ],
+    "synonyms": [
+      "board",
+      "panel"
+    ],
     "topic": "business",
     "note": "looked up during listening practice; note the spelling (double m, double t, double e)",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "subtext",
     "pos": "noun",
     "definition": "an underlying meaning that is not stated directly",
-    "example": ["The subtext of her message was that she was angry.", "There's a clear subtext of jealousy in the play."],
-    "synonyms": ["undertone", "implication"],
+    "example": [
+      "The subtext of her message was that she was angry.",
+      "There's a clear subtext of jealousy in the play."
+    ],
+    "synonyms": [
+      "undertone",
+      "implication"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "rotation",
     "pos": "noun",
     "definition": "the act of turning; or a regular taking of turns among people or things",
-    "example": ["The Earth's rotation takes 24 hours.", "Nurses work in rotation, changing shifts each week."],
-    "synonyms": ["turning", "cycle"],
+    "example": [
+      "The Earth's rotation takes 24 hours.",
+      "Nurses work in rotation, changing shifts each week."
+    ],
+    "synonyms": [
+      "turning",
+      "cycle"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice; two senses — spinning, and taking turns",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "back off",
     "pos": "phrase",
     "definition": "to move away; or to stop pressuring or interfering",
-    "example": ["Back off and give him some space.", "The company backed off from the deal."],
-    "synonyms": ["retreat", "withdraw", "ease off"],
+    "example": [
+      "Back off and give him some space.",
+      "The company backed off from the deal."
+    ],
+    "synonyms": [
+      "retreat",
+      "withdraw",
+      "ease off"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "revive",
     "pos": "verb",
     "definition": "to bring back to life, consciousness, or activity",
-    "example": ["Doctors managed to revive the patient.", "They hope to revive the local economy."],
-    "synonyms": ["restore", "resurrect", "rejuvenate"],
+    "example": [
+      "Doctors managed to revive the patient.",
+      "They hope to revive the local economy."
+    ],
+    "synonyms": [
+      "restore",
+      "resurrect",
+      "rejuvenate"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "reach out",
     "pos": "phrase",
     "definition": "to extend a hand; or to contact someone to offer or ask for help",
-    "example": ["Feel free to reach out if you have questions.", "She reached out to old friends online."],
-    "synonyms": ["contact", "get in touch"],
+    "example": [
+      "Feel free to reach out if you have questions.",
+      "She reached out to old friends online."
+    ],
+    "synonyms": [
+      "contact",
+      "get in touch"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice; very common in work emails",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "pin down",
     "pos": "phrase",
     "definition": "to hold firmly in place; or to define or establish something exactly",
-    "example": ["It's hard to pin down the exact cause.", "The wrestler pinned his opponent down."],
-    "synonyms": ["identify", "establish", "specify"],
+    "example": [
+      "It's hard to pin down the exact cause.",
+      "The wrestler pinned his opponent down."
+    ],
+    "synonyms": [
+      "identify",
+      "establish",
+      "specify"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice; two senses — hold down, and make precise",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "readout",
     "pos": "noun",
     "definition": "data shown by a device; or a summary report after a meeting or event",
-    "example": ["The screen gave a clear temperature readout.", "She sent a readout of the meeting to the team."],
-    "synonyms": ["display", "summary", "briefing"],
+    "example": [
+      "The screen gave a clear temperature readout.",
+      "She sent a readout of the meeting to the team."
+    ],
+    "synonyms": [
+      "display",
+      "summary",
+      "briefing"
+    ],
     "topic": "business",
     "note": "looked up during listening practice; two senses — instrument display, and a post-meeting summary",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "nail down",
     "pos": "phrase",
     "definition": "to fix in place with nails; or to settle or define something firmly",
-    "example": ["Let's nail down the date for the meeting.", "We need to nail down the final price."],
-    "synonyms": ["finalize", "settle", "confirm"],
+    "example": [
+      "Let's nail down the date for the meeting.",
+      "We need to nail down the final price."
+    ],
+    "synonyms": [
+      "finalize",
+      "settle",
+      "confirm"
+    ],
     "topic": "business",
     "note": "looked up during listening practice; close to 'pin down' for the 'make definite' sense",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "follow-up",
     "pos": "noun",
     "definition": "a further action or contact made after something earlier",
-    "example": ["The doctor scheduled a follow-up next week.", "I sent a follow-up email to remind them."],
-    "synonyms": ["follow-through"],
+    "example": [
+      "The doctor scheduled a follow-up next week.",
+      "I sent a follow-up email to remind them."
+    ],
+    "synonyms": [
+      "follow-through"
+    ],
     "topic": "business",
     "note": "looked up during listening practice; can also be a verb 'follow up' (no hyphen)",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "unpack",
     "pos": "verb",
     "definition": "to take things out of a bag or box; or to analyze a complex idea in detail",
-    "example": ["Let me unpack this idea a bit more.", "She unpacked her suitcase as soon as she arrived."],
-    "synonyms": ["analyze", "break down"],
+    "example": [
+      "Let me unpack this idea a bit more.",
+      "She unpacked her suitcase as soon as she arrived."
+    ],
+    "synonyms": [
+      "analyze",
+      "break down"
+    ],
     "topic": "communication",
     "note": "looked up as 'unpacking' during listening practice; figurative sense = explain in detail",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "endorse",
     "pos": "verb",
     "definition": "to publicly support or approve of someone or something",
-    "example": ["The mayor endorsed the new plan.", "A famous athlete endorses the brand."],
-    "synonyms": ["support", "back", "approve"],
+    "example": [
+      "The mayor endorsed the new plan.",
+      "A famous athlete endorses the brand."
+    ],
+    "synonyms": [
+      "support",
+      "back",
+      "approve"
+    ],
     "topic": "business",
     "note": "looked up during listening practice; used for public approval / celebrity endorsement",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 2, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 2,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "promptly",
     "pos": "adverb",
     "definition": "quickly without delay; or exactly on time",
-    "example": ["She replied promptly to my email.", "The meeting started promptly at nine."],
-    "synonyms": ["quickly", "immediately", "punctually"],
+    "example": [
+      "She replied promptly to my email.",
+      "The meeting started promptly at nine."
+    ],
+    "synonyms": [
+      "quickly",
+      "immediately",
+      "punctually"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "conducive",
     "pos": "adjective",
     "definition": "helping to make something happen; favorable to",
-    "example": ["A quiet room is conducive to studying.", "The warm weather is conducive to plant growth."],
-    "synonyms": ["favorable", "helpful"],
+    "example": [
+      "A quiet room is conducive to studying.",
+      "The warm weather is conducive to plant growth."
+    ],
+    "synonyms": [
+      "favorable",
+      "helpful"
+    ],
     "topic": "academic",
     "note": "looked up during listening practice; almost always 'conducive to'",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "come up",
     "pos": "phrase",
     "definition": "to be mentioned or arise; to approach; or (of an event) to be about to happen",
-    "example": ["Your name came up in the meeting.", "A problem has come up."],
-    "synonyms": ["arise", "be raised"],
+    "example": [
+      "Your name came up in the meeting.",
+      "A problem has come up."
+    ],
+    "synonyms": [
+      "arise",
+      "be raised"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice; very common, several senses",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "reprimand",
     "pos": "verb",
     "definition": "to criticize someone formally and severely for a fault",
-    "example": ["The manager reprimanded him for being late.", "She was reprimanded for breaking the rules."],
-    "synonyms": ["rebuke", "scold", "tell off"],
+    "example": [
+      "The manager reprimanded him for being late.",
+      "She was reprimanded for breaking the rules."
+    ],
+    "synonyms": [
+      "rebuke",
+      "scold",
+      "tell off"
+    ],
     "topic": "business",
     "note": "looked up as 'reprimanded' during listening practice; more formal than 'scold'",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "cool off",
     "pos": "phrase",
     "definition": "to become cooler; or to calm down after being angry or excited",
-    "example": ["Take a walk to cool off before you reply.", "Let the soup cool off a little."],
-    "synonyms": ["calm down", "cool down"],
+    "example": [
+      "Take a walk to cool off before you reply.",
+      "Let the soup cool off a little."
+    ],
+    "synonyms": [
+      "calm down",
+      "cool down"
+    ],
     "topic": "emotion",
     "note": "looked up during listening practice; can describe temperature, emotions, or fading enthusiasm",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "shift back",
     "pos": "phrase",
     "definition": "to move back to a previous position or state; to switch back",
-    "example": ["Let's shift back to the original plan.", "The seat shifted back when he leaned on it."],
-    "synonyms": ["move back", "switch back", "revert"],
+    "example": [
+      "Let's shift back to the original plan.",
+      "The seat shifted back when he leaned on it."
+    ],
+    "synonyms": [
+      "move back",
+      "switch back",
+      "revert"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice",
     "first_seen": "2026-05-29",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-05-29" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-05-29"
+    }
   },
   {
     "word": "deliver",
     "pos": "verb",
     "definition": "to take goods to someone; or to give a speech; or to do what you promised",
-    "example": ["They deliver pizza to your door.", "The CEO delivered an inspiring speech and delivered on her promises."],
-    "synonyms": ["bring", "hand over", "fulfill"],
+    "example": [
+      "They deliver pizza to your door.",
+      "The CEO delivered an inspiring speech and delivered on her promises."
+    ],
+    "synonyms": [
+      "bring",
+      "hand over",
+      "fulfill"
+    ],
     "topic": "business",
     "note": "looked up during listening practice; senses — take to, give (speech), and fulfill (a promise)",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "grief",
     "pos": "noun",
     "definition": "deep sadness, especially after someone dies",
-    "example": ["She was overcome with grief at the funeral.", "It took him years to get over his grief."],
-    "synonyms": ["sorrow", "mourning", "heartache"],
+    "example": [
+      "She was overcome with grief at the funeral.",
+      "It took him years to get over his grief."
+    ],
+    "synonyms": [
+      "sorrow",
+      "mourning",
+      "heartache"
+    ],
     "topic": "emotion",
     "note": "looked up during listening practice",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "outrage",
     "pos": "noun",
     "definition": "strong anger and shock; or an act that causes this",
-    "example": ["The decision caused public outrage.", "People expressed outrage at the cruel attack."],
-    "synonyms": ["fury", "indignation"],
+    "example": [
+      "The decision caused public outrage.",
+      "People expressed outrage at the cruel attack."
+    ],
+    "synonyms": [
+      "fury",
+      "indignation"
+    ],
     "topic": "emotion",
     "note": "looked up during listening practice; can also be a verb ('the news outraged everyone')",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "dictate",
     "pos": "verb",
     "definition": "to say words aloud for someone to write down; or to command or control something",
-    "example": ["She dictated the letter to her assistant.", "The weather will dictate our plans for the day."],
-    "synonyms": ["command", "determine", "impose"],
+    "example": [
+      "She dictated the letter to her assistant.",
+      "The weather will dictate our plans for the day."
+    ],
+    "synonyms": [
+      "command",
+      "determine",
+      "impose"
+    ],
     "topic": "communication",
     "note": "looked up as 'dictating' during listening practice; two senses — say for writing, and control/decide",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "stay out",
     "pos": "phrase",
     "definition": "to remain outside or away; to not get involved",
-    "example": ["Stay out of it — it's not your problem.", "The kids stayed out until dark."],
-    "synonyms": ["keep out", "steer clear"],
+    "example": [
+      "Stay out of it — it's not your problem.",
+      "The kids stayed out until dark."
+    ],
+    "synonyms": [
+      "keep out",
+      "steer clear"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice; 'stay out of it' = don't interfere",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "fist",
     "pos": "noun",
     "definition": "a hand with the fingers closed tightly together",
-    "example": ["He banged his fist on the table.", "She raised her fist in protest."],
+    "example": [
+      "He banged his fist on the table.",
+      "She raised her fist in protest."
+    ],
     "synonyms": [],
     "topic": "daily",
     "note": "looked up during listening practice",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "in reality",
     "pos": "phrase",
     "definition": "used to say what is actually true, in contrast to how things seem",
-    "example": ["He seems confident, but in reality he's shy.", "In reality, the project took twice as long."],
-    "synonyms": ["actually", "in fact"],
+    "example": [
+      "He seems confident, but in reality he's shy.",
+      "In reality, the project took twice as long."
+    ],
+    "synonyms": [
+      "actually",
+      "in fact"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice; corrects or contrasts with appearances",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "fate",
     "pos": "noun",
     "definition": "the power believed to control events; or what finally happens to someone",
-    "example": ["No one knows what fate has in store.", "The court will decide his fate tomorrow."],
-    "synonyms": ["destiny", "fortune"],
+    "example": [
+      "No one knows what fate has in store.",
+      "The court will decide his fate tomorrow."
+    ],
+    "synonyms": [
+      "destiny",
+      "fortune"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "pep talk",
     "pos": "noun",
     "definition": "a short speech meant to encourage someone or boost confidence",
-    "example": ["The coach gave the team a pep talk before the game.", "I needed a quick pep talk before the interview."],
-    "synonyms": ["encouragement"],
+    "example": [
+      "The coach gave the team a pep talk before the game.",
+      "I needed a quick pep talk before the interview."
+    ],
+    "synonyms": [
+      "encouragement"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice; informal",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "pyramid",
     "pos": "noun",
     "definition": "a structure with a square base and triangular sides meeting at a point; or a structure shaped like this",
-    "example": ["We visited the pyramids in Egypt.", "The company has a clear pyramid structure."],
+    "example": [
+      "We visited the pyramids in Egypt.",
+      "The company has a clear pyramid structure."
+    ],
     "synonyms": [],
     "topic": "daily",
     "note": "looked up during listening practice; also used figuratively for hierarchies",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "obsession",
     "pos": "noun",
     "definition": "a thought or interest that fills your mind and you cannot stop thinking about",
-    "example": ["Her obsession with cleanliness drives everyone crazy.", "Football is his only obsession."],
-    "synonyms": ["fixation", "preoccupation"],
+    "example": [
+      "Her obsession with cleanliness drives everyone crazy.",
+      "Football is his only obsession."
+    ],
+    "synonyms": [
+      "fixation",
+      "preoccupation"
+    ],
     "topic": "emotion",
     "note": "looked up during listening practice",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 2, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 2,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "plead guilty",
     "pos": "phrase",
     "definition": "to formally admit in court that you committed the crime",
-    "example": ["He pleaded guilty to theft.", "She decided to plead guilty and avoid a trial."],
-    "synonyms": ["admit guilt"],
+    "example": [
+      "He pleaded guilty to theft.",
+      "She decided to plead guilty and avoid a trial."
+    ],
+    "synonyms": [
+      "admit guilt"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice; legal term; opposite is 'plead not guilty'",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "crack",
     "pos": "verb",
     "definition": "to break with a sharp sound or form a line of damage; or to solve/break a difficult problem or code",
-    "example": ["The glass cracked when I dropped it.", "They finally cracked the code."],
-    "synonyms": ["split", "break", "solve"],
+    "example": [
+      "The glass cracked when I dropped it.",
+      "They finally cracked the code."
+    ],
+    "synonyms": [
+      "split",
+      "break",
+      "solve"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice; also a noun ('a crack in the wall'); 'crack a problem' = solve it",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "retract",
     "pos": "verb",
     "definition": "to take back something you said; or to pull something back in",
-    "example": ["He was forced to retract his statement.", "The cat retracted its claws."],
-    "synonyms": ["withdraw", "take back"],
+    "example": [
+      "He was forced to retract his statement.",
+      "The cat retracted its claws."
+    ],
+    "synonyms": [
+      "withdraw",
+      "take back"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice; senses — take back words, and pull in",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "shame",
     "pos": "noun",
     "definition": "a painful feeling of guilt or embarrassment; or a pity (a regrettable thing)",
-    "example": ["What a shame you can't come!", "She felt deep shame about the lie."],
-    "synonyms": ["embarrassment", "disgrace", "pity"],
+    "example": [
+      "What a shame you can't come!",
+      "She felt deep shame about the lie."
+    ],
+    "synonyms": [
+      "embarrassment",
+      "disgrace",
+      "pity"
+    ],
     "topic": "emotion",
     "note": "looked up during listening practice; 'What a shame!' = how unfortunate",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "remorse",
     "pos": "noun",
     "definition": "deep regret for something wrong you have done",
-    "example": ["He showed no remorse for his crime.", "She was filled with remorse afterwards."],
-    "synonyms": ["regret", "guilt", "contrition"],
+    "example": [
+      "He showed no remorse for his crime.",
+      "She was filled with remorse afterwards."
+    ],
+    "synonyms": [
+      "regret",
+      "guilt",
+      "contrition"
+    ],
     "topic": "emotion",
     "note": "looked up during listening practice; stronger than ordinary regret",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "sidestep",
     "pos": "verb",
     "definition": "to avoid a problem or question; or to step to one side to avoid something",
-    "example": ["The politician sidestepped the question.", "He sidestepped to dodge the ball."],
-    "synonyms": ["avoid", "dodge", "evade"],
+    "example": [
+      "The politician sidestepped the question.",
+      "He sidestepped to dodge the ball."
+    ],
+    "synonyms": [
+      "avoid",
+      "dodge",
+      "evade"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "cease",
     "pos": "verb",
     "definition": "to stop or come to an end (formal)",
-    "example": ["The rain finally ceased.", "The two sides agreed to cease fire."],
-    "synonyms": ["stop", "halt", "end"],
+    "example": [
+      "The rain finally ceased.",
+      "The two sides agreed to cease fire."
+    ],
+    "synonyms": [
+      "stop",
+      "halt",
+      "end"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice; formal; common in 'ceasefire'",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "back down",
     "pos": "phrase",
     "definition": "to give in or withdraw a demand or position in an argument",
-    "example": ["He refused to back down.", "The company backed down after public pressure."],
-    "synonyms": ["give in", "concede", "yield"],
+    "example": [
+      "He refused to back down.",
+      "The company backed down after public pressure."
+    ],
+    "synonyms": [
+      "give in",
+      "concede",
+      "yield"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice; admitting defeat in a dispute",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "remark",
     "pos": "noun",
     "definition": "something said; a comment",
-    "example": ["She made a rude remark.", "His remarks upset the audience."],
-    "synonyms": ["comment", "observation", "statement"],
+    "example": [
+      "She made a rude remark.",
+      "His remarks upset the audience."
+    ],
+    "synonyms": [
+      "comment",
+      "observation",
+      "statement"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice; also a verb ('he remarked that...')",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "retaliatory",
     "pos": "adjective",
     "definition": "done to get revenge or hit back at someone",
-    "example": ["The country imposed retaliatory tariffs.", "It was a retaliatory attack."],
-    "synonyms": ["revengeful", "reciprocal"],
+    "example": [
+      "The country imposed retaliatory tariffs.",
+      "It was a retaliatory attack."
+    ],
+    "synonyms": [
+      "revengeful",
+      "reciprocal"
+    ],
     "topic": "business",
     "note": "looked up during listening practice; common in 'retaliatory tariffs/measures'",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "strip",
     "pos": "verb",
     "definition": "to remove a covering or layer; to take away; (noun) a long narrow piece",
-    "example": ["They stripped the paint off the door.", "He was stripped of his medals."],
-    "synonyms": ["remove", "peel", "deprive"],
+    "example": [
+      "They stripped the paint off the door.",
+      "He was stripped of his medals."
+    ],
+    "synonyms": [
+      "remove",
+      "peel",
+      "deprive"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice; also a noun ('a strip of paper')",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "equivalent",
     "pos": "adjective",
     "definition": "equal in value, amount, or meaning",
-    "example": ["A mile is roughly equivalent to 1.6 kilometers.", "There's no English equivalent for this word."],
-    "synonyms": ["equal", "comparable"],
+    "example": [
+      "A mile is roughly equivalent to 1.6 kilometers.",
+      "There's no English equivalent for this word."
+    ],
+    "synonyms": [
+      "equal",
+      "comparable"
+    ],
     "topic": "academic",
     "note": "looked up during listening practice; also a noun ('the equivalent of')",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "surplus",
     "pos": "noun",
     "definition": "an amount left over after needs are met; more than is needed",
-    "example": ["The country has a trade surplus.", "We have a surplus of food this year."],
-    "synonyms": ["excess", "extra"],
+    "example": [
+      "The country has a trade surplus.",
+      "We have a surplus of food this year."
+    ],
+    "synonyms": [
+      "excess",
+      "extra"
+    ],
     "topic": "business",
     "note": "looked up during listening practice; opposite of deficit; also an adjective ('surplus stock')",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "deficit",
     "pos": "noun",
     "definition": "the amount by which spending is greater than income; a shortage",
-    "example": ["The government is trying to cut the budget deficit.", "They have a trade deficit with China."],
-    "synonyms": ["shortfall", "shortage"],
+    "example": [
+      "The government is trying to cut the budget deficit.",
+      "They have a trade deficit with China."
+    ],
+    "synonyms": [
+      "shortfall",
+      "shortage"
+    ],
     "topic": "business",
     "note": "looked up during listening practice; opposite of surplus",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "indigenous",
     "pos": "adjective",
     "definition": "naturally belonging to a place; native (of people, plants, or animals)",
-    "example": ["Kangaroos are indigenous to Australia.", "The museum honors indigenous peoples."],
-    "synonyms": ["native", "local"],
+    "example": [
+      "Kangaroos are indigenous to Australia.",
+      "The museum honors indigenous peoples."
+    ],
+    "synonyms": [
+      "native",
+      "local"
+    ],
     "topic": "nature",
     "note": "looked up during listening practice; 'indigenous people' = original inhabitants",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "parade",
     "pos": "noun",
     "definition": "a public procession of people or vehicles; a military review",
-    "example": ["We watched the New Year parade.", "Soldiers marched in the military parade."],
-    "synonyms": ["procession", "march"],
+    "example": [
+      "We watched the New Year parade.",
+      "Soldiers marched in the military parade."
+    ],
+    "synonyms": [
+      "procession",
+      "march"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice; 'military parade' = 阅兵",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "patriot",
     "pos": "noun",
     "definition": "a person who loves and strongly supports their country",
-    "example": ["He was a true patriot.", "The patriots fought to defend their homeland."],
-    "synonyms": ["nationalist"],
+    "example": [
+      "He was a true patriot.",
+      "The patriots fought to defend their homeland."
+    ],
+    "synonyms": [
+      "nationalist"
+    ],
     "topic": "communication",
     "note": "looked up the English for 爱国者; adjective is 'patriotic'",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "recruitment",
     "pos": "noun",
     "definition": "the process of finding and hiring new people for a job or group",
-    "example": ["The company has paused recruitment.", "Army recruitment has fallen this year."],
-    "synonyms": ["hiring", "enlistment"],
+    "example": [
+      "The company has paused recruitment.",
+      "Army recruitment has fallen this year."
+    ],
+    "synonyms": [
+      "hiring",
+      "enlistment"
+    ],
     "topic": "business",
     "note": "looked up during listening practice; verb is 'recruit'",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "popularity",
     "pos": "noun",
     "definition": "the state of being liked or supported by many people",
-    "example": ["The show's popularity grew quickly.", "His popularity among voters is rising."],
-    "synonyms": ["fame", "appeal"],
+    "example": [
+      "The show's popularity grew quickly.",
+      "His popularity among voters is rising."
+    ],
+    "synonyms": [
+      "fame",
+      "appeal"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "collude",
     "pos": "verb",
     "definition": "to work together secretly to do something wrong or deceive others",
-    "example": ["The two companies colluded to fix prices.", "They were accused of colluding with the enemy."],
-    "synonyms": ["conspire", "plot", "connive"],
+    "example": [
+      "The two companies colluded to fix prices.",
+      "They were accused of colluding with the enemy."
+    ],
+    "synonyms": [
+      "conspire",
+      "plot",
+      "connive"
+    ],
     "topic": "communication",
     "note": "explained while translating a sentence; noun is 'collusion'",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "commentary",
     "pos": "noun",
     "definition": "a spoken or written description and analysis of an event as it happens",
-    "example": ["He gave live commentary on the match.", "The book offers a commentary on modern life."],
-    "synonyms": ["analysis", "narration"],
+    "example": [
+      "He gave live commentary on the match.",
+      "The book offers a commentary on modern life."
+    ],
+    "synonyms": [
+      "analysis",
+      "narration"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice; common for sports/news 'live commentary'",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "frustrated",
     "pos": "adjective",
     "definition": "annoyed or discouraged because you cannot do or get what you want",
-    "example": ["I'm frustrated with the slow internet.", "She felt frustrated by the constant delays."],
-    "synonyms": ["annoyed", "discouraged", "exasperated"],
+    "example": [
+      "I'm frustrated with the slow internet.",
+      "She felt frustrated by the constant delays."
+    ],
+    "synonyms": [
+      "annoyed",
+      "discouraged",
+      "exasperated"
+    ],
     "topic": "emotion",
     "note": "looked up during listening practice; verb 'frustrate', noun 'frustration'",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "show up",
     "pos": "phrase",
     "definition": "to arrive or appear, especially at an arranged place or event",
-    "example": ["He didn't show up for the meeting.", "Only half the guests showed up."],
-    "synonyms": ["appear", "turn up", "arrive"],
+    "example": [
+      "He didn't show up for the meeting.",
+      "Only half the guests showed up."
+    ],
+    "synonyms": [
+      "appear",
+      "turn up",
+      "arrive"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice; informal",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "violation",
     "pos": "noun",
     "definition": "the act of breaking a rule or law; or an act that disrespects something",
-    "example": ["He got a parking violation.", "It was a clear violation of human rights."],
-    "synonyms": ["breach", "infringement"],
+    "example": [
+      "He got a parking violation.",
+      "It was a clear violation of human rights."
+    ],
+    "synonyms": [
+      "breach",
+      "infringement"
+    ],
     "topic": "business",
     "note": "looked up during listening practice; verb is 'violate'",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "commission",
     "pos": "noun",
     "definition": "a committee with official duties; or a fee paid for selling; or the act of committing (a crime)",
-    "example": ["She earns a 10% commission on each sale.", "A commission was set up to investigate the accident."],
-    "synonyms": ["committee", "fee", "percentage"],
+    "example": [
+      "She earns a 10% commission on each sale.",
+      "A commission was set up to investigate the accident."
+    ],
+    "synonyms": [
+      "committee",
+      "fee",
+      "percentage"
+    ],
     "topic": "business",
     "note": "looked up during listening practice; several senses — body, sales fee, and 'commission a work'",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "defend",
     "pos": "verb",
     "definition": "to protect from attack; or to argue in support of someone or something",
-    "example": ["Soldiers defended the city.", "She defended her decision in the meeting."],
-    "synonyms": ["protect", "guard", "justify"],
+    "example": [
+      "Soldiers defended the city.",
+      "She defended her decision in the meeting."
+    ],
+    "synonyms": [
+      "protect",
+      "guard",
+      "justify"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice; senses — protect, and argue for; noun 'defense'",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "precision",
     "pos": "noun",
     "definition": "the quality of being exact and accurate",
-    "example": ["The parts are made with great precision.", "She answered with precision."],
-    "synonyms": ["accuracy", "exactness"],
+    "example": [
+      "The parts are made with great precision.",
+      "She answered with precision."
+    ],
+    "synonyms": [
+      "accuracy",
+      "exactness"
+    ],
     "topic": "academic",
     "note": "looked up during listening practice; adjective is 'precise'",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "sanction",
     "pos": "noun",
     "definition": "a penalty for breaking a rule (often plural); or official permission or approval",
-    "example": ["The US imposed sanctions on the country.", "The plan needs the board's sanction."],
-    "synonyms": ["penalty", "embargo", "approval"],
+    "example": [
+      "The US imposed sanctions on the country.",
+      "The plan needs the board's sanction."
+    ],
+    "synonyms": [
+      "penalty",
+      "embargo",
+      "approval"
+    ],
     "topic": "business",
     "note": "looked up during listening practice; note the two opposite senses — punish vs. approve",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 2, "last_seen": "2026-06-02" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 2,
+      "last_seen": "2026-06-02"
+    }
   },
   {
     "word": "crossroad",
     "pos": "noun",
     "definition": "a place where roads meet; (often 'crossroads') a point where an important choice must be made",
-    "example": ["Turn left at the crossroad.", "Her career is at a crossroads."],
-    "synonyms": ["junction", "turning point"],
+    "example": [
+      "Turn left at the crossroad.",
+      "Her career is at a crossroads."
+    ],
+    "synonyms": [
+      "junction",
+      "turning point"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice; figurative 'at a crossroads' = decisive moment",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "credibility",
     "pos": "noun",
     "definition": "the quality of being trusted and believed in",
-    "example": ["The scandal damaged his credibility.", "The report lacks credibility."],
-    "synonyms": ["trustworthiness", "reliability"],
+    "example": [
+      "The scandal damaged his credibility.",
+      "The report lacks credibility."
+    ],
+    "synonyms": [
+      "trustworthiness",
+      "reliability"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice; adjective is 'credible'",
     "first_seen": "2026-06-01",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-01" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-01"
+    }
   },
   {
     "word": "recall vote",
     "pos": "phrase",
     "definition": "a vote by the public to decide whether to remove an elected official before their term ends",
-    "example": ["Voters demanded a recall vote against the mayor.", "The governor survived the recall vote."],
+    "example": [
+      "Voters demanded a recall vote against the mayor.",
+      "The governor survived the recall vote."
+    ],
     "synonyms": [],
     "topic": "communication",
     "note": "looked up during listening practice; here 'recall' = remove from office",
     "first_seen": "2026-06-02",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-02"
+    }
   },
   {
     "word": "reconsideration",
     "pos": "noun",
     "definition": "the act of thinking about a decision or matter again",
-    "example": ["The plan is under reconsideration.", "She asked the court for reconsideration of the ruling."],
-    "synonyms": ["review", "rethinking"],
+    "example": [
+      "The plan is under reconsideration.",
+      "She asked the court for reconsideration of the ruling."
+    ],
+    "synonyms": [
+      "review",
+      "rethinking"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice; verb is 'reconsider'",
     "first_seen": "2026-06-02",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-02"
+    }
   },
   {
     "word": "suspicious",
     "pos": "adjective",
     "definition": "making you think something is wrong; or feeling that someone is guilty or untrustworthy",
-    "example": ["The police found a suspicious package.", "She was suspicious of his motives."],
-    "synonyms": ["doubtful", "wary", "dubious"],
+    "example": [
+      "The police found a suspicious package.",
+      "She was suspicious of his motives."
+    ],
+    "synonyms": [
+      "doubtful",
+      "wary",
+      "dubious"
+    ],
     "topic": "emotion",
     "note": "looked up during listening practice; two senses — looks dodgy, and feels distrustful",
     "first_seen": "2026-06-02",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-02"
+    }
   },
   {
     "word": "surgical",
     "pos": "adjective",
     "definition": "relating to surgery; or done with great precision",
-    "example": ["She needs surgical treatment.", "The army carried out a surgical strike on the base."],
-    "synonyms": ["precise", "targeted"],
+    "example": [
+      "She needs surgical treatment.",
+      "The army carried out a surgical strike on the base."
+    ],
+    "synonyms": [
+      "precise",
+      "targeted"
+    ],
     "topic": "health",
     "note": "looked up during listening practice; 'surgical strike' = a precise, targeted attack",
     "first_seen": "2026-06-02",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-02"
+    }
   },
   {
     "word": "undercover",
     "pos": "adjective",
     "definition": "working secretly, hiding your true identity to get information",
-    "example": ["He is an undercover police officer.", "She went undercover to investigate the gang."],
-    "synonyms": ["covert", "secret"],
+    "example": [
+      "He is an undercover police officer.",
+      "She went undercover to investigate the gang."
+    ],
+    "synonyms": [
+      "covert",
+      "secret"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice; can also be an adverb ('go undercover')",
     "first_seen": "2026-06-02",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-02"
+    }
   },
   {
     "word": "revise",
     "pos": "verb",
     "definition": "to change or correct something; or (British) to study again for an exam",
-    "example": ["We had to revise our plans.", "She's revising for her history exam."],
-    "synonyms": ["amend", "edit", "review"],
+    "example": [
+      "We had to revise our plans.",
+      "She's revising for her history exam."
+    ],
+    "synonyms": [
+      "amend",
+      "edit",
+      "review"
+    ],
     "topic": "academic",
     "note": "looked up during listening practice; the 'study for exam' sense is British English",
     "first_seen": "2026-06-02",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-02"
+    }
   },
   {
     "word": "offshore",
     "pos": "adjective",
     "definition": "located in the sea away from the coast; or based in a foreign country (often for tax)",
-    "example": ["They are building an offshore wind farm.", "He hid money in an offshore account."],
-    "synonyms": ["overseas"],
+    "example": [
+      "They are building an offshore wind farm.",
+      "He hid money in an offshore account."
+    ],
+    "synonyms": [
+      "overseas"
+    ],
     "topic": "business",
     "note": "looked up during listening practice; two senses — out at sea, and based abroad",
     "first_seen": "2026-06-02",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-02"
+    }
   },
   {
     "word": "mole",
     "pos": "noun",
     "definition": "a spy who works secretly inside an organization; also a small dark spot on the skin, or a small burrowing animal",
-    "example": ["There was a mole leaking secrets to the press.", "She has a small mole on her cheek."],
-    "synonyms": ["spy", "informant"],
+    "example": [
+      "There was a mole leaking secrets to the press.",
+      "She has a small mole on her cheek."
+    ],
+    "synonyms": [
+      "spy",
+      "informant"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice; the 'inside spy' sense is the non-obvious one",
     "first_seen": "2026-06-02",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-02"
+    }
   },
   {
     "word": "conviction",
     "pos": "noun",
     "definition": "a formal court decision that someone is guilty; or a firmly held belief",
-    "example": ["He has a previous conviction for theft.", "She spoke with great conviction."],
-    "synonyms": ["sentence", "belief", "certainty"],
+    "example": [
+      "He has a previous conviction for theft.",
+      "She spoke with great conviction."
+    ],
+    "synonyms": [
+      "sentence",
+      "belief",
+      "certainty"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice; two senses — guilty verdict, and strong belief; verb 'convict'",
     "first_seen": "2026-06-02",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-02"
+    }
   },
   {
     "word": "mastermind",
     "pos": "noun",
     "definition": "the person who plans and directs a clever or complex scheme; (verb) to plan such a scheme",
-    "example": ["He was the mastermind behind the robbery.", "She masterminded the whole campaign."],
-    "synonyms": ["planner", "architect", "orchestrator"],
+    "example": [
+      "He was the mastermind behind the robbery.",
+      "She masterminded the whole campaign."
+    ],
+    "synonyms": [
+      "planner",
+      "architect",
+      "orchestrator"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice; often used for the brain behind a crime or plan",
     "first_seen": "2026-06-02",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-02"
+    }
   },
   {
     "word": "collusion",
     "pos": "noun",
     "definition": "secret cooperation to do something wrong or to deceive others",
-    "example": ["The firms acted in collusion to raise prices.", "There was collusion between the officials."],
-    "synonyms": ["conspiracy", "connivance"],
+    "example": [
+      "The firms acted in collusion to raise prices.",
+      "There was collusion between the officials."
+    ],
+    "synonyms": [
+      "conspiracy",
+      "connivance"
+    ],
     "topic": "communication",
     "note": "looked up during listening practice; noun form of 'collude'",
     "first_seen": "2026-06-02",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-02"
+    }
   },
   {
     "word": "extradition",
     "pos": "noun",
     "definition": "the official handing over of an accused person to another country to be tried",
-    "example": ["The US requested his extradition.", "There is no extradition treaty between the two countries."],
+    "example": [
+      "The US requested his extradition.",
+      "There is no extradition treaty between the two countries."
+    ],
     "synonyms": [],
     "topic": "communication",
     "note": "looked up during listening practice; verb is 'extradite'",
     "first_seen": "2026-06-02",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-02"
+    }
   },
   {
     "word": "pro-democracy",
     "pos": "adjective",
     "definition": "supporting democracy and democratic reform",
-    "example": ["Thousands joined the pro-democracy protests.", "She is a well-known pro-democracy activist."],
+    "example": [
+      "Thousands joined the pro-democracy protests.",
+      "She is a well-known pro-democracy activist."
+    ],
     "synonyms": [],
     "topic": "communication",
     "note": "looked up during listening practice; prefix 'pro-' = in favor of",
     "first_seen": "2026-06-02",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-02"
+    }
   },
   {
     "word": "bypass",
     "pos": "verb",
     "definition": "to go around or avoid something; (noun) a road around a town, or a heart operation",
-    "example": ["You can bypass the city center by taking this road.", "The new system bypasses the usual approval process."],
-    "synonyms": ["go around", "skip", "circumvent"],
+    "example": [
+      "You can bypass the city center by taking this road.",
+      "The new system bypasses the usual approval process."
+    ],
+    "synonyms": [
+      "go around",
+      "skip",
+      "circumvent"
+    ],
     "topic": "daily",
     "note": "looked up during listening practice; also a noun (road / heart bypass surgery)",
     "first_seen": "2026-06-02",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-02" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-02"
+    }
   },
   {
     "word": "wrongful",
     "pos": "adjective",
     "definition": "(of an act) unfair, unjust, or against the law",
-    "example": ["He sued the company for wrongful dismissal.", "She was freed after a wrongful conviction."],
-    "synonyms": ["unjust", "unlawful", "unfair"],
+    "example": [
+      "He sued the company for wrongful dismissal.",
+      "She was freed after a wrongful conviction."
+    ],
+    "synonyms": [
+      "unjust",
+      "unlawful",
+      "unfair"
+    ],
     "topic": "communication",
     "note": "looked up while translating; common in 'wrongful dismissal/conviction/death'",
     "first_seen": "2026-06-10",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-10"
+    }
   },
   {
     "word": "confession",
     "pos": "noun",
     "definition": "a statement admitting you have done something wrong or committed a crime",
-    "example": ["The suspect signed a confession.", "His confession led to a quick conviction."],
-    "synonyms": ["admission", "acknowledgment"],
+    "example": [
+      "The suspect signed a confession.",
+      "His confession led to a quick conviction."
+    ],
+    "synonyms": [
+      "admission",
+      "acknowledgment"
+    ],
     "topic": "communication",
     "note": "looked up while translating; verb is 'confess'",
     "first_seen": "2026-06-10",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-10"
+    }
   },
   {
     "word": "spark",
     "pos": "verb",
     "definition": "to cause something to start; to trigger a reaction or feeling",
-    "example": ["The new tax sparked widespread protests.", "A single comment sparked the whole argument."],
-    "synonyms": ["trigger", "provoke", "ignite"],
+    "example": [
+      "The new tax sparked widespread protests.",
+      "A single comment sparked the whole argument."
+    ],
+    "synonyms": [
+      "trigger",
+      "provoke",
+      "ignite"
+    ],
     "topic": "communication",
     "note": "looked up as 'sparked' while translating; also a noun ('a spark of interest')",
     "first_seen": "2026-06-10",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-10"
+    }
   },
   {
     "word": "surname",
     "pos": "noun",
     "definition": "a person's family name, shared with relatives",
-    "example": ["Please write your surname first.", "'Smith' is a very common English surname."],
-    "synonyms": ["family name", "last name"],
+    "example": [
+      "Please write your surname first.",
+      "'Smith' is a very common English surname."
+    ],
+    "synonyms": [
+      "family name",
+      "last name"
+    ],
     "topic": "daily",
     "note": "looked up while translating; opposite of 'first name / given name'",
     "first_seen": "2026-06-10",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-10"
+    }
   },
   {
     "word": "charge with",
     "pos": "phrase",
     "definition": "to formally accuse someone of a crime",
-    "example": ["He was charged with theft.", "Police charged her with dangerous driving."],
-    "synonyms": ["accuse of", "indict for"],
+    "example": [
+      "He was charged with theft.",
+      "Police charged her with dangerous driving."
+    ],
+    "synonyms": [
+      "accuse of",
+      "indict for"
+    ],
     "topic": "communication",
     "note": "looked up while translating; legal term; followed by the offence ('charge sb with murder')",
     "first_seen": "2026-06-10",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-10"
+    }
   },
   {
     "word": "intentional",
     "pos": "adjective",
     "definition": "done on purpose, not by accident",
-    "example": ["The foul was clearly intentional.", "Her rudeness wasn't intentional."],
-    "synonyms": ["deliberate", "purposeful"],
+    "example": [
+      "The foul was clearly intentional.",
+      "Her rudeness wasn't intentional."
+    ],
+    "synonyms": [
+      "deliberate",
+      "purposeful"
+    ],
     "topic": "daily",
     "note": "looked up while translating; opposite of 'accidental'; adverb 'intentionally'",
     "first_seen": "2026-06-10",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-10"
+    }
   },
   {
     "word": "homicide",
     "pos": "noun",
     "definition": "the crime of killing a person",
-    "example": ["He was charged with homicide.", "Detectives are treating the death as a homicide."],
-    "synonyms": ["murder", "manslaughter", "killing"],
+    "example": [
+      "He was charged with homicide.",
+      "Detectives are treating the death as a homicide."
+    ],
+    "synonyms": [
+      "murder",
+      "manslaughter",
+      "killing"
+    ],
     "topic": "communication",
     "note": "looked up while translating; legal/police term covering intentional or accidental killing",
     "first_seen": "2026-06-10",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-10"
+    }
   },
   {
     "word": "grudge",
     "pos": "noun",
     "definition": "a lasting feeling of resentment over a past insult or wrong",
-    "example": ["She holds a grudge against her old boss.", "He's not the type to bear a grudge."],
-    "synonyms": ["resentment", "bitterness"],
+    "example": [
+      "She holds a grudge against her old boss.",
+      "He's not the type to bear a grudge."
+    ],
+    "synonyms": [
+      "resentment",
+      "bitterness"
+    ],
     "topic": "emotion",
     "note": "looked up while translating; common in 'hold/bear a grudge'",
     "first_seen": "2026-06-10",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-10"
+    }
   },
   {
     "word": "retrial",
     "pos": "noun",
     "definition": "a second trial of a case that has already been judged once",
-    "example": ["The judge ordered a retrial.", "New evidence led to a retrial."],
-    "synonyms": ["new trial"],
+    "example": [
+      "The judge ordered a retrial.",
+      "New evidence led to a retrial."
+    ],
+    "synonyms": [
+      "new trial"
+    ],
     "topic": "communication",
     "note": "looked up while translating; prefix 're-' = again",
     "first_seen": "2026-06-10",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-10"
+    }
   },
   {
     "word": "re-examine",
     "pos": "verb",
     "definition": "to look at or consider something again carefully",
-    "example": ["We need to re-examine the evidence.", "The lawyer asked to re-examine the witness."],
-    "synonyms": ["review", "reassess", "reconsider"],
+    "example": [
+      "We need to re-examine the evidence.",
+      "The lawyer asked to re-examine the witness."
+    ],
+    "synonyms": [
+      "review",
+      "reassess",
+      "reconsider"
+    ],
     "topic": "communication",
     "note": "looked up as 're-examining' while translating",
     "first_seen": "2026-06-10",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-10"
+    }
   },
   {
     "word": "scramble",
     "pos": "verb",
     "definition": "to move or climb quickly with difficulty; or to mix something up into disorder",
-    "example": ["They scrambled up the rocky hill.", "The message was scrambled so no one could read it."],
-    "synonyms": ["clamber", "jumble", "mix up"],
+    "example": [
+      "They scrambled up the rocky hill.",
+      "The message was scrambled so no one could read it."
+    ],
+    "synonyms": [
+      "clamber",
+      "jumble",
+      "mix up"
+    ],
     "topic": "daily",
     "note": "looked up as 'scrambled' while translating; senses — struggle/rush, and jumble/encrypt",
     "first_seen": "2026-06-10",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-10"
+    }
   },
   {
     "word": "shady",
     "pos": "adjective",
     "definition": "dishonest or of doubtful honesty; (literally) giving or full of shade",
-    "example": ["I don't trust him — he seems shady.", "He made some shady business deals."],
-    "synonyms": ["dishonest", "dubious", "dodgy"],
+    "example": [
+      "I don't trust him — he seems shady.",
+      "He made some shady business deals."
+    ],
+    "synonyms": [
+      "dishonest",
+      "dubious",
+      "dodgy"
+    ],
     "topic": "daily",
     "note": "looked up while translating; the 'dishonest' sense is the non-obvious one",
     "first_seen": "2026-06-10",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-10"
+    }
   },
   {
     "word": "scam",
     "pos": "noun",
     "definition": "a dishonest scheme to cheat people out of money",
-    "example": ["He lost money in an online scam.", "Be careful of phone scams."],
-    "synonyms": ["fraud", "con", "swindle"],
+    "example": [
+      "He lost money in an online scam.",
+      "Be careful of phone scams."
+    ],
+    "synonyms": [
+      "fraud",
+      "con",
+      "swindle"
+    ],
     "topic": "business",
     "note": "looked up while translating; also a verb ('they scammed him out of $500')",
     "first_seen": "2026-06-10",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-10"
+    }
   },
   {
     "word": "sanitation",
     "pos": "noun",
     "definition": "systems for keeping places clean and for disposing of sewage and waste",
-    "example": ["Poor sanitation spreads disease.", "The city improved its water and sanitation."],
-    "synonyms": ["hygiene", "sewerage"],
+    "example": [
+      "Poor sanitation spreads disease.",
+      "The city improved its water and sanitation."
+    ],
+    "synonyms": [
+      "hygiene",
+      "sewerage"
+    ],
     "topic": "health",
     "note": "looked up while translating; 'sanitation worker' = 环卫工人",
     "first_seen": "2026-06-10",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-10"
+    }
   },
   {
     "word": "hospitalize",
     "pos": "verb",
     "definition": "to admit someone to hospital for treatment",
-    "example": ["He was hospitalized after the accident.", "She had to be hospitalized for a week."],
-    "synonyms": ["admit to hospital"],
+    "example": [
+      "He was hospitalized after the accident.",
+      "She had to be hospitalized for a week."
+    ],
+    "synonyms": [
+      "admit to hospital"
+    ],
     "topic": "health",
     "note": "looked up as 'hospitalized' while translating; usually passive ('be hospitalized')",
     "first_seen": "2026-06-10",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-10"
+    }
   },
   {
     "word": "proceed",
     "pos": "verb",
     "definition": "to continue or go ahead with something; to move forward",
-    "example": ["Let's proceed with the plan.", "Please proceed to gate 12."],
-    "synonyms": ["continue", "go ahead", "advance"],
+    "example": [
+      "Let's proceed with the plan.",
+      "Please proceed to gate 12."
+    ],
+    "synonyms": [
+      "continue",
+      "go ahead",
+      "advance"
+    ],
     "topic": "daily",
     "note": "looked up while translating; slightly formal; note 'proceeds' (noun) = money from a sale",
     "first_seen": "2026-06-10",
-    "review": { "status": "new", "times_looked_up": 1, "last_seen": "2026-06-10" }
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-10"
+    }
+  },
+  {
+    "word": "on the spot",
+    "pos": "idiom",
+    "definition": "at once, immediately, and right where you are; (put sb on the spot) to force someone to answer or act with no time to prepare, often causing embarrassment",
+    "example": [
+      "He decided on the spot.",
+      "Don't put me on the spot in front of everyone."
+    ],
+    "synonyms": [
+      "immediately",
+      "at once"
+    ],
+    "topic": "daily",
+    "note": "looked up while translating; two senses: instantly / put someone in a difficult position",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "overstate",
+    "pos": "verb",
+    "definition": "to describe or explain something as larger, more important, or more serious than it really is; to exaggerate",
+    "example": [
+      "Don't overstate the problem.",
+      "The importance of this can't be overstated."
+    ],
+    "synonyms": [
+      "exaggerate",
+      "overemphasize"
+    ],
+    "topic": "communication",
+    "note": "looked up while translating; opposite of understate",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "cripple",
+    "pos": "verb",
+    "definition": "to seriously damage someone or something so it can no longer function normally; to make a person unable to walk or move properly",
+    "example": [
+      "The strike crippled the airline.",
+      "He was crippled in the accident."
+    ],
+    "synonyms": [
+      "paralyze",
+      "disable",
+      "hobble"
+    ],
+    "topic": "business",
+    "note": "looked up while translating; common figurative use: crippling debt = 沉重的债务",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "reverse",
+    "pos": "verb",
+    "definition": "to change something to its opposite; to turn around or undo (a decision, direction, order)",
+    "example": [
+      "The court reversed the decision.",
+      "He reversed the car out of the garage."
+    ],
+    "synonyms": [
+      "overturn",
+      "undo",
+      "invert"
+    ],
+    "topic": "daily",
+    "note": "looked up while translating; also noun: the reverse = 相反, in reverse = 反向",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "netizen",
+    "pos": "noun",
+    "definition": "an active or frequent user of the internet (internet + citizen)",
+    "example": [
+      "Netizens criticized the policy online."
+    ],
+    "synonyms": [
+      "internet user"
+    ],
+    "topic": "technology",
+    "note": "looked up while translating; dated in Western English—natives prefer \"internet users\"",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "explicit",
+    "pos": "adjective",
+    "definition": "stated clearly and in detail, leaving no room for confusion; also: showing sex/violence openly",
+    "example": [
+      "She gave explicit instructions.",
+      "The film has explicit content."
+    ],
+    "synonyms": [
+      "clear",
+      "direct",
+      "unambiguous"
+    ],
+    "topic": "communication",
+    "note": "looked up while translating; opposite of implicit (含蓄的)",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "well off",
+    "pos": "phrase",
+    "definition": "having plenty of money; wealthy; also: in a good or fortunate situation",
+    "example": [
+      "Her family is quite well off.",
+      "You don't know how well off you are."
+    ],
+    "synonyms": [
+      "wealthy",
+      "affluent"
+    ],
+    "topic": "daily",
+    "note": "looked up while translating; comparative better off = 境况更好/更明智",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "shiver",
+    "pos": "verb",
+    "definition": "to shake slightly because of cold, fear, or fever",
+    "example": [
+      "She was shivering in the cold.",
+      "He shivered with fear."
+    ],
+    "synonyms": [
+      "tremble",
+      "shudder"
+    ],
+    "topic": "daily",
+    "note": "looked up \"shivering\"; shiver=因冷/怕轻颤, tremble=情绪激动, shudder=猛地一哆嗦",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "abbreviate",
+    "pos": "verb",
+    "definition": "to shorten a word or text; to make something shorter",
+    "example": [
+      "\"Doctor\" is abbreviated to \"Dr.\"",
+      "They abbreviated the meeting."
+    ],
+    "synonyms": [
+      "shorten",
+      "abridge"
+    ],
+    "topic": "communication",
+    "note": "looked up \"abbreviated\"; noun abbreviation = 缩写词",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "crackdown",
+    "pos": "noun",
+    "definition": "severe action taken to stop or punish illegal or unacceptable behavior",
+    "example": [
+      "The government launched a crackdown on tax evasion."
+    ],
+    "synonyms": [
+      "clampdown"
+    ],
+    "topic": "business",
+    "note": "looked up while translating; verb form: crack down on sth",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "flat out",
+    "pos": "idiom",
+    "definition": "① directly and bluntly (refuse/deny); ② as fast or hard as possible",
+    "example": [
+      "He flat out refused.",
+      "We've been working flat out all week."
+    ],
+    "synonyms": [
+      "outright",
+      "at full speed"
+    ],
+    "topic": "communication",
+    "note": "looked up while translating; flat-out (adj) = 十足的, a flat-out lie",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "probation",
+    "pos": "noun",
+    "definition": "① a period of supervision instead of prison for an offender; ② a trial period for a new employee",
+    "example": [
+      "He was put on probation for two years.",
+      "She's still on probation at work."
+    ],
+    "topic": "business",
+    "note": "looked up while translating; on probation = 缓刑中/试用期内",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "anticipate",
+    "pos": "verb",
+    "definition": "to expect something and often prepare for it in advance",
+    "example": [
+      "We anticipate strong demand.",
+      "A good waiter anticipates your needs."
+    ],
+    "synonyms": [
+      "expect",
+      "foresee"
+    ],
+    "topic": "business",
+    "note": "looked up while translating; stronger than expect—stresses preparing ahead",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "obscene",
+    "pos": "adjective",
+    "definition": "offensive or disgusting by accepted standards, esp. sexually; also: shockingly large/unfair",
+    "example": [
+      "They removed the obscene photos.",
+      "He earns an obscene amount of money."
+    ],
+    "synonyms": [
+      "indecent",
+      "filthy"
+    ],
+    "topic": "communication",
+    "note": "looked up (misspelled obscence); noun obscenity",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "depict",
+    "pos": "verb",
+    "definition": "to show or describe something in a picture, writing, etc.; to portray",
+    "example": [
+      "The painting depicts a battle.",
+      "The media depicted him as a hero."
+    ],
+    "synonyms": [
+      "portray",
+      "describe",
+      "represent"
+    ],
+    "topic": "communication",
+    "note": "looked up while translating; depict sb/sth as ...; noun depiction",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "judgement",
+    "pos": "noun",
+    "definition": "① the ability to make sensible decisions; ② an opinion or evaluation; ③ a court ruling",
+    "example": [
+      "Use your own judgement.",
+      "The court delivered its judgement."
+    ],
+    "synonyms": [
+      "discernment",
+      "verdict"
+    ],
+    "topic": "communication",
+    "note": "looked up while translating; US spelling judgment (no middle e)",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "legislate",
+    "pos": "verb",
+    "definition": "to make or pass laws",
+    "example": [
+      "The government plans to legislate against discrimination."
+    ],
+    "topic": "business",
+    "note": "looked up while translating; legislation=法律, legislature=立法机关, legislator=议员",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "tidal",
+    "pos": "adjective",
+    "definition": "relating to or affected by the tides of the sea",
+    "example": [
+      "Tidal energy is a renewable resource.",
+      "A tidal wave hit the coast."
+    ],
+    "topic": "nature",
+    "note": "looked up while translating; tidal wave = 海啸/浪潮; noun tide",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "treatment",
+    "pos": "noun",
+    "definition": "① medical care for an illness; ② the way someone or something is dealt with; ③ a process applied to a material",
+    "example": [
+      "He is receiving treatment for cancer.",
+      "She gave me the silent treatment."
+    ],
+    "topic": "health",
+    "note": "looked up while translating; the silent treatment = 故意不理睬; verb treat",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "chronic",
+    "pos": "adjective",
+    "definition": "(of an illness or problem) lasting a long time and hard to cure or stop",
+    "example": [
+      "She suffers from chronic pain.",
+      "There is a chronic shortage of housing."
+    ],
+    "synonyms": [
+      "persistent",
+      "long-term"
+    ],
+    "topic": "health",
+    "note": "looked up while translating; opposite acute (急性的); adv chronically",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "go through",
+    "pos": "phrase",
+    "definition": "① to experience (esp. something difficult); ② to examine carefully; ③ (of a deal/law) to be approved",
+    "example": [
+      "She's going through a tough time.",
+      "Let's go through the plan."
+    ],
+    "synonyms": [
+      "endure",
+      "review"
+    ],
+    "topic": "daily",
+    "note": "looked up while translating; go through with sth = 把难事进行到底",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "outcry",
+    "pos": "noun",
+    "definition": "a strong public expression of anger or protest",
+    "example": [
+      "The decision sparked a public outcry."
+    ],
+    "synonyms": [
+      "protest",
+      "uproar",
+      "backlash"
+    ],
+    "topic": "communication",
+    "note": "looked up while translating; an outcry over/against sth",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "red line",
+    "pos": "idiom",
+    "definition": "a limit that must not be crossed; an issue on which no compromise is allowed",
+    "example": [
+      "Using chemical weapons would cross a red line."
+    ],
+    "synonyms": [
+      "limit",
+      "boundary"
+    ],
+    "topic": "communication",
+    "note": "looked up \"cross red line\"; usu. cross a/the red line; draw a red line",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "barbed wire",
+    "pos": "noun",
+    "definition": "wire with sharp points along it, used for fences or barriers",
+    "example": [
+      "The camp was surrounded by barbed wire."
+    ],
+    "topic": "daily",
+    "note": "looked up while translating; barbed = 有倒刺的; (of words) sharp, cutting",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "guideline",
+    "pos": "noun",
+    "definition": "a piece of advice or a rule about how to do something",
+    "example": [
+      "Follow the safety guidelines.",
+      "The government issued new guidelines."
+    ],
+    "synonyms": [
+      "rule",
+      "guidance"
+    ],
+    "topic": "business",
+    "note": "looked up (misspelled guildline); guide+line, not guild",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "forge",
+    "pos": "verb",
+    "definition": "① to make an illegal copy to deceive; ② to shape metal by heating and hammering; ③ to create (a relationship) with effort",
+    "example": [
+      "He forged her signature.",
+      "They forged a close friendship."
+    ],
+    "synonyms": [
+      "counterfeit",
+      "fake",
+      "build"
+    ],
+    "topic": "business",
+    "note": "looked up while translating; forge ahead = 奋力推进; noun forgery",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "in order",
+    "pos": "phrase",
+    "definition": "① arranged neatly or correctly; ② proper, valid, or appropriate",
+    "example": [
+      "Get your affairs in order.",
+      "Everything is in order."
+    ],
+    "topic": "daily",
+    "note": "looked up while translating; in order to = 为了; out of order = 出故障/次序乱",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
   }
 ]
