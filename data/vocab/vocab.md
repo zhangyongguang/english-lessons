@@ -1,9 +1,18 @@
 # Vocabulary  (latest first)
 
-146 word(s).
+155 word(s).
 
 | Word | Meaning | Example | Date |
 |---|---|---|---|
+| pedal _(noun)_ | a foot-operated lever on a bike, car, or piano; (verb) to push the pedals of a bike | She pressed the brake pedal. | 2026-06-11 |
+| aspiration _(noun)_ | a strong hope or ambition to achieve something | Her aspiration is to become a doctor. | 2026-06-11 |
+| converge _(verb)_ | to come together and meet at one point; (of ideas) to become similar | The two roads converge near the river. | 2026-06-11 |
+| submission _(noun)_ | ① something formally handed in; ② the act of yielding to another’s control | The deadline for submissions is Friday. | 2026-06-11 |
+| decentralized _(adjective)_ | organized so that power or control is spread out rather than held by one central authority | Bitcoin runs on a decentralized network. | 2026-06-11 |
+| socialist _(adjective)_ | relating to socialism; (noun) a person who believes in socialism | He holds socialist views. | 2026-06-11 |
+| capitalism _(noun)_ | an economic system based on private ownership and profit driven by free markets | Capitalism rewards private enterprise. | 2026-06-11 |
+| veto _(noun)_ | the right or act of officially rejecting or blocking a decision | The president used his veto to block the bill. | 2026-06-11 |
+| unanimous _(adjective)_ | agreed on by everyone; with no one disagreeing | The decision was unanimous. | 2026-06-11 |
 | in order _(phrase)_ | ① arranged neatly or correctly; ② proper, valid, or appropriate | Get your affairs in order. | 2026-06-11 |
 | forge _(verb)_ | ① to make an illegal copy to deceive; ② to shape metal by heating and hammering; ③ to create (a relationship) with effort | He forged her signature. | 2026-06-11 |
 | guideline _(noun)_ | a piece of advice or a rule about how to do something | Follow the safety guidelines. | 2026-06-11 |
@@ -31,6 +40,7 @@
 | cripple _(verb)_ | to seriously damage someone or something so it can no longer function normally; to make a person unable to walk or move properly | The strike crippled the airline. | 2026-06-11 |
 | overstate _(verb)_ | to describe or explain something as larger, more important, or more serious than it really is; to exaggerate | Don't overstate the problem. | 2026-06-11 |
 | on the spot _(idiom)_ | at once, immediately, and right where you are; (put sb on the spot) to force someone to answer or act with no time to prepare, often causing embarrassment | He decided on the spot. | 2026-06-11 |
+| obsession _(noun)_ | a thought or interest that fills your mind and you cannot stop thinking about | Her obsession with cleanliness drives everyone crazy. | 2026-06-01 |
 | proceed _(verb)_ | to continue or go ahead with something; to move forward | Let's proceed with the plan. | 2026-06-10 |
 | hospitalize _(verb)_ | to admit someone to hospital for treatment | He was hospitalized after the accident. | 2026-06-10 |
 | sanitation _(noun)_ | systems for keeping places clean and for disposing of sewage and waste | Poor sanitation spreads disease. | 2026-06-10 |
@@ -91,7 +101,6 @@
 | retract _(verb)_ | to take back something you said; or to pull something back in | He was forced to retract his statement. | 2026-06-01 |
 | crack _(verb)_ | to break with a sharp sound or form a line of damage; or to solve/break a difficult problem or code | The glass cracked when I dropped it. | 2026-06-01 |
 | plead guilty _(phrase)_ | to formally admit in court that you committed the crime | He pleaded guilty to theft. | 2026-06-01 |
-| obsession _(noun)_ | a thought or interest that fills your mind and you cannot stop thinking about | Her obsession with cleanliness drives everyone crazy. | 2026-06-01 |
 | pyramid _(noun)_ | a structure with a square base and triangular sides meeting at a point; or a structure shaped like this | We visited the pyramids in Egypt. | 2026-06-01 |
 | pep talk _(noun)_ | a short speech meant to encourage someone or boost confidence | The coach gave the team a pep talk before the game. | 2026-06-01 |
 | fate _(noun)_ | the power believed to control events; or what finally happens to someone | No one knows what fate has in store. | 2026-06-01 |

@@ -1242,8 +1242,8 @@
     "first_seen": "2026-06-01",
     "review": {
       "status": "new",
-      "times_looked_up": 2,
-      "last_seen": "2026-06-01"
+      "times_looked_up": 3,
+      "last_seen": "2026-06-11"
     }
   },
   {
@@ -3053,6 +3053,178 @@
     ],
     "topic": "daily",
     "note": "looked up while translating; in order to = 为了; out of order = 出故障/次序乱",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "unanimous",
+    "pos": "adjective",
+    "definition": "agreed on by everyone; with no one disagreeing",
+    "example": [
+      "The decision was unanimous.",
+      "The jury was unanimous in its verdict."
+    ],
+    "synonyms": [
+      "undivided"
+    ],
+    "topic": "communication",
+    "note": "looked up while translating; adv unanimously, noun unanimity",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "veto",
+    "pos": "noun",
+    "definition": "the right or act of officially rejecting or blocking a decision",
+    "example": [
+      "The president used his veto to block the bill.",
+      "China has veto power at the UN."
+    ],
+    "synonyms": [
+      "rejection",
+      "block"
+    ],
+    "topic": "business",
+    "note": "looked up while translating; also verb: veto a proposal; plural vetoes",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "capitalism",
+    "pos": "noun",
+    "definition": "an economic system based on private ownership and profit driven by free markets",
+    "example": [
+      "Capitalism rewards private enterprise.",
+      "free-market capitalism"
+    ],
+    "topic": "business",
+    "note": "looked up while translating; vs socialism/communism; capitalist=资本家",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "socialist",
+    "pos": "adjective",
+    "definition": "relating to socialism; (noun) a person who believes in socialism",
+    "example": [
+      "He holds socialist views.",
+      "She is a committed socialist."
+    ],
+    "topic": "business",
+    "note": "looked up while translating; socialism=社会主义, vs capitalism",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "decentralized",
+    "pos": "adjective",
+    "definition": "organized so that power or control is spread out rather than held by one central authority",
+    "example": [
+      "Bitcoin runs on a decentralized network.",
+      "They moved to decentralized decision-making."
+    ],
+    "topic": "technology",
+    "note": "looked up while translating; opposite centralized; DeFi=decentralized finance; UK -ised",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "submission",
+    "pos": "noun",
+    "definition": "① something formally handed in; ② the act of yielding to another’s control",
+    "example": [
+      "The deadline for submissions is Friday.",
+      "They forced the enemy into submission."
+    ],
+    "synonyms": [
+      "surrender",
+      "entry"
+    ],
+    "topic": "business",
+    "note": "looked up while translating; verb submit; combat sense: a submission hold",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "converge",
+    "pos": "verb",
+    "definition": "to come together and meet at one point; (of ideas) to become similar",
+    "example": [
+      "The two roads converge near the river.",
+      "Their opinions gradually converged."
+    ],
+    "synonyms": [
+      "merge",
+      "meet"
+    ],
+    "topic": "academic",
+    "note": "looked up while translating; opposite diverge; noun convergence",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "aspiration",
+    "pos": "noun",
+    "definition": "a strong hope or ambition to achieve something",
+    "example": [
+      "Her aspiration is to become a doctor.",
+      "He has political aspirations."
+    ],
+    "synonyms": [
+      "ambition",
+      "goal"
+    ],
+    "topic": "emotion",
+    "note": "looked up while translating; verb aspire (to sth); adj aspiring",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "pedal",
+    "pos": "noun",
+    "definition": "a foot-operated lever on a bike, car, or piano; (verb) to push the pedals of a bike",
+    "example": [
+      "She pressed the brake pedal.",
+      "He pedaled up the hill."
+    ],
+    "topic": "daily",
+    "note": "looked up while translating; not peddle (兜售); back-pedal=出尔反尔",
     "first_seen": "2026-06-11",
     "review": {
       "status": "new",
