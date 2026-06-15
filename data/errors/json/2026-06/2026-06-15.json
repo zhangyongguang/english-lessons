@@ -1,0 +1,210 @@
+[
+  {
+    "id": "2026-06-15-001",
+    "date": "2026-06-15",
+    "category": "grammar",
+    "tag": "pronoun",
+    "my_sentence": "No, is not tiring.",
+    "correction": "It was not tiring.",
+    "explanation": "An English sentence needs a subject. When you answer about your day, start with the dummy subject 'it': 'It was not tiring.' Don't drop the subject the way you can in Chinese.",
+    "correct_examples": [
+      "It wasn't tiring at all.",
+      "It was a relaxing day."
+    ],
+    "context": "Talking about whether the workday was tiring",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T1 line 77-79"
+  },
+  {
+    "id": "2026-06-15-002",
+    "date": "2026-06-15",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "I just need to take on English and technological classes.",
+    "correction": "I just need to take language and technology classes.",
+    "explanation": "Use 'take classes' (not 'take on' classes) for attending a course. Use the noun 'technology' as a modifier ('technology classes'), not the adjective 'technological'. And the umbrella term that pairs with 'technology' here is 'language classes', not 'English classes'.",
+    "correct_examples": [
+      "I'm taking language and technology classes this year.",
+      "She takes an online coding class every weekend."
+    ],
+    "context": "Which classes to take to improve skills",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T1 line 265-283"
+  },
+  {
+    "id": "2026-06-15-003",
+    "date": "2026-06-15",
+    "category": "grammar",
+    "tag": "articles",
+    "my_sentence": "All AI models use Transformer as their basic.",
+    "correction": "All AI models use the transformer as their base.",
+    "explanation": "When you refer to a specific known technology in general, use the article: 'the transformer'. Also, 'basic' is an adjective; the noun you want is 'base' (or 'basis'): 'as their base'.",
+    "correct_examples": [
+      "Most modern AI models use the transformer as their base.",
+      "This framework is the basis of the whole system."
+    ],
+    "context": "Explaining machine learning / transformers",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T1 line 305-313"
+  },
+  {
+    "id": "2026-06-15-004",
+    "date": "2026-06-15",
+    "category": "grammar",
+    "tag": "plural",
+    "my_sentence": "The AI internalizes the underlying rules behind all the detail.",
+    "correction": "The AI internalizes the underlying rules behind all the details.",
+    "explanation": "'Detail' here is countable and refers to many pieces of information, so use the plural 'details'.",
+    "correct_examples": [
+      "He pays attention to all the details.",
+      "The rules behind all these details are simple."
+    ],
+    "context": "How AI learns from data",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T2 line 53-55"
+  },
+  {
+    "id": "2026-06-15-005",
+    "date": "2026-06-15",
+    "category": "grammar",
+    "tag": "word-choice",
+    "my_sentence": "Different languages can use in different projects.",
+    "correction": "Different languages can be used in different projects.",
+    "explanation": "The languages don't do the using; people use them. So you need the passive voice: 'can be used in'. 'Can use' would mean the languages themselves are using something.",
+    "correct_examples": [
+      "Different tools can be used for different jobs.",
+      "This method can be used in many situations."
+    ],
+    "context": "Choosing a programming language by scenario",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T2 line 89-91"
+  },
+  {
+    "id": "2026-06-15-006",
+    "date": "2026-06-15",
+    "category": "grammar",
+    "tag": "plural",
+    "my_sentence": "You just need to learn one or two language.",
+    "correction": "You just need to learn one or two languages.",
+    "explanation": "Any number above one takes a plural noun: 'one or two languages'. The 'or two' makes it plural.",
+    "correct_examples": [
+      "I only speak one or two languages.",
+      "Pick one or two topics to focus on."
+    ],
+    "context": "How many programming languages to learn",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T2 line 119-121"
+  },
+  {
+    "id": "2026-06-15-007",
+    "date": "2026-06-15",
+    "category": "grammar",
+    "tag": "preposition",
+    "my_sentence": "He or she will feel angry to you.",
+    "correction": "He or she will feel angry at you.",
+    "explanation": "You are 'angry at' (or 'angry with') a person, not 'angry to' them. The fixed preposition for the target of anger is 'at' / 'with'.",
+    "correct_examples": [
+      "My boss was angry at me for being late.",
+      "Don't be angry with her; it wasn't her fault."
+    ],
+    "context": "Bringing problems to your boss",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T2 line 173-175"
+  },
+  {
+    "id": "2026-06-15-008",
+    "date": "2026-06-15",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "Compare to number one or two, I think keeping your opinion to yourself is better.",
+    "correction": "Compared to options one and two, I think keeping your opinion to yourself is better.",
+    "explanation": "Use the past participle 'compared to' (not the base verb 'compare to') to introduce this kind of comparison; it works like a reduced clause meaning 'when (it is) compared to'. (assistant note: a recurring error for you.)",
+    "correct_examples": [
+      "Compared to last year, sales are much higher.",
+      "Compared to the other options, this one is cheaper."
+    ],
+    "context": "Comparing the three personality types in the worksheet",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T2 line 201"
+  },
+  {
+    "id": "2026-06-15-009",
+    "date": "2026-06-15",
+    "category": "discourse",
+    "tag": "conciseness",
+    "my_sentence": "If some of your coworkers ask you some questions. And you keep your opinion to yourself, you will lose your opportunity.",
+    "correction": "If some of your coworkers ask you about what you think, and you keep your opinion to yourself, you will lose your opportunity to become a manager.",
+    "explanation": "Don't cut one complex sentence into fragments. Keep the 'if' clause, a comma, and the main clause together as a single flowing sentence instead of stopping after the 'if' part.",
+    "correct_examples": [
+      "If your coworkers ask for your view, and you stay silent, you miss a chance to shine.",
+      "If it rains tomorrow, and the road floods, we'll cancel the trip."
+    ],
+    "context": "Disadvantages of keeping opinions to yourself",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T2 line 283-293"
+  },
+  {
+    "id": "2026-06-15-010",
+    "date": "2026-06-15",
+    "category": "grammar",
+    "tag": "comparative",
+    "my_sentence": "It's easy for me to find a new job.",
+    "correction": "It's easier for me to find a new job.",
+    "explanation": "You were comparing this path with becoming a manager, so use the comparative 'easier', not the plain 'easy'.",
+    "correct_examples": [
+      "It's easier for me to switch jobs as an engineer.",
+      "Learning is easier with a good teacher."
+    ],
+    "context": "Why he prefers improving skills over becoming a manager",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T2 line 299-301"
+  },
+  {
+    "id": "2026-06-15-011",
+    "date": "2026-06-15",
+    "category": "grammar",
+    "tag": "plural",
+    "my_sentence": "The team may miss a good idea and make a wrong decision.",
+    "correction": "The team may miss a good idea and make some wrong decisions.",
+    "explanation": "You were talking about decisions in general, not one specific decision, so use the plural 'decisions' (and 'some' instead of 'a').",
+    "correct_examples": [
+      "Without feedback, the team may make some wrong decisions.",
+      "They made a few bad decisions early on."
+    ],
+    "context": "Consequence of everyone staying silent",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T2 line 319-321"
+  },
+  {
+    "id": "2026-06-15-012",
+    "date": "2026-06-15",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "They will lose some opportunities to get promotion.",
+    "correction": "They will lose some opportunities to get promoted.",
+    "explanation": "Use the verb form 'get promoted' (passive of 'promote') after 'to', not the noun 'get promotion'. If you want the noun, say 'get a promotion'.",
+    "correct_examples": [
+      "She worked hard to get promoted.",
+      "He finally got a promotion this year."
+    ],
+    "context": "Consequence of staying silent at work",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T2 line 331-333"
+  },
+  {
+    "id": "2026-06-15-013",
+    "date": "2026-06-15",
+    "category": "grammar",
+    "tag": "word-choice",
+    "my_sentence": "They expect you finish it by yourself.",
+    "correction": "They expect you to finish it by yourself.",
+    "explanation": "The pattern is 'expect somebody to do something'. You need 'to' before the verb: 'expect you to finish'.",
+    "correct_examples": [
+      "My manager expects me to finish the report today.",
+      "We expect the team to deliver on time."
+    ],
+    "context": "What a boss expects when assigning a task",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T2 line 461-463"
+  }
+]

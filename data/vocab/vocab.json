@@ -547,8 +547,8 @@
     "first_seen": "2026-05-29",
     "review": {
       "status": "new",
-      "times_looked_up": 1,
-      "last_seen": "2026-05-29"
+      "times_looked_up": 2,
+      "last_seen": "2026-06-11"
     }
   },
   {
@@ -843,8 +843,8 @@
     "first_seen": "2026-05-29",
     "review": {
       "status": "new",
-      "times_looked_up": 1,
-      "last_seen": "2026-05-29"
+      "times_looked_up": 2,
+      "last_seen": "2026-06-11"
     }
   },
   {
@@ -3225,6 +3225,510 @@
     ],
     "topic": "daily",
     "note": "looked up while translating; not peddle (兜售); back-pedal=出尔反尔",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "iconic",
+    "pos": "adjective",
+    "definition": "widely recognized as a famous symbol of its kind; classic and admired",
+    "example": [
+      "The Eiffel Tower is an iconic landmark.",
+      "She wore her iconic red dress."
+    ],
+    "synonyms": [
+      "legendary",
+      "classic"
+    ],
+    "topic": "communication",
+    "note": "looked up while translating; noun icon = 偶像/图标",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "debunk",
+    "pos": "verb",
+    "definition": "to show that a belief, claim, or story is false",
+    "example": [
+      "The study debunks a popular myth.",
+      "Scientists debunked the theory."
+    ],
+    "synonyms": [
+      "disprove",
+      "refute",
+      "expose"
+    ],
+    "topic": "academic",
+    "note": "looked up while translating; opposite of prove/confirm",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "overlook",
+    "pos": "verb",
+    "definition": "① to fail to notice or consider something; ② to have a view down over a place",
+    "example": [
+      "I overlooked an important detail.",
+      "The room overlooks the sea."
+    ],
+    "synonyms": [
+      "miss",
+      "ignore"
+    ],
+    "topic": "daily",
+    "note": "looked up while translating; not oversee (监督); also = forgive/let slide",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "go after",
+    "pos": "phrase",
+    "definition": "① to try hard to get or achieve something; ② to chase or pursue someone",
+    "example": [
+      "Go after your dreams.",
+      "The police went after the thief."
+    ],
+    "synonyms": [
+      "pursue",
+      "chase"
+    ],
+    "topic": "daily",
+    "note": "looked up while translating; also = take action against / prosecute sb",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "engage",
+    "pos": "verb",
+    "definition": "to take part in; to attract and hold attention; to hire; (engage with) to deal with closely",
+    "example": [
+      "Try not to engage in gossip.",
+      "The teacher engages her students."
+    ],
+    "synonyms": [
+      "involve",
+      "attract",
+      "hire"
+    ],
+    "topic": "business",
+    "note": "looked up while translating; engaged=忙/订婚/占线; engaging=迷人的; engagement",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "contrary",
+    "pos": "adjective",
+    "definition": "opposite in nature or direction",
+    "example": [
+      "Contrary to popular belief, it is easy.",
+      "\"Was it hard?\" \"On the contrary, it was easy.\""
+    ],
+    "synonyms": [
+      "opposite",
+      "conflicting"
+    ],
+    "topic": "communication",
+    "note": "looked up while translating; on the contrary (反驳) ≠ on the other hand (对比)",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "optimistic",
+    "pos": "adjective",
+    "definition": "hopeful and confident that good things will happen",
+    "example": [
+      "I'm optimistic about the future.",
+      "She stayed optimistic despite the setbacks."
+    ],
+    "synonyms": [
+      "hopeful",
+      "positive"
+    ],
+    "topic": "emotion",
+    "note": "looked up while translating; opposite pessimistic; noun optimism",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "dictatorship",
+    "pos": "noun",
+    "definition": "government by a single ruler or small group with absolute, unchecked power",
+    "example": [
+      "They lived under a brutal dictatorship.",
+      "a military dictatorship"
+    ],
+    "synonyms": [
+      "tyranny",
+      "autocracy"
+    ],
+    "topic": "business",
+    "note": "looked up while translating; dictator 独裁者; vs democracy",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "hold back",
+    "pos": "phrase",
+    "definition": "① to restrain or control (esp. emotions); ② to stop progress; ③ to withhold information",
+    "example": [
+      "She couldn't hold back her tears.",
+      "Fear is holding you back."
+    ],
+    "synonyms": [
+      "restrain",
+      "withhold"
+    ],
+    "topic": "emotion",
+    "note": "looked up while translating",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "after all",
+    "pos": "phrase",
+    "definition": "① used to give a reason (= remember/it should be noted); ② in the end, despite expectations",
+    "example": [
+      "He's only a child, after all.",
+      "So you came after all!"
+    ],
+    "topic": "communication",
+    "note": "looked up while translating; sentence-start=毕竟(给理由), sentence-end=终究还是(出乎意料)",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "pass away",
+    "pos": "phrase",
+    "definition": "to die (a polite, gentle way of saying it)",
+    "example": [
+      "Her grandfather passed away last year.",
+      "He passed away peacefully in his sleep."
+    ],
+    "synonyms": [
+      "die",
+      "pass"
+    ],
+    "topic": "daily",
+    "note": "looked up while translating; more respectful/tactful than \"die\"",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "dispute",
+    "pos": "noun",
+    "definition": "① a disagreement or argument; (verb) ② to question the truth of something",
+    "example": [
+      "They had a dispute over money.",
+      "No one disputes that he is talented."
+    ],
+    "synonyms": [
+      "argument",
+      "quarrel",
+      "challenge"
+    ],
+    "topic": "business",
+    "note": "looked up while translating; in dispute = 有争议; also = 争夺 (a title)",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "get through",
+    "pos": "phrase",
+    "definition": "① to survive a difficult time; ② to finish; ③ to reach sb by phone; ④ to make sb understand; ⑤ to pass (an exam)",
+    "example": [
+      "We'll get through this together.",
+      "I can't get through to her on the phone."
+    ],
+    "synonyms": [
+      "survive",
+      "endure",
+      "reach"
+    ],
+    "topic": "daily",
+    "note": "looked up while translating; vs go through—get through stresses succeeding/finishing",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "squirrel",
+    "pos": "noun",
+    "definition": "a small bushy-tailed rodent that hoards nuts; (squirrel away) to hide or save sth",
+    "example": [
+      "A squirrel buried a nut in the yard.",
+      "She squirrels away a little money each month."
+    ],
+    "topic": "nature",
+    "note": "looked up while translating; key idiom: squirrel away = 悄悄积攒",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "debate",
+    "pos": "noun",
+    "definition": "① a formal or public discussion of opposing views; (verb) ② to argue; to think over a decision",
+    "example": [
+      "They had a heated debate.",
+      "I'm debating whether to go."
+    ],
+    "synonyms": [
+      "argument",
+      "discussion",
+      "dispute"
+    ],
+    "topic": "communication",
+    "note": "looked up twice this session; open to debate = 有争议",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "monk",
+    "pos": "noun",
+    "definition": "a man who lives in a religious community under vows, esp. in poverty and devotion",
+    "example": [
+      "A Buddhist monk chanted in the temple.",
+      "The monks live in a monastery."
+    ],
+    "topic": "daily",
+    "note": "looked up while translating; nun=修女; monastery=修道院; monastic",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "carry away",
+    "pos": "phrase",
+    "definition": "(usu. get carried away) to lose self-control out of excitement; (literal) to sweep/take away",
+    "example": [
+      "Sorry, I got carried away and bought too much.",
+      "The flood carried away several houses."
+    ],
+    "topic": "emotion",
+    "note": "looked up while translating; most common as get carried away = 忘乎所以/做过头",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "pandemic",
+    "pos": "noun",
+    "definition": "a disease that spreads across many countries or the whole world",
+    "example": [
+      "The pandemic changed how we work.",
+      "a global flu pandemic"
+    ],
+    "topic": "health",
+    "note": "looked up while translating; epidemic(地区) < pandemic(全球); endemic=地方性的",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "fiddle",
+    "pos": "verb",
+    "definition": "① to keep touching or playing with something restlessly; ② to falsify (accounts)",
+    "example": [
+      "Stop fiddling with your phone.",
+      "He fiddled the accounts."
+    ],
+    "synonyms": [
+      "fidget",
+      "tamper"
+    ],
+    "topic": "daily",
+    "note": "looked up while translating; fiddle with; play second fiddle=当配角; also noun=violin",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "advocate",
+    "pos": "verb",
+    "definition": "to publicly support or recommend a policy or idea",
+    "example": [
+      "She advocates a plant-based diet.",
+      "He advocated for prison reform."
+    ],
+    "synonyms": [
+      "support",
+      "champion",
+      "promote"
+    ],
+    "topic": "business",
+    "note": "looked up \"advocated\"; verb /ˈædvəkeɪt/, noun /ˈædvəkət/ = 倡导者/律师; advocacy",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "ruling",
+    "pos": "noun",
+    "definition": "① an official decision made by a court or authority; ② (adj) having power or control",
+    "example": [
+      "The court issued its ruling.",
+      "the ruling party"
+    ],
+    "synonyms": [
+      "verdict",
+      "decision"
+    ],
+    "topic": "business",
+    "note": "looked up while translating; verb rule; ruling class/party = 统治/执政",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "stimulate",
+    "pos": "verb",
+    "definition": "to encourage growth or activity; to make someone interested or excited",
+    "example": [
+      "Low rates stimulate the economy.",
+      "The book stimulated my curiosity."
+    ],
+    "synonyms": [
+      "encourage",
+      "spur",
+      "boost"
+    ],
+    "topic": "business",
+    "note": "looked up \"stimulated\"; noun stimulus (pl. stimuli); stimulating=有启发的",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "mutual",
+    "pos": "adjective",
+    "definition": "felt or done by each toward the other; shared in common",
+    "example": [
+      "They have mutual respect.",
+      "We have a mutual friend."
+    ],
+    "synonyms": [
+      "shared",
+      "reciprocal"
+    ],
+    "topic": "communication",
+    "note": "looked up while translating; the feeling is mutual; mutually exclusive=不可兼得",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "tributary",
+    "pos": "noun",
+    "definition": "a smaller river or stream that flows into a larger one",
+    "example": [
+      "The river has many tributaries.",
+      "a tributary of the Yangtze"
+    ],
+    "topic": "nature",
+    "note": "looked up while translating; also hist. = 进贡国/朝贡国",
+    "first_seen": "2026-06-11",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-11"
+    }
+  },
+  {
+    "word": "landlocked",
+    "pos": "adjective",
+    "definition": "(of a country or place) surrounded by land, with no access to the sea",
+    "example": [
+      "Mongolia is a landlocked country.",
+      "Switzerland is landlocked."
+    ],
+    "topic": "nature",
+    "note": "looked up \"landlock\"; land + lock = 被陆地锁住",
     "first_seen": "2026-06-11",
     "review": {
       "status": "new",

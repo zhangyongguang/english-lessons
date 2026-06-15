@@ -1,9 +1,34 @@
 # Vocabulary  (latest first)
 
-155 word(s).
+180 word(s).
 
 | Word | Meaning | Example | Date |
 |---|---|---|---|
+| landlocked _(adjective)_ | (of a country or place) surrounded by land, with no access to the sea | Mongolia is a landlocked country. | 2026-06-11 |
+| tributary _(noun)_ | a smaller river or stream that flows into a larger one | The river has many tributaries. | 2026-06-11 |
+| mutual _(adjective)_ | felt or done by each toward the other; shared in common | They have mutual respect. | 2026-06-11 |
+| stimulate _(verb)_ | to encourage growth or activity; to make someone interested or excited | Low rates stimulate the economy. | 2026-06-11 |
+| ruling _(noun)_ | ① an official decision made by a court or authority; ② (adj) having power or control | The court issued its ruling. | 2026-06-11 |
+| advocate _(verb)_ | to publicly support or recommend a policy or idea | She advocates a plant-based diet. | 2026-06-11 |
+| fiddle _(verb)_ | ① to keep touching or playing with something restlessly; ② to falsify (accounts) | Stop fiddling with your phone. | 2026-06-11 |
+| pandemic _(noun)_ | a disease that spreads across many countries or the whole world | The pandemic changed how we work. | 2026-06-11 |
+| carry away _(phrase)_ | (usu. get carried away) to lose self-control out of excitement; (literal) to sweep/take away | Sorry, I got carried away and bought too much. | 2026-06-11 |
+| monk _(noun)_ | a man who lives in a religious community under vows, esp. in poverty and devotion | A Buddhist monk chanted in the temple. | 2026-06-11 |
+| debate _(noun)_ | ① a formal or public discussion of opposing views; (verb) ② to argue; to think over a decision | They had a heated debate. | 2026-06-11 |
+| squirrel _(noun)_ | a small bushy-tailed rodent that hoards nuts; (squirrel away) to hide or save sth | A squirrel buried a nut in the yard. | 2026-06-11 |
+| get through _(phrase)_ | ① to survive a difficult time; ② to finish; ③ to reach sb by phone; ④ to make sb understand; ⑤ to pass (an exam) | We'll get through this together. | 2026-06-11 |
+| dispute _(noun)_ | ① a disagreement or argument; (verb) ② to question the truth of something | They had a dispute over money. | 2026-06-11 |
+| pass away _(phrase)_ | to die (a polite, gentle way of saying it) | Her grandfather passed away last year. | 2026-06-11 |
+| after all _(phrase)_ | ① used to give a reason (= remember/it should be noted); ② in the end, despite expectations | He's only a child, after all. | 2026-06-11 |
+| hold back _(phrase)_ | ① to restrain or control (esp. emotions); ② to stop progress; ③ to withhold information | She couldn't hold back her tears. | 2026-06-11 |
+| dictatorship _(noun)_ | government by a single ruler or small group with absolute, unchecked power | They lived under a brutal dictatorship. | 2026-06-11 |
+| optimistic _(adjective)_ | hopeful and confident that good things will happen | I'm optimistic about the future. | 2026-06-11 |
+| contrary _(adjective)_ | opposite in nature or direction | Contrary to popular belief, it is easy. | 2026-06-11 |
+| engage _(verb)_ | to take part in; to attract and hold attention; to hire; (engage with) to deal with closely | Try not to engage in gossip. | 2026-06-11 |
+| go after _(phrase)_ | ① to try hard to get or achieve something; ② to chase or pursue someone | Go after your dreams. | 2026-06-11 |
+| overlook _(verb)_ | ① to fail to notice or consider something; ② to have a view down over a place | I overlooked an important detail. | 2026-06-11 |
+| debunk _(verb)_ | to show that a belief, claim, or story is false | The study debunks a popular myth. | 2026-06-11 |
+| iconic _(adjective)_ | widely recognized as a famous symbol of its kind; classic and admired | The Eiffel Tower is an iconic landmark. | 2026-06-11 |
 | pedal _(noun)_ | a foot-operated lever on a bike, car, or piano; (verb) to push the pedals of a bike | She pressed the brake pedal. | 2026-06-11 |
 | aspiration _(noun)_ | a strong hope or ambition to achieve something | Her aspiration is to become a doctor. | 2026-06-11 |
 | converge _(verb)_ | to come together and meet at one point; (of ideas) to become similar | The two roads converge near the river. | 2026-06-11 |
@@ -41,6 +66,8 @@
 | overstate _(verb)_ | to describe or explain something as larger, more important, or more serious than it really is; to exaggerate | Don't overstate the problem. | 2026-06-11 |
 | on the spot _(idiom)_ | at once, immediately, and right where you are; (put sb on the spot) to force someone to answer or act with no time to prepare, often causing embarrassment | He decided on the spot. | 2026-06-11 |
 | obsession _(noun)_ | a thought or interest that fills your mind and you cannot stop thinking about | Her obsession with cleanliness drives everyone crazy. | 2026-06-01 |
+| follow-up _(noun)_ | a further action or contact made after something earlier | The doctor scheduled a follow-up next week. | 2026-05-29 |
+| dedicated _(adjective)_ | giving a lot of time and effort to something; or set aside for one special purpose | She's a dedicated teacher who stays late every day. | 2026-05-29 |
 | proceed _(verb)_ | to continue or go ahead with something; to move forward | Let's proceed with the plan. | 2026-06-10 |
 | hospitalize _(verb)_ | to admit someone to hospital for treatment | He was hospitalized after the accident. | 2026-06-10 |
 | sanitation _(noun)_ | systems for keeping places clean and for disposing of sewage and waste | Poor sanitation spreads disease. | 2026-06-10 |
@@ -120,7 +147,6 @@
 | conducive _(adjective)_ | helping to make something happen; favorable to | A quiet room is conducive to studying. | 2026-05-29 |
 | promptly _(adverb)_ | quickly without delay; or exactly on time | She replied promptly to my email. | 2026-05-29 |
 | unpack _(verb)_ | to take things out of a bag or box; or to analyze a complex idea in detail | Let me unpack this idea a bit more. | 2026-05-29 |
-| follow-up _(noun)_ | a further action or contact made after something earlier | The doctor scheduled a follow-up next week. | 2026-05-29 |
 | nail down _(phrase)_ | to fix in place with nails; or to settle or define something firmly | Let's nail down the date for the meeting. | 2026-05-29 |
 | readout _(noun)_ | data shown by a device; or a summary report after a meeting or event | The screen gave a clear temperature readout. | 2026-05-29 |
 | pin down _(phrase)_ | to hold firmly in place; or to define or establish something exactly | It's hard to pin down the exact cause. | 2026-05-29 |
@@ -133,7 +159,6 @@
 | go door to door _(phrase)_ | to visit each house in turn, e.g. to sell or ask for something | Volunteers went door to door asking for donations. | 2026-05-29 |
 | rush out _(phrase)_ | to leave quickly; or to release a product hurriedly | She rushed out of the room in tears. | 2026-05-29 |
 | shortcoming _(noun)_ | a fault or weakness; a failure to reach a good standard | Despite its shortcomings, the plan worked. | 2026-05-29 |
-| dedicated _(adjective)_ | giving a lot of time and effort to something; or set aside for one special purpose | She's a dedicated teacher who stays late every day. | 2026-05-29 |
 | time and time again _(idiom)_ | repeatedly; many times over | I've told him time and time again to be careful. | 2026-05-29 |
 | oversight _(noun)_ | supervision or control; or a mistake made by not noticing something | Missing the deadline was an oversight on my part. | 2026-05-29 |
 | underway _(adjective)_ | already started and in progress | The project is now underway. | 2026-05-29 |

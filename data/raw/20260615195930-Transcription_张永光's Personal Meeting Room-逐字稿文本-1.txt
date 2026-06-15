@@ -1,0 +1,541 @@
+ZIVA_Teacher(00:00:06): Ok, can you see me? 
+
+Jack(00:00:10): Yeah, I can see you. 
+
+ZIVA_Teacher(00:00:12): Ok, please tell me if you can see my is the screen, can you see it?
+
+Jack(00:00:20): Yeah, I can see it. Yeah. 
+
+ZIVA_Teacher(00:00:22): Good, okay, so we will continue. Yeah, all right. Yeah, let me take a screen. And. 我。Okay, so this one you you were explaining this right the transformer blah blah blah. Yeah, so ok, back to the topic. How are you going to make this useful? Yeah. 
+
+Jack(00:00:49): Yeah, yeah. 
+
+Jack(00:01:01): Yeah, I think. that's so。This model, like our brain, we have a. artificial。Neutral Network. 
+
+ZIVA_Teacher(00:01:18): Ok. And. 
+
+Jack(00:01:19): Yeah, so it looks like a neural network. We believe more premature. Yeah, this one is parameter. I think I can draw. For a number for, for example, one. 晚安。To. Three. 
+
+ZIVA_Teacher(00:01:51): What do you mean by? 
+
+Jack(00:01:54): Yeah, yeah, I mean, yeah, I mean for this one, we call the parameter premature. And. 
+
+ZIVA_Teacher(00:02:05): parameters parameters。
+
+Jack(00:02:06): Parameter. Yeah, and this one we call the layers. 
+
+ZIVA_Teacher(00:02:14): Ok. And. 
+
+Jack(00:02:17): Yeah, so we believe hmm, more Parameters and layers allow the allow the model to learn deeper Betanzu. 
+
+Jack(00:02:32): I mean, we give them some input and. The model can give me the answer we can. 
+
+ZIVA_Teacher(00:02:40): The model can give you the answer. 
+
+Jack(00:02:44): Yeah, the model can give you the answer and then we will give the model. 
+
+ZIVA_Teacher(00:02:48): We will ha a have them. 
+
+Jack(00:02:52): We will give the model right answer and the model can compare. Yeah, it can compare right Answer and hatch answer. 
+
+ZIVA_Teacher(00:02:57): It can your pronoun it can. It can. The right end. 
+
+Jack(00:03:10): The writer and. Iter. 
+
+ZIVA_Teacher(00:03:15): Is answer? What do you mean by is answer? 
+
+Jack(00:03:20): Yeah for for. ifwe。If we want to calculate one last one. And Ai give us a give us ten and then we can tell it the right answer is two, so Ai can compare ten to two. 
+
+Jack(00:03:45): To to to get it wrong so it will to get it wrong so the Ai will adjust its parameter to get the right answer. 
+
+ZIVA_Teacher(00:03:48): To get it wrong. Ok. All right. So. 
+
+Jack(00:03:58): And a Web? Yeah. Web live。Through massive training, the Ai is focused to internalize the underlying rules behind all the data. So Ai can. Behind all the detail, behind all the data. Behind all the data. 
+
+ZIVA_Teacher(00:04:19): Behind all the details. Details. Ok. And. 
+
+Jack(00:04:31): And then Ai can help us answer. 快 start。
+
+ZIVA_Teacher(00:04:37): Ok. And. Ok, that's all. 
+
+Jack(00:04:41): Yeah, that's all. 
+
+ZIVA_Teacher(00:04:43): Ok, all right. So let's see all right. Ok, wait now if you're going to take technology classes, have you ever tried Pro Web designing? Yeah, I think what you're doing is Web designing already, right? 
+
+Jack(00:05:12): Yeah, I think many years ago, when I avoid a beginner, I try to learn web designing. It's yeah, it's like. 
+
+ZIVA_Teacher(00:05:21): Ok. 
+
+Jack(00:05:27): Newcomer to learn? Yeah, I mean, it's easy. So it's basic language in writing coding. 
+
+ZIVA_Teacher(00:05:35): It is basic language. 
+
+Jack(00:05:38): Yeah, it's basic language in writing code. 
+
+ZIVA_Teacher(00:05:44): Ok, Well, you use Python, right? What is Python? 
+
+Jack(00:05:52): Yeah, it's basic language in writing code. Yeah, for for me I can use many language like Java Python Go Lang. 
+
+ZIVA_Teacher(00:05:53): No. 
+
+Jack(00:06:03): And. C. Stay up young. 
+
+ZIVA_Teacher(00:06:08): See what's the Ci think C Plus plus is is it outdated for you guys? Yeah. 
+
+Jack(00:06:18): I think no. In some program we need to use it. So yeah, you. I mean different language can use in. 
+
+ZIVA_Teacher(00:06:25): Languages. 
+
+Jack(00:06:32): Different languages can use in different can be using different project, so you need to according to your scenario to choose language. 
+
+ZIVA_Teacher(00:06:35): Can be used in. You need to use it according to your scenario. 
+
+Jack(00:06:53): You need to use it according to your scenario. 
+
+ZIVA_Teacher(00:06:57): Yeah, at the order of your, I keep on telling you you need to put the order in your sentence structure, but okay. 
+
+ZIVA_Teacher(00:07:08): Yeah, we'll just do it habitually. Okay, so how about for language classes? Are you planning on learning some other? 
+
+Jack(00:07:11): Yeah. 
+
+ZIVA_Teacher(00:07:20): Languages two. 
+
+Jack(00:07:22): Yeah. No, I'm not going to learn another language. 
+
+ZIVA_Teacher(00:07:26): Why not. 
+
+Jack(00:07:30): Yeah, I mean, I need to learn more important thing, done them. I need to learn more important things than them. So. 
+
+ZIVA_Teacher(00:07:36): Thanks. 
+
+Jack(00:07:42): I don't want to spend my time to learn them. 
+
+ZIVA_Teacher(00:07:46): You don't want to spend your time to learn more, you should say. OK。Yeah, actually. 
+
+Jack(00:07:51): To learn more, yeah. 
+
+ZIVA_Teacher(00:07:57): If it's needed, then why not, right? I guess we. Yeah, if it's me. 
+
+Jack(00:08:01): I think nowadays you just need to learn one or two language in. It's enough. You can use Ai to convert to any language. 
+
+ZIVA_Teacher(00:08:10): Languages. Coat. 
+
+Jack(00:08:20): Languages yeah, for example, you just know how to learn Python and if you want you can use Ai to convert to Java or Cso. You don't need to learn these languages. 
+
+ZIVA_Teacher(00:08:21): Ok, but you well Ii can see that. Yeah, I can see the reason why you you really spend a lot of money to learn English. Yeah. Well, at first when I was teaching English as a language, I thought why would the students do this? Yeah, why would. Why couldn't they just learn it like them by themselves? But I do. I understood the meaning. Yeah, and I take back. 
+
+ZIVA_Teacher(00:09:11): I took back what I said before where it because I noticed that even me, I will struggle to express myself in that language if I don't practice it verbally. Yeah. And I if I do not know the basics, let's say I'm learning Chinese. Yeah, I'm learning Chinese, but I thought is it really, does it really matter? But however, if I become A if I become a researcher in the future, I have to learn at least five languages. Yeah. 
+
+ZIVA_Teacher(00:09:49): Yeah, and the hardest one I have to challenge myself, Chinese and Japanese. Yeah, and then Arabic and Russian, my gosh the hardest. Yeah, it's very different. Those languages are very different from the letters in English, so yeah. 
+
+Jack(00:09:55): 好。
+
+Jack(00:10:13): 行。
+
+ZIVA_Teacher(00:10:14): Yeah, okay. So there we go, that is all these are some of the strategies that. You can use okay, so tell me then, which one here is very the most important part. 
+
+Jack(00:10:42): Yeah, I think for me, keeping up to date is the most important part. 
+
+ZIVA_Teacher(00:10:49): What do you mean. 
+
+Jack(00:10:52): I mean recently。Ai it's developing so fast in Ai developing. It's so fast so I can't keep up to date. I will be replaced by Ai later. So it's a big problem for me. 
+
+ZIVA_Teacher(00:11:18): Ok, so it is a big problem for you replaced by Ai. Ok, yeah, but you were, as I've told you, sir, be confident because they only take the data that you have. They can't create something that is not there. Yeah. They only they only give probabilities, but they cannot have evidence or data about it. Excuse me, let's say you will form an expression right now like a new expression. We're in your. 
+
+ZIVA_Teacher(00:11:56): do they have a data with that no but now they do because you're using a transcription and ai code it but it's only for facial expressions yeah。
+
+Jack(00:12:12): Yeah. 
+
+ZIVA_Teacher(00:12:13): Yeah, okay, so it's something like that. If you think of a new idea to do or deal with a situation, then. And if Ai does not know it, then they don't have anything to record or give you a probability with, am I right? 
+
+Jack(00:12:36): Yeah, right. 
+
+ZIVA_Teacher(00:12:38): Ok, so check the names of employees that fit each description and underline the information in the article that helped you decide the answer. Whose job is Liz? Least likely to be caught. A verb was a best. Okay so here, whose a job is least likely to be cut. 
+
+ZIVA_Teacher(00:13:19): Yeah, okay. Ii would like you to please read the instructions first. Yeah, I think I need to take this wait a moment. 
+
+Jack(00:13:30): Yeah. 
+
+ZIVA_Teacher(00:13:34): So here we go now. There, so whose job is Lou is least likely to be cut there. Okay, we have this ones first. I would like you to read the instructions and we'll try to proceed in the number one. Okay, go. 
+
+Jack(00:14:02): 有 Whose job is least likely to be cut, Anna, though she, she brings a problem to her boss attention. Bessie. She always finds something good to say courage. She kept her opinion to himself. 
+
+ZIVA_Teacher(00:14:28): Ok. So. There we go now next. So yeah. Here. 
+
+Jack(00:14:41): Yeah, I think. She keeps her opinions to herself. 
+
+ZIVA_Teacher(00:14:56): Ok. Ok. No, No, No. You mean this one is the answer. 
+
+Jack(00:15:13): Yeah, this one is the answer. 
+
+ZIVA_Teacher(00:15:16): Can you please kindly explain your point, at least in three sentences? Yeah. 
+
+Jack(00:15:22): Yeah, this one is the answer. Yeah, I think in my opinion, if you always bring problems to your boss. He or she where now to. hershe will。We feel angry to you so you. Bill. 
+
+ZIVA_Teacher(00:15:51): He will feel and he or she will feel angry at you. 
+
+Jack(00:15:57): He or she will feel angry at you, so you will be fired. In the future. 
+
+ZIVA_Teacher(00:15:59): Yes, then. And. 
+
+Jack(00:16:08): And a for bessege. She always find something good to see. Hmm, I think in our social life. Yeah, that's pretty good, however, in business. 喂。Hmm, it's not important you can't help the company to make value. So. idon't think you can。Help others to to progress so. 
+
+ZIVA_Teacher(00:16:51): Ok. And. 
+
+Jack(00:16:51): So I think Carrot she kept her opinion to herself. Yeah, I think it's a good Hmm, it's a good. Why do. To protect. To。Yeah, I think in our business, if you can keep your opinion to yourself, it's pretty good. You can. 
+
+Jack(00:17:24): share your ideas 就 and 有 Can be responsible for your behavior, so it's a very important security. 
+
+ZIVA_Teacher(00:17:38): Ok. And then. 
+
+Jack(00:17:41): And then I think Karl. It's the least likely to be cut. 
+
+ZIVA_Teacher(00:17:50): Okay, so least likely to be cut. She will keep her opinions to herself. But I have a question why? Yeah, because I'm someone. It is because I am someone who expresses myself and I usually do not keep them. 伊 To my, I usually do not keep them internally, or I mean I am expressive. Yeah, I express all my thoughts regarding what regarding the situation. 
+
+ZIVA_Teacher(00:18:32): So yeah, I I don't. Why do I do that? It's not about It's not because I'm. I do not think twice or I do not use my brain. It's it's usually. Because I think in some cases, expressing your thoughts is the best way to solve a problem. Yeah, let's say internal problem, don't you think so, sir. 
+
+Jack(00:19:03): yeah。Yeah, I think so if you share ideas, that can help. Tim to fix some problems. 
+
+ZIVA_Teacher(00:19:18): And then. 
+
+Jack(00:19:22): Yeah, and then compare to number one or two, I think if you keep your opinion to yourself, it's better than others. 
+
+ZIVA_Teacher(00:19:36): But in. 
+
+Jack(00:19:36): I mean, I bring problems and find something good to see. I don't think those methods are good. Or employee to finish their tasks? 
+
+ZIVA_Teacher(00:19:55): Okay. What else. 
+
+Jack(00:20:01): So. I only can choose number three. 
+
+ZIVA_Teacher(00:20:07): Ok, all right, you can on okay that will be your choice, but okay. Yeah, this is acceptable though, since we work in a con. No, no, no in a place where cunning, people cunning, selfish and what do you call this? Profit chaser people, yeah, okay, profit chasing, I should say profit chasing people are the owners Rachel chasing, I just made up up myself. You don't have to. Yeah I made it up myself. 
+
+Jack(00:20:36): Yeah, yeah. 我会吃腥。
+
+ZIVA_Teacher(00:20:52): Yeah, this is the perks of knowing English too well that you can make new words out of it and it doesn't affect your. What do you call it? It doesn't affect your grammar. Do you want me to se a search? Rapid chasing. 
+
+Jack(00:21:05): Yeah. 
+
+ZIVA_Teacher(00:21:15): ok wait a moment 刚耶嘻下午。Ok. Rough it. Chasing. Adjective. So there we go, Yeah, since I made that up myself. Yes. 拜拜 Yeah, Ok. See. 
+
+Jack(00:21:51): Yeah. 
+
+ZIVA_Teacher(00:21:51): Yeah, it appeared right, it doesn't. Yes, it doesn't. There are other words that they can profit seeking profit chasing. I think profit seeking profit seeking is a verb, but this one I made it into an adjective profit chasing people, Yeah. 
+
+Jack(00:22:13): Yeah. 
+
+ZIVA_Teacher(00:22:13): So that's it. Yeah, alright. We are ruled by selfish, self centered, sadistic profit chasing. People, yeah, and profit chasing people, I should say yeah, so I can say this is the best course of action. Yes, huh? 
+
+Jack(00:22:34): Yeah. Yeah, right. 
+
+ZIVA_Teacher(00:22:43): I learned this the hard way though. Yeah, maybe for you it's easy, but to me it's very hard. It was very hard. It took me how many years. More than five years? Yeah, I guess it took me more than five years to learn this. How did you keep your opinions to yourself Most of the time, sir. 
+
+Jack(00:23:19): Sorry, teacher, Can you say the question again? How do you? 
+
+ZIVA_Teacher(00:23:22): How did you may? How did you keep your opinions to yourself most of the time? 
+
+Jack(00:23:29): Yeah, I think. 保密 hej two。It's easy to do. If I have some ideas that would not hmm that I'm not sure I will not share to others. 
+
+Jack(00:23:54): And I know I don't want to see some someone guess up all. try to。Make some troubles, try to make some troubles to others. 
+
+ZIVA_Teacher(00:24:07): Or try to. What do you mean by that, sir? 
+
+Jack(00:24:15): I mean when you share some ideas, are you try to some people said something to you and you share. 
+
+ZIVA_Teacher(00:24:32): Some people. Say something to you. 
+
+Jack(00:24:33): Some people say something to you and you share these things to others. It will hmm. It will bring some problems. So for me, I don't want to do these things. 
+
+ZIVA_Teacher(00:24:49): You don't want to do those things, yes. 
+
+Jack(00:24:53): Yes. 
+
+ZIVA_Teacher(00:24:55): Why. 
+
+Jack(00:24:58): It will hurt some people, some people share information to you or some people. Share some secrets to you. 
+
+ZIVA_Teacher(00:25:03): Why. 
+
+Jack(00:25:10): And you share to others. It will hurt them. Maybe maybe they want to share to others. Maybe the secret was not right was not true. 
+
+ZIVA_Teacher(00:25:14): So you mean like you prevent the rumors? 
+
+Jack(00:25:27): If you share. 有 Prevent the rumoring. Or keep your. Keep secret. 
+
+ZIVA_Teacher(00:25:39): So you mean you keep the secrets to yourself? Okay. Does it help. 
+
+Jack(00:25:45): 有 Prevent the rumoring. Or keep your. Keep secret. Yeah, I think you. In a company, it's helpful. 
+
+ZIVA_Teacher(00:26:00): It is helpful and. 
+
+Jack(00:26:02): It is helpful and you can and you and your coworkers can focus on their tasks. 那特搞笑不是？
+
+ZIVA_Teacher(00:26:13): So you mean you can focus on your tasks and not gossip? Is that Ok，Actually? That's a little bit helpful though. 
+
+Jack(00:26:21): Yeah, yeah. 
+
+ZIVA_Teacher(00:26:27): I can agree with you. Yeah on that. Yeah I will. I can agree, but you see how they put this. If that is the case, then I think. We can just how they put this. We can just forget something that how about this. We can just forget something that is different. 
+
+ZIVA_Teacher(00:27:00): I should say. But in a sense, it's also problematic. It can be problematic. Yeah, alright, what are the disadvantages of keeping your opinions to yourself all the time? 
+
+Jack(00:27:24): I think in some. In 项目 sinara yoga。if your coworker or coworkers or your. 不好笑。One once one to ask your some question or ideas. If you don't share your idea, you will. 
+
+ZIVA_Teacher(00:27:49): No, no, no, I and you if some of your coworkers ask you about what you think. 
+
+Jack(00:27:58): If some of your co workers ask you. What you think. Ask. 
+
+ZIVA_Teacher(00:28:05): About what you think comma and then you add another independent clause you do not cut. 
+
+Jack(00:28:13): If some of your coworkers ask you some questions. And you don't so, and you keep your opinion to yourself, you will lose some opportunity to. 
+
+ZIVA_Teacher(00:28:36): You will lose your opportunity too. 
+
+Jack(00:28:39): You will lose some opportunity. To become a manager. 
+
+ZIVA_Teacher(00:28:46): Ok, do you want to be a manager? Oh why。
+
+Jack(00:28:51): No for me. I don't want to be a manager. 
+
+Jack(00:28:57): Hmm yeah, I for me I just want to improve my skills and then it's easy for me to find a new job to find a new job. Yeah, if I want if I become A. 
+
+ZIVA_Teacher(00:29:04): It's easier for me to find a new job. 
+
+Jack(00:29:11): A manager. I can get higher salary, but I can't easily find a new job. 
+
+ZIVA_Teacher(00:29:18): I can easily find a new job. 
+
+Jack(00:29:22): I can easily find a new job. 
+
+ZIVA_Teacher(00:29:24): OK。That's your, but is that really something to what do you call this? Is that really something to think about? Yeah, okay. How about for other people? What do you think is the consequence of keeping his or her opinion to him or herself? Yeah, what do you think? 
+
+Jack(00:30:08): Yeah, let me sorry. Wait a moment. 
+
+ZIVA_Teacher(00:30:15): Ok. Yeah. Well, well, well, well, well. You got stuck. 
+
+Jack(00:30:26): Yeah, Ii think yeah. I think if someone always kept their opinions to themselves. the tip。maymissa good idea。
+
+ZIVA_Teacher(00:30:46): What. What do you mean. 
+
+Jack(00:30:49): I mean the team, the team may miss a good idea and they can make a wrong. 第四忍者。
+
+ZIVA_Teacher(00:31:01): It can make some wrong decisions. 
+
+Jack(00:31:03): They can make some around the. 
+
+ZIVA_Teacher(00:31:06): Okay. That's all. 
+
+Jack(00:31:08): 一样太丑。
+
+ZIVA_Teacher(00:31:09): Mm, but you see that can be a problem because sometimes the consequence of this is severe to the person if they can't express themselves or they're not given the chance to do it. Do you think it will be helpful to them to their mental health? 
+
+Jack(00:31:38): Yeah, I think. Yeah, I think they will lose some opportunities to get promotion. 
+
+ZIVA_Teacher(00:31:46): Yeah, or to get promoted, you should say yes, they will lose themselves to. Yeah, to get promoted something like that. 
+
+Jack(00:31:50): To get promoted. 
+
+ZIVA_Teacher(00:32:01): So what can they do then, sir, what can they do to get promoted? 
+
+Jack(00:32:06): Yeah, I think if they want to get promoted, they need to share their ideas. In some scenario they need to catch A. The opportunity. 
+
+ZIVA_Teacher(00:32:25): They need to catch an opportunity. What do you mean? 
+
+Jack(00:32:29): Yeah, I mean they need to share their ideas and help the team to find some solutions and help the team to make a. 这些人。
+
+ZIVA_Teacher(00:32:47): OK。Ok, all right. Ok, so well let's have this one. Then how about for beds? She always finds some something good to say. Do you think this is good? 
+
+Jack(00:33:15): Sometimes, sometimes I think it's good, but others I don't think it's good. Yeah. 
+
+ZIVA_Teacher(00:33:22): Why do you think so? Why do you? I don't think it is okay or it is acceptable, you should say. 
+
+Jack(00:33:33): Yeah, I think if you provide service for your customers, if you can make your customers feel happy, yeah that. 
+
+ZIVA_Teacher(00:33:46): If you can, if you provide. Do not cut. 
+
+Jack(00:33:50): If you provide a. Yeah, if you provide services for your customers. 
+
+ZIVA_Teacher(00:34:01): Comma. If. 
+
+Jack(00:34:05): It will be Ok. 
+
+ZIVA_Teacher(00:34:09): Why do you say sometimes only yeah, why do you say that? 
+
+Jack(00:34:16): Yeah, I think in some scenarios it's ok, but others it will hurt. Some people. 
+
+ZIVA_Teacher(00:34:25): What do you mean. 
+
+Jack(00:34:25): Oh yeah for example。If your if your customers feel angry and you say you find something good to say and then you and then they feel happy and contented. Yeah, you can fix the problem. It's good scenario to use this method, but for others though. If we talk about some important, we need to make a decision if you use your this method to change the result. The confluence? We will be serious. 
+
+ZIVA_Teacher(00:35:19): The consequence? 
+
+Jack(00:35:20): The consequences will be serious. 
+
+ZIVA_Teacher(00:35:24): What do you mean by that, sir? 
+
+Jack(00:35:27): weneed to。We need to get right answer. youuse your method to affect。It so. Comf. 那些款式！It is serious. 
+
+ZIVA_Teacher(00:35:50): Ok, all right. So I guess this for you saying nice things. Okay, you're not, you are you not used to it? Yeah. 
+
+Jack(00:36:09): yeah for me。I'm not used to it. 
+
+ZIVA_Teacher(00:36:14): Yeah, I think so too. Sometimes it doesn't help me improve or yeah, grow. Yeah, it's okay for, but however, there are other times where in you can meet people who are really gentle, very gentle. 
+
+Jack(00:36:33): Yeah. 
+
+ZIVA_Teacher(00:36:34): Yeah, they speak gently and their personality is very gentle, so all you feel is warmth. Yeah, like this one, warm like a very warm, warm person so they don't. Yeah, they speak things that are good, so it's okay, but well, you can always see if they're faking it right? Yeah. 
+
+Jack(00:36:42): Young. 
+
+Jack(00:36:59): 行。
+
+ZIVA_Teacher(00:37:00): You can always see it, so for me, however, majority of us can can lie. So yeah, I do agree with this majority only not not all but majority. Yeah, I've I've met some people who were actually warm. Yeah, they've shown warmth and they were so gentle, yeah, but in some cases. 
+
+Jack(00:37:15): Yeah, yeah. 
+
+ZIVA_Teacher(00:37:31): Yeah, I've also met terrible ones. Yeah, they speak, they speak gently, but you can see their objectives or something like that. Yeah. Their intentions and it does not. It's not warm or the little the least. Careful, I should say it's more of like careful. They want to get your attention and maybe trust and then. 
+
+ZIVA_Teacher(00:38:12): After that they will fully take advantage of you right? Yeah, your daughter, her pigtails are so cute. I really like girls with pigtails. I never liked it though for me, but they're so cute. 
+
+Jack(00:38:19): Yeah, right. Yeah. 
+
+ZIVA_Teacher(00:38:35): Yeah, Ok, but one consequence of this is that it does not help you grow. Right. 
+
+Jack(00:38:47): Yeah, right. 
+
+ZIVA_Teacher(00:38:49): Does not help you grow Ok. What else? What are the disadvantages of this of this happening? 
+
+Jack(00:39:00): yeah, I think sometimes you need to face the cool our show our show to so. 
+
+ZIVA_Teacher(00:39:11): What do you mean. 
+
+Jack(00:39:13): I mean if you if you get too much good things and you will not. You will lose yourself. 
+
+ZIVA_Teacher(00:39:33): Ok. 
+
+Jack(00:39:33): I mean you need to. Yeah, you need to push yourself if there are too many. that there are too many。On. You are lose yourself. 
+
+ZIVA_Teacher(00:39:52): What do you mean. 
+
+Jack(00:39:59): I mean, yeah, funny. Even though many people find some good things, some good. 
+
+ZIVA_Teacher(00:40:00): You will lose. 
+
+Jack(00:40:09): somethinggood to see you youneed to you need to know yourself。You need to. It identify which one is it to which one it was. 
+
+ZIVA_Teacher(00:40:30): Ok. What do you mean. 
+
+Jack(00:40:36): I mean if you. listento do many good things。You will. can't identify yourself。You will think you are perfect. 
+
+ZIVA_Teacher(00:40:54): Ok. Yeah, being perfect. Do you think being perfect is helpful to your growth? 
+
+Jack(00:41:03): I know I don't think being perfect is helpful to your growth. You need to face many problems and then you can improve if you are perfect. You, you are stop. 
+
+ZIVA_Teacher(00:41:18): Yeah, you're like a filled glass that cannot be filled. Yeah, there's already there the glass, the glass is full of water, but you cannot feel it because there's ice, Yeah, so the ice did not melt, it became it hardened like Antarctica. So yeah, you cannot feel it. It's so full, right? 
+
+Jack(00:41:48): Yeah, yeah, right. 
+
+ZIVA_Teacher(00:41:49): 你 But and you can't even spill it out like this? Yeah, but if you're a if you're water, wait. I just remembered what Bruce Lee said, be what be be like water, my friend. His famous line, my gosh, I remember it from my childhood. Yeah, good old days. Ok, so the water, the water is the water filled the cup, but you can throw it out and learn again. 
+
+ZIVA_Teacher(00:42:30): Fill it up again, am I right? 
+
+Jack(00:42:32): Yeah, right. 
+
+ZIVA_Teacher(00:42:33): And that's how you grow. So let's say there is an onion. You put it on top of this one and it takes root, but at the same time you have to pull it out and then. Change the water again. That's how you grow in order for the onions to sprout, am I right? 
+
+Jack(00:42:59): Mm. Yeah, right. 
+
+ZIVA_Teacher(00:43:02): Yeah so we're like that but im not an onion Im a human. Yeah it s just a metaphor you know or yeah it sa personification. 
+
+Jack(00:43:14): Yeah. 
+
+ZIVA_Teacher(00:43:18): Ok, so yeah, I guess, or how about for this one here? Do you think this kind of strategy is proper? 
+
+Jack(00:43:30): No, I think most leaders we are not. We are not like a person who always bring problems to him or her. 
+
+ZIVA_Teacher(00:43:39): Excuse me. Why is that. 
+
+Jack(00:43:46): Yeah, for example, manager try to give many texts to others if you all would bring problem to him or her. They he or she will not have time to fix their problems. And John, it's Robert Lamont? Yeah. 
+
+ZIVA_Teacher(00:44:07): To fix the problem. Ok. Wait a moment. 
+
+Jack(00:44:13): I mean if they yeah, if they give you a test, they expect you finish by yourself. Not. 
+
+ZIVA_Teacher(00:44:21): They expect they expect you to finish it. 
+
+Jack(00:44:26): They expect you to finish it by yourself, not ask them to help you. 
+
+ZIVA_Teacher(00:44:35): Ok, What what else? 
+
+Jack(00:44:38): If you always ask them for help, it means you can't finish your tasks. They need to change a new one to. Help them. 
+
+ZIVA_Teacher(00:44:53): Ok. That's all yes. Ok, yeah, I guess that's also possible. 
+
+Jack(00:44:56): Yeah, yes. 
+
+ZIVA_Teacher(00:45:05): So now brings problems to her boss attention. Seriously, how can one grow from this? Do you think I? Actually I'm actually a clumsy person, but I tried to learn so many things in order to prevent them like I learned how to increase my reflex. Yeah, reflexes. Yes, if I see something fall falling, I habitually grabs grab it. Yeah, so fast. 
+
+Jack(00:45:33): Yeah. 
+
+ZIVA_Teacher(00:45:44): Yeah, I try to practice by catching flies. Yeah, our mosquitoes, so they're so fast, right? 
+
+Jack(00:45:51): Yeah, yeah. 
+
+ZIVA_Teacher(00:45:56): If you try to catch a fly, you cannot catch all of them. So maybe one or two I manage after so after doing so many tries, I tried to catch at least one or two of them. Yeah, I was proud of myself by doing that, yeah, but from. 
+
+Jack(00:46:10): Yeah. 
+
+ZIVA_Teacher(00:46:20): Time to time I notice the changes. I reflexively catches something I can sorry catches. I can reflexively catch something with my bare hand if they're falling, Yeah. 
+
+Jack(00:46:36): Yeah. 
+
+ZIVA_Teacher(00:46:36): Yeah, if they fall I should say not falling if they fall, so I don't like that. Yeah, what will be your advice to a person like this? 
+
+Jack(00:46:49): yeah, I think for them. They need to try to finish their tasks by themselves. 
+
+ZIVA_Teacher(00:46:58): What do you mean by that? 
+
+Jack(00:47:02): Yeah, I mean, they don't need to bring a problem to their boss. 等你去包睡一觉。
+
+ZIVA_Teacher(00:47:10): Process. 
+
+Jack(00:47:13): They need to finish a date tasks by themselves. andthen they can。
+
+Jack(00:47:23): Finish more important tasks in the future if they can't face so if they can't finish the simple Tyla. 
+
+Jack(00:47:35): How can they. Improve. 
+
+ZIVA_Teacher(00:47:40): How can they improve you mean? 
+
+Jack(00:47:44): Yeah, I mean, how can they improve? How can they get promoted? 
+
+ZIVA_Teacher(00:47:53): Okay, so well, I guess that can be a yeah possibility. We will talk more about this. But with these three, these are three character traits actually, Yeah. They can learn how to do them by themselves. Why can't I erase the other one? No, I can't erase it. Yeah. 
+
+ZIVA_Teacher(00:48:20): Alright, so the Personality 102 and Ok, sorry, where's the? Eraser, there's yeah, I can't erase them. Okay, so here we have one 203, which personality is the best. For you, sir. 
+
+Jack(00:48:49): yeah I think。Personality three is the best in my opinion. 
+
+ZIVA_Teacher(00:48:57): Okay, personality free, Well, you chosen that one all right. What are the disadvantages of this one? Yeah. 
+
+Jack(00:49:10): 你是么样。
+
+ZIVA_Teacher(00:49:13): Yeah of having a personality like that. 
+
+Jack(00:49:18): Yeah, if you always bring problems to others, you well depend on others and you can't improve your own skills. So you can't finish a task you can't build independent character. 
+
+ZIVA_Teacher(00:49:44): What do you mean. 
+
+Jack(00:49:47): I mean, you can't be independent. 
+
+ZIVA_Teacher(00:49:53): You cannot be independent and you forgot you forget so many things right? Yeah。Well, I think you're right with this. Okay, so I have to. 
+
+Jack(00:49:59): I mean, you can't be independent. Yeah, right? Yeah. 
+
+ZIVA_Teacher(00:50:08): Yeah, we will leave it like this. We'll continue more about it next time. So do you have any questions, sir? 
+
+Jack(00:50:16): No, I don't have any questions. 
+
+ZIVA_Teacher(00:50:18): Okay, so I'll end it here and thank you, sir. Actually Paypal held my money. Yeah, because Iii guess I reached the limit. Yeah of sending money. It's a free account so I did not. Pay the premium, blah, blah, blah. Why should I pay? There's a Yeah, I will take it for after 21 days. Okay, so thank you. Let's see, let's have the class tomorrow. Again, Okay. 
+
+Jack(00:50:55): Yeah, okay. See you. 
+
+ZIVA_Teacher(00:50:56): See you, sir. Ok. Ok. Ok. 
