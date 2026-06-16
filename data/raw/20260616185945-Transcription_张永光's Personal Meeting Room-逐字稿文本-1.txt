@@ -1,0 +1,303 @@
+ZIVA_Teacher(00:00:01): But your voice, can you make it a little bit louder? Okay, wait a moment. I have to upload your book, but how are you today, sir? 
+
+Jack(00:00:16): Yeah, today I had a good day. Today I was not very busy, so. ican。
+
+ZIVA_Teacher(00:00:24): And. 
+
+Jack(00:00:29): I can have some time to. Investigate some. Some information. 
+
+ZIVA_Teacher(00:00:38): Investigate or learn. Maybe you should say learn, investigate is to find. Actually if you use the word investigate you have to find evidence. Yeah. Evidence? Yes, yeah, that's why. If you use that, it's more of your idea of it should be to find evidence. Ok. 
+
+Jack(00:00:56): Yes. Yes. Yeah, Ok. 
+
+ZIVA_Teacher(00:01:09): Yeah, maybe you should say learn, learn. 
+
+Jack(00:01:13): Yeah, yeah, learn some information. 
+
+ZIVA_Teacher(00:01:16): About what? Sir? Exactly.。
+
+Jack(00:01:19): Yeah about. 
+
+ZIVA_Teacher(00:01:21): I want to. I learned an in information about. 
+
+Jack(00:01:29): I learned to some information about in Redis cluster. It's yeah. It's a kind of database that can story that can store data in memory. 
+
+ZIVA_Teacher(00:01:36): Store data store data. 
+
+Jack(00:01:46): To help. To store data in memory. 
+
+ZIVA_Teacher(00:01:51): Store data and memory. 
+
+Jack(00:01:57): Yeah, store data in memory so we can quickly access. 
+
+ZIVA_Teacher(00:01:59): Rent memory.。
+
+Jack(00:02:04): Yeah, store data in memory, and then we can. Memory? Yeah. 
+
+ZIVA_Teacher(00:02:08): And memory. And memory? Not in memory, sir. What do you mean by in memory? The memory is Ok is something that. Can show a memory is what you say if you are putting data, I mean the data is you are inputting data and that is if they form together that is the memory. 
+
+ZIVA_Teacher(00:02:45): Okay. So maybe you should try something else. And Data and Mamba. 
+
+Jack(00:02:49): Yea. And. Data or memory we can. Store data on memory. 
+
+ZIVA_Teacher(00:02:58): No data, only data. 
+
+Jack(00:03:00): Only data yea for for the for the normal databases, we usually store data on disk, but for Redis we store data on memory. 
+
+ZIVA_Teacher(00:03:10): We stole them, sir, your pronounce. 
+
+Jack(00:03:13): We store them on memory so we can access and write quickly. 
+
+ZIVA_Teacher(00:03:20): You can access them and you can access and write them quickly. That's all. 
+
+Jack(00:03:27): We store them on memory so we can access and write quickly. Yeah, yeah, we can access the demo. We can access and write them quickly. 
+
+ZIVA_Teacher(00:03:31): We can access, yes, okay, so yeah, I guess that's okay. Wait a moment if you do that. What are the things that you usually do? 
+
+Jack(00:03:51): What are the things that you usually do? 
+
+ZIVA_Teacher(00:03:55): Yeah. 
+
+Jack(00:03:57): Yeah, four. Yeah, four. For one user, we can use a disk to store data, but for. 
+
+ZIVA_Teacher(00:04:11): We what do you mean? 
+
+Jack(00:04:14): Yeah, I me for one user we can use a disk to. 韩九，黑胶盒。Business, but if we provide service for thousands and. 
+
+ZIVA_Teacher(00:04:27): Sorry, something crawled out of my wait continue and then. 
+
+Jack(00:04:35): Yeah, if thousands and million users access our service. 
+
+ZIVA_Teacher(00:04:41): Of users. 
+
+Jack(00:04:43): 我有99。
+
+ZIVA_Teacher(00:04:45): Internet users, if thousands or millions of Internet users. 
+
+Jack(00:04:52): If thousands or millions of if thousands or millions of Internet users access our service at the same time, we need to use memory to handle their businesses. 
+
+ZIVA_Teacher(00:04:52): Thousands. Ok. We need to use the memory. 
+
+Jack(00:05:12): We need to use the memory to handle their businesses. 
+
+ZIVA_Teacher(00:05:16): Okay, so you need to use the memory to handle their businesses. Excuse me, that's all. 
+
+Jack(00:05:26): 也在抽。
+
+ZIVA_Teacher(00:05:29): Mm Okay, so yeah, you had a lot. Are you sure? Wait? Are you sure about it? You're not going to have a problem. 
+
+Jack(00:05:43): Yeah, I'm not going to have a problem. 
+
+ZIVA_Teacher(00:05:45): But how about for your classes? Yeah. Yeah, it won't. It won't affect your classes if you get busy. On it. 
+
+Jack(00:05:53): Well, my classes. Well, my classes, yeah, I think. Yeah, I think for me it's not a problem. I only work for 8h so I can use my free time to learn English. 
+
+ZIVA_Teacher(00:06:11): Ok, all right? Well as long as it doesn't affect your classes too much. Yeah, we have to reschedule if just tell me beforehand, like maybe a day or two or if you don't. Yeah, just tell me a message if you will not be able to attend. 
+
+Jack(00:06:33): Yeah. 
+
+ZIVA_Teacher(00:06:34): Yeah, would you look at that? You usually? Yeah, most of my schedule? Yeah, I think 90% of it were booked by you. So Ok. 
+
+Jack(00:06:50): Yeah. 
+
+ZIVA_Teacher(00:06:51): Let's see, alright, so we will start our class. How about your dinner, sir, by the way. 你。
+
+Jack(00:07:00): Yeah, for my dinner, I eat some dumplings and vegetables. 
+
+ZIVA_Teacher(00:07:08): I. You ate some dumplings and vegetables. That's all. 
+
+Jack(00:07:12): 两袋超。
+
+ZIVA_Teacher(00:07:17): So wait a moment. 
+
+Jack(00:07:20): 一样。
+
+ZIVA_Teacher(00:07:21): Ok. Okay. Wait a moment. Let me. Okay, so we were talking about this one last time. Right? Yes, Ok. 
+
+Jack(00:07:44): Yeah, right? Yea. 
+
+ZIVA_Teacher(00:07:48): Now we haven't talked about the disadvantages of them, so we're done with this one. Yeah, how about this one? Here, what are the disadvantages of this? Yeah, that what are the disadvantages of them? Or you can share? At least yeah. 
+
+Jack(00:08:13): Hmm, yeah, I think if she always brings problems to her boss's attention. Our boss will feel angry and tired to help him to help to help her fix. Problem job so he she will be fired later or she will not get promoted in the future. 
+
+ZIVA_Teacher(00:08:50): She will not get promoted in the future. Ok, that's all.。
+
+Jack(00:08:59): 眼在抽。
+
+ZIVA_Teacher(00:09:03): Ok, now all right. Why should can you tell me what makes a person like an bring? Ok? 
+
+ZIVA_Teacher(00:09:17): Okay, being clumsy, what makes a person like an somehow problem in a big company? 
+
+Jack(00:09:31): Yeah, I think maybe like newcomers, they don't know anything so they need to ask. Ask many questions to. There are many rooms. 
+
+ZIVA_Teacher(00:09:51): What do you mean. 
+
+Jack(00:09:53): Yeah, I mean hmm, they are newcomers so they don't know anything. They need to ask their managers to help for help. 
+
+ZIVA_Teacher(00:10:07): Okay, so that's all. Yes, okay. Have you met? Have you ever met someone who is very clumsy? 
+
+Jack(00:10:12): 眼太丑。Hmm. Yeah, I think for for newcomers they always have this or that problems. oneof my worker。had this problem。They came to to the company maybe five or six years ago. He don't know, he doesn't know anything and he always asks me for help. 
+
+ZIVA_Teacher(00:10:45): Ok. 
+
+Jack(00:10:51): And I had to. Teach him once and once again. 
+
+ZIVA_Teacher(00:11:00): OK。And. 
+
+Jack(00:11:02): And as a student, he learned many things in the school. However, it's not is not suitable. It's not suitable. 艾灸 employee。
+
+Jack(00:11:25): I mean, he learned many things, but it's a. Utilize. It's a useful. 
+
+ZIVA_Teacher(00:11:32): So you like, Ok, so what do you think should be there? What do you call this? What do you think should be there job? Or what job should they have? Yeah. What jobs should they have, I should say? Yes. 
+
+Jack(00:11:51): 那我。What jobs should they have? Sora Teacher, you mean what job should they have? 
+
+ZIVA_Teacher(00:12:03): Yes, what job should they have the people who are like an? Yeah, it's all. Everything that I ask are all related to our topic? Yeah, you should. Yeah, so what jobs should they have? This one.。
+
+Jack(00:12:24): Yea. 
+
+ZIVA_Teacher(00:12:35): What jobs should they have? 
+
+Jack(00:12:36): Yeah, I think yeah I think they should work in Hm. They should work in a new program where they can ask many questions. 
+
+ZIVA_Teacher(00:12:55): 哼 And what do you mean? What do you mean by that? 
+
+Jack(00:13:00): 安眠 They need to. They need to join a new, they need to join a program that is for new comers and there they can learn many necessary skills and. Hmm. Basic information. To help them become an employee. And then join to the company. 
+
+ZIVA_Teacher(00:13:29): Join the company. 
+
+Jack(00:13:31): And then joined the company. 
+
+ZIVA_Teacher(00:13:33): But Ok, excuse me alright. Sorry, okay, sorry for that. I ate two bananas really before our class. But you see, sir, here's the thing. If it ow Ok if it is like this. Actually there are most of most people with the personality of this one are artistic. This one. 
+
+ZIVA_Teacher(00:14:13): Artistic It's not that they're slow, but they process it very carefully in their brain so it will take. Sorry it will take time for them. Sorry for that, sorry about that. It will take time for them too. Share their opinions or maybe learn something like me. I'm actually a very clumsy person and it takes time for me to. It takes times, it takes time, it takes time for me to. See the bigger view. Maybe like a day or two after I process all of the things that I've heard and learned Yeah, and then I will see the whole layout of it like let's say this is our conversation so I will reminisce or remember all of them and then I should have said this on this part and this on this part. Yeah, like that, it's like a. 
+
+ZIVA_Teacher(00:15:19): Self processing. I have a processor in my brain, yeah, but it it takes the data, all all of the data that I've learned throughout the day and then it processes it, and I will create some solutions in each of the scenarios in my brain like that, so that's why they seem out of touch sometimes. Yeah, they seem out of touch sometimes, but. 
+
+ZIVA_Teacher(00:15:52): Seriously, I think we don't have to be. Yeah, what about this? Yeah, I guess because in a company you have to be fast, you have to be a fast learner, am I right? 
+
+Jack(00:16:12): Yeah, yeah. 
+
+ZIVA_Teacher(00:16:13): Yes, yeah, so even if they do that, they have to do it habitually. This one habit. However, if they're not, if their resolve is weak or let's say this one resolve. If their resolve is weak, then they will not be able to withstand what people say about them. Yeah, they will not be able to withstand the things that people will say about them. Am I right? 
+
+Jack(00:16:47): 你好。
+
+ZIVA_Teacher(00:16:48): Yeah, after so many, after spending so many years listening to people grumble about my personality, all of those, I just said that. I have a choice not to listen. Why should I? I have to find the solutions for myself, so why should I listen to them? I am the one feeding myself, so I have the right to criticize only myself too. Yeah. 
+
+Jack(00:17:20): Yeah. 
+
+ZIVA_Teacher(00:17:21): I have the right to do it myself too. I should say yeah, but for people like an they're gentle like this. So I guess being a teacher or an office worker is suitable for them. 
+
+Jack(00:17:46): Yeah. 
+
+ZIVA_Teacher(00:17:47): Teacher this one. I think being a teacher can be suitable for people like this. Yeah, okay, let's go to number two so. Whose job is most likely to be cut, most likely to be cut? Why can't I? No. I can't. Sorry, I can't. Yeah, yeah, okay, no. Is that was that you, sir. 
+
+ZIVA_Teacher(00:18:29): I think it's you. 
+
+Jack(00:18:30): A sorry Ziva teacher. 
+
+ZIVA_Teacher(00:18:33): I think it was you who wrote it. Yeah. 
+
+Jack(00:18:36): Rooted, rooted? What Ziva teacher? 
+
+ZIVA_Teacher(00:18:40): 再说。
+
+Jack(00:18:41): I didn't write anything. 
+
+ZIVA_Teacher(00:18:43): Sorry I guess it came from the my gosh, what am I saying? It wasn't you? It was me sorry hello there. 你好 yeah, she's so cute now I can see her properly don't go Ok, so whose job is most likely to be cut? All right? Please kindly read all of them, sir. 
+
+Jack(00:19:07): 行。行。
+
+ZIVA_Teacher(00:19:14): We'll talk about it. 
+
+Jack(00:19:22): yeah I think。
+
+ZIVA_Teacher(00:19:26): We'll talk about it.。
+
+Jack(00:19:28): Charge A takes on different responsibilities. 
+
+ZIVA_Teacher(00:19:36): Ok, can you say it again? 
+
+Jack(00:19:40): Charge A takes on different responsibilities, charge A takes on different responsibilities. 
+
+ZIVA_Teacher(00:19:50): Difference and responsibilities. 
+
+Jack(00:19:54): Yeah, different responsibilities. 
+
+ZIVA_Teacher(00:19:59): No, no, no, no. Please read them all. First Charlie is. Charles Charles only. 
+
+Jack(00:20:02): 查了一家 Charge charge charge he takes on different responsibilities. 
+
+ZIVA_Teacher(00:20:11): Charles, Ok. Go on. 
+
+Jack(00:20:14): He spent time training in new areas, Alex. He arrived on time every day. 
+
+ZIVA_Teacher(00:20:25): Okay, okay, so yeah, alright, that's all hmm Ok, so now. 
+
+Jack(00:20:32): Yeah. 点带球。
+
+ZIVA_Teacher(00:20:39): Whose job is most likely to be cut? 
+
+Jack(00:20:44): 点带球。Yeah, I think Charlie is. Most likely to be caught. 
+
+ZIVA_Teacher(00:20:51): Okay, so Charles most likely to be cut? Yeah, do you have any? Yeah, do you have anything to prove your point about this? 
+
+Jack(00:21:08): Yeah, I think for Charles he can do many things in a company. However, when company. When a company had some financial problems, had a fine, had a some financial problems. They pay eight, one, two, eight, 102. 
+
+ZIVA_Teacher(00:21:21): When a company. 
+
+Jack(00:21:37): Reduce some some positions if you are an expert, the company can't let you go. However, if you can take some, however, if you can take on different responsibilities, that means you don't have your. Core position you can do everything means you can't do anything better. So the company. 
+
+Jack(00:22:11): We'll let you go. 
+
+ZIVA_Teacher(00:22:14): Charles. He takes on different responsibilities. But isn't that multitasking? Isn't it good for the company? Yeah, I'm multitask a lot. Yeah, well, teaching you, I am doing the memos of my students, too. And while listening very intently, don't worry, sir, I'm not okay. Even if I'm multitask. Okay, it doesn't mean that I'm not focused on what you're. Yeah, as a teacher, one of your skills, higher skill should be listening. So I was trained to do that for eight years. 
+
+Jack(00:22:27): 行。
+
+Jack(00:22:56): Yeah. 对。
+
+ZIVA_Teacher(00:23:00): But isn't that multitasking? It's a great skill. 
+
+Jack(00:23:07): yeah I think。Yeah, I think in some, in some scenarios it's a good. It's a good skill. However, it means you don't have your. Tiktok Sa. 
+
+ZIVA_Teacher(00:23:27): Full focus on your tasks, you do not have your full focus. 
+
+Jack(00:23:32): for focus on your tasks。Yeah, you do not have focus. 
+
+ZIVA_Teacher(00:23:35): On your tasks. Full focus. 
+
+Jack(00:23:42): You do not have. For focus on your tasks. 
+
+ZIVA_Teacher(00:23:49): Yeah, so you do not have your full focus on your tasks. Okay, but still, yeah. Sorry, if that is the case, what do you mean? Like they don't have the full focus of their tasks? 
+
+Jack(00:24:13): Yeah, I me in a company you need to have your. you need to have your。A position. It means a dish job or a dish task. These tasks that need you to be finished and others can't do. 
+
+ZIVA_Teacher(00:24:37): That needs you. 
+
+Jack(00:24:38): That need you to finish and others can't. Can't finish it easily. 
+
+Jack(00:24:49): So the company will not let you go if let you go this task, if it let you go. 
+
+ZIVA_Teacher(00:24:50): If it lets you go. 
+
+Jack(00:25:00): There is a task so that. We are no one to finish. 
+
+ZIVA_Teacher(00:25:06): That will that no one wants to finish. 
+
+Jack(00:25:12): But no one wants to finish. 
+
+ZIVA_Teacher(00:25:14): Yes, Ok, if no one wants to finish, then yeah, that's all. OK。
+
+Jack(00:25:22): Yeah, I. 
+
+ZIVA_Teacher(00:25:26): Wait a moment, if that's the case. Let's say. Do you know someone who multitasks? 
+
+Jack(00:25:37): Yeah, I think in my company there are many people who. Have more Ti Tiktok. 
+
+ZIVA_Teacher(00:25:47): Cool multitasking multitask is the verb multitasking skills noun, so there are many people. 
+
+Jack(00:25:55): Yeah, I think in my company there are many people who have more Ti Tiktok. Yeah, yeah. In my company there are many people who multitask. Multitask. 
+
+ZIVA_Teacher(00:26:06): Ok, I'll I'll use my feet like this. Okay, so alright we will end up here. We'll continue this next later. 
+
+Jack(00:26:17): Yeah, See you later. 

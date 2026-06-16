@@ -1,0 +1,306 @@
+[
+  {
+    "id": "2026-06-16-001",
+    "date": "2026-06-16",
+    "category": "vocabulary",
+    "tag": "false-friend",
+    "my_sentence": "I can have some time to investigate some information about Redis cluster.",
+    "correction": "I had time to learn some information about Redis cluster.",
+    "explanation": "Use 'investigate' only when you are looking for evidence to solve a problem or case; for studying a topic out of interest, use 'learn' (or 'read about / look into'). 'Investigate' carries the meaning of finding proof, which doesn't fit casual self-study.",
+    "correct_examples": [
+      "I had some free time, so I learned about Redis clusters.",
+      "The police are investigating the accident."
+    ],
+    "context": "Talking about what he did at work during a free day",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T1 line 7-15"
+  },
+  {
+    "id": "2026-06-16-002",
+    "date": "2026-06-16",
+    "category": "grammar",
+    "tag": "preposition",
+    "my_sentence": "They learn necessary skills and then join to the company.",
+    "correction": "They learn the necessary skills and then join the company.",
+    "explanation": "'Join' is a transitive verb here and takes a direct object with no preposition. Say 'join the company / join a team', not 'join to the company'.",
+    "correct_examples": [
+      "She joined the company last year.",
+      "He wants to join our team."
+    ],
+    "context": "Describing how newcomers go through a training program before entering a company",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T1 line 165-169"
+  },
+  {
+    "id": "2026-06-16-003",
+    "date": "2026-06-16",
+    "category": "pronunciation",
+    "tag": "minimal-pair",
+    "my_sentence": "You do not have for focus on your tasks.",
+    "correction": "You do not have your full focus on your tasks.",
+    "explanation": "You said 'for focus' instead of 'full focus'. 'Full' /fʊl/ and 'for' /fɔːr/ are different sounds; the collocation is 'full focus / your full attention'. Also add the possessive 'your' before 'full focus'.",
+    "correct_examples": [
+      "You don't have your full focus on the task.",
+      "Give it your full attention."
+    ],
+    "context": "Explaining a downside of multitasking",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T1 line 261-269"
+  },
+  {
+    "id": "2026-06-16-004",
+    "date": "2026-06-16",
+    "category": "grammar",
+    "tag": "relative-clause",
+    "my_sentence": "There is a task so that we are no one to finish.",
+    "correction": "There is a task that no one wants to finish.",
+    "explanation": "Use the relative pronoun 'that' to attach a clause describing the noun 'task'. 'A task that no one wants to finish' is the correct structure; 'we are no one to finish' is not grammatical English.",
+    "correct_examples": [
+      "It's a job that no one wants to do.",
+      "There are tasks that only she can finish."
+    ],
+    "context": "Explaining why a person in a key position won't be let go",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T1 line 283-289"
+  },
+  {
+    "id": "2026-06-16-005",
+    "date": "2026-06-16",
+    "category": "grammar",
+    "tag": "word-choice",
+    "my_sentence": "In my company there are many people who have more multitasking.",
+    "correction": "In my company there are many people who multitask.",
+    "explanation": "'Multitask' is the verb and 'multitasking' is the noun/gerund. To say people do several things at once, use the verb: 'people who multitask' (or 'people who have good multitasking skills').",
+    "correct_examples": [
+      "Many of my colleagues multitask all day.",
+      "She has strong multitasking skills."
+    ],
+    "context": "Naming people who multitask at work",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T1 line 295-299"
+  },
+  {
+    "id": "2026-06-16-006",
+    "date": "2026-06-16",
+    "category": "grammar",
+    "tag": "relative-clause",
+    "my_sentence": "If someone spends his or her time training in new areas, it takes away from his core responsibilities.",
+    "correction": "If someone spends his or her time training in new areas, that can take him or her away from his or her core responsibilities.",
+    "explanation": "'It' has no clear antecedent here. Use the relative pronoun 'that' to refer back to the whole idea (spending time training), which links the two clauses into one complete sentence instead of a dangling 'it'.",
+    "correct_examples": [
+      "If someone keeps changing roles, that can hurt his or her focus.",
+      "Spending all your time on new areas is something that pulls you away from your main job."
+    ],
+    "context": "Disadvantages of spending time training in new areas",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T3 line 49-91"
+  },
+  {
+    "id": "2026-06-16-007",
+    "date": "2026-06-16",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "He or she takes it away from all his responsibility.",
+    "correction": "He or she cannot do some of his or her responsibilities.",
+    "explanation": "'Take away' means to remove something forcefully, which doesn't fit here. To say a person can't handle all their duties, use 'cannot do / cannot handle some of his or her responsibilities'.",
+    "correct_examples": [
+      "He can't handle all of his responsibilities at once.",
+      "She had to give up some of her duties."
+    ],
+    "context": "Explaining the downside of training in new areas",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T3 line 107-113"
+  },
+  {
+    "id": "2026-06-16-008",
+    "date": "2026-06-16",
+    "category": "grammar",
+    "tag": "pronoun",
+    "my_sentence": "He or she may not be able to finish urgent tasks.",
+    "correction": "He or she may not be able to finish his or her urgent tasks.",
+    "explanation": "When the subject is 'someone / he or she', add the matching possessive adjective 'his or her' before the object: 'his or her urgent tasks'. English marks possession explicitly even where Chinese can leave it out.",
+    "correct_examples": [
+      "He may not finish his urgent tasks.",
+      "She always completes her assigned work."
+    ],
+    "context": "Disadvantages of always arriving on time",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T3 line 191-209"
+  },
+  {
+    "id": "2026-06-16-009",
+    "date": "2026-06-16",
+    "category": "collocation",
+    "tag": "word-choice",
+    "my_sentence": "He or she cannot work over in the company.",
+    "correction": "He or she cannot work overtime in the office.",
+    "explanation": "The fixed expression for staying past normal hours is 'work overtime' (one concept). 'Work over' is not idiomatic. Also 'in the office' is more natural than 'in the company' for where you physically work.",
+    "correct_examples": [
+      "I had to work overtime last night.",
+      "She rarely works overtime at the office."
+    ],
+    "context": "Why arriving on time every day can be a disadvantage",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T3 line 169-181"
+  },
+  {
+    "id": "2026-06-16-010",
+    "date": "2026-06-16",
+    "category": "grammar",
+    "tag": "modal",
+    "my_sentence": "The person may not to be able to adapt.",
+    "correction": "The person may not be able to adapt.",
+    "explanation": "After a modal verb ('may'), use the bare infinitive without 'to': 'may not be able to', not 'may not to be'. The 'to' only belongs to 'able to adapt'.",
+    "correct_examples": [
+      "He may not be able to come tomorrow.",
+      "She might not be able to adapt quickly."
+    ],
+    "context": "Disadvantage when a project must be done in a hurry",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T3 line 247-275"
+  },
+  {
+    "id": "2026-06-16-011",
+    "date": "2026-06-16",
+    "category": "naturalness",
+    "tag": "word-choice",
+    "my_sentence": "In this scenario, you mostly like to be caught.",
+    "correction": "In this scenario, you are most likely to be fired.",
+    "explanation": "'Most likely' (very probable) is different from 'mostly like' (a slip). The set phrase is 'be most likely to + verb'. Also use 'fired/laid off' for losing a job, not 'caught'.",
+    "correct_examples": [
+      "In this case, you are most likely to be fired.",
+      "He is most likely to get the promotion."
+    ],
+    "context": "Whose job is most likely to be cut",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T3 line 337-351"
+  },
+  {
+    "id": "2026-06-16-012",
+    "date": "2026-06-16",
+    "category": "vocabulary",
+    "tag": "false-friend",
+    "my_sentence": "If you want to be competent about your job, you need to master the basic skills.",
+    "correction": "If you want to be competitive in your job, you need to master the basic skills.",
+    "explanation": "'Competent' means capable/able to do the job well; 'competitive' means able to compete with others. They sound alike but mean different things — choose based on whether you mean 'skilled enough' (competent) or 'able to stand out against rivals' (competitive).",
+    "correct_examples": [
+      "She is very competent at her job.",
+      "To stay competitive, you must keep learning new skills."
+    ],
+    "context": "How to avoid being fired",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T3 line 367-377"
+  },
+  {
+    "id": "2026-06-16-013",
+    "date": "2026-06-16",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "...and avoid the same mistakes that you made before.",
+    "correction": "...and avoid the same mistakes that you have made before.",
+    "explanation": "For actions completed at an unspecified time in the past that still matter now, use the present perfect: 'mistakes that you have made before'. This connects past mistakes to the present situation.",
+    "correct_examples": [
+      "Don't repeat the mistakes you have made before.",
+      "I have seen this problem before."
+    ],
+    "context": "Advice on keeping your job",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T3 line 379-385"
+  },
+  {
+    "id": "2026-06-16-014",
+    "date": "2026-06-16",
+    "category": "grammar",
+    "tag": "agreement",
+    "my_sentence": "You can try to find some excuses, but it's not always a works well.",
+    "correction": "You can try to find some excuses, but it does not always work well.",
+    "explanation": "Use the simple-present negative 'does not work' for a general truth. 'It's not always a works well' mixes 'be' with the verb 'works' and adds a stray article. After 'does', the verb stays in its base form: 'does not work'.",
+    "correct_examples": [
+      "It doesn't always work well.",
+      "That trick does not always work."
+    ],
+    "context": "Whether excuses help you keep your job",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T3 line 391-399"
+  },
+  {
+    "id": "2026-06-16-015",
+    "date": "2026-06-16",
+    "category": "grammar",
+    "tag": "agreement",
+    "my_sentence": "It only happen when you make a serious mistake.",
+    "correction": "It only happens when you make a serious mistake.",
+    "explanation": "With the third-person singular subject 'it', the present-tense verb takes -s: 'it happens', not 'it happen' (and not the past 'it happened' for a general rule).",
+    "correct_examples": [
+      "It only happens when something goes wrong.",
+      "This rarely happens in our team."
+    ],
+    "context": "Clarifying that being fired only happens in extreme cases",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T3 line 415-437"
+  },
+  {
+    "id": "2026-06-16-016",
+    "date": "2026-06-16",
+    "category": "collocation",
+    "tag": "word-choice",
+    "my_sentence": "When you make a serious mistake and gave a lot of loss to the company...",
+    "correction": "...when you make a serious mistake that causes a lot of loss to the company...",
+    "explanation": "Losses are 'caused', not 'given'. The natural collocation is 'cause a loss / cause heavy losses'. ('give a loss' is not idiomatic.)",
+    "correct_examples": [
+      "The error caused a huge loss for the company.",
+      "His decision caused heavy losses."
+    ],
+    "context": "Explaining when an employee gets fired immediately",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T3 line 403-447"
+  },
+  {
+    "id": "2026-06-16-017",
+    "date": "2026-06-16",
+    "category": "grammar",
+    "tag": "agreement",
+    "my_sentence": "For some people who has their own skills, they are not easy to be fired.",
+    "correction": "Some people who have their own skills are not easily fired.",
+    "explanation": "Two fixes: (1) the relative pronoun refers to plural 'people', so use 'who have', not 'who has'; (2) modify the verb 'fired' with the adverb 'easily', not the adjective 'easy': 'are not easily fired'.",
+    "correct_examples": [
+      "People who have rare skills are not easily replaced.",
+      "Skilled workers are not easily fired."
+    ],
+    "context": "Who is least likely to be cut",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T3 line 455-475"
+  },
+  {
+    "id": "2026-06-16-018",
+    "date": "2026-06-16",
+    "category": "grammar",
+    "tag": "word-choice",
+    "my_sentence": "If the company fires you, this project can't be work.",
+    "correction": "If the company fires you, this project can't work.",
+    "explanation": "After the modal 'can', use the bare verb 'work', not the passive 'be work'. 'Work' is already active/intransitive here ('the project can't move forward').",
+    "correct_examples": [
+      "Without him, the project can't work.",
+      "The plan can't work if we lose funding."
+    ],
+    "context": "Why a key employee in a crucial position won't be fired",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T3 line 479-483"
+  },
+  {
+    "id": "2026-06-16-019",
+    "date": "2026-06-16",
+    "category": "grammar",
+    "tag": "plural",
+    "my_sentence": "Spending time training in new areas means he has good learning skill.",
+    "correction": "Spending time training in new areas means he has good learning skills.",
+    "explanation": "'Skill' is usually countable when you mean specific abilities, so use the plural 'skills' in this general sense: 'learning skills', 'communication skills'. (assistant note: from the session summary, T2.)",
+    "correct_examples": [
+      "He has strong learning skills.",
+      "Good communication skills are essential."
+    ],
+    "context": "Describing the upside of training in new areas",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "T2 (summary) section 三.2"
+  }
+]
