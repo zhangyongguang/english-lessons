@@ -1,73 +1,90 @@
 # Vocabulary  (latest first)
 
-180 word(s).
+196 word(s).
 
 | Word | Meaning | Example | Date |
 |---|---|---|---|
-| landlocked _(adjective)_ | (of a country or place) surrounded by land, with no access to the sea | Mongolia is a landlocked country. | 2026-06-11 |
-| tributary _(noun)_ | a smaller river or stream that flows into a larger one | The river has many tributaries. | 2026-06-11 |
-| mutual _(adjective)_ | felt or done by each toward the other; shared in common | They have mutual respect. | 2026-06-11 |
-| stimulate _(verb)_ | to encourage growth or activity; to make someone interested or excited | Low rates stimulate the economy. | 2026-06-11 |
-| ruling _(noun)_ | ① an official decision made by a court or authority; ② (adj) having power or control | The court issued its ruling. | 2026-06-11 |
-| advocate _(verb)_ | to publicly support or recommend a policy or idea | She advocates a plant-based diet. | 2026-06-11 |
-| fiddle _(verb)_ | ① to keep touching or playing with something restlessly; ② to falsify (accounts) | Stop fiddling with your phone. | 2026-06-11 |
-| pandemic _(noun)_ | a disease that spreads across many countries or the whole world | The pandemic changed how we work. | 2026-06-11 |
-| carry away _(phrase)_ | (usu. get carried away) to lose self-control out of excitement; (literal) to sweep/take away | Sorry, I got carried away and bought too much. | 2026-06-11 |
-| monk _(noun)_ | a man who lives in a religious community under vows, esp. in poverty and devotion | A Buddhist monk chanted in the temple. | 2026-06-11 |
-| debate _(noun)_ | ① a formal or public discussion of opposing views; (verb) ② to argue; to think over a decision | They had a heated debate. | 2026-06-11 |
-| squirrel _(noun)_ | a small bushy-tailed rodent that hoards nuts; (squirrel away) to hide or save sth | A squirrel buried a nut in the yard. | 2026-06-11 |
-| get through _(phrase)_ | ① to survive a difficult time; ② to finish; ③ to reach sb by phone; ④ to make sb understand; ⑤ to pass (an exam) | We'll get through this together. | 2026-06-11 |
-| dispute _(noun)_ | ① a disagreement or argument; (verb) ② to question the truth of something | They had a dispute over money. | 2026-06-11 |
-| pass away _(phrase)_ | to die (a polite, gentle way of saying it) | Her grandfather passed away last year. | 2026-06-11 |
-| after all _(phrase)_ | ① used to give a reason (= remember/it should be noted); ② in the end, despite expectations | He's only a child, after all. | 2026-06-11 |
-| hold back _(phrase)_ | ① to restrain or control (esp. emotions); ② to stop progress; ③ to withhold information | She couldn't hold back her tears. | 2026-06-11 |
-| dictatorship _(noun)_ | government by a single ruler or small group with absolute, unchecked power | They lived under a brutal dictatorship. | 2026-06-11 |
-| optimistic _(adjective)_ | hopeful and confident that good things will happen | I'm optimistic about the future. | 2026-06-11 |
-| contrary _(adjective)_ | opposite in nature or direction | Contrary to popular belief, it is easy. | 2026-06-11 |
-| engage _(verb)_ | to take part in; to attract and hold attention; to hire; (engage with) to deal with closely | Try not to engage in gossip. | 2026-06-11 |
-| go after _(phrase)_ | ① to try hard to get or achieve something; ② to chase or pursue someone | Go after your dreams. | 2026-06-11 |
-| overlook _(verb)_ | ① to fail to notice or consider something; ② to have a view down over a place | I overlooked an important detail. | 2026-06-11 |
-| debunk _(verb)_ | to show that a belief, claim, or story is false | The study debunks a popular myth. | 2026-06-11 |
-| iconic _(adjective)_ | widely recognized as a famous symbol of its kind; classic and admired | The Eiffel Tower is an iconic landmark. | 2026-06-11 |
-| pedal _(noun)_ | a foot-operated lever on a bike, car, or piano; (verb) to push the pedals of a bike | She pressed the brake pedal. | 2026-06-11 |
-| aspiration _(noun)_ | a strong hope or ambition to achieve something | Her aspiration is to become a doctor. | 2026-06-11 |
-| converge _(verb)_ | to come together and meet at one point; (of ideas) to become similar | The two roads converge near the river. | 2026-06-11 |
-| submission _(noun)_ | ① something formally handed in; ② the act of yielding to another’s control | The deadline for submissions is Friday. | 2026-06-11 |
-| decentralized _(adjective)_ | organized so that power or control is spread out rather than held by one central authority | Bitcoin runs on a decentralized network. | 2026-06-11 |
-| socialist _(adjective)_ | relating to socialism; (noun) a person who believes in socialism | He holds socialist views. | 2026-06-11 |
-| capitalism _(noun)_ | an economic system based on private ownership and profit driven by free markets | Capitalism rewards private enterprise. | 2026-06-11 |
-| veto _(noun)_ | the right or act of officially rejecting or blocking a decision | The president used his veto to block the bill. | 2026-06-11 |
-| unanimous _(adjective)_ | agreed on by everyone; with no one disagreeing | The decision was unanimous. | 2026-06-11 |
-| in order _(phrase)_ | ① arranged neatly or correctly; ② proper, valid, or appropriate | Get your affairs in order. | 2026-06-11 |
-| forge _(verb)_ | ① to make an illegal copy to deceive; ② to shape metal by heating and hammering; ③ to create (a relationship) with effort | He forged her signature. | 2026-06-11 |
-| guideline _(noun)_ | a piece of advice or a rule about how to do something | Follow the safety guidelines. | 2026-06-11 |
-| barbed wire _(noun)_ | wire with sharp points along it, used for fences or barriers | The camp was surrounded by barbed wire. | 2026-06-11 |
-| red line _(idiom)_ | a limit that must not be crossed; an issue on which no compromise is allowed | Using chemical weapons would cross a red line. | 2026-06-11 |
-| outcry _(noun)_ | a strong public expression of anger or protest | The decision sparked a public outcry. | 2026-06-11 |
-| go through _(phrase)_ | ① to experience (esp. something difficult); ② to examine carefully; ③ (of a deal/law) to be approved | She's going through a tough time. | 2026-06-11 |
-| chronic _(adjective)_ | (of an illness or problem) lasting a long time and hard to cure or stop | She suffers from chronic pain. | 2026-06-11 |
-| treatment _(noun)_ | ① medical care for an illness; ② the way someone or something is dealt with; ③ a process applied to a material | He is receiving treatment for cancer. | 2026-06-11 |
-| tidal _(adjective)_ | relating to or affected by the tides of the sea | Tidal energy is a renewable resource. | 2026-06-11 |
-| legislate _(verb)_ | to make or pass laws | The government plans to legislate against discrimination. | 2026-06-11 |
-| judgement _(noun)_ | ① the ability to make sensible decisions; ② an opinion or evaluation; ③ a court ruling | Use your own judgement. | 2026-06-11 |
-| depict _(verb)_ | to show or describe something in a picture, writing, etc.; to portray | The painting depicts a battle. | 2026-06-11 |
-| obscene _(adjective)_ | offensive or disgusting by accepted standards, esp. sexually; also: shockingly large/unfair | They removed the obscene photos. | 2026-06-11 |
-| anticipate _(verb)_ | to expect something and often prepare for it in advance | We anticipate strong demand. | 2026-06-11 |
-| probation _(noun)_ | ① a period of supervision instead of prison for an offender; ② a trial period for a new employee | He was put on probation for two years. | 2026-06-11 |
-| flat out _(idiom)_ | ① directly and bluntly (refuse/deny); ② as fast or hard as possible | He flat out refused. | 2026-06-11 |
-| crackdown _(noun)_ | severe action taken to stop or punish illegal or unacceptable behavior | The government launched a crackdown on tax evasion. | 2026-06-11 |
-| abbreviate _(verb)_ | to shorten a word or text; to make something shorter | "Doctor" is abbreviated to "Dr." | 2026-06-11 |
-| shiver _(verb)_ | to shake slightly because of cold, fear, or fever | She was shivering in the cold. | 2026-06-11 |
-| well off _(phrase)_ | having plenty of money; wealthy; also: in a good or fortunate situation | Her family is quite well off. | 2026-06-11 |
-| explicit _(adjective)_ | stated clearly and in detail, leaving no room for confusion; also: showing sex/violence openly | She gave explicit instructions. | 2026-06-11 |
-| netizen _(noun)_ | an active or frequent user of the internet (internet + citizen) | Netizens criticized the policy online. | 2026-06-11 |
-| reverse _(verb)_ | to change something to its opposite; to turn around or undo (a decision, direction, order) | The court reversed the decision. | 2026-06-11 |
-| cripple _(verb)_ | to seriously damage someone or something so it can no longer function normally; to make a person unable to walk or move properly | The strike crippled the airline. | 2026-06-11 |
-| overstate _(verb)_ | to describe or explain something as larger, more important, or more serious than it really is; to exaggerate | Don't overstate the problem. | 2026-06-11 |
-| on the spot _(idiom)_ | at once, immediately, and right where you are; (put sb on the spot) to force someone to answer or act with no time to prepare, often causing embarrassment | He decided on the spot. | 2026-06-11 |
+| irrelevant _(adjective)_ | not connected with or important to the matter being discussed | That's irrelevant to our discussion. | 2026-06-17 |
+| move the goalposts _(idiom)_ | to unfairly change the rules or targets while something is in progress | Every time I hit the target, they move the goalposts. | 2026-06-17 |
+| pick up _(phrase)_ | to lift; to collect sb/sth; to learn casually; to improve/increase; to buy; to detect | I'll pick you up at eight. | 2026-06-17 |
+| affirmation _(noun)_ | a positive statement said to build confidence; the act of confirming something | She repeats daily affirmations in the mirror. | 2026-06-17 |
+| neckline _(noun)_ | the shape of the edge of a garment around the neck | The dress has a V-neckline. | 2026-06-17 |
+| fit _(adjective)_ | physically healthy and strong, esp. from exercise | I run every morning to stay fit. | 2026-06-17 |
+| lock eyes _(idiom)_ | to look directly into each other’s eyes, often with strong feeling | They locked eyes across the room. | 2026-06-17 |
+| squeeze _(verb)_ | to press firmly; to force into a tight space; (noun) a financial squeeze | She squeezed the lemon. | 2026-06-17 |
+| drag on _(phrase)_ | to continue for too long in a tedious way | The meeting dragged on for hours. | 2026-06-17 |
+| ripple _(noun)_ | a small wave on water; (verb) to move in small waves; a spreading effect | The stone made ripples in the pond. | 2026-06-17 |
+| combination _(noun)_ | a mix or joining of two or more things; the numbers/letters that open a lock | Success is a combination of skill and luck. | 2026-06-17 |
+| chronology _(noun)_ | the order in which events happened; a list of events arranged by time | List the events in chronological order. | 2026-06-17 |
+| erupt _(verb)_ | (of a volcano) to throw out lava; (of violence, emotion, cheers) to break out suddenly | The volcano erupted overnight. | 2026-06-17 |
+| comparison _(noun)_ | the act of looking at how things are similar or different | Make a comparison between the two phones. | 2026-06-17 |
+| behind the curve _(idiom)_ | failing to keep up with the latest developments or trends; lagging behind | The company fell behind the curve on AI. | 2026-06-17 |
+| curve _(noun)_ | a line or shape that bends smoothly; a bend in a road; (verb) to bend in a smooth shape | The road has a sharp curve. | 2026-06-17 |
+| landlocked _(adjective)_ | (of a country or place) surrounded by land, with no access to the sea | Mongolia is a landlocked country. | 2026-06-17 |
+| tributary _(noun)_ | a smaller river or stream that flows into a larger one | The river has many tributaries. | 2026-06-17 |
+| mutual _(adjective)_ | felt or done by each toward the other; shared in common | They have mutual respect. | 2026-06-17 |
+| stimulate _(verb)_ | to encourage growth or activity; to make someone interested or excited | Low rates stimulate the economy. | 2026-06-17 |
+| ruling _(noun)_ | ① an official decision made by a court or authority; ② (adj) having power or control | The court issued its ruling. | 2026-06-17 |
+| advocate _(verb)_ | to publicly support or recommend a policy or idea | She advocates a plant-based diet. | 2026-06-17 |
+| fiddle _(verb)_ | ① to keep touching or playing with something restlessly; ② to falsify (accounts) | Stop fiddling with your phone. | 2026-06-17 |
+| pandemic _(noun)_ | a disease that spreads across many countries or the whole world | The pandemic changed how we work. | 2026-06-17 |
+| carry away _(phrase)_ | (usu. get carried away) to lose self-control out of excitement; (literal) to sweep/take away | Sorry, I got carried away and bought too much. | 2026-06-17 |
+| monk _(noun)_ | a man who lives in a religious community under vows, esp. in poverty and devotion | A Buddhist monk chanted in the temple. | 2026-06-17 |
+| debate _(noun)_ | ① a formal or public discussion of opposing views; (verb) ② to argue; to think over a decision | They had a heated debate. | 2026-06-17 |
+| squirrel _(noun)_ | a small bushy-tailed rodent that hoards nuts; (squirrel away) to hide or save sth | A squirrel buried a nut in the yard. | 2026-06-17 |
+| get through _(phrase)_ | ① to survive a difficult time; ② to finish; ③ to reach sb by phone; ④ to make sb understand; ⑤ to pass (an exam) | We'll get through this together. | 2026-06-17 |
+| dispute _(noun)_ | ① a disagreement or argument; (verb) ② to question the truth of something | They had a dispute over money. | 2026-06-17 |
+| pass away _(phrase)_ | to die (a polite, gentle way of saying it) | Her grandfather passed away last year. | 2026-06-17 |
+| after all _(phrase)_ | ① used to give a reason (= remember/it should be noted); ② in the end, despite expectations | He's only a child, after all. | 2026-06-17 |
+| hold back _(phrase)_ | ① to restrain or control (esp. emotions); ② to stop progress; ③ to withhold information | She couldn't hold back her tears. | 2026-06-17 |
+| dictatorship _(noun)_ | government by a single ruler or small group with absolute, unchecked power | They lived under a brutal dictatorship. | 2026-06-17 |
+| optimistic _(adjective)_ | hopeful and confident that good things will happen | I'm optimistic about the future. | 2026-06-17 |
+| contrary _(adjective)_ | opposite in nature or direction | Contrary to popular belief, it is easy. | 2026-06-17 |
+| engage _(verb)_ | to take part in; to attract and hold attention; to hire; (engage with) to deal with closely | Try not to engage in gossip. | 2026-06-17 |
+| go after _(phrase)_ | ① to try hard to get or achieve something; ② to chase or pursue someone | Go after your dreams. | 2026-06-17 |
+| overlook _(verb)_ | ① to fail to notice or consider something; ② to have a view down over a place | I overlooked an important detail. | 2026-06-17 |
+| debunk _(verb)_ | to show that a belief, claim, or story is false | The study debunks a popular myth. | 2026-06-17 |
+| iconic _(adjective)_ | widely recognized as a famous symbol of its kind; classic and admired | The Eiffel Tower is an iconic landmark. | 2026-06-17 |
+| pedal _(noun)_ | a foot-operated lever on a bike, car, or piano; (verb) to push the pedals of a bike | She pressed the brake pedal. | 2026-06-17 |
+| aspiration _(noun)_ | a strong hope or ambition to achieve something | Her aspiration is to become a doctor. | 2026-06-17 |
+| converge _(verb)_ | to come together and meet at one point; (of ideas) to become similar | The two roads converge near the river. | 2026-06-17 |
+| submission _(noun)_ | ① something formally handed in; ② the act of yielding to another’s control | The deadline for submissions is Friday. | 2026-06-17 |
+| decentralized _(adjective)_ | organized so that power or control is spread out rather than held by one central authority | Bitcoin runs on a decentralized network. | 2026-06-17 |
+| socialist _(adjective)_ | relating to socialism; (noun) a person who believes in socialism | He holds socialist views. | 2026-06-17 |
+| capitalism _(noun)_ | an economic system based on private ownership and profit driven by free markets | Capitalism rewards private enterprise. | 2026-06-17 |
+| veto _(noun)_ | the right or act of officially rejecting or blocking a decision | The president used his veto to block the bill. | 2026-06-17 |
+| unanimous _(adjective)_ | agreed on by everyone; with no one disagreeing | The decision was unanimous. | 2026-06-17 |
+| in order _(phrase)_ | ① arranged neatly or correctly; ② proper, valid, or appropriate | Get your affairs in order. | 2026-06-17 |
+| forge _(verb)_ | ① to make an illegal copy to deceive; ② to shape metal by heating and hammering; ③ to create (a relationship) with effort | He forged her signature. | 2026-06-17 |
+| guideline _(noun)_ | a piece of advice or a rule about how to do something | Follow the safety guidelines. | 2026-06-17 |
+| barbed wire _(noun)_ | wire with sharp points along it, used for fences or barriers | The camp was surrounded by barbed wire. | 2026-06-17 |
+| red line _(idiom)_ | a limit that must not be crossed; an issue on which no compromise is allowed | Using chemical weapons would cross a red line. | 2026-06-17 |
+| outcry _(noun)_ | a strong public expression of anger or protest | The decision sparked a public outcry. | 2026-06-17 |
+| go through _(phrase)_ | ① to experience (esp. something difficult); ② to examine carefully; ③ (of a deal/law) to be approved | She's going through a tough time. | 2026-06-17 |
+| chronic _(adjective)_ | (of an illness or problem) lasting a long time and hard to cure or stop | She suffers from chronic pain. | 2026-06-17 |
+| treatment _(noun)_ | ① medical care for an illness; ② the way someone or something is dealt with; ③ a process applied to a material | He is receiving treatment for cancer. | 2026-06-17 |
+| tidal _(adjective)_ | relating to or affected by the tides of the sea | Tidal energy is a renewable resource. | 2026-06-17 |
+| legislate _(verb)_ | to make or pass laws | The government plans to legislate against discrimination. | 2026-06-17 |
+| judgement _(noun)_ | ① the ability to make sensible decisions; ② an opinion or evaluation; ③ a court ruling | Use your own judgement. | 2026-06-17 |
+| depict _(verb)_ | to show or describe something in a picture, writing, etc.; to portray | The painting depicts a battle. | 2026-06-17 |
+| obscene _(adjective)_ | offensive or disgusting by accepted standards, esp. sexually; also: shockingly large/unfair | They removed the obscene photos. | 2026-06-17 |
+| anticipate _(verb)_ | to expect something and often prepare for it in advance | We anticipate strong demand. | 2026-06-17 |
+| probation _(noun)_ | ① a period of supervision instead of prison for an offender; ② a trial period for a new employee | He was put on probation for two years. | 2026-06-17 |
+| flat out _(idiom)_ | ① directly and bluntly (refuse/deny); ② as fast or hard as possible | He flat out refused. | 2026-06-17 |
+| crackdown _(noun)_ | severe action taken to stop or punish illegal or unacceptable behavior | The government launched a crackdown on tax evasion. | 2026-06-17 |
+| abbreviate _(verb)_ | to shorten a word or text; to make something shorter | "Doctor" is abbreviated to "Dr." | 2026-06-17 |
+| shiver _(verb)_ | to shake slightly because of cold, fear, or fever | She was shivering in the cold. | 2026-06-17 |
+| well off _(phrase)_ | having plenty of money; wealthy; also: in a good or fortunate situation | Her family is quite well off. | 2026-06-17 |
+| explicit _(adjective)_ | stated clearly and in detail, leaving no room for confusion; also: showing sex/violence openly | She gave explicit instructions. | 2026-06-17 |
+| netizen _(noun)_ | an active or frequent user of the internet (internet + citizen) | Netizens criticized the policy online. | 2026-06-17 |
+| reverse _(verb)_ | to change something to its opposite; to turn around or undo (a decision, direction, order) | The court reversed the decision. | 2026-06-17 |
+| cripple _(verb)_ | to seriously damage someone or something so it can no longer function normally; to make a person unable to walk or move properly | The strike crippled the airline. | 2026-06-17 |
+| overstate _(verb)_ | to describe or explain something as larger, more important, or more serious than it really is; to exaggerate | Don't overstate the problem. | 2026-06-17 |
+| on the spot _(idiom)_ | at once, immediately, and right where you are; (put sb on the spot) to force someone to answer or act with no time to prepare, often causing embarrassment | He decided on the spot. | 2026-06-17 |
 | obsession _(noun)_ | a thought or interest that fills your mind and you cannot stop thinking about | Her obsession with cleanliness drives everyone crazy. | 2026-06-01 |
 | follow-up _(noun)_ | a further action or contact made after something earlier | The doctor scheduled a follow-up next week. | 2026-05-29 |
 | dedicated _(adjective)_ | giving a lot of time and effort to something; or set aside for one special purpose | She's a dedicated teacher who stays late every day. | 2026-05-29 |
+| underway _(adjective)_ | already started and in progress | The project is now underway. | 2026-05-29 |
 | proceed _(verb)_ | to continue or go ahead with something; to move forward | Let's proceed with the plan. | 2026-06-10 |
 | hospitalize _(verb)_ | to admit someone to hospital for treatment | He was hospitalized after the accident. | 2026-06-10 |
 | sanitation _(noun)_ | systems for keeping places clean and for disposing of sewage and waste | Poor sanitation spreads disease. | 2026-06-10 |
@@ -161,7 +178,6 @@
 | shortcoming _(noun)_ | a fault or weakness; a failure to reach a good standard | Despite its shortcomings, the plan worked. | 2026-05-29 |
 | time and time again _(idiom)_ | repeatedly; many times over | I've told him time and time again to be careful. | 2026-05-29 |
 | oversight _(noun)_ | supervision or control; or a mistake made by not noticing something | Missing the deadline was an oversight on my part. | 2026-05-29 |
-| underway _(adjective)_ | already started and in progress | The project is now underway. | 2026-05-29 |
 | compliant _(adjective)_ | willing to obey or agree; or meeting official rules and standards | The new car is compliant with safety rules. | 2026-05-29 |
 | sensible _(adjective)_ | reasonable and showing good judgment | That's a sensible approach to the problem. | 2026-05-29 |
 | infamous _(adjective)_ | well known for something bad | The area is infamous for crime. | 2026-05-29 |

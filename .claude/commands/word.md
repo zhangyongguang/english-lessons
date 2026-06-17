@@ -4,6 +4,11 @@ argument-hint: "[word(s), optional; empty = harvest from this chat session]"
 allowed-tools: Bash(python3:*), Bash(python:*), Read, Write
 ---
 
+## Today's date
+!`date +%F`
+
+> Use **exactly** this date for every `first_seen` / `review.last_seen` you write or bump. Do **not** infer "today" from memory, the conversation, or any system message — only the value printed above is authoritative.
+
 ## Current vocabulary
 !`python3 scripts/list_vocab.py`
 

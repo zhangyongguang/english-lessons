@@ -11,8 +11,8 @@ First, **filter out words not worth studying**: skip ones too rare/obscure/archa
 For each remaining word to capture (passed as arguments, or harvested from this session):
 
 1. **Deduplicate first**: search `data/vocab/vocab.json` for the same lowercase `word`.
-   - **Not there** → append a new entry with `first_seen` = today and `review.times_looked_up` = 1.
-   - **Already there** → do NOT add a duplicate. Bump `review.times_looked_up` by 1 and set `review.last_seen` to today (keep the original `first_seen`).
+   - **Not there** → append a new entry with `first_seen` = **today's date as printed by the `date +%F` command in the calling command** (never guessed from memory) and `review.times_looked_up` = 1.
+   - **Already there** → do NOT add a duplicate. Bump `review.times_looked_up` by 1 and set `review.last_seen` to that same date (keep the original `first_seen`).
 2. **Fill the fields** (see `templates/vocab_schema.md`):
    - `definition`: concise English.
    - `example`: the **first** sentence must be short, everyday, and make the usage instantly obvious; an optional 2nd can be more advanced.
