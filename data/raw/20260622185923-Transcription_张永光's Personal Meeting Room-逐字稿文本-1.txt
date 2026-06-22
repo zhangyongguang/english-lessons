@@ -1,0 +1,373 @@
+Jack(00:00:03): Hello. Hello. Hello. 
+
+Jack(00:00:34): Sorry Ziva Teacher, I can't hear you. 
+
+ZIVA_Teacher(00:00:37): Still, this one the Don. I want to await a moment. Let me just yeah, I'm really very thirsty. My gosh? Yeah. I thought it would be better if I bought a washing machine. I just have enough time for myself and do. Something more other than house chores. I realized my gosh, I still have a long way to go. I really do need a robot. 
+
+ZIVA_Teacher(00:01:17): Yeah, when will robots become domestic? My gosh, it's making my. 
+
+ZIVA_Teacher(00:01:29): Yeah, it's making it harder for people who are not married to work. Okay, I'll just try to yeah, refill this one. Okay, sir. 
+
+Jack(00:01:43): Yeah. 
+
+ZIVA_Teacher(00:01:43): 张永光。
+
+ZIVA_Teacher(00:02:25): Ok, Sora, can you see me? Yes. 
+
+Jack(00:02:27): Yeah, I can see you. 
+
+ZIVA_Teacher(00:02:30): Okay, yeah, so how was your day, sir? 
+
+Jack(00:02:36): Yeah, I had a good day today. Yeah, today I researched some new things. 
+
+ZIVA_Teacher(00:02:37): What happened. What happened. What kind of new things are those? 
+
+Jack(00:02:51): Yeah, I researched about our. 
+
+ZIVA_Teacher(00:02:58): Excuse me. 
+
+Jack(00:02:59): Cluster. I, I think. 
+
+ZIVA_Teacher(00:03:02): A cluster of what exact? 
+
+Jack(00:03:09): A kubernetes cluster. Yeah, kubernetes cluster is like a group of machine. If someone have problems, it will affect your application. 
+
+ZIVA_Teacher(00:03:12): Kubernetes cluster. If someone has a problem, it can affect your. 
+
+Jack(00:03:31): Yeah, for in the past, if your application deploy one, deploy the virtual machine if the machine. Bankrupt or machine has some problem. You can't has some problems. Customers can't access your website so need to. 
+
+ZIVA_Teacher(00:03:46): Has some problems. 
+
+Jack(00:03:56): Deploy your application in a group of machines and then if some of them had some problem it will problems and they not will affect the application. 
+
+ZIVA_Teacher(00:03:59): Problems. They will not affect your application. 
+
+Jack(00:04:16): So I did some research. We need to deploy our service in two areas. 
+
+ZIVA_Teacher(00:04:18): So. 
+
+Jack(00:04:29): One we need to deploy in Tokyo and another we need to deploy Osaka. So if new Shaka, so if Tokyo network has some problem, it will not affect our application. 
+
+ZIVA_Teacher(00:04:35): In Osaka. If Tokyo Network has some problems, it won't affect your applications you mean. 
+
+Jack(00:04:55): Yeah, yeah, right. 
+
+ZIVA_Teacher(00:04:57): But how is that possible, I should say. 
+
+Jack(00:05:02): Yeah, yeah, right Yeahwwe rent different machines from Tokyo and Osa. We deploy our service in both areas so if one area has some problem, we also have another. 
+
+ZIVA_Teacher(00:05:17): Has a problem. 
+
+Jack(00:05:20): If one area has some problem, we also have another area to work. 
+
+ZIVA_Teacher(00:05:28): What do you mean, sir, by that exactly. 
+
+Jack(00:05:33): Yeah, I mean, we need to buy virtual machine from both areas. QQ 俺聊啥卡？
+
+ZIVA_Teacher(00:05:43): What do you mean, sir, by that exactly. We chore. Machine. 
+
+Jack(00:05:47): 喂 Buy our machine virtual machine from Tokyo and Osaka. Areas at the same time. 
+
+ZIVA_Teacher(00:06:02): You buy some winter machine. 
+
+Jack(00:06:06): Virtual machine. 
+
+ZIVA_Teacher(00:06:09): Virtual machine. 
+
+Jack(00:06:11): Virtual machine? Yeah, virtual machine. From. 
+
+ZIVA_Teacher(00:06:17): For from Tokyo to Osaka. 
+
+Jack(00:06:20): From Tokyo and Osaka. 
+
+ZIVA_Teacher(00:06:23): OK。I just noticed that most of your projects include Japan when it comes to business ventures. 
+
+ZIVA_Teacher(00:06:38): How many customers do you have in Japan, though? 
+
+Jack(00:06:46): Hmm? Yeah, I think more than 10 million. More than 10 million customers. In Japan. 
+
+ZIVA_Teacher(00:06:53): More than 10 million customers. What do you mean, sir? 
+
+Jack(00:06:59): I mean, our company is our company had many stores more than 400 stores, so every day there are many customers go to these stores. 
+
+ZIVA_Teacher(00:07:16): Who can go to. 
+
+Jack(00:07:19): There are many customers who can go to the store to buy. to buy things。
+
+ZIVA_Teacher(00:07:29): Like. 
+
+Jack(00:07:32): like。Like clothing, food, vegetables. And others. 
+
+ZIVA_Teacher(00:07:40): What do you mean by that, sir? 
+
+Jack(00:07:47): Yeah, I mean, there are more than 400 grocery stores in Japan, so every day many customers go to. Every day, many customers go to the stores to buy their daily. 
+
+ZIVA_Teacher(00:08:02): Every day, many. 
+
+Jack(00:08:12): Daily. item。
+
+ZIVA_Teacher(00:08:16): Daily items like. 
+
+Jack(00:08:20): Like vegetable, fruit, vegetables, fruit and food. 
+
+ZIVA_Teacher(00:08:24): Vegetables. Fruits. So that's how it is. But is that supposed to be? Wait, sorry, okay, so if that's the case, does it mean that you have a chance of what do you call this expanding? 
+
+Jack(00:08:51): Expanding you mean add more, add more stores, right? Yeah, I think every year the company will add some new stores. 
+
+ZIVA_Teacher(00:08:54): Expanding. Expanding. The company will add some new stores. 
+
+Jack(00:09:11): Yeah, the company will add some new storage. 
+
+ZIVA_Teacher(00:09:16): Why is that support? Why? 
+
+Jack(00:09:20): And they want to. Become bigger and bigger. 
+
+ZIVA_Teacher(00:09:24): Why is that support? Why? So they want to be bigger, become bigger and bigger. 
+
+Jack(00:09:30): They want to. Yeah, they want to be bigger. 
+
+ZIVA_Teacher(00:09:34): But Ok, alright, how about so it's more of like you are supporters of. 
+
+ZIVA_Teacher(00:09:44): What do you call this? You are supporters of. What's that? Yeah, What do you call that one? Businesses, yeah, if that's the case, you are supporters of businesses. I have seen some cases like this, but the scale was just short for you guys. I think your company aims for bigger plans, right? 
+
+Jack(00:09:58): Yeah. 
+
+Jack(00:10:16): Yeah, yeah. 
+
+ZIVA_Teacher(00:10:16): Yeah, or bigger pictures. Have you ever worked with very big projects? 
+
+Jack(00:10:27): Yeah, yeah. With very. Four. 
+
+ZIVA_Teacher(00:10:27): Are four for Yeah for very big projects? Have you ever worked or produced? No, no, no. What was your job again, sir? I totally forgot. I know you're a computer engineer, but I forgot your job. 
+
+Jack(00:10:46): Yeah, my job for me. I just need to provide infrastructure for their system. 
+
+ZIVA_Teacher(00:10:59): Are you mean like a developer and designer? Like that. 
+
+Jack(00:11:04): It call it call the Devops. 
+
+ZIVA_Teacher(00:11:10): Devops Development Operations Officer.。
+
+Jack(00:11:13): Yeah, developer and office. I need to check the world. 
+
+ZIVA_Teacher(00:11:20): Yeah, if you say Devops, I think I understand that because that's also a military. What you call this that's also a military firm for development, blah blah blah. Yeah in a military force. Develops the Development Operations Officer Yea. Ok, give me a clearer view then. 
+
+Jack(00:11:50): Yeah. 
+
+ZIVA_Teacher(00:11:55): Is that true. 
+
+Jack(00:11:55): Development and operations. 
+
+ZIVA_Teacher(00:11:59): Yeah, development operations and Operations officer Devops. Yeah, so Ok. Well, I guess you're in the designing team, right? Design Department. 
+
+Jack(00:12:16): I I think I'm in the Devops team. Devops team. 
+
+ZIVA_Teacher(00:12:23): Development isn't that supposed to be in the design because you can all are you mean like the processing? Ok, ok now I see yeah for designing for the design team. 
+
+Jack(00:12:31): I I think I'm in the Devops team. Devops team. Processing, yeah. 
+
+ZIVA_Teacher(00:12:40): I think yeah, for the design department they focus more more mostly on the graphics, right? Yeah, and three d blah blah blah those ones. 
+
+Jack(00:12:48): yeah。Yeah, yeah. 
+
+ZIVA_Teacher(00:12:53): Yeah, it will make my head hurt just by thinking about it. But I also draw Ok. I once dreamt of becoming a graphic designer, however. I won't feel free if I do that. So yeah, Ok, so it develops well, all right. 
+
+Jack(00:13:16): 行。
+
+ZIVA_Teacher(00:13:23): Have you ever handled very big projects? 
+
+Jack(00:13:28): Yeah, for me, I think I handled many important project like post system and smart card and electronic money. 
+
+Jack(00:13:44): 谢谢他们家 These are very important system. They are very important systems in my company if one of them can't work. 
+
+ZIVA_Teacher(00:13:49): These are very important. Ok. 
+
+Jack(00:14:00): Most customers can use their money to buy to pay. 
+
+ZIVA_Teacher(00:14:06): These are very important, Ok. To pay yeah。
+
+Jack(00:14:07): To pay? Yeah, they can't use their money to pay so we will have a lot of loss. During that time. 
+
+ZIVA_Teacher(00:14:15): Ok, how did it feel those, Sir? Yeah, or what are Ok since we're talking about we're, we're still talking about strategies. How did it feel? Yeah? Or? How did it feel for the first time when you finished a very big task? 
+
+Jack(00:14:44): Yeah, I think. Sometimes, I feel. F. 
+
+ZIVA_Teacher(00:14:53): Was it. Is it exhilarating? The design Exhilarating? 
+
+Jack(00:14:57): Eight. Exhilarating. 
+
+ZIVA_Teacher(00:15:00): Was it exhilarating? 
+
+Jack(00:15:06): Yeah, I think sometimes it's. Accelerating. And. 
+
+ZIVA_Teacher(00:15:10): Was it exhilarating? And. 
+
+Jack(00:15:18): and。And it's all over. It's finally over. 
+
+ZIVA_Teacher(00:15:29): What do you mean by? It's finally over. 
+
+Jack(00:15:32): 亚威 We prepared for many months and it's finally over. We can have. We can have some time to rest or。Yeah, I think we can have some time to rest. I feel very happy. 
+
+ZIVA_Teacher(00:15:54): You. Ok, so you felt very happy about it. 
+
+Jack(00:16:02): Yeah, I felt very happy about it. 
+
+ZIVA_Teacher(00:16:07): Ok, so why did you say that? No, no, no. Ok, let's have this one all right. So I guess this time you're going to have the self assessment. Test again. Ok. 
+
+Jack(00:16:26): Yeah, yeah. 
+
+ZIVA_Teacher(00:16:30): Yeah, what whiteboard online, so this time we'll talk. We will have this one. So last time you described personality, am I right? 
+
+Jack(00:16:45): Yeah. 
+
+ZIVA_Teacher(00:16:45): Yes, he describes some personalities. Can you give me some examples of it? 
+
+Jack(00:16:53): yeah。
+
+ZIVA_Teacher(00:16:56): Ok. So. 
+
+Jack(00:17:01): yeah 可以选择。Yeah, yeah. 
+
+ZIVA_Teacher(00:17:06): Excuse me. Sorry. Patient? Ok. And. 
+
+Jack(00:17:15): Responsible. 
+
+ZIVA_Teacher(00:17:18): Responsible. Ok, and what else? 
+
+Jack(00:17:20): Responsible. Motivate. Motivated. 
+
+ZIVA_Teacher(00:17:29): Motivated? Ok, that's all. And. 
+
+Jack(00:17:32): What we T. 
+
+Jack(00:17:46): Awesome. 
+
+ZIVA_Teacher(00:17:49): Bow Bowson, what do you mean? 
+
+Jack(00:17:51): Awesome. Awesome. 
+
+ZIVA_Teacher(00:17:55): 无 Ok. 
+
+Jack(00:17:57): Awesome. Young. 
+
+ZIVA_Teacher(00:17:58): Ok. Bol Balsam, what do you mean by Balsam? 
+
+Jack(00:18:08): Sorry teacher, I me. Awesome. Awesome. 
+
+ZIVA_Teacher(00:18:13): Awesome. Ok and then. 
+
+Jack(00:18:25): Exhausted. 
+
+ZIVA_Teacher(00:18:29): Exhausted? Ok, and then that's no. That's not a personality, sir. That is a feeling, yeah. 
+
+ZIVA_Teacher(00:18:41): That's a feeling Ok, so personality. You focus on the personality. He. 
+
+Jack(00:18:56): YEAH OK。
+
+ZIVA_Teacher(00:19:00): Ok, that's all. I want you to describe the personality of your daughter. 
+
+Jack(00:19:03): 太丑。A personality of my daughter. 
+
+ZIVA_Teacher(00:19:30): What do you mean. 
+
+Jack(00:19:32): A brave. I me. 
+
+ZIVA_Teacher(00:19:35): Grave. 
+
+Jack(00:19:41): 我是提成不 reward？Not great. 
+
+ZIVA_Teacher(00:19:43): Ok, I my daughter please start with Come on. That's not how I told you how yeah to say Ok, go on. 
+
+Jack(00:19:50): Yeah, I. Yeah, yeah, I think. Yeah, I think my daughter is brave. It's a brave girl. 
+
+ZIVA_Teacher(00:20:03): My daughter is brave and. 
+
+Jack(00:20:04): Brave. And. 
+
+ZIVA_Teacher(00:20:11): My daughter is brave and. 
+
+Jack(00:20:15): Brave. And. A brave and. Where for. 
+
+ZIVA_Teacher(00:20:24): Little fool, what do you mean? 
+
+Jack(00:20:26): Wherefore. If. 
+
+ZIVA_Teacher(00:20:30): Ok. My daughter is brave and willful. What else? 
+
+Jack(00:20:38): Wherefore. If. 
+
+ZIVA_Teacher(00:20:55): So. 
+
+Jack(00:20:59): A strong ability to. Imitate. 
+
+ZIVA_Teacher(00:21:05): She has a strong ability to imitate what exactly. 
+
+Jack(00:21:13): You imitate. Are other behaviors? 
+
+ZIVA_Teacher(00:21:19): Like you mean you mean acting? Does she have the what about this? Does she have the ability to act? 
+
+Jack(00:21:28): You imitate are other behaviors. actingand speaking。She has the ability to act and speak. 
+
+ZIVA_Teacher(00:21:35): Speak. OK。That's all. 
+
+Jack(00:21:42): Yeah, speak. Yeah, that's all.。
+
+ZIVA_Teacher(00:21:47): Ok, all right. So let's have this one, sir, we will have there we go, listen and express complaints using. Closest with it and when Ok this time how well can you do it? Is it very well, Ok or not at all? I can. I can you start with I I. 
+
+Jack(00:22:26): Fine. 
+
+ZIVA_Teacher(00:22:26): So yeah. You start with I. This one here. Can you read this? 
+
+Jack(00:22:46): Listen to and express complaints using Claude with it and when class seat with 801. 
+
+ZIVA_Teacher(00:22:52): Clothes. Clothes. Yeah. So this one is an adverbial clause, right? Did you forget what an adverbial clause is? 
+
+Jack(00:23:07): No, I don't think I forget. 
+
+ZIVA_Teacher(00:23:11): Okay, so again, an adverbial clause is a dependent group of words containing a subject and a verb that functions as an adverb. Ok, like for example, we have time clawdbot. Adverbial clawds of time reason. Why? Because it was raining. Ok, that is an adverbial clause Now condition. 
+
+ZIVA_Teacher(00:23:50): This one there. Usually we use this in our speaking terms, right speaking sessions. I should say now place where there we go. 
+
+Jack(00:23:51): Yeah. 
+
+ZIVA_Teacher(00:24:06): And where's that con concession or adverbial clause of contrast, this one? Yes, Ok, adverbial cause of time, reason, condition, place contrast, and contrast. Ok, remember that, all right, let's try this one then. So adverbial clauses for when. 
+
+Jack(00:24:18): Yes. 
+
+Jack(00:24:31): Yeah. 
+
+ZIVA_Teacher(00:24:38): And it's this one for it, express complaints, using clauses with it and when I want you to express complaints. Yeah, you try that. Go on. You express complaint. 
+
+Jack(00:25:09): When I why I come back, I, I didn't find anyone. In the room. 
+
+ZIVA_Teacher(00:25:31): So one more time. 
+
+Jack(00:25:32): When I come back, I didn't find anyone in the home. 
+
+ZIVA_Teacher(00:25:37): So one more time. Again. 
+
+Jack(00:25:41): When I came back, I didn't find anyone in the home. 
+
+ZIVA_Teacher(00:25:45): When I came back, I didn't find anyone at home. Yeah, try again. 
+
+Jack(00:25:50): When I. Yeah, when I came back, I didn't find anyone at home. 
+
+ZIVA_Teacher(00:25:58): Yeah, I didn't find anyone at home. Ok. So yeah, that's all. 
+
+Jack(00:26:06): Yeah, I. 
+
+ZIVA_Teacher(00:26:08): Complaints? That's not a complain. 
+
+Jack(00:26:11): yeah。
+
+ZIVA_Teacher(00:26:15): There wasn't anything on the table when I entered the house, so I asked my mom to. There wasn't anything on the table, there wasn't any food on the table when I came home in the evening so I asked my mom so I compl so I told my mom that she was. 
+
+ZIVA_Teacher(00:26:46): Not doing her job well as a mother. Ok, the express complaints, yeah, Ok. 
+
+Jack(00:26:49): Yeah. 
+
+ZIVA_Teacher(00:26:57): Go on. 
+
+Jack(00:26:58): Yeah, Ok. Sorry teacher. I think our class is over. And yea. 
+
+ZIVA_Teacher(00:27:01): Sorry, yeah, I think I yeah, all right. Wait a moment. Let me try to. I'll call you again. See you later. Okay. 
