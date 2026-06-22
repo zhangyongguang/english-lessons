@@ -4045,5 +4045,26 @@
       "times_looked_up": 1,
       "last_seen": "2026-06-17"
     }
+  },
+  {
+    "word": "richness",
+    "pos": "noun",
+    "definition": "the quality of being full, abundant, or varied; also the deep/intense quality of a flavour, colour, or sound",
+    "example": [
+      "I love the richness of the chocolate.",
+      "The film is praised for the richness of its detail."
+    ],
+    "synonyms": [
+      "abundance",
+      "wealth"
+    ],
+    "topic": "communication",
+    "note": "looked up while translating; noun of rich (rich + -ness); senses: variety/abundance, flavour, colour/sound",
+    "first_seen": "2026-06-18",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-18"
+    }
   }
 ]

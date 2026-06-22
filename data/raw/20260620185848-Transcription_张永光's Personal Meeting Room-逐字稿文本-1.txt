@@ -1,0 +1,39 @@
+ZIVA_Teacher(00:00:12): Hello. 
+
+Jack(00:00:13): Ziva Teacher. 
+
+ZIVA_Teacher(00:00:16): Hello. 
+
+Jack(00:00:18): hello teacher can you hear。Sorry, teacher, can you hear me? 
+
+ZIVA_Teacher(00:00:32): Hello. 
+
+Jack(00:00:35): Yeah, I can hear you. 
+
+ZIVA_Teacher(00:00:36): I can't hear you but my camera is yeah my gosh. Sorry my gosh, I think my wifi. My wifi is a yeah, it's getting low. Wait, no you, you will not be able to see me okay, wait a moment, let me reenter again. 
+
+Jack(00:00:54): Yeah. Yeah. Yeah, Ok. 
+
+Jack(00:01:26): Sorry teacher, I can't hear you. I think you didn't. Yeah, now I can hear you. 
+
+ZIVA_Teacher(00:01:34): Hello. Ok, can we reschedule one class I need to? Yeah, I need to recheck my. Yeah, I think there's something wrong with my wifi. No, Yeah, I have. 
+
+Jack(00:01:50): Yeah. Sorry teacher, I can. Yeah, I can hear you and see you clearly now. 
+
+ZIVA_Teacher(00:02:00): Yeah, but my yeah, it's lagging. Yeah, I can't share. Yeah, my what to call this. It's lagging. Yeah, that's why I have to what to call this. 
+
+Jack(00:02:05): Like you. 
+
+ZIVA_Teacher(00:02:15): How to restart? Yeah, I have to restart my router. Can you? Yeah, Just 30min? Yes. 
+
+Jack(00:02:21): Yeah, yeah, Ok. Yeah, Ok. 
+
+ZIVA_Teacher(00:02:26): Okay, yeah, just one. I will. Yeah, okay, we don't. Ok. 
+
+Jack(00:02:31): Yeah, see, you see you later. Sorry teacher. You mean we start from 730, right? 
+
+ZIVA_Teacher(00:02:40): Yes, yes, we can start from 730. I'll just have to restart my router. I need to check what's wrong. Ok, wait a moment, Wait, wait, wait. 
+
+Jack(00:02:43): Yeah, see, you see you later. 
+
+ZIVA_Teacher(00:02:50): If not, I'll just use my phone. Ok, wait a moment, Ok. 

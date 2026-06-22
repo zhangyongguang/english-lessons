@@ -46,6 +46,7 @@ filler, linking, stress,
 comparative, relative-clause, word-choice,
 pronoun (missing / wrong personal or possessive pronouns, inconsistent subject),
 conciseness (tighten / combine clauses, avoid comma splices), word-boundary (compound-word boundaries / blending into one word),
-minimal-pair (confusable consonant/vowel sounds, e.g. sales/share, shown/sure), …
+minimal-pair (confusable consonant/vowel sounds, e.g. sales/share, shown/sure),
+verb-form (errors in forming the verb group: omitted/extra auxiliary, missing 'be' in the passive, wrong gerund/infinitive complement after a verb), …
 
 > When adding a new tag, record it here. Don't create synonyms (e.g. don't keep both `prep` and `preposition`).

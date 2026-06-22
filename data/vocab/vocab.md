@@ -1,9 +1,10 @@
 # Vocabulary  (latest first)
 
-196 word(s).
+197 word(s).
 
 | Word | Meaning | Example | Date |
 |---|---|---|---|
+| richness _(noun)_ | the quality of being full, abundant, or varied; also the deep/intense quality of a flavour, colour, or sound | I love the richness of the chocolate. | 2026-06-18 |
 | irrelevant _(adjective)_ | not connected with or important to the matter being discussed | That's irrelevant to our discussion. | 2026-06-17 |
 | move the goalposts _(idiom)_ | to unfairly change the rules or targets while something is in progress | Every time I hit the target, they move the goalposts. | 2026-06-17 |
 | pick up _(phrase)_ | to lift; to collect sb/sth; to learn casually; to improve/increase; to buy; to detect | I'll pick you up at eight. | 2026-06-17 |
