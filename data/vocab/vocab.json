@@ -4066,5 +4066,68 @@
       "times_looked_up": 1,
       "last_seen": "2026-06-18"
     }
+  },
+  {
+    "word": "dumb",
+    "pos": "adjective",
+    "definition": "(informal) stupid or silly; (older/now offensive) unable to speak",
+    "example": [
+      "That was a dumb mistake.",
+      "Don't ask dumb questions."
+    ],
+    "synonyms": [
+      "stupid",
+      "silly"
+    ],
+    "topic": "daily",
+    "note": "looked up superlative 'dumbest'; informal, mildly rude; -er/-est: dumber/dumbest",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "blow away",
+    "pos": "phrase",
+    "definition": "to impress or amaze someone greatly; (literal) to move something away with wind",
+    "example": [
+      "Her performance blew me away.",
+      "The wind blew my hat away."
+    ],
+    "synonyms": [
+      "amaze",
+      "impress"
+    ],
+    "topic": "emotion",
+    "note": "phrasal verb; often passive 'be blown away by'; also slang 'defeat easily'",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "topline",
+    "pos": "noun",
+    "definition": "the main point or summary; also a company's total revenue (top line of an income statement)",
+    "example": [
+      "Just give me the topline.",
+      "The company grew its top line by 10%."
+    ],
+    "synonyms": [
+      "summary",
+      "revenue"
+    ],
+    "topic": "business",
+    "note": "also adjective 'topline results' = most important; opposite of bottom line (profit)",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
   }
 ]

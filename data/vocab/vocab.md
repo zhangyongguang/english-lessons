@@ -1,9 +1,12 @@
 # Vocabulary  (latest first)
 
-197 word(s).
+200 word(s).
 
 | Word | Meaning | Example | Date |
 |---|---|---|---|
+| topline _(noun)_ | the main point or summary; also a company's total revenue (top line of an income statement) | Just give me the topline. | 2026-06-23 |
+| blow away _(phrase)_ | to impress or amaze someone greatly; (literal) to move something away with wind | Her performance blew me away. | 2026-06-23 |
+| dumb _(adjective)_ | (informal) stupid or silly; (older/now offensive) unable to speak | That was a dumb mistake. | 2026-06-23 |
 | richness _(noun)_ | the quality of being full, abundant, or varied; also the deep/intense quality of a flavour, colour, or sound | I love the richness of the chocolate. | 2026-06-18 |
 | irrelevant _(adjective)_ | not connected with or important to the matter being discussed | That's irrelevant to our discussion. | 2026-06-17 |
 | move the goalposts _(idiom)_ | to unfairly change the rules or targets while something is in progress | Every time I hit the target, they move the goalposts. | 2026-06-17 |
