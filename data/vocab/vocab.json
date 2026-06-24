@@ -4129,5 +4129,545 @@
       "times_looked_up": 1,
       "last_seen": "2026-06-23"
     }
+  },
+  {
+    "word": "disruptive",
+    "pos": "adjective",
+    "definition": "causing disorder or interruption; or (of technology/ideas) radically changing an existing industry",
+    "example": [
+      "A disruptive student kept interrupting the class.",
+      "Smartphones were a disruptive technology."
+    ],
+    "synonyms": [
+      "disorderly",
+      "revolutionary"
+    ],
+    "topic": "business",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "ascribe",
+    "pos": "verb",
+    "definition": "to say that something is caused by, belongs to, or comes from a particular person or thing; used with 'to'",
+    "example": [
+      "She ascribes her success to hard work.",
+      "The painting is ascribed to Picasso."
+    ],
+    "synonyms": [
+      "attribute",
+      "credit"
+    ],
+    "topic": "academic",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "transistor",
+    "pos": "noun",
+    "definition": "a tiny electronic component that controls or amplifies electrical signals, used in almost all modern devices",
+    "example": [
+      "A computer chip holds billions of transistors."
+    ],
+    "topic": "technology",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "nerd",
+    "pos": "noun",
+    "definition": "a person who is very enthusiastic and knowledgeable about a subject (like computers) but often seen as socially awkward",
+    "example": [
+      "He's a total computer nerd."
+    ],
+    "synonyms": [
+      "geek"
+    ],
+    "topic": "daily",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "inning",
+    "pos": "noun",
+    "definition": "one round of play in baseball where each team takes a turn to bat",
+    "example": [
+      "The game is tied in the ninth inning."
+    ],
+    "topic": "daily",
+    "note": "baseball term; British cricket equivalent is 'innings'",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "evolve",
+    "pos": "verb",
+    "definition": "to develop or change gradually into something different over time",
+    "example": [
+      "Technology is constantly evolving.",
+      "Languages evolve over centuries."
+    ],
+    "synonyms": [
+      "develop",
+      "change"
+    ],
+    "topic": "academic",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "tweak",
+    "pos": "verb",
+    "definition": "to make a small adjustment to something to improve it",
+    "example": [
+      "I just need to tweak the design a little."
+    ],
+    "synonyms": [
+      "adjust",
+      "fine-tune"
+    ],
+    "topic": "daily",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "privileged",
+    "pos": "adjective",
+    "definition": "having special advantages or opportunities that most people do not have",
+    "example": [
+      "She had a privileged upbringing."
+    ],
+    "synonyms": [
+      "advantaged",
+      "fortunate"
+    ],
+    "topic": "daily",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "partnership",
+    "pos": "noun",
+    "definition": "a relationship in which two or more people or groups work together toward a shared goal",
+    "example": [
+      "The two companies formed a partnership."
+    ],
+    "synonyms": [
+      "collaboration",
+      "alliance"
+    ],
+    "topic": "business",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "scale up",
+    "pos": "phrase",
+    "definition": "to increase the size, amount, or scope of something",
+    "example": [
+      "They scaled up production to meet demand."
+    ],
+    "synonyms": [
+      "expand",
+      "grow"
+    ],
+    "topic": "business",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "simultaneous",
+    "pos": "adjective",
+    "definition": "happening or existing at exactly the same time",
+    "example": [
+      "The two events were simultaneous."
+    ],
+    "synonyms": [
+      "concurrent",
+      "at the same time"
+    ],
+    "topic": "academic",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "modest",
+    "pos": "adjective",
+    "definition": "not large or showy; or not boastful about your own abilities",
+    "example": [
+      "They live in a modest house.",
+      "She's modest about her success."
+    ],
+    "synonyms": [
+      "humble",
+      "simple"
+    ],
+    "topic": "daily",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "novice",
+    "pos": "noun",
+    "definition": "a person who is new to and inexperienced at something",
+    "example": [
+      "I'm still a novice at cooking."
+    ],
+    "synonyms": [
+      "beginner",
+      "newcomer"
+    ],
+    "topic": "daily",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "interactive",
+    "pos": "adjective",
+    "definition": "allowing two-way communication or response between people or between a person and a device",
+    "example": [
+      "The app has an interactive map."
+    ],
+    "topic": "technology",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "insane",
+    "pos": "adjective",
+    "definition": "extremely crazy or unbelievable; informally used to mean amazing or excessive",
+    "example": [
+      "The traffic today was insane."
+    ],
+    "synonyms": [
+      "crazy",
+      "wild"
+    ],
+    "topic": "daily",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "gather",
+    "pos": "verb",
+    "definition": "to come together in one place, or to collect things",
+    "example": [
+      "A crowd gathered outside.",
+      "She gathered her books."
+    ],
+    "synonyms": [
+      "collect",
+      "assemble"
+    ],
+    "topic": "daily",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "briefing",
+    "pos": "noun",
+    "definition": "a meeting or document that gives someone the key information they need before doing something",
+    "example": [
+      "The team had a quick briefing before the launch."
+    ],
+    "synonyms": [
+      "summary",
+      "rundown"
+    ],
+    "topic": "business",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "executive summary",
+    "pos": "noun",
+    "definition": "a short section at the beginning of a report that sums up its most important points",
+    "example": [
+      "Read the executive summary if you're short on time."
+    ],
+    "topic": "business",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "extensive",
+    "pos": "adjective",
+    "definition": "covering a large area or range; very thorough or wide-ranging",
+    "example": [
+      "She has extensive experience in marketing."
+    ],
+    "synonyms": [
+      "broad",
+      "wide-ranging"
+    ],
+    "topic": "academic",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "augment",
+    "pos": "verb",
+    "definition": "to make something bigger or better by adding to it",
+    "example": [
+      "He took a second job to augment his income."
+    ],
+    "synonyms": [
+      "increase",
+      "supplement"
+    ],
+    "topic": "academic",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "checkmark",
+    "pos": "noun",
+    "definition": "a ✓ symbol used to show that something is correct or has been completed",
+    "example": [
+      "Put a checkmark next to each finished task."
+    ],
+    "topic": "daily",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "flowchart",
+    "pos": "noun",
+    "definition": "a diagram that shows the steps of a process using boxes and arrows",
+    "example": [
+      "She drew a flowchart to explain the workflow."
+    ],
+    "topic": "business",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "glossary",
+    "pos": "noun",
+    "definition": "a list of difficult or special words with their definitions, usually at the end of a book or document",
+    "example": [
+      "Check the glossary if you don't know a term."
+    ],
+    "topic": "academic",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "countdown",
+    "pos": "noun",
+    "definition": "the act of counting down to zero before something important happens",
+    "example": [
+      "The countdown to launch has begun."
+    ],
+    "topic": "daily",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "tracking",
+    "pos": "noun",
+    "definition": "the process of monitoring or following the progress of something over time",
+    "example": [
+      "The app is tracking your daily steps."
+    ],
+    "synonyms": [
+      "monitoring",
+      "following"
+    ],
+    "topic": "technology",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "resemble",
+    "pos": "verb",
+    "definition": "to look or be similar to someone or something",
+    "example": [
+      "She resembles her mother a lot."
+    ],
+    "synonyms": [
+      "look like",
+      "be similar to"
+    ],
+    "topic": "daily",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "principal",
+    "pos": "noun",
+    "definition": "the most important person in a group, such as the head of a school or the main party in a deal",
+    "example": [
+      "The school principal called a meeting."
+    ],
+    "synonyms": [
+      "head",
+      "chief"
+    ],
+    "topic": "daily",
+    "note": "also adjective meaning 'main/most important'; don't confuse with 'principle' (a rule or belief)",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "predictive",
+    "pos": "adjective",
+    "definition": "able to forecast or suggest what will happen in the future",
+    "example": [
+      "Predictive text fills in words as you type."
+    ],
+    "topic": "technology",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "foster",
+    "pos": "verb",
+    "definition": "to encourage or help something develop and grow",
+    "example": [
+      "Good teachers foster a love of learning."
+    ],
+    "synonyms": [
+      "encourage",
+      "nurture"
+    ],
+    "topic": "academic",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
+  },
+  {
+    "word": "decouple",
+    "pos": "verb",
+    "definition": "to separate two things that were connected so they no longer depend on each other",
+    "example": [
+      "We need to decouple the payment system from the main app."
+    ],
+    "synonyms": [
+      "separate",
+      "disconnect"
+    ],
+    "topic": "technology",
+    "first_seen": "2026-06-23",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-23"
+    }
   }
 ]

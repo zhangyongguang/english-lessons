@@ -1,9 +1,39 @@
 # Vocabulary  (latest first)
 
-200 word(s).
+230 word(s).
 
 | Word | Meaning | Example | Date |
 |---|---|---|---|
+| decouple _(verb)_ | to separate two things that were connected so they no longer depend on each other | We need to decouple the payment system from the main app. | 2026-06-23 |
+| foster _(verb)_ | to encourage or help something develop and grow | Good teachers foster a love of learning. | 2026-06-23 |
+| predictive _(adjective)_ | able to forecast or suggest what will happen in the future | Predictive text fills in words as you type. | 2026-06-23 |
+| principal _(noun)_ | the most important person in a group, such as the head of a school or the main party in a deal | The school principal called a meeting. | 2026-06-23 |
+| resemble _(verb)_ | to look or be similar to someone or something | She resembles her mother a lot. | 2026-06-23 |
+| tracking _(noun)_ | the process of monitoring or following the progress of something over time | The app is tracking your daily steps. | 2026-06-23 |
+| countdown _(noun)_ | the act of counting down to zero before something important happens | The countdown to launch has begun. | 2026-06-23 |
+| glossary _(noun)_ | a list of difficult or special words with their definitions, usually at the end of a book or document | Check the glossary if you don't know a term. | 2026-06-23 |
+| flowchart _(noun)_ | a diagram that shows the steps of a process using boxes and arrows | She drew a flowchart to explain the workflow. | 2026-06-23 |
+| checkmark _(noun)_ | a ✓ symbol used to show that something is correct or has been completed | Put a checkmark next to each finished task. | 2026-06-23 |
+| augment _(verb)_ | to make something bigger or better by adding to it | He took a second job to augment his income. | 2026-06-23 |
+| extensive _(adjective)_ | covering a large area or range; very thorough or wide-ranging | She has extensive experience in marketing. | 2026-06-23 |
+| executive summary _(noun)_ | a short section at the beginning of a report that sums up its most important points | Read the executive summary if you're short on time. | 2026-06-23 |
+| briefing _(noun)_ | a meeting or document that gives someone the key information they need before doing something | The team had a quick briefing before the launch. | 2026-06-23 |
+| gather _(verb)_ | to come together in one place, or to collect things | A crowd gathered outside. | 2026-06-23 |
+| insane _(adjective)_ | extremely crazy or unbelievable; informally used to mean amazing or excessive | The traffic today was insane. | 2026-06-23 |
+| interactive _(adjective)_ | allowing two-way communication or response between people or between a person and a device | The app has an interactive map. | 2026-06-23 |
+| novice _(noun)_ | a person who is new to and inexperienced at something | I'm still a novice at cooking. | 2026-06-23 |
+| modest _(adjective)_ | not large or showy; or not boastful about your own abilities | They live in a modest house. | 2026-06-23 |
+| simultaneous _(adjective)_ | happening or existing at exactly the same time | The two events were simultaneous. | 2026-06-23 |
+| scale up _(phrase)_ | to increase the size, amount, or scope of something | They scaled up production to meet demand. | 2026-06-23 |
+| partnership _(noun)_ | a relationship in which two or more people or groups work together toward a shared goal | The two companies formed a partnership. | 2026-06-23 |
+| privileged _(adjective)_ | having special advantages or opportunities that most people do not have | She had a privileged upbringing. | 2026-06-23 |
+| tweak _(verb)_ | to make a small adjustment to something to improve it | I just need to tweak the design a little. | 2026-06-23 |
+| evolve _(verb)_ | to develop or change gradually into something different over time | Technology is constantly evolving. | 2026-06-23 |
+| inning _(noun)_ | one round of play in baseball where each team takes a turn to bat | The game is tied in the ninth inning. | 2026-06-23 |
+| nerd _(noun)_ | a person who is very enthusiastic and knowledgeable about a subject (like computers) but often seen as socially awkward | He's a total computer nerd. | 2026-06-23 |
+| transistor _(noun)_ | a tiny electronic component that controls or amplifies electrical signals, used in almost all modern devices | A computer chip holds billions of transistors. | 2026-06-23 |
+| ascribe _(verb)_ | to say that something is caused by, belongs to, or comes from a particular person or thing; used with 'to' | She ascribes her success to hard work. | 2026-06-23 |
+| disruptive _(adjective)_ | causing disorder or interruption; or (of technology/ideas) radically changing an existing industry | A disruptive student kept interrupting the class. | 2026-06-23 |
 | topline _(noun)_ | the main point or summary; also a company's total revenue (top line of an income statement) | Just give me the topline. | 2026-06-23 |
 | blow away _(phrase)_ | to impress or amaze someone greatly; (literal) to move something away with wind | Her performance blew me away. | 2026-06-23 |
 | dumb _(adjective)_ | (informal) stupid or silly; (older/now offensive) unable to speak | That was a dumb mistake. | 2026-06-23 |
