@@ -1,0 +1,301 @@
+Jack(00:00:02): Hello teacher. 
+
+ZIVA_Teacher(00:00:04): Hey, can you hear me? Yes, excuse me, Okay, so we will continue our class. I'm sorry for considering our. 
+
+Jack(00:00:06): Yeah, I can hear you. 
+
+ZIVA_Teacher(00:00:16): A lesson yesterday? Yeah. Ok, so how are you? 
+
+Jack(00:00:26): Yeah, I have a good day. Today. Today I was not busy so I researched some. Some information. 
+
+ZIVA_Teacher(00:00:37): Formation about. 喂。
+
+Jack(00:00:41): About about machine learning. recently。
+
+ZIVA_Teacher(00:00:46): What what do you mean, Sir Mamba? 
+
+Jack(00:00:51): Machine learning Machine learning. 
+
+ZIVA_Teacher(00:00:55): Martial learning? What's that? Martial learning? What do you mean, sir? 
+
+Jack(00:00:58): Machine machine learning. Machine learning. 
+
+ZIVA_Teacher(00:01:07): 妈 Mars. 
+
+Jack(00:01:11): Yeah, or artificial intelligence. It looks like. 
+
+ZIVA_Teacher(00:01:17): Intelligence, sir, not intelligence. Intelligent. 
+
+Jack(00:01:20): Intelligence. Yeah, like artificial intelligence. 
+
+ZIVA_Teacher(00:01:28): What do you mean by artificial intelligence? 
+
+Jack(00:01:33): Yeah, it's called machine learning. We use a computer to. We let computer to learn something. It's called machine learning. 
+
+ZIVA_Teacher(00:01:49): Okay, so that's martial learning that you had Ok martial learning. 
+
+Jack(00:01:56): Yeah. 
+
+ZIVA_Teacher(00:02:01): You used, is that part of your? What do you call this? Is that part of your? What? What's that is that part of your? 
+
+Jack(00:02:03): 马上收拾了你。
+
+ZIVA_Teacher(00:02:14): What do you call this? Lessons. You mean. 
+
+Jack(00:02:19): Sorry teacher. I think it's not machine learning. It's machine learning this one. 
+
+ZIVA_Teacher(00:02:27): A machine machine? Learning. 
+
+Jack(00:02:33): Yeah, machine. Machine learning. Machine learning. 
+
+ZIVA_Teacher(00:02:36): Machine learning. Yes, sir, machine learning. Ok, so machine mamba mamba machine learning. 
+
+Jack(00:02:42): Machine. Machine learning. Machine learning. 
+
+ZIVA_Teacher(00:02:53): Ok machine learning how how how do you learn it? 
+
+Jack(00:03:05): Yeah, I just need to use bigquery that Google service and I can use this service to do some. 
+
+ZIVA_Teacher(00:03:18): I can use it to serve pronoun. 
+
+Jack(00:03:22): I can use it too. A predict. Predict some. yeahlike。Like share, share the permission. nextmonth。
+
+ZIVA_Teacher(00:03:41): Sales for. Formation? What do you mean? 
+
+Jack(00:03:48): Sora. A mount of cred Jill. For next month. 
+
+ZIVA_Teacher(00:03:56): A. What do you mean, sir? 
+
+Jack(00:04:04): I mean, you can use this service to predict something that happened in the future like. 
+
+ZIVA_Teacher(00:04:11): That can not happen, that can happen. 
+
+Jack(00:04:15): That can happen in the future. 
+
+ZIVA_Teacher(00:04:19): Yes. That can happen in the future. 
+
+Jack(00:04:23): That can happen in the future. 
+
+ZIVA_Teacher(00:04:24): Like what exactly, sir. 
+
+Jack(00:04:27): like。Like she. 
+
+ZIVA_Teacher(00:04:32): You mean sales. Ok. And. 
+
+Jack(00:04:39): And. m。
+
+ZIVA_Teacher(00:04:46): What do you mean. 
+
+Jack(00:04:46): Whether like. PaaS. Cad weather, weather post cad. 
+
+ZIVA_Teacher(00:04:52): What do you mean. Can. Whether. 
+
+Jack(00:05:00): Like a weather prediction. 
+
+ZIVA_Teacher(00:05:04): Weather forecast. 
+
+Jack(00:05:06): Weather forecast. 
+
+ZIVA_Teacher(00:05:08): Yes, sir, you're talking about weather forecast. Yes. 
+
+Jack(00:05:14): Yeah, like Sara and Weather forecast? Yeah. 
+
+ZIVA_Teacher(00:05:19): OK。So is that A why? Why? Why would you? Why would you have that? By the way. 
+
+Jack(00:05:32): Yeah, I think for me I need to learn some new things that can help me convert devops to male and male machine learning also. So I need to learn some information about machine learning. 
+
+ZIVA_Teacher(00:05:46): So you need to learn some information about machine machine learning, machine learning. 
+
+Jack(00:05:59): 喂 Machine learning, machine learning? Yeah. yeahand I joined a meeting。
+
+ZIVA_Teacher(00:06:05): Ok. That's all. 
+
+Jack(00:06:14): That talked about Ai. Yeah, some teams shared their. 
+
+Jack(00:06:25): Their ideas about Ai and I joined it to listen to. 
+
+ZIVA_Teacher(00:06:29): Ok, so you join to listen to it. 
+
+Jack(00:06:38): I joined to listen to it. 
+
+ZIVA_Teacher(00:06:40): Yeah, you joined to listen to it. How did it go? 
+
+Jack(00:06:46): At first I think I thought they will speak English. However, they speak Japanese so I can't understand all. 
+
+ZIVA_Teacher(00:06:58): I couldn't. They spoke. They spoke. 
+
+Jack(00:07:00): I couldn't understand. I couldn't. Understand this book. 
+
+ZIVA_Teacher(00:07:10): Ok, well that's that's pretty sad though. Yea right? Ok, but still. I thought you would have, Yeah, yeah, Ok, we'll start with your lesson then thank you so much. Yeah. 
+
+Jack(00:07:29): Yeah. 
+
+ZIVA_Teacher(00:07:31): Ok machine learning that seems very cool. Yeah, Maas, shin machine learning Yeah that seems yeah that seems really cool. 
+
+Jack(00:07:34): Machine learning, Yeah. Machine. Machine learning. 
+
+ZIVA_Teacher(00:07:45): Ok wait where no okay so we were in the progress. Wait, let me check. The Ok, I think I saved up your. 哼。No, no, no, no out. Wait a moment. No, Jack June 27. That's different. That's in all for 20, the No, I think. I did not whiteboard. I did not. Save your learning courses. 
+
+ZIVA_Teacher(00:08:44): Last time so we'll just try this one. Complaints we were about we were discussing about complaints last time. Do you remember? 
+
+Jack(00:08:50): Yeah. Yeah. Yeah, I think I remember. 
+
+ZIVA_Teacher(00:09:06): 喂。Wait. 喂。Wait, Sorry, I feel so sleepy. So this one lately I've been so tired. I was thought I Ok, so can you see this? 
+
+Jack(00:09:29): Yeah, I can say this yeah. 
+
+ZIVA_Teacher(00:09:30): Yes, Ok, so you use or express a complaints with it and when so they should not be in one sentence you separate them. Complaint. Please remember. 
+
+Jack(00:09:48): Yeah. Yeah. Sorry teacher, you mean I need to write. 
+
+ZIVA_Teacher(00:09:58): Yes. Just two sentences. Eat and they. 
+
+ZIVA_Teacher(00:10:58): That should be a complaint. 
+
+ZIVA_Teacher(00:11:28): 我 And I heard that why I can. Why is there a comma, sir? Why is there a comma? There is this one. So I told you forgot the uses of a comma. 
+
+Jack(00:11:52): I don't forget. I think I didn't forget. Yeah, forget, I didn't forget. 
+
+ZIVA_Teacher(00:11:56): I didn't. I didn't. Forget, sir. 
+
+ZIVA_Teacher(00:12:43): Is it going to stand to silly customers? It is very boring for them to work. 这样。
+
+ZIVA_Teacher(00:13:12): My face. 
+
+ZIVA_Teacher(00:13:22): Ok. 
+
+ZIVA_Teacher(00:13:37): All day long, all day long to finish our tasks. I think in between here she'll say that all day long. 
+
+Jack(00:13:46): Yeah. 
+
+ZIVA_Teacher(00:13:48): All right, no, sorry. Ok, alright, please kindly try to read your sentence. Says. 
+
+Jack(00:14:06): Yeah, when I came to the office, I heard that Mr. White said he wanted to resign because he couldn't stand the silly customers. It was very boring for us to stand in front of the machine all day long to finish our tasks. 
+
+ZIVA_Teacher(00:14:26): Ok, so do you have? Ok? That's all. 
+
+Jack(00:14:32): 你还在冲。
+
+ZIVA_Teacher(00:14:32): All right now, what was the complaint here then? Yeah, you tell me what was the complaint here? 
+
+Jack(00:14:42): yeah mr white。Couldn't stand the silly customers. 
+
+ZIVA_Teacher(00:14:50): Ok, so that's why he wanted to resign. Now, how about this one? 
+
+Jack(00:15:00): It's too boring, forced to stand in front of the machine. 奥尔迪朗。
+
+ZIVA_Teacher(00:15:07): So in front of the machine, yes, Ok. So do you have any questions? 
+
+Jack(00:15:15): Yeah. No, I don't have any questions. 
+
+ZIVA_Teacher(00:15:24): Ok, so do you know how to express complaints properly in verbal? 
+
+Jack(00:15:31): In one ball。I think I don't know how to express. 
+
+ZIVA_Teacher(00:15:41): You don't know how to express it in verbal. 
+
+Jack(00:15:46): Yeah, I think I don't know how to express in verbal. 
+
+ZIVA_Teacher(00:15:52): Ok, so I would like you to do it verbally. Then yeah, when do you use when I use when to express? Your yeah. Use when to express your own. Complained. Or maybe against the company or whatever. So. 
+
+Jack(00:16:31): Sora Teacher, can you give me an example? 
+
+ZIVA_Teacher(00:16:35): Yeah, complaint, any complaint about anything at all? Yeah, you've done that before already complaint. What is the complaint? So you complain about anything and use when. 
+
+Jack(00:16:55): yeah。When am I manager? Tell me. 
+
+ZIVA_Teacher(00:17:02): So you complain about anything and use when. Manager, Manager, Sir Manager. 
+
+Jack(00:17:07): 晚安 When my manager gives me a task, give me a tiktok that I don't want to do. I will say I'm so busy so can you ask other people to help me finish it? 
+
+ZIVA_Teacher(00:17:29): I will ask other. No, that's not a complaint, sir. That's not a complaint. You try again, you make it into a complaint. It's like you're feeling bad and then you want to express it. 
+
+Jack(00:17:50): yeah i。
+
+ZIVA_Teacher(00:17:51): Something that you're you do not like in the company, you complain about it? Yeah. 
+
+Jack(00:18:04): when i。Came to the. When I came to home. 
+
+ZIVA_Teacher(00:18:11): When I came, is that past tense? That means. 
+
+Jack(00:18:22): Yeah, it's past tense. 
+
+ZIVA_Teacher(00:18:23): Are you talking about a past event? 
+
+Jack(00:18:28): When I come to home. 
+
+ZIVA_Teacher(00:18:29): When I come home now, verb noun to mostly for infinitives or directions. If what are infinitive verbs, sir, they can be used as nouns or objects, but if you use it for directions, that means to to plus place. This one. However, there's a Yeah. So instead of that noun plus verb plus noun, did you forget one? Two, three? 
+
+ZIVA_Teacher(00:19:16): Yeah, Ok. One more time. 
+
+Jack(00:19:20): Yeah, when I come home. And I find. 
+
+ZIVA_Teacher(00:19:27): When I come home. Coma. 
+
+Jack(00:19:29): When I come. When I come home. 
+
+ZIVA_Teacher(00:19:40): You complain about anything from your office or your how? No no, no you don't have to complain anything from yours from the office, try you try to use your company. Yea. 
+
+Jack(00:19:54): Yeah, when I come home. I I complain, I complain. 
+
+ZIVA_Teacher(00:20:06): Complain is the verb complaint is the noun. 
+
+Jack(00:20:13): Yeah, when I come home, I complain. 
+
+ZIVA_Teacher(00:20:18): No, you don't have to say you tell me about any bad thing, flaw or mistake or failure that is happening or that happens in your company. Yeah, for example, if I complain every day my boss shouts at me and he doesn't listen to anything that I say like that. That is a complaint. 
+
+Jack(00:20:49): Yeah. 
+
+ZIVA_Teacher(00:20:49): Ok, now how about you? When you use, when. 
+
+Jack(00:21:02): When I. Came to the station. I missed the bus. 
+
+ZIVA_Teacher(00:21:08): Whenever I go or when I go to the station. Which station? Train station fire station? 
+
+Jack(00:21:16): When I go to the station, when I go to the bus station, I missed the bus. 
+
+ZIVA_Teacher(00:21:26): I usually. 张永。
+
+Jack(00:21:33): I usually. 
+
+ZIVA_Teacher(00:21:36): Is it an incident in the past or you are talking about something you habitually do? 
+
+Jack(00:21:46): Something happened in the past, something to that happened in the past yea. 
+
+ZIVA_Teacher(00:21:49): That happened in the past, so you use a past tense. I told you me. Yes, I told you many times. 
+
+Jack(00:21:57): I came to the bus station. I missed the bus. 
+
+ZIVA_Teacher(00:22:05): Why is it very hard to complain, for example, like this here? I always, I always feel uncomfortable around my colleagues. Sometimes. When they do not invite a when they. Invite me. A two join them during lunch break because. Day. They want me. To pay the bill. That's a complaint. When did ice use when there we go? I am complaining or someone is complaining now you try. 
+
+ZIVA_Teacher(00:23:33): You make a complaint about something that happened or is happening. Using when. 
+
+Jack(00:23:44): yeah got it。When I finish my work. I always feel. Tired. And. Don't want to do anything. I do not want to do anything. 
+
+ZIVA_Teacher(00:24:00): I do not. 
+
+ZIVA_Teacher(00:24:15): 好。About it. You try. Yeah, whether it's an object or the main subject. 
+
+Jack(00:24:18): Eat him. yea。one。Some people. 
+
+ZIVA_Teacher(00:24:40): It whether you make it into an object or. A subject. Eat. 
+
+Jack(00:24:49): one。Some people. It. It's very tired for me. It's very tiring for me to finish this project by myself. 
+
+ZIVA_Teacher(00:25:03): Irene. 
+
+ZIVA_Teacher(00:25:15): So. What will you do. 
+
+Jack(00:25:16): So so I I need to ask someone for help. 
+
+ZIVA_Teacher(00:25:27): Ok, now that's a complaint. Your first sentence earlier was quite excuse me, how should I put this shallow，Yeah, but still all right. Maybe we should practice this again later, especially when. 
+
+Jack(00:25:41): Yeah. 
+
+ZIVA_Teacher(00:25:49): Or yeah, this one. And then I will let you make another complaint. That's different. You don't have to use the word when. Let's see how you can express it. Ok, so do you have any questions, sir? Yes. 
+
+Jack(00:26:05): No, I do not have any questions. 
+
+ZIVA_Teacher(00:26:07): Okay, so I will call you again later and we'll focus on this one. Alright, please remember, sir. Complaints, Yeah, complaints, Ok, I'll see you later. All right. 
+
+Jack(00:26:12): Yeah, See you later. 

@@ -1,0 +1,274 @@
+[
+  {
+    "id": "2026-06-24-001",
+    "date": "2026-06-24",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "At first I thought they will speak English. However, they speak Japanese so I can't understand all.",
+    "correction": "At first I thought they would speak English. However, they spoke Japanese, so I couldn't understand it.",
+    "explanation": "When the main clause is in the past ('I thought'), the verbs that follow shift back too: 'will' becomes 'would', and present 'speak / can't' become past 'spoke / couldn't'. Keep the whole sentence in the past when narrating a past event.",
+    "correct_examples": [
+      "I thought it would be sunny, but it rained, so I couldn't go out.",
+      "She said she would call, but she never did."
+    ],
+    "context": "Telling the teacher about joining an AI meeting that turned out to be in Japanese",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 123"
+  },
+  {
+    "id": "2026-06-24-002",
+    "date": "2026-06-24",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "I don't forget. I think I don't forget the uses of a comma.",
+    "correction": "I didn't forget the uses of a comma.",
+    "explanation": "The teacher was asking about a past action (whether you forgot earlier), so the past tense 'didn't forget' is needed, not the present 'don't forget'.",
+    "correct_examples": [
+      "I didn't forget your birthday.",
+      "Don't worry, I didn't forget to lock the door."
+    ],
+    "context": "Teacher asking why there was a comma in the sentence",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 157"
+  },
+  {
+    "id": "2026-06-24-003",
+    "date": "2026-06-24",
+    "category": "grammar",
+    "tag": "preposition",
+    "my_sentence": "When I came to home, I complain.",
+    "correction": "When I come home, I complain.",
+    "explanation": "'Home' used as a destination is an adverb, so it takes no preposition: say 'come home' / 'go home', never 'come to home'. (Also watch the tense: 'come' for a habitual present, 'came' only for a past event.)",
+    "correct_examples": [
+      "When I come home, I usually cook dinner.",
+      "He went home early yesterday."
+    ],
+    "context": "Practising complaints starting with 'when'",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 217"
+  },
+  {
+    "id": "2026-06-24-004",
+    "date": "2026-06-24",
+    "category": "grammar",
+    "tag": "word-choice",
+    "my_sentence": "It's very tired for me to finish this project by myself.",
+    "correction": "It's very tiring for me to finish this project by myself.",
+    "explanation": "Use the '-ing' adjective for what causes the feeling and the '-ed' adjective for the person who feels it. The project causes the feeling, so it is 'tiring'; you are 'tired'.",
+    "correct_examples": [
+      "The trip was tiring, so I was tired afterwards.",
+      "The lecture was boring and I felt bored."
+    ],
+    "context": "Practising complaints",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec1 line 283"
+  },
+  {
+    "id": "2026-06-24-005",
+    "date": "2026-06-24",
+    "category": "grammar",
+    "tag": "conditional",
+    "my_sentence": "If I can choose, I like to stay at home to finish it.",
+    "correction": "If I could choose, I would like to stay at home to finish them.",
+    "explanation": "For a hypothetical situation, use the second conditional: 'if + past tense' in the condition and 'would + verb' in the result ('If I could choose, I would like ...').",
+    "correct_examples": [
+      "If I could choose, I would work from home.",
+      "If I had more time, I would learn the piano."
+    ],
+    "context": "Complaining about having to stay in the office",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 95"
+  },
+  {
+    "id": "2026-06-24-006",
+    "date": "2026-06-24",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "We had to stay in the office to finish our tasks. That makes me feel terrible.",
+    "correction": "We had to stay in the office to finish our tasks. That made me feel terrible.",
+    "explanation": "When the story is set in the past ('had to stay'), the following verb must also be past: 'that made me feel', not 'that makes me feel'. This recurred today (e.g. 'that make me feel impatient' -> 'that made me feel impatient').",
+    "correct_examples": [
+      "I missed the bus, and that made me late.",
+      "They cancelled the trip, which made everyone upset."
+    ],
+    "context": "Complaining about working overtime in the office",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec2 line 91"
+  },
+  {
+    "id": "2026-06-24-007",
+    "date": "2026-06-24",
+    "category": "grammar",
+    "tag": "relative-clause",
+    "my_sentence": "I lost my wallet when I rode the bus to go home, so I hated the thief steal my wallet.",
+    "correction": "I lost my wallet when I rode the bus home, so I hated the thief who had stolen it.",
+    "explanation": "You need a relative pronoun ('who') plus a finite verb to attach the clause to 'the thief', and the action happened before you hated him, so use the past perfect 'had stolen'. Don't repeat 'my wallet'; replace it with the pronoun 'it'.",
+    "correct_examples": [
+      "I thanked the man who had found my keys.",
+      "She blamed the driver who had hit her car."
+    ],
+    "context": "Expressing resentment about losing a wallet on the bus",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec3 line 107"
+  },
+  {
+    "id": "2026-06-24-008",
+    "date": "2026-06-24",
+    "category": "discourse",
+    "tag": "conciseness",
+    "my_sentence": "I attended an appointment with my coworker, I felt so angry. That's because he was late.",
+    "correction": "I attended an appointment with my coworker last week and I was so angry towards him because he arrived late and he didn't inform me about it.",
+    "explanation": "Don't leave a clause hanging and start a new fragment with 'That's because'. Join the ideas into one sentence with conjunctions ('and', 'because') so the reason connects directly to the main clause.",
+    "correct_examples": [
+      "I was angry because he arrived late and didn't tell me why.",
+      "I felt tired, so I went to bed early."
+    ],
+    "context": "Complaining about a coworker who was late to a meeting",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec3 line 157"
+  },
+  {
+    "id": "2026-06-24-009",
+    "date": "2026-06-24",
+    "category": "naturalness",
+    "tag": "word-choice",
+    "my_sentence": "He arrived late and he didn't give me any message.",
+    "correction": "He arrived late and he didn't inform me about it.",
+    "explanation": "'Inform me about it' (or 'let me know') is the natural way to say someone failed to tell you in advance; 'give me any message' is L1-influenced and sounds unnatural here.",
+    "correct_examples": [
+      "Please inform me about any changes to the schedule.",
+      "He left without letting me know."
+    ],
+    "context": "Complaining about a coworker who was late to a meeting",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec3 line 199"
+  },
+  {
+    "id": "2026-06-24-010",
+    "date": "2026-06-24",
+    "category": "grammar",
+    "tag": "word-choice",
+    "my_sentence": "Doing repetitive tasks every day is boring, so it makes us feel despair.",
+    "correction": "Doing repetitive tasks every day is boring, so it makes us feel desperate.",
+    "explanation": "After 'feel' you need an adjective. 'Despair' is a noun, so use the adjective 'desperate' ('feel desperate'). You'd only say 'feel despair' as 'feel a sense of despair'.",
+    "correct_examples": [
+      "The endless work made us feel desperate.",
+      "She felt hopeless about the situation."
+    ],
+    "context": "Giving an opinion about repetitive jobs using gerund phrases",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec4 line 47"
+  },
+  {
+    "id": "2026-06-24-011",
+    "date": "2026-06-24",
+    "category": "grammar",
+    "tag": "pronoun",
+    "my_sentence": "Being a pilot, it is dangerous.",
+    "correction": "Being a pilot is dangerous.",
+    "explanation": "When a gerund phrase ('Being a pilot') is the subject, don't add a second subject pronoun 'it' afterwards. The gerund phrase already is the subject. This recurred (e.g. 'Being a doctor, it's not good' -> 'Being a doctor is not good').",
+    "correct_examples": [
+      "Being a pilot is stressful because it requires a lot of focus.",
+      "Learning a language takes time."
+    ],
+    "context": "Giving opinions about jobs using gerund phrases",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec4 line 113"
+  },
+  {
+    "id": "2026-06-24-012",
+    "date": "2026-06-24",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "It can help us to fix many problems.",
+    "correction": "It can help us fix many problems.",
+    "explanation": "The causative-style verbs 'help', 'let', and 'make' are followed by a bare infinitive (no 'to'): 'help us fix', 'let you do', 'make me feel'. Today both 'help us to fix' and 'let you to do' had the extra 'to'.",
+    "correct_examples": [
+      "It helps us solve problems faster.",
+      "My boss lets me work from home."
+    ],
+    "context": "Giving an opinion about being a computer engineer",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec4 line 147"
+  },
+  {
+    "id": "2026-06-24-013",
+    "date": "2026-06-24",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "Working as a computer engineer is awesome. It allowed you to solve some technical problems.",
+    "correction": "Working as a computer engineer is awesome. It allows you to solve some technical problems.",
+    "explanation": "When you state a general opinion in the present tense, keep every verb in the present: 'it allows', not 'it allowed'. Don't switch to the past for a fact that is still true.",
+    "correct_examples": [
+      "This job is great because it allows you to travel.",
+      "Exercise helps you stay healthy."
+    ],
+    "context": "Giving an opinion about being a computer engineer",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec4 line 163"
+  },
+  {
+    "id": "2026-06-24-014",
+    "date": "2026-06-24",
+    "category": "grammar",
+    "tag": "plural",
+    "my_sentence": "As a scientist, you can use your abilities to help human.",
+    "correction": "As a scientist, you can use your abilities to help humans.",
+    "explanation": "To talk about people in general, use the plural 'humans' (or 'people'). Singular 'human' needs an article ('a human'), which changes the meaning to one person.",
+    "correct_examples": [
+      "Scientists work to help humans live longer.",
+      "Robots are built to help people with daily tasks."
+    ],
+    "context": "Giving an opinion about being a scientist",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec4 line 235"
+  },
+  {
+    "id": "2026-06-24-015",
+    "date": "2026-06-24",
+    "category": "grammar",
+    "tag": "pronoun",
+    "my_sentence": "A person can earn money by him or her.",
+    "correction": "A person can earn money by himself or herself.",
+    "explanation": "After 'by' meaning 'alone / without help', use the reflexive pronoun 'himself / herself', not the object pronoun 'him / her'.",
+    "correct_examples": [
+      "She finished the project by herself.",
+      "He can do it by himself."
+    ],
+    "context": "Discussing the pros of having a job",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec4 line 427"
+  },
+  {
+    "id": "2026-06-24-016",
+    "date": "2026-06-24",
+    "category": "grammar",
+    "tag": "plural",
+    "my_sentence": "We can use our time to help other fix their problems.",
+    "correction": "We can use our time to help others fix their problems.",
+    "explanation": "As a pronoun meaning 'other people', use the plural 'others'. 'Other' on its own is a determiner that needs a noun after it ('other people').",
+    "correct_examples": [
+      "We should help others when we can.",
+      "Some people stayed; others left early."
+    ],
+    "context": "Discussing how having a job helps society",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec4 line 445"
+  },
+  {
+    "id": "2026-06-24-017",
+    "date": "2026-06-24",
+    "category": "grammar",
+    "tag": "relative-clause",
+    "my_sentence": "Choosing to be a doctor is not a good career that takes a lot of time.",
+    "correction": "Choosing to be a doctor is not a good career because it takes a lot of time and you can't earn enough money.",
+    "explanation": "Don't drop a relative 'that' into the middle of a complete clause; it pulls the focus onto the relative clause and away from your main point. Use a conjunction like 'because' to add the reason instead. (assistant note: the teacher flagged the mid-sentence 'that' but the final wording is reconstructed.)",
+    "correct_examples": [
+      "It isn't a good career because it pays little.",
+      "I dropped the class because it took too much time."
+    ],
+    "context": "Giving an opinion about being a doctor using gerund phrases",
+    "review": { "status": "new", "times_seen_again": 0, "last_reviewed": null },
+    "source_ref": "rec4 line 91"
+  }
+]
