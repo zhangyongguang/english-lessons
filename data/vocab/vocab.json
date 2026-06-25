@@ -4669,5 +4669,95 @@
       "times_looked_up": 1,
       "last_seen": "2026-06-23"
     }
+  },
+  {
+    "word": "linear regression",
+    "pos": "noun",
+    "definition": "a statistical method that models the straight-line relationship between variables to predict one from another",
+    "example": [
+      "Linear regression can predict house prices from size."
+    ],
+    "topic": "academic",
+    "note": "fundamental ML/statistics method; outputs a continuous value",
+    "first_seen": "2026-06-25",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-25"
+    }
+  },
+  {
+    "word": "logistic regression",
+    "pos": "noun",
+    "definition": "a statistical method that predicts the probability of a yes/no outcome based on input variables",
+    "example": [
+      "Logistic regression can predict whether an email is spam or not."
+    ],
+    "topic": "academic",
+    "note": "despite the name, used for classification not regression; outputs a probability 0-1",
+    "first_seen": "2026-06-25",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-25"
+    }
+  },
+  {
+    "word": "dimensionality",
+    "pos": "noun",
+    "definition": "the number of features or variables used to describe a dataset",
+    "example": [
+      "High dimensionality makes machine learning models harder to train."
+    ],
+    "synonyms": [
+      "dimensions"
+    ],
+    "topic": "academic",
+    "note": "'dimensionality reduction' = reducing the number of features (e.g. PCA)",
+    "first_seen": "2026-06-25",
+    "review": {
+      "status": "new",
+      "times_looked_up": 2,
+      "last_seen": "2026-06-25"
+    }
+  },
+  {
+    "word": "countless",
+    "pos": "adjective",
+    "definition": "too many to count; a very large number",
+    "example": [
+      "There are countless ways to solve this problem."
+    ],
+    "synonyms": [
+      "innumerable",
+      "endless"
+    ],
+    "topic": "daily",
+    "first_seen": "2026-06-25",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-25"
+    }
+  },
+  {
+    "word": "transform",
+    "pos": "verb",
+    "definition": "to change something completely into something different",
+    "example": [
+      "The software transformed the way we work."
+    ],
+    "synonyms": [
+      "change",
+      "convert"
+    ],
+    "topic": "daily",
+    "note": "looked up as 'transforming'; noun: transformation",
+    "first_seen": "2026-06-25",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-25"
+    }
   }
 ]

@@ -1,9 +1,14 @@
 # Vocabulary  (latest first)
 
-230 word(s).
+235 word(s).
 
 | Word | Meaning | Example | Date |
 |---|---|---|---|
+| transform _(verb)_ | to change something completely into something different | The software transformed the way we work. | 2026-06-25 |
+| countless _(adjective)_ | too many to count; a very large number | There are countless ways to solve this problem. | 2026-06-25 |
+| dimensionality _(noun)_ | the number of features or variables used to describe a dataset | High dimensionality makes machine learning models harder to train. | 2026-06-25 |
+| logistic regression _(noun)_ | a statistical method that predicts the probability of a yes/no outcome based on input variables | Logistic regression can predict whether an email is spam or not. | 2026-06-25 |
+| linear regression _(noun)_ | a statistical method that models the straight-line relationship between variables to predict one from another | Linear regression can predict house prices from size. | 2026-06-25 |
 | decouple _(verb)_ | to separate two things that were connected so they no longer depend on each other | We need to decouple the payment system from the main app. | 2026-06-23 |
 | foster _(verb)_ | to encourage or help something develop and grow | Good teachers foster a love of learning. | 2026-06-23 |
 | predictive _(adjective)_ | able to forecast or suggest what will happen in the future | Predictive text fills in words as you type. | 2026-06-23 |
