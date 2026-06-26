@@ -504,8 +504,8 @@
     "first_seen": "2026-05-29",
     "review": {
       "status": "new",
-      "times_looked_up": 1,
-      "last_seen": "2026-05-29"
+      "times_looked_up": 2,
+      "last_seen": "2026-06-26"
     }
   },
   {
@@ -4758,6 +4758,282 @@
       "status": "new",
       "times_looked_up": 1,
       "last_seen": "2026-06-25"
+    }
+  },
+  {
+    "word": "race off",
+    "pos": "phrase",
+    "definition": "to leave or move away very quickly",
+    "example": [
+      "She raced off to catch the bus."
+    ],
+    "synonyms": [
+      "rush off",
+      "dash off"
+    ],
+    "topic": "daily",
+    "first_seen": "2026-06-26",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-26"
+    }
+  },
+  {
+    "word": "defy",
+    "pos": "verb",
+    "definition": "to refuse to obey rules, expectations, or authority",
+    "example": [
+      "He defied his parents and stayed out late.",
+      "The results defied expectations."
+    ],
+    "synonyms": [
+      "disobey",
+      "resist"
+    ],
+    "topic": "daily",
+    "note": "looked up as 'defied' (past tense); adjective: defiant; noun: defiance",
+    "first_seen": "2026-06-26",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-26"
+    }
+  },
+  {
+    "word": "doomer",
+    "pos": "noun",
+    "definition": "a person who believes things will end very badly and has no hope for the future",
+    "example": [
+      "He's a tech doomer who thinks AI will destroy humanity."
+    ],
+    "topic": "daily",
+    "note": "informal/modern slang; common in AI/tech discussions",
+    "first_seen": "2026-06-26",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-26"
+    }
+  },
+  {
+    "word": "intuitive",
+    "pos": "adjective",
+    "definition": "easy to understand or use without needing instructions; or based on instinct rather than reasoning",
+    "example": [
+      "The app has a very intuitive interface."
+    ],
+    "synonyms": [
+      "user-friendly",
+      "instinctive"
+    ],
+    "topic": "technology",
+    "first_seen": "2026-06-26",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-26"
+    }
+  },
+  {
+    "word": "craftsperson",
+    "pos": "noun",
+    "definition": "a person who is skilled at making things by hand",
+    "example": [
+      "The craftsperson carved the wood by hand."
+    ],
+    "synonyms": [
+      "artisan",
+      "craftsman"
+    ],
+    "topic": "daily",
+    "note": "gender-neutral form of craftsman/craftswoman",
+    "first_seen": "2026-06-26",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-26"
+    }
+  },
+  {
+    "word": "delimiter",
+    "pos": "noun",
+    "definition": "a character or symbol that marks the boundary between separate pieces of data",
+    "example": [
+      "A comma is the delimiter in a CSV file."
+    ],
+    "topic": "technology",
+    "note": "common in programming/data processing; e.g. comma, tab, pipe |",
+    "first_seen": "2026-06-26",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-26"
+    }
+  },
+  {
+    "word": "embedding",
+    "pos": "noun",
+    "definition": "a way of representing words or data as numbers so a computer can understand relationships between them",
+    "example": [
+      "Word embeddings allow a model to know that 'king' and 'queen' are related."
+    ],
+    "topic": "technology",
+    "note": "core concept in ML/NLP; looked up in AI context",
+    "first_seen": "2026-06-26",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-26"
+    }
+  },
+  {
+    "word": "sophisticated",
+    "pos": "adjective",
+    "definition": "highly developed, complex, or showing a lot of knowledge and experience",
+    "example": [
+      "The system uses a sophisticated algorithm to detect fraud."
+    ],
+    "synonyms": [
+      "advanced",
+      "complex"
+    ],
+    "topic": "academic",
+    "first_seen": "2026-06-26",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-26"
+    }
+  },
+  {
+    "word": "disagreement",
+    "pos": "noun",
+    "definition": "a situation where people have different opinions and cannot agree",
+    "example": [
+      "We had a disagreement about the budget."
+    ],
+    "synonyms": [
+      "dispute",
+      "difference of opinion"
+    ],
+    "topic": "communication",
+    "note": "verb: disagree; adjective: disagreeable",
+    "first_seen": "2026-06-26",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-26"
+    }
+  },
+  {
+    "word": "disturb",
+    "pos": "verb",
+    "definition": "to interrupt or upset someone's peace, concentration, or normal state",
+    "example": [
+      "Please don't disturb me while I'm working."
+    ],
+    "synonyms": [
+      "interrupt",
+      "bother"
+    ],
+    "topic": "daily",
+    "first_seen": "2026-06-26",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-26"
+    }
+  },
+  {
+    "word": "incumbent",
+    "pos": "noun",
+    "definition": "the person currently holding a particular job or official position",
+    "example": [
+      "The incumbent president is running for re-election."
+    ],
+    "topic": "business",
+    "note": "also adjective: 'incumbent on someone' = their responsibility",
+    "first_seen": "2026-06-26",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-26"
+    }
+  },
+  {
+    "word": "backer",
+    "pos": "noun",
+    "definition": "a person or organization that gives financial or other support to someone or something",
+    "example": [
+      "The startup found a backer willing to invest $1 million."
+    ],
+    "synonyms": [
+      "supporter",
+      "investor",
+      "sponsor"
+    ],
+    "topic": "business",
+    "first_seen": "2026-06-26",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-26"
+    }
+  },
+  {
+    "word": "underdog",
+    "pos": "noun",
+    "definition": "a person or team expected to lose or who has less power and advantage than others",
+    "example": [
+      "Everyone was surprised when the underdog won the championship."
+    ],
+    "topic": "daily",
+    "first_seen": "2026-06-26",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-26"
+    }
+  },
+  {
+    "word": "concern",
+    "pos": "noun",
+    "definition": "a worry or problem; or as a verb, to be about or related to something",
+    "example": [
+      "My main concern is the deadline.",
+      "This issue concerns everyone on the team."
+    ],
+    "synonyms": [
+      "worry",
+      "issue"
+    ],
+    "topic": "daily",
+    "first_seen": "2026-06-26",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-26"
+    }
+  },
+  {
+    "word": "basis",
+    "pos": "noun",
+    "definition": "the foundation or main reason on which something is built or decided",
+    "example": [
+      "We made the decision on the basis of the data."
+    ],
+    "synonyms": [
+      "foundation",
+      "ground"
+    ],
+    "topic": "academic",
+    "note": "plural: bases; common phrase: 'on the basis of'",
+    "first_seen": "2026-06-26",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-06-26"
     }
   }
 ]

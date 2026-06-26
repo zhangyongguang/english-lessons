@@ -1,9 +1,25 @@
 # Vocabulary  (latest first)
 
-235 word(s).
+250 word(s).
 
 | Word | Meaning | Example | Date |
 |---|---|---|---|
+| basis _(noun)_ | the foundation or main reason on which something is built or decided | We made the decision on the basis of the data. | 2026-06-26 |
+| concern _(noun)_ | a worry or problem; or as a verb, to be about or related to something | My main concern is the deadline. | 2026-06-26 |
+| underdog _(noun)_ | a person or team expected to lose or who has less power and advantage than others | Everyone was surprised when the underdog won the championship. | 2026-06-26 |
+| backer _(noun)_ | a person or organization that gives financial or other support to someone or something | The startup found a backer willing to invest $1 million. | 2026-06-26 |
+| incumbent _(noun)_ | the person currently holding a particular job or official position | The incumbent president is running for re-election. | 2026-06-26 |
+| disturb _(verb)_ | to interrupt or upset someone's peace, concentration, or normal state | Please don't disturb me while I'm working. | 2026-06-26 |
+| disagreement _(noun)_ | a situation where people have different opinions and cannot agree | We had a disagreement about the budget. | 2026-06-26 |
+| sophisticated _(adjective)_ | highly developed, complex, or showing a lot of knowledge and experience | The system uses a sophisticated algorithm to detect fraud. | 2026-06-26 |
+| embedding _(noun)_ | a way of representing words or data as numbers so a computer can understand relationships between them | Word embeddings allow a model to know that 'king' and 'queen' are related. | 2026-06-26 |
+| delimiter _(noun)_ | a character or symbol that marks the boundary between separate pieces of data | A comma is the delimiter in a CSV file. | 2026-06-26 |
+| craftsperson _(noun)_ | a person who is skilled at making things by hand | The craftsperson carved the wood by hand. | 2026-06-26 |
+| intuitive _(adjective)_ | easy to understand or use without needing instructions; or based on instinct rather than reasoning | The app has a very intuitive interface. | 2026-06-26 |
+| doomer _(noun)_ | a person who believes things will end very badly and has no hope for the future | He's a tech doomer who thinks AI will destroy humanity. | 2026-06-26 |
+| defy _(verb)_ | to refuse to obey rules, expectations, or authority | He defied his parents and stayed out late. | 2026-06-26 |
+| race off _(phrase)_ | to leave or move away very quickly | She raced off to catch the bus. | 2026-06-26 |
+| oversight _(noun)_ | supervision or control; or a mistake made by not noticing something | Missing the deadline was an oversight on my part. | 2026-05-29 |
 | transform _(verb)_ | to change something completely into something different | The software transformed the way we work. | 2026-06-25 |
 | countless _(adjective)_ | too many to count; a very large number | There are countless ways to solve this problem. | 2026-06-25 |
 | dimensionality _(noun)_ | the number of features or variables used to describe a dataset | High dimensionality makes machine learning models harder to train. | 2026-06-25 |
@@ -216,7 +232,6 @@
 | rush out _(phrase)_ | to leave quickly; or to release a product hurriedly | She rushed out of the room in tears. | 2026-05-29 |
 | shortcoming _(noun)_ | a fault or weakness; a failure to reach a good standard | Despite its shortcomings, the plan worked. | 2026-05-29 |
 | time and time again _(idiom)_ | repeatedly; many times over | I've told him time and time again to be careful. | 2026-05-29 |
-| oversight _(noun)_ | supervision or control; or a mistake made by not noticing something | Missing the deadline was an oversight on my part. | 2026-05-29 |
 | compliant _(adjective)_ | willing to obey or agree; or meeting official rules and standards | The new car is compliant with safety rules. | 2026-05-29 |
 | sensible _(adjective)_ | reasonable and showing good judgment | That's a sensible approach to the problem. | 2026-05-29 |
 | infamous _(adjective)_ | well known for something bad | The area is infamous for crime. | 2026-05-29 |
