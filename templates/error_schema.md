@@ -45,6 +45,7 @@ phrasal-verb, false-friend, register,
 filler, linking, stress,
 comparative, relative-clause, word-choice,
 pronoun (missing / wrong personal or possessive pronouns, inconsistent subject),
+possessive (missing noun possessive 's, e.g. "the school reputation" → "the school's reputation"),
 conciseness (tighten / combine clauses, avoid comma splices), word-boundary (compound-word boundaries / blending into one word),
 minimal-pair (confusable consonant/vowel sounds, e.g. sales/share, shown/sure),
 verb-form (errors in forming the verb group: omitted/extra auxiliary, missing 'be' in the passive, wrong gerund/infinitive complement after a verb), …

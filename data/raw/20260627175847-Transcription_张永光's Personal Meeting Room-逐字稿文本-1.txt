@@ -1,0 +1,531 @@
+ZIVA_Teacher(00:00:01): Excuse me. Ok, so you look tired. 
+
+Jack(00:00:03): It. 
+
+ZIVA_Teacher(00:00:13): Did you go somewhere today? 
+
+Jack(00:00:15): I know I just stayed at home to learn something. 
+
+ZIVA_Teacher(00:00:22): What what do you mean? Like you stayed at home to learn something? 
+
+Jack(00:00:29): Yeah, I stayed at home to learn some English words and other things. 
+
+ZIVA_Teacher(00:00:35): Ok, so you stayed at home to learn some English words and other things. Ok, sorry okay so this time we will be continuing our class. I already moved your lesson so you can check it out by yourself. 
+
+Jack(00:00:42): Yeah, I stayed at home to learn some English words and other things. 
+
+Jack(00:00:59): Yeah. 
+
+ZIVA_Teacher(00:01:01): Ok, so this was the lesson of the other student. Okay, wait a moment. So how about your dinner, sir, Did you eat it? 
+
+Jack(00:01:16): And yeah, I eat some thing before our classes. Hello. Before our class. 
+
+ZIVA_Teacher(00:01:22): Four hour class. What did you eat for dinner? 
+
+Jack(00:01:29): I eat some. I'm a grill. Or barbecue? 
+
+ZIVA_Teacher(00:01:35): Good my I'm I'm getting sorry I'm getting hungry already because you mentioned that no. You ate barbecue? Who cooked it? 
+
+Jack(00:01:58): Take order, take take away. I order some take away, yeah. 
+
+ZIVA_Teacher(00:02:01): it's。It's a takeaway. OK。That's a takeaway. Well, you're lucky. Yeah, no where. Where are you again? no。Hello, sir. 
+
+Jack(00:02:21): Yeah, I can see you and can see your screen. Yeah. 
+
+ZIVA_Teacher(00:02:23): Yeah. But. Yeah, but I can't see you. What where. No. Back to meeting.。No. Can you and wait 对 sorry。I think I yeah, I hit you again. There we go. Found it ok. Wait a moment, excuse me, I think I lost it. Yeah, I lost you because. 
+
+Jack(00:02:56): 行。
+
+ZIVA_Teacher(00:03:03): I couldn't see the all right wait a moment. Let me share this again. Ok. Can you see it. 
+
+Jack(00:03:17): Yeah, I can see it. 
+
+ZIVA_Teacher(00:03:18): Good. Okay, so we will be having this one like this. Yeah, all right. 他。
+
+Jack(00:03:24): Yeah, yeah. 
+
+ZIVA_Teacher(00:03:31): Or a spot Spotify? My gosh, I think I'm going to end my subscription on Spotify.。Yeah, it's taking my money away. Ok, so let's have this one. This was your lesson last time, right? Can you see that? 
+
+Jack(00:03:54): Yeah, yeah, right. I can see dance. 
+
+ZIVA_Teacher(00:03:56): Yeah, excuse me. So we were talking about the. Excuse me. Things that the rich. Are able to do yeah, so here. Yes, invest in assets, build connections with different people, hard working, exercise regularly, so let's see this one. 
+
+Jack(00:04:18): 走查一把！
+
+Jack(00:04:31): 走查一把！
+
+ZIVA_Teacher(00:04:31): We finish this right. Yes. Now, we are on. We are in the entertainment industry in investing in assets. So yeah. This one in the entertainment industry. How many people have you known who invested in something like this? Yea. How many people have you known have invested in something like this one, but? 
+
+Jack(00:05:14): I don't know who I have full health invested in. 包 For me, I don't care about investigation so I didn't talk with it with my friends and coworkers. 
+
+ZIVA_Teacher(00:05:21): Investment. How about in your lessons? Let's just say in your lessons at school or in a in college, something like that. Have you tackled some cases about this? 
+
+Jack(00:05:49): I know I think we haven't tackled some cases like that. 
+
+ZIVA_Teacher(00:05:56): Mm so you haven't Ok alright, then Ok, excuse me. Now what are some of the things that you know about the entertainment industry since you also watch movies, right? 
+
+Jack(00:06:15): Yeah, Ii watched some movies and I know there are many famous computer games company. 
+
+ZIVA_Teacher(00:06:27): Come. 
+
+Jack(00:06:28): Like ten cent Yeah Ii think these companies can earn a lot every year, I think, more than me more than thousands. Hybrid of billion guns from it. So. 
+
+ZIVA_Teacher(00:06:40): Excuse me, how how do they earn from them though? Yeah, how do they earn from them? 
+
+Jack(00:06:49): Yeah, I think they can develop some interesting computer games and most a lot of people would like to play in it and they need to charge money to get some resources. So these companies can have a lot from from them. 
+
+ZIVA_Teacher(00:07:14): Ok, so how many Ok in China alone? What do you think is the estimated number of mobile game users? Yeah, in in China alone? Yeah. In China alone. 
+
+Jack(00:07:30): Smoke. yeahi think maybe more than two hundred million。Two 200 million. 
+
+ZIVA_Teacher(00:07:44): Billion billion, not billions, Sir billion, 200 billion. What do you mean users? 
+
+Jack(00:07:52): Not not speeding, you mean how many user? How many user item? Yeah, I think maybe more than 200 million. 
+
+ZIVA_Teacher(00:07:56): Yes, yes, in China alone, in China alone. 
+
+Jack(00:08:05): 200 mill. 
+
+ZIVA_Teacher(00:08:05): 200 million, sir, I told you do not put S. 
+
+Jack(00:08:08): Yeah 200 million. 
+
+ZIVA_Teacher(00:08:11): 200 million do they? So let's just say no. Excuse me alright, a world except China except China though. Ok, so let's say. We'll ask the Google Gemini about it. So Ok, you said 200 million mobile game users, right? 
+
+Jack(00:08:39): I don't. Yeah, I. I guessed 200 million mobile game users in China, but I'm not sure. 
+
+ZIVA_Teacher(00:08:40): 200000200 am this one? Yeah, so this is the estimated number yes, estimated number. Now, how about the ones who pay? Yeah, how many? 
+
+Jack(00:08:59): You mean how how many users to pay money? Yeah, I think maybe half of them will pay money. 
+
+ZIVA_Teacher(00:09:00): Estimated number of those who pay for the yeah. 
+
+Jack(00:09:11): in it。
+
+ZIVA_Teacher(00:09:12): Pay money for May. Maybe not half more than one fort or yeah, like that, because well, who wants to have their money taken from them right? So let's just say 50 million. 
+
+Jack(00:09:28): Yeah, yeah. I think more than that, more than 50 million users. 
+
+ZIVA_Teacher(00:09:36): Ok, let's just say. 70, then 70 million. Okay. Estimated number of users who pay there. Who pay for the games for the games? Okay, so let's say it's something like that now. So what's the cheapest price for a game? Yeah. 
+
+Jack(00:10:14): Ok, so you want to win money, you play some games. Yeah that yeah, first, Ok, you don't need to spend any money to play with it to play them. 
+
+ZIVA_Teacher(00:10:17): Yes, in your. Yeah, in your country. Yes in your yeah in your country No no no no for the for this one who pay for the users, your daughter, Ok the users who pay for the games, what s the cheapest. 
+
+Jack(00:10:27): H three. 行。Yeah, I think maybe one yuan is the cheapest one. Yuan? Yeah. 
+
+ZIVA_Teacher(00:10:43): What one yuan 你好 she's so cute oh I can see ok her her cheeks are so chubby oh my gosh she's so cute ok so you mean one yuan so！Per per game or per game. Yes. 
+
+Jack(00:11:12): No, not for game if you want to. Yeah I mean the company want you to charge so they will set a limit. If you pay one yuan they can give you a gift. 
+
+ZIVA_Teacher(00:11:18): Upgrade. Ok. 
+
+Jack(00:11:31): So most people like to pay one yuan to try. 
+
+ZIVA_Teacher(00:11:39): Excuse me, no, no, no. You should say if you want to, if you want to have better benefits, the game will charge you, not the the yeah. The game will charge you right. 
+
+Jack(00:11:57): Yeah, right. 
+
+ZIVA_Teacher(00:11:59): So among these 70 million in a people, how much can be generated from them or how much money can be generated yearly? Yeah, you can guess. 
+
+Jack(00:12:13): Yeah, I think more than hundreds of billion yuan, more than hundreds of being. They will charge. He will talk more than hundreds of killing. 
+
+ZIVA_Teacher(00:12:26): They will charge more than. No, no, they will charge more than. Billions of yuan. 
+
+Jack(00:12:41): They will charge. He will talk more than hundreds of killing a hundred of billion. 
+
+ZIVA_Teacher(00:12:42): Maybe just is yeah billions of hundreds of billions. Of yuan. Hundreds of billions of yen. 
+
+Jack(00:12:44): Not a billion. Yeah, they yeah, they will. Yet they will charge more than hundreds of billion yuan. 
+
+ZIVA_Teacher(00:12:57): Billions of yuan. 
+
+Jack(00:12:59): Hundreds of billion yuan. 
+
+ZIVA_Teacher(00:13:01): No, no hundreds of billions of yuan. It's ok. You can this one. You can repeat this Ok. Yeah, they can charge hundreds of billions of yuan. 
+
+Jack(00:13:13): Yeah. They can charge hundreds of billions of yuan. 
+
+ZIVA_Teacher(00:13:25): Yes, Ok, so they can charge that. But excuse me. If that's the case, then what usually happens then. 
+
+Jack(00:13:38): What usually happens then? 
+
+ZIVA_Teacher(00:13:42): Yeah, what usually happens? 
+
+Jack(00:13:44): A yeah many students will addicted, Will will be addicted to computer games. They will run out of their money to play computer games. 
+
+ZIVA_Teacher(00:14:02): OK。All right, Ok, so that's the case of it. 
+
+Jack(00:14:12): Yeah, that's the case of it. 
+
+ZIVA_Teacher(00:14:13): Yes, okay, so if if it becomes like that, then no, no, no, though, because you see. How do I put this? How do I put this this one here? Let's say seven hundreds of billions of yuan every year, then how much do they pay to the government? Yeah. 
+
+Jack(00:14:47): Yeah, I think they need to pay 20% of their benefits to the government. For taxi. 
+
+ZIVA_Teacher(00:14:54): 20% of the benefits to the government? Okay, 20% so let's just say what they had. How much is 100 billion of yuan in? Yeah, let's say. Dollars. 
+
+Jack(00:15:20): It's about. 
+
+ZIVA_Teacher(00:15:25): Excuse me. 
+
+Jack(00:15:28): 行。
+
+ZIVA_Teacher(00:15:31): It's about. 
+
+Jack(00:15:34): About. 15.7. Billion dollar. 
+
+ZIVA_Teacher(00:15:40): It's about. I think it's 14. This one. 
+
+Jack(00:15:46): 欢迎 You know, 14 point billion dollar. 
+
+ZIVA_Teacher(00:15:47): 14. 14.7. 
+
+Jack(00:15:53): 14.7 billion dollar. 
+
+ZIVA_Teacher(00:15:58): Ok, so that's like a excuse. Me, Ok. That's really high, very high, sorry. So if the government can get 20% of each. Then ok, yeah, so the ones Ok. Who which companies are the biggest which? Gaming companies are the biggest in your country right now. 
+
+Jack(00:16:40): Hmm. Tencent Company is the biggest company in my country right now. 
+
+ZIVA_Teacher(00:16:45): Is the biggest and do not repeat pencil company in my country. 
+
+Jack(00:16:48): Young Tencent is the biggest Tencent company is the. Tencent company in my country is the biggest. 
+
+ZIVA_Teacher(00:16:57): Tencent Company is the biggest in my country. 
+
+Jack(00:17:05): Yeah, Tencent Company is the biggest in my country. 
+
+ZIVA_Teacher(00:17:10): Yes, Ok. So Tencent company, I wonder though, there were some mobile games that I used to play before. I wonder if they own Gameloft? Are you familiar with Gameloft? 
+
+Jack(00:17:30): Gpt. What the game last? 
+
+ZIVA_Teacher(00:17:33): Yes. Game loved this one. Do you know that. 
+
+Jack(00:17:43): Gpt. What the game last? No, I don't know. i。I don't play computer games so I don't know something about them. 
+
+ZIVA_Teacher(00:17:46): But you have you ever played it before? But. Sorry. 
+
+Jack(00:17:57): Yeah, many years ago, during my college days, I played some. I played some website. Website Computer Cam. 
+
+ZIVA_Teacher(00:18:12): So it's a major French video game developer and publisher. I've I've played many of their games, like Asphalt, nine, Asphalt, eight, Asphalt 809, racing cars, and what was that. I never played Valorant, though, but. Yeah, I really liked racing before. I really loved it. Yeah, it took my time most of the time, so Ok, well, Ok. So Gameloft was a pretty popular game way back in the 2000s. Yeah, many of their video games were popular, yeah. 
+
+Jack(00:18:34): Yeah. 
+
+ZIVA_Teacher(00:18:59): Let me see some of their games, no games. Sorry, so this was one of their biggest games. I wonder if you played any of them. This one. 
+
+ZIVA_Teacher(00:19:18): Yeah, you have, you never played any of them. Like this. 
+
+Jack(00:19:22): Yeah, I think I have. I have never played any of them. 
+
+ZIVA_Teacher(00:19:28): Okay, I played this one, I think this is asphalt nine and this is asphalt eight. Yeah it was so good. Yeah and this my gosh there's the my favorite one, where's my favorite one? 
+
+Jack(00:19:34): Yeah, I think I have. I have never played any of them. 
+
+ZIVA_Teacher(00:19:45): They didn't include my favorite one though. Yeah, so those ones. It was so good though some of their games. Ok, we have Tencent. But why is Tencent holding the most of the of those in China? 
+
+Jack(00:20:04): Yeah, I think that's because they use. 这有。They use millions of users in their social media app like WECHAT and Qq. Billions of people use this app so they easily they can easily promoted their computer games. 
+
+ZIVA_Teacher(00:20:30): Hmm, what do you mean? 
+
+Jack(00:20:45): I mean, we can easily prompt their computer themes by their their. 
+
+ZIVA_Teacher(00:20:56): Mm Okay, Well for me, I don't know, but I feel like. 嘘。Yeah, Ok. Excluding China, there are approximately 2.5 billion to 2.9 billion mobile game users worldwide. So I guess the games generate a lot of money, right? 
+
+Jack(00:21:19): Yeah, yeah, yeah, it's right. I checked the data online. It's not hundreds of billion yuan. It's about 300. 303.350 billion yuan. In China last year. 
+
+ZIVA_Teacher(00:21:37): 什么 what, that's so that's really a lot. So you mean, like Ok, but if this is the case, then gaming companies, how about some other gaming companies aside from Tencent, I think Tencent has covered a lot of from your country, right in your country? I should say. 
+
+Jack(00:21:45): 303.350 billion yuan. In China last year. 
+
+Jack(00:22:06): Yeah. Yeah, right. 
+
+ZIVA_Teacher(00:22:07): Am I right? Yeah, like they covered a lot in communication like we have the Vogue or Tencent Meeting WECHAT. Excuse me. And many more. I think they also own classin or not No. 
+
+Jack(00:22:31): I don't know. I didn't check class in companies. 
+
+ZIVA_Teacher(00:22:38): How about Zoom? Who owns Zoom though? Yea. 
+
+Jack(00:22:40): No Tom or Don't belong to America, don't belong to the Us. So you ask a. 
+
+ZIVA_Teacher(00:22:53): So Zoom belongs to the Us companies. Okay. So we have Tencent and also what was that? Qq. It's not very popular right now, right? Qq is not very popular. Right now, WECHAT has taken over. 
+
+Jack(00:23:13): Yeah, I think so. 
+
+ZIVA_Teacher(00:23:14): Yea, yeah, because now I can see that I had a Qq account before during my first. That was nine years ago. No, no, no. Eight years, 2018, 1921, two, three, 405, 26. Okay, So almost nine years ago I had my Qq account. Yeah, and I used that to communicate with the students. Yeah, so yeah. 
+
+ZIVA_Teacher(00:23:50): It was pretty popular back then, but there were so many bugs like additional applications. If you download Qq you had you have to. Get additional applications. Yea right? So it was very crude and now WECHAT came and then it blew away Qq. 
+
+Jack(00:24:05): Yeah. 
+
+ZIVA_Teacher(00:24:15): And ding talk? Yeah, I had a ding talk account, but I think I deleted it already. that was seven years ago. Yeah, it was a long time. Ding Top and also what was that And now we I was introduced to class in and that's how I started my. Classes yeah, like private classes. So aside from Tencent, who's the Who is its competitor? 
+
+Jack(00:24:42): Yeah, yeah. 
+
+ZIVA_Teacher(00:24:52): Competitor who is the competitor of Tencent? 
+
+Jack(00:24:53): You mean computer games? Yeah, I want to confirm you mean what industry，Computer game. 
+
+ZIVA_Teacher(00:25:08): 安妮 For the company, Yeah, the main competitor of this company. 
+
+Jack(00:25:16): Yeah, I think in different industries, they have a lot of competitors like computer game. 
+
+ZIVA_Teacher(00:25:22): Games. 
+
+Jack(00:25:26): Like computer games, Tencent has many competitors like in the value and net is. And. many other。China company computer game Chinese Comp comp. 
+
+ZIVA_Teacher(00:25:43): Chinese companies. So why do they have those Ok, but at least it has become a giant, right? Yeah, let's become Gemini. 
+
+Jack(00:25:58): Yeah, yeah, it. It might become a child. Yeah. 
+
+ZIVA_Teacher(00:26:02): What's the net profit of ten cent, though, yeah, is he? I think Tencent is much, I should say richer. Yeah, much richer than Elon Musk, I should say. Or maybe on par? Yeah, because China has 1.4 billion people. So. 
+
+Jack(00:26:06): That profit of Tencent. 
+
+ZIVA_Teacher(00:26:31): Generally. Yeah, it generates a lot of money. 
+
+Jack(00:26:39): Yeah, for Tencent in 2025, its profit, its net net profit is about 224. 
+
+ZIVA_Teacher(00:26:50): What's about what's about? 
+
+Jack(00:26:52): Word. Was about 224. B 林园。
+
+ZIVA_Teacher(00:26:59): How much is that in yeah, ok, let's see, we'll convert it. How much is that in dollars, though? 
+
+Jack(00:27:12): yeah, for sales, it's about one. 100 billion dollar. 
+
+ZIVA_Teacher(00:27:21): it's like half half。Right. Half. 
+
+Jack(00:27:28): Yeah, I mean, there are two numbers. One is for sales, for sales is about 1.2. onehundred twenty。
+
+ZIVA_Teacher(00:27:41): 120.2. Billy. 
+
+Jack(00:27:42): And. A young billion dollar, 120 billion dollar for their net profit, it's about of 550 billion dollar. 
+
+ZIVA_Teacher(00:27:49): Billion dollars, Ok. OK。Excuse me. I wonder though, if. Yeah, these countries generate a lot of money and they're quite big, but you see, have you ever heard of Rothschild the banking systems? 
+
+Jack(00:28:21): I think system.。
+
+ZIVA_Teacher(00:28:23): Yeah, yeah. But the Rothschild family doesn't have any Ok Rothschild family. The Rothschild family doesn't have any play nationality. I think we discussed about them, right? 
+
+Jack(00:28:37): Yeah, I remember the. 
+
+ZIVA_Teacher(00:28:42): It's a Jewish banking dynasty, and yeah, they are very, very much inclined with. Their money so they generate? Yeah, a lot of money from London, Paris, Frankfurt, Vienna and Naples. But still, how do you put this? Ok, why in indemnities and government so they're like funders? Yeah, so I wonder if they also funded. 
+
+ZIVA_Teacher(00:29:24): Countries like China. Excuse me, Yeah. 
+
+Jack(00:29:27): So we are not great their money. There are many foreign foreigners, investor companies. Yeah, that's money. Every year our country can receive a lot of money from outside. 
+
+ZIVA_Teacher(00:29:45): Mm yeah, yeah, but I'm really very curious though.。The like? Okay, I wonder if they still have because their child family have also. Connected to some countries like Japan, I guess they funded Japan when it came to what was that like the? 
+
+Jack(00:30:06): Yeah. 
+
+ZIVA_Teacher(00:30:13): Was that they funded Japan when it came to like the recovery for the? The war that like the atomic bombs. Aftermath like that, yeah, and even our for China. They what do you call this? They improved, you improved for China. It has improved a lot, but I'm just thinking it, I'm just thinking. Did they fund? Yeah, I was just thinking. I should say I was just thinking did they fund China during the times when? 
+
+ZIVA_Teacher(00:31:02): Your country were was going upwards. Yeah. 
+
+Jack(00:31:09): Yeah, I think sorry you mean sorry teacher, you mean the foreign foreigner company? You mean the Arcosa child family? 
+
+ZIVA_Teacher(00:31:18): Your country were was going upwards? Yeah, no, no, no Rothschild, the Rothschild family? Yeah, the Rothschild family. 
+
+Jack(00:31:22): I don't know. I think we can't get. Detailed about these things? 
+
+ZIVA_Teacher(00:31:32): Yeah, yeah. Even in some encyclopedias though, they didn't mention this family funding. And funding some countries in Southeast Asia or Asia excuse me. Some books didn't mention if they funded some Asian countries? Yeah. 
+
+Jack(00:31:58): Yeah. 
+
+ZIVA_Teacher(00:31:59): So it's pretty much unclear, but for the European funders yeah, I guess it's prominent, though it's prominent and as you can see Europe nowadays, it has. Has formed alliances, I should say, and they became a superpower. We along with the Western ones, right? 
+
+Jack(00:32:29): Yeah, right. 
+
+ZIVA_Teacher(00:32:29): Western countries and now we have Asian two, and China is living the Yeah, China, Japan and Singapore. Are leading the but you call this a rise for superpowers? Yeah, and even Uae, I was. 
+
+Jack(00:32:47): Yeah. 
+
+ZIVA_Teacher(00:32:52): Yeah, Ii got, so what do you call this 嘘 I got so shocked when I heard U. A E Is Swan, do you know the United Arab Emirates? 
+
+Jack(00:33:05): United Arabic Young, I know young. Yeah, got it. 
+
+ZIVA_Teacher(00:33:08): Uae, yeah, so they've yeah, they've also become a superpower. Like whoa. What happened? 
+
+Jack(00:33:19): Yeah, I think they have enough oil resources so they can sell them to make money. 
+
+ZIVA_Teacher(00:33:26): And even now, I think, and now South Korea has become powerful too, right? Yeah, it has become a powerful country. 
+
+Jack(00:33:37): Yeah, yeah, right. 
+
+ZIVA_Teacher(00:33:41): And now I don't know when my country will become like that. Come on, I have a. We have a beautiful country. **Yeah, so I wonder how in the world did we fall from being rich before, to poor to one of the yeah, not not exactly a third rate country nowadays, but still. 
+
+ZIVA_Teacher(00:34:12): There there are some, some. Yeah, the poor people are becoming fewer and fewer though. Excuse me. 
+
+Jack(00:34:21): 漂亮。
+
+ZIVA_Teacher(00:34:23): Yeah, because children are going abroad and sending they are sending money over from overseas to my country. So basically. 
+
+ZIVA_Teacher(00:34:33): That's one of the generation generational. Do you call this rice? Yeah, of economy, Ok? 
+
+Jack(00:34:42): Yeah. 
+
+ZIVA_Teacher(00:34:44): That's all about gaming. So now are 14. What or why? No, no, it? Yeah, Ok. So for the entertainment industry, aside from gaming, how about the film? The film industry. 
+
+Jack(00:35:06): Hmm. Yeah, I think in the past we have many film companies but we had many famous film companies, but nowadays most of the companies. 
+
+ZIVA_Teacher(00:35:13): We had. Most of them. 
+
+Jack(00:35:24): So. Most of them were bank or go. 
+
+ZIVA_Teacher(00:35:30): When bank bankrupt. 
+
+Jack(00:35:31): When yeah. 
+
+ZIVA_Teacher(00:35:35): Why. 
+
+Jack(00:35:37): I think so. That's because less and less people go to went to the cinema to watch a movie. 
+
+ZIVA_Teacher(00:35:50): What do you mean. 
+
+Jack(00:35:55): Nowadays, everyone can use their smartphone to watch video easily. So wait you to Italy? Yeah, so. 
+
+ZIVA_Teacher(00:36:00): Videos. Videos in Sydney. 
+
+Jack(00:36:05): people。Don't want to spend too much time to go to the cinema to watch movies, it's too. it's two，他有的 From your home, it's too tiring from your home. Go to another places. 
+
+ZIVA_Teacher(00:36:22): Time. Hearing. To go to go to another place. To another place to go to another place. 
+
+Jack(00:36:32): To go another places. To go to another places to go to go to another place. So just to watch a movie. 
+
+ZIVA_Teacher(00:36:41): Place place place sir to go to another place. Yes, Ok, the word another. You should use it. This one for the singular plus. Singular noun? Ok. Yes. But if you use other. 
+
+Jack(00:37:02): Yeah, Ok. 
+
+ZIVA_Teacher(00:37:07): Other plus plural noun, that's how you do it. Ok, sir. Ok, so yeah, I think you're also right. 
+
+Jack(00:37:14): Yeah, yeah, got it. 
+
+ZIVA_Teacher(00:37:21): Nowadays we have Itv right? Yoko you yeah, those are is Chinese. No no, no drama, streaming platforms or. 
+
+Jack(00:37:26): Yeah, yeah, got it. Yeah, you cool. 
+
+ZIVA_Teacher(00:37:38): What do you call this video streaming platforms? I should say? Yeah. So most of the time I watch some Chinese dramas or movies from those ones. 
+
+Jack(00:37:42): Yeah, yeah. 
+
+ZIVA_Teacher(00:37:51): Yeah, from those video streaming companies. Yeah, it has become popular and Yoko is now taking over Re before it was Bilibili like the Youtube version of. 
+
+Jack(00:37:57): You know. 
+
+ZIVA_Teacher(00:38:09): Youtube version in China, right? Bilibili? Yeah, but I think nowadays it has gone. I think the Fea its popularity has gone down, right? 
+
+Jack(00:38:12): Yeah, yeah, right. 
+
+Jack(00:38:25): I don't know for me, I just use Bilibili and youtube to watch video for another for others like it. 
+
+Jack(00:38:40): You cool. And. Percent video. I didn't use them. 
+
+ZIVA_Teacher(00:38:49): You didn't use them, I wasn't able to use them. Ok. How about let me see in China we have crunchy. 
+
+Jack(00:38:54): Yeah. 
+
+ZIVA_Teacher(00:39:04): Yeah, since it's mostly anime, we have crunchy roll, what's that? And even Netflix? I think Netflix has on that. But nowadays, they're also generating dramas like just like in China, they're also generating vertical dramas and they're turning it into Ai just like what I mentioned before, Yeah. 
+
+Jack(00:39:29): Yeah, yeah. 
+
+ZIVA_Teacher(00:39:31): They're turning it into Ai, so my gosh yea, ok, yeah, they're turning it into Ai. What else? I think in my country I don't know when, but the entertainment industry here is so. Mediocre, I should say. Yeah, have you watched other movies from countries like Europe? 
+
+Jack(00:40:09): Watch other movies from countries like Europe. I think I watched some movies from Europe, but I can't remember their names. 
+
+ZIVA_Teacher(00:40:11): Yeah. Yes. Ok, actually, there was one movie that I really liked from Europe. Yeah, it was a psychological film though about a murder case. Wait. Let me see. La Parfum. 华尔夫吗。From a movie movie. Excuse me Lime llama. 嘘 This one so I really like this though. Yeah I if you want to just. 
+
+ZIVA_Teacher(00:41:08): Perfume the story of a murderer. I watched this at a very young age, like when I was it, it it was produced in 2600. I guess three years later I watched it so I was very young. Yeah, yeah, I was very young during that time. So in this movie the reason why I liked it was that like I don't know. 
+
+Jack(00:41:27): Yeah, yeah. 
+
+ZIVA_Teacher(00:41:36): It was very how do you put this? It really showed the emotions or the things that can form in our brains if we do not control them and we forget our humanity. Yeah, in his case, he forgot his humanity in pursuit of what you call this the. 
+
+ZIVA_Teacher(00:42:04): The perfect. The perfect blend of. 我这个 perfume。Yeah, he searched for it so he killed women just to get their scent like the scent that you. Smell and you will get intoxicated. So in the end, in this scene, this one he went up. He went up and then he produced just a small whiff of the perfume he created from killing a very virgin woman. 
+
+ZIVA_Teacher(00:42:39): Yeah, untouched by anything at all a really innocent like a Virgin Mary. Do you know Virgin Mary? Yeah, right. Yeah, something like that. 
+
+Jack(00:42:47): Yeah yeah, I know Ii think Yeah I think for me I watched this movie before. Yeah I think I watched it. 
+
+ZIVA_Teacher(00:42:53): You watched it. Okay, so yeah, that in the end he when he release that perfume and people whiffed or sniffed it. They went so crazy and then they did so many unspeakable things like they**d each other. They killed all the violent things. Yea. 
+
+Jack(00:43:24): Yeah. 
+
+ZIVA_Teacher(00:43:25): And but they couldn't. They still couldn't show him attention. Excuse me. They just wanted to sniff the perfume he built. Now are he created? 
+
+Jack(00:43:40): Yeah. 
+
+ZIVA_Teacher(00:43:42): So what he did was he put it on himself? Yeah, he put it on himself, and then they ate him. Yeah, my gosh, yeah, so. 
+
+Jack(00:43:53): Yeah. 
+
+ZIVA_Teacher(00:43:56): But the darker side of that was okay. It was a very dark psychological thriller and I watched it at a young age. My god yeah, okay anyways. So how about drama series from Bollywood? Have you heard of Bollywood? 
+
+Jack(00:44:21): Yeah, I heard of Bollywood. I watched some movies from it. 
+
+ZIVA_Teacher(00:44:24): 哈 Were do? Were they good? Yeah. Or are they good. 
+
+Jack(00:44:31): Yeah, I think one of them was pretty good. It's very famous in my country, it's called. 
+
+ZIVA_Teacher(00:44:38): What's the title? 
+
+Jack(00:44:49): Which is called, then Dangle. 
+
+ZIVA_Teacher(00:44:55): Dang Dangle. 我 Dangle, do you have a picture of it? Can you show it to me? 
+
+Jack(00:44:58): Yeah. Thank. Young. R. That's Ransom, dad. 
+
+ZIVA_Teacher(00:45:11): Excuse me, how about three idiots have you watched the movie about three idiots? Yeah, this is a phenomenal video movie, I should say. 
+
+Jack(00:45:19): That's Ransom, dad. The reed seedance? Yea. Yeah, I watched. Yeah, I watched this. 
+
+ZIVA_Teacher(00:45:26): Yeah, have you watched it? It was so funny, but at the same time very meaningful, right? Yeah, I think I think I watched this film like six times during my childhood. Yeah, it was so popular back back then. 
+
+Jack(00:45:36): Yeah, yeah, right. 
+
+ZIVA_Teacher(00:45:48): But the one, Ok, let's wrestle that, Yes. 
+
+Jack(00:45:49): 我随便手带着。
+
+ZIVA_Teacher(00:45:54): Wait. Is this it. 
+
+Jack(00:45:59): No, I don't think so. 
+
+ZIVA_Teacher(00:46:03): Let's wrestle for it. Which one. 
+
+Jack(00:46:12): Sorry teacher, I need to search it online. It's called bagel. I think I can write it this one. 
+
+ZIVA_Teacher(00:46:22): 哪个 Right. 晚安。
+
+Jack(00:46:33): It's like that or not. 
+
+ZIVA_Teacher(00:46:33): 网红。
+
+Jack(00:46:40): 八路。Solo, Can you search it online? 
+
+ZIVA_Teacher(00:46:46): This one Donal. 档案 This is an Indian. What is dangal in Philippine, in Philippino? It is dignity or integrity, but why is this you watched it? 
+
+Jack(00:47:10): Yeah, I watched this movie. It's very famous. It was very famous in China. Yeah, many years ago. 
+
+ZIVA_Teacher(00:47:10): OK。In your country? Okay, I wonder if you're Bahubali? Have you watched this one? This one? 
+
+Jack(00:47:26): For opening. 
+
+ZIVA_Teacher(00:47:28): Yeah, it was a pretty much interesting or popular movie. Yeah, it was very popular though. I watched this one and I liked it though because of the what do you call this? What's that like the scenes, what do you call the scene behind it background scenes? Was that again three D since no no we had three D, they use three D but. 
+
+Jack(00:47:57): Is. 
+
+ZIVA_Teacher(00:48:00): The. 看 I forgot. I forgot the scenes that you yeah, yeah. So it was pretty popular though. Yeah. 
+
+Jack(00:48:12): 行。
+
+ZIVA_Teacher(00:48:13): However, yeah this one. Bollywood players, I think this one. Wait, there was a movie that was actually good like I have about three. The this one you should watch this. This is quite good too. It's quite good actually. So Ii can try to check Dangal. Yeah, it has been a while that I watched some Bollywood movies, but most of them are over the top like. 
+
+ZIVA_Teacher(00:49:00): Yeah, I don t know if they applied physics or not, but there s no there s nothing in it or in their movies. Sometimes it's hilarious, yeah. 
+
+Jack(00:49:12): Yeah. 
+
+ZIVA_Teacher(00:49:12): And they dance a lot, right? They dance a lot. Okay, we can talk more about Bollywood movies later, so do you have any questions, sir? 
+
+Jack(00:49:15): Yeah, right. 
+
+Jack(00:49:23): Yeah, right. No, I don't have any questions. 
