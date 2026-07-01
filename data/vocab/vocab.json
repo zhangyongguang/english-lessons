@@ -1820,8 +1820,8 @@
     "first_seen": "2026-06-01",
     "review": {
       "status": "new",
-      "times_looked_up": 1,
-      "last_seen": "2026-06-01"
+      "times_looked_up": 2,
+      "last_seen": "2026-07-01"
     }
   },
   {
@@ -4883,8 +4883,8 @@
     "first_seen": "2026-06-26",
     "review": {
       "status": "new",
-      "times_looked_up": 1,
-      "last_seen": "2026-06-26"
+      "times_looked_up": 2,
+      "last_seen": "2026-07-01"
     }
   },
   {
@@ -5034,6 +5034,268 @@
       "status": "new",
       "times_looked_up": 1,
       "last_seen": "2026-06-26"
+    }
+  },
+  {
+    "word": "automate",
+    "pos": "verb",
+    "definition": "to make a process or machine work automatically with little or no human help",
+    "example": [
+      "They automated the packing process to save time."
+    ],
+    "synonyms": [
+      "mechanize"
+    ],
+    "topic": "technology",
+    "note": "noun: automation; adjective: automated",
+    "first_seen": "2026-07-01",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-01"
+    }
+  },
+  {
+    "word": "embark",
+    "pos": "verb",
+    "definition": "to begin a new project or journey; often 'embark on/upon something'",
+    "example": [
+      "She's embarking on a new career.",
+      "They embarked on a long voyage."
+    ],
+    "synonyms": [
+      "begin",
+      "start out"
+    ],
+    "topic": "daily",
+    "note": "literal sense: to board a ship or plane",
+    "first_seen": "2026-07-01",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-01"
+    }
+  },
+  {
+    "word": "showcase",
+    "pos": "verb",
+    "definition": "to display or present something in an attractive way that highlights its best qualities",
+    "example": [
+      "The event showcased local artists."
+    ],
+    "synonyms": [
+      "display",
+      "highlight"
+    ],
+    "topic": "business",
+    "note": "also a noun: 'a showcase for new talent'",
+    "first_seen": "2026-07-01",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-01"
+    }
+  },
+  {
+    "word": "orchestration layer",
+    "pos": "noun",
+    "definition": "the part of a software system that coordinates and manages how different services or components work together",
+    "example": [
+      "The orchestration layer decides which AI model handles each request."
+    ],
+    "topic": "technology",
+    "note": "from 'orchestrate' = to coordinate/arrange; common in software/AI architecture",
+    "first_seen": "2026-07-01",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-01"
+    }
+  },
+  {
+    "word": "adhere",
+    "pos": "verb",
+    "definition": "to stick firmly to something, or to follow a rule or belief closely",
+    "example": [
+      "You must adhere to the safety rules.",
+      "The sticker adheres to the glass."
+    ],
+    "synonyms": [
+      "stick",
+      "comply",
+      "follow"
+    ],
+    "topic": "academic",
+    "note": "'adhere to' + rule/plan; noun: adherence; adjective: adhesive",
+    "first_seen": "2026-07-01",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-01"
+    }
+  },
+  {
+    "word": "readiness",
+    "pos": "noun",
+    "definition": "the state of being prepared and ready for something",
+    "example": [
+      "The team checked the system's readiness before launch."
+    ],
+    "synonyms": [
+      "preparedness"
+    ],
+    "topic": "business",
+    "note": "from adjective 'ready'",
+    "first_seen": "2026-07-01",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-01"
+    }
+  },
+  {
+    "word": "sentiment",
+    "pos": "noun",
+    "definition": "a feeling, opinion, or attitude toward something",
+    "example": [
+      "Customer sentiment about the new product is very positive."
+    ],
+    "synonyms": [
+      "feeling",
+      "opinion",
+      "attitude"
+    ],
+    "topic": "business",
+    "note": "'sentiment analysis' = detecting opinion/emotion in text",
+    "first_seen": "2026-07-01",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-01"
+    }
+  },
+  {
+    "word": "screenwriter",
+    "pos": "noun",
+    "definition": "a person who writes the scripts for movies or TV shows",
+    "example": [
+      "The screenwriter spent months on the film's dialogue."
+    ],
+    "synonyms": [
+      "scriptwriter"
+    ],
+    "topic": "daily",
+    "first_seen": "2026-07-01",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-01"
+    }
+  },
+  {
+    "word": "deprecated",
+    "pos": "adjective",
+    "definition": "(in software) marked as outdated and no longer recommended, though it still works for now",
+    "example": [
+      "This function is deprecated; use the new one instead."
+    ],
+    "topic": "technology",
+    "note": "verb: deprecate; common in programming/API docs",
+    "first_seen": "2026-07-01",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-01"
+    }
+  },
+  {
+    "word": "tabular data",
+    "pos": "noun",
+    "definition": "information organized in rows and columns, like in a table or spreadsheet",
+    "example": [
+      "The report presents the results as tabular data."
+    ],
+    "topic": "technology",
+    "note": "from 'tabular' = arranged in a table",
+    "first_seen": "2026-07-01",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-01"
+    }
+  },
+  {
+    "word": "feature engineering",
+    "pos": "noun",
+    "definition": "the process of selecting and transforming raw data into useful inputs (features) that help a machine learning model perform better",
+    "example": [
+      "Good feature engineering often matters more than the choice of model."
+    ],
+    "topic": "technology",
+    "note": "ML term; a 'feature' is an input variable",
+    "first_seen": "2026-07-01",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-01"
+    }
+  },
+  {
+    "word": "retrieve",
+    "pos": "verb",
+    "definition": "to get something back, or to find and bring it from where it is stored",
+    "example": [
+      "The dog retrieved the ball.",
+      "You can retrieve your files from the cloud."
+    ],
+    "synonyms": [
+      "recover",
+      "get back",
+      "fetch"
+    ],
+    "topic": "technology",
+    "note": "noun: retrieval; 'retrieval-augmented generation (RAG)' in AI",
+    "first_seen": "2026-07-01",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-01"
+    }
+  },
+  {
+    "word": "iterative",
+    "pos": "adjective",
+    "definition": "repeating a process several times, improving a bit with each round, to reach a better result",
+    "example": [
+      "We took an iterative approach, refining the design step by step."
+    ],
+    "synonyms": [
+      "repetitive",
+      "step-by-step"
+    ],
+    "topic": "technology",
+    "note": "noun: iteration; verb: iterate",
+    "first_seen": "2026-07-01",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-01"
+    }
+  },
+  {
+    "word": "matrix",
+    "pos": "noun",
+    "definition": "a rectangular grid of numbers arranged in rows and columns, used in math and computing",
+    "example": [
+      "The data is stored as a matrix of rows and columns."
+    ],
+    "topic": "academic",
+    "note": "plural: matrices",
+    "first_seen": "2026-07-01",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-01"
     }
   }
 ]

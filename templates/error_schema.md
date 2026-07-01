@@ -48,6 +48,8 @@ pronoun (missing / wrong personal or possessive pronouns, inconsistent subject),
 possessive (missing noun possessive 's, e.g. "the school reputation" → "the school's reputation"),
 conciseness (tighten / combine clauses, avoid comma splices), word-boundary (compound-word boundaries / blending into one word),
 minimal-pair (confusable consonant/vowel sounds, e.g. sales/share, shown/sure),
-verb-form (errors in forming the verb group: omitted/extra auxiliary, missing 'be' in the passive, wrong gerund/infinitive complement after a verb), …
+verb-form (errors in forming the verb group: omitted/extra auxiliary, missing 'be' in the passive, wrong gerund/infinitive complement after a verb),
+determiner (another/other, this/these, wrong or missing determiner: "another places" → "another place"),
+quantifier (much/many, a lot of, (a) few/little, count vs. uncountable: "too much people" → "too many people"), …
 
 > When adding a new tag, record it here. Don't create synonyms (e.g. don't keep both `prep` and `preposition`).

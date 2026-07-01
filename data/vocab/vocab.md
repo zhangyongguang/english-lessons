@@ -1,9 +1,25 @@
 # Vocabulary  (latest first)
 
-250 word(s).
+264 word(s).
 
 | Word | Meaning | Example | Date |
 |---|---|---|---|
+| matrix _(noun)_ | a rectangular grid of numbers arranged in rows and columns, used in math and computing | The data is stored as a matrix of rows and columns. | 2026-07-01 |
+| iterative _(adjective)_ | repeating a process several times, improving a bit with each round, to reach a better result | We took an iterative approach, refining the design step by step. | 2026-07-01 |
+| retrieve _(verb)_ | to get something back, or to find and bring it from where it is stored | The dog retrieved the ball. | 2026-07-01 |
+| feature engineering _(noun)_ | the process of selecting and transforming raw data into useful inputs (features) that help a machine learning model perform better | Good feature engineering often matters more than the choice of model. | 2026-07-01 |
+| tabular data _(noun)_ | information organized in rows and columns, like in a table or spreadsheet | The report presents the results as tabular data. | 2026-07-01 |
+| deprecated _(adjective)_ | (in software) marked as outdated and no longer recommended, though it still works for now | This function is deprecated; use the new one instead. | 2026-07-01 |
+| screenwriter _(noun)_ | a person who writes the scripts for movies or TV shows | The screenwriter spent months on the film's dialogue. | 2026-07-01 |
+| sentiment _(noun)_ | a feeling, opinion, or attitude toward something | Customer sentiment about the new product is very positive. | 2026-07-01 |
+| readiness _(noun)_ | the state of being prepared and ready for something | The team checked the system's readiness before launch. | 2026-07-01 |
+| adhere _(verb)_ | to stick firmly to something, or to follow a rule or belief closely | You must adhere to the safety rules. | 2026-07-01 |
+| orchestration layer _(noun)_ | the part of a software system that coordinates and manages how different services or components work together | The orchestration layer decides which AI model handles each request. | 2026-07-01 |
+| showcase _(verb)_ | to display or present something in an attractive way that highlights its best qualities | The event showcased local artists. | 2026-07-01 |
+| embark _(verb)_ | to begin a new project or journey; often 'embark on/upon something' | She's embarking on a new career. | 2026-07-01 |
+| automate _(verb)_ | to make a process or machine work automatically with little or no human help | They automated the packing process to save time. | 2026-07-01 |
+| embedding _(noun)_ | a way of representing words or data as numbers so a computer can understand relationships between them | Word embeddings allow a model to know that 'king' and 'queen' are related. | 2026-06-26 |
+| precision _(noun)_ | the quality of being exact and accurate | The parts are made with great precision. | 2026-06-01 |
 | basis _(noun)_ | the foundation or main reason on which something is built or decided | We made the decision on the basis of the data. | 2026-06-26 |
 | concern _(noun)_ | a worry or problem; or as a verb, to be about or related to something | My main concern is the deadline. | 2026-06-26 |
 | underdog _(noun)_ | a person or team expected to lose or who has less power and advantage than others | Everyone was surprised when the underdog won the championship. | 2026-06-26 |
@@ -12,7 +28,6 @@
 | disturb _(verb)_ | to interrupt or upset someone's peace, concentration, or normal state | Please don't disturb me while I'm working. | 2026-06-26 |
 | disagreement _(noun)_ | a situation where people have different opinions and cannot agree | We had a disagreement about the budget. | 2026-06-26 |
 | sophisticated _(adjective)_ | highly developed, complex, or showing a lot of knowledge and experience | The system uses a sophisticated algorithm to detect fraud. | 2026-06-26 |
-| embedding _(noun)_ | a way of representing words or data as numbers so a computer can understand relationships between them | Word embeddings allow a model to know that 'king' and 'queen' are related. | 2026-06-26 |
 | delimiter _(noun)_ | a character or symbol that marks the boundary between separate pieces of data | A comma is the delimiter in a CSV file. | 2026-06-26 |
 | craftsperson _(noun)_ | a person who is skilled at making things by hand | The craftsperson carved the wood by hand. | 2026-06-26 |
 | intuitive _(adjective)_ | easy to understand or use without needing instructions; or based on instinct rather than reasoning | The app has a very intuitive interface. | 2026-06-26 |
@@ -173,7 +188,6 @@
 | sanction _(noun)_ | a penalty for breaking a rule (often plural); or official permission or approval | The US imposed sanctions on the country. | 2026-06-01 |
 | credibility _(noun)_ | the quality of being trusted and believed in | The scandal damaged his credibility. | 2026-06-01 |
 | crossroad _(noun)_ | a place where roads meet; (often 'crossroads') a point where an important choice must be made | Turn left at the crossroad. | 2026-06-01 |
-| precision _(noun)_ | the quality of being exact and accurate | The parts are made with great precision. | 2026-06-01 |
 | defend _(verb)_ | to protect from attack; or to argue in support of someone or something | Soldiers defended the city. | 2026-06-01 |
 | commission _(noun)_ | a committee with official duties; or a fee paid for selling; or the act of committing (a crime) | She earns a 10% commission on each sale. | 2026-06-01 |
 | violation _(noun)_ | the act of breaking a rule or law; or an act that disrespects something | He got a parking violation. | 2026-06-01 |
