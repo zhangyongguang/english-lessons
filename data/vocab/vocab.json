@@ -5297,5 +5297,131 @@
       "times_looked_up": 1,
       "last_seen": "2026-07-01"
     }
+  },
+  {
+    "word": "profound",
+    "pos": "adjective",
+    "definition": "very deep, strong, or serious; or showing deep understanding",
+    "example": [
+      "The book had a profound effect on me.",
+      "She made a profound observation about human nature."
+    ],
+    "synonyms": [
+      "deep",
+      "far-reaching"
+    ],
+    "topic": "emotion",
+    "note": "looked up during ML discussion",
+    "first_seen": "2026-07-02",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-02"
+    }
+  },
+  {
+    "word": "descriptive",
+    "pos": "adjective",
+    "definition": "describing something in detail so you can picture it clearly",
+    "example": [
+      "Her writing is very descriptive.",
+      "We used descriptive statistics to summarize the data."
+    ],
+    "synonyms": [
+      "detailed",
+      "vivid"
+    ],
+    "topic": "communication",
+    "first_seen": "2026-07-02",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-02"
+    }
+  },
+  {
+    "word": "threshold",
+    "pos": "noun",
+    "definition": "the level or point at which something starts to happen or take effect",
+    "example": [
+      "Once sales pass a certain threshold, we make a profit.",
+      "The model fires only when the value crosses the threshold."
+    ],
+    "synonyms": [
+      "cutoff",
+      "limit"
+    ],
+    "topic": "academic",
+    "first_seen": "2026-07-02",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-02"
+    }
+  },
+  {
+    "word": "linearity",
+    "pos": "noun",
+    "definition": "a straight-line relationship where output changes in direct proportion to input",
+    "example": [
+      "The model assumes linearity between input and output.",
+      "Adding a curve breaks the linearity of the graph."
+    ],
+    "topic": "academic",
+    "note": "from 'prevent linearity' in ML",
+    "first_seen": "2026-07-02",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-02"
+    }
+  },
+  {
+    "word": "backpropagation",
+    "pos": "noun",
+    "definition": "an algorithm that trains a neural network by sending its error backward to adjust the weights",
+    "example": [
+      "Backpropagation updates the network's weights to reduce error.",
+      "Modern deep learning relies on backpropagation to learn."
+    ],
+    "topic": "technology",
+    "first_seen": "2026-07-02",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-02"
+    }
+  },
+  {
+    "word": "gradient descent",
+    "pos": "noun",
+    "definition": "an algorithm that gradually adjusts a model's settings step by step to make its error as small as possible",
+    "example": [
+      "Gradient descent slowly moves the model toward the lowest error.",
+      "We use gradient descent to train the network."
+    ],
+    "topic": "technology",
+    "first_seen": "2026-07-02",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-02"
+    }
+  },
+  {
+    "word": "computational",
+    "pos": "adjective",
+    "definition": "relating to using computers or math calculations to solve problems",
+    "example": [
+      "Training a big AI model needs a lot of computational power.",
+      "The task is too computational to do by hand."
+    ],
+    "topic": "technology",
+    "first_seen": "2026-07-02",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-02"
+    }
   }
 ]

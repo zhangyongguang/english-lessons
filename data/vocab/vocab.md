@@ -1,9 +1,16 @@
 # Vocabulary  (latest first)
 
-264 word(s).
+271 word(s).
 
 | Word | Meaning | Example | Date |
 |---|---|---|---|
+| computational _(adjective)_ | relating to using computers or math calculations to solve problems | Training a big AI model needs a lot of computational power. | 2026-07-02 |
+| gradient descent _(noun)_ | an algorithm that gradually adjusts a model's settings step by step to make its error as small as possible | Gradient descent slowly moves the model toward the lowest error. | 2026-07-02 |
+| backpropagation _(noun)_ | an algorithm that trains a neural network by sending its error backward to adjust the weights | Backpropagation updates the network's weights to reduce error. | 2026-07-02 |
+| linearity _(noun)_ | a straight-line relationship where output changes in direct proportion to input | The model assumes linearity between input and output. | 2026-07-02 |
+| threshold _(noun)_ | the level or point at which something starts to happen or take effect | Once sales pass a certain threshold, we make a profit. | 2026-07-02 |
+| descriptive _(adjective)_ | describing something in detail so you can picture it clearly | Her writing is very descriptive. | 2026-07-02 |
+| profound _(adjective)_ | very deep, strong, or serious; or showing deep understanding | The book had a profound effect on me. | 2026-07-02 |
 | matrix _(noun)_ | a rectangular grid of numbers arranged in rows and columns, used in math and computing | The data is stored as a matrix of rows and columns. | 2026-07-01 |
 | iterative _(adjective)_ | repeating a process several times, improving a bit with each round, to reach a better result | We took an iterative approach, refining the design step by step. | 2026-07-01 |
 | retrieve _(verb)_ | to get something back, or to find and bring it from where it is stored | The dog retrieved the ball. | 2026-07-01 |
