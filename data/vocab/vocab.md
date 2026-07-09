@@ -1,9 +1,27 @@
 # Vocabulary  (latest first)
 
-271 word(s).
+289 word(s).
 
 | Word | Meaning | Example | Date |
 |---|---|---|---|
+| opt _(verb)_ | to choose one thing over another | She opted for the cheaper plan. | 2026-07-09 |
+| provision _(verb)_ | to set up and provide something (like servers or supplies) so it is ready to use | We provision a new server for each customer. | 2026-07-09 |
+| severity _(noun)_ | how serious, harsh, or bad something is | Doctors rank each case by its severity. | 2026-07-09 |
+| inbound _(adjective)_ | coming in or arriving toward a place | The team handles all inbound customer calls. | 2026-07-09 |
+| compliance _(noun)_ | the act of following rules, laws, or standards that you are required to obey | The company must ensure compliance with data privacy laws. | 2026-07-09 |
+| recap _(noun)_ | a short summary of the main points of something | At the end of the meeting, she gave a quick recap of what we decided. | 2026-07-09 |
+| observability _(noun)_ | how well you can understand what's happening inside a system from its outputs like logs, metrics, and traces | Good observability lets us spot why the server slowed down. | 2026-07-09 |
+| tailored _(adjective)_ | specially made or adjusted to fit a particular person or need | The course is tailored to each student's level. | 2026-07-09 |
+| troubleshooting _(noun)_ | the process of finding and fixing problems, especially in a system or machine | The guide has a troubleshooting section for common errors. | 2026-07-09 |
+| unify _(verb)_ | to bring separate parts together into a single, connected whole | One shared login system unifies all our apps. | 2026-07-09 |
+| originate _(verb)_ | to begin or first come from a particular place or source | This tradition originated in ancient China. | 2026-07-09 |
+| prune _(verb)_ | to cut away unwanted or unnecessary parts to make something cleaner or better | We pruned the old branches from the tree. | 2026-07-09 |
+| unnest _(verb)_ | to flatten a nested structure (like an array inside a row) so each inner item becomes its own row | In SQL, you can UNNEST an array column to turn each element into its own row. | 2026-07-09 |
+| conversion _(noun)_ | the act of changing something from one form, use, or state into another | The conversion of the old factory into apartments took two years. | 2026-07-09 |
+| credentials _(noun)_ | proof (like a username, password, or ID) that shows who you are or that you are allowed to do something | You need to enter your login credentials to access the system. | 2026-07-09 |
+| outbound _(adjective)_ | going out or away from a place | The outbound flight leaves at 9am. | 2026-07-09 |
+| stark _(adjective)_ | very plain and bare, or a difference so sharp it is impossible to miss | There's a stark contrast between the rich and poor parts of the city. | 2026-07-09 |
+| resize _(verb)_ | to change the size of something, making it bigger or smaller | You can resize the image to fit the page. | 2026-07-09 |
 | computational _(adjective)_ | relating to using computers or math calculations to solve problems | Training a big AI model needs a lot of computational power. | 2026-07-02 |
 | gradient descent _(noun)_ | an algorithm that gradually adjusts a model's settings step by step to make its error as small as possible | Gradient descent slowly moves the model toward the lowest error. | 2026-07-02 |
 | backpropagation _(noun)_ | an algorithm that trains a neural network by sending its error backward to adjust the weights | Backpropagation updates the network's weights to reduce error. | 2026-07-02 |

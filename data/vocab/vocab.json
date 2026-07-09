@@ -5423,5 +5423,325 @@
       "times_looked_up": 1,
       "last_seen": "2026-07-02"
     }
+  },
+  {
+    "word": "resize",
+    "pos": "verb",
+    "definition": "to change the size of something, making it bigger or smaller",
+    "example": [
+      "You can resize the image to fit the page."
+    ],
+    "first_seen": "2026-07-09",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-09"
+    },
+    "topic": "technology"
+  },
+  {
+    "word": "stark",
+    "pos": "adjective",
+    "definition": "very plain and bare, or a difference so sharp it is impossible to miss",
+    "example": [
+      "There's a stark contrast between the rich and poor parts of the city.",
+      "The room was stark and empty."
+    ],
+    "first_seen": "2026-07-09",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-09"
+    },
+    "synonyms": [
+      "sharp",
+      "bare"
+    ],
+    "topic": "communication"
+  },
+  {
+    "word": "outbound",
+    "pos": "adjective",
+    "definition": "going out or away from a place",
+    "example": [
+      "The outbound flight leaves at 9am.",
+      "The team handles outbound sales calls."
+    ],
+    "first_seen": "2026-07-09",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-09"
+    },
+    "synonyms": [
+      "outgoing"
+    ],
+    "topic": "business"
+  },
+  {
+    "word": "credentials",
+    "pos": "noun",
+    "definition": "proof (like a username, password, or ID) that shows who you are or that you are allowed to do something",
+    "example": [
+      "You need to enter your login credentials to access the system."
+    ],
+    "first_seen": "2026-07-09",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-09"
+    },
+    "topic": "technology",
+    "note": "looked up in a GCP/auth context"
+  },
+  {
+    "word": "conversion",
+    "pos": "noun",
+    "definition": "the act of changing something from one form, use, or state into another",
+    "example": [
+      "The conversion of the old factory into apartments took two years.",
+      "We track the conversion of visitors into customers."
+    ],
+    "first_seen": "2026-07-09",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-09"
+    },
+    "synonyms": [
+      "change",
+      "transformation"
+    ],
+    "topic": "business"
+  },
+  {
+    "word": "unnest",
+    "pos": "verb",
+    "definition": "to flatten a nested structure (like an array inside a row) so each inner item becomes its own row",
+    "example": [
+      "In SQL, you can UNNEST an array column to turn each element into its own row."
+    ],
+    "first_seen": "2026-07-09",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-09"
+    },
+    "topic": "technology",
+    "note": "SQL/BigQuery"
+  },
+  {
+    "word": "prune",
+    "pos": "verb",
+    "definition": "to cut away unwanted or unnecessary parts to make something cleaner or better",
+    "example": [
+      "We pruned the old branches from the tree.",
+      "Let's prune the unused files from the project."
+    ],
+    "first_seen": "2026-07-09",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-09"
+    },
+    "synonyms": [
+      "trim",
+      "cut back"
+    ],
+    "topic": "technology"
+  },
+  {
+    "word": "originate",
+    "pos": "verb",
+    "definition": "to begin or first come from a particular place or source",
+    "example": [
+      "This tradition originated in ancient China."
+    ],
+    "first_seen": "2026-07-09",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-09"
+    },
+    "synonyms": [
+      "begin",
+      "stem from"
+    ],
+    "topic": "academic"
+  },
+  {
+    "word": "unify",
+    "pos": "verb",
+    "definition": "to bring separate parts together into a single, connected whole",
+    "example": [
+      "One shared login system unifies all our apps."
+    ],
+    "first_seen": "2026-07-09",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-09"
+    },
+    "synonyms": [
+      "unite",
+      "merge"
+    ],
+    "topic": "technology"
+  },
+  {
+    "word": "troubleshooting",
+    "pos": "noun",
+    "definition": "the process of finding and fixing problems, especially in a system or machine",
+    "example": [
+      "The guide has a troubleshooting section for common errors."
+    ],
+    "first_seen": "2026-07-09",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-09"
+    },
+    "topic": "technology"
+  },
+  {
+    "word": "tailored",
+    "pos": "adjective",
+    "definition": "specially made or adjusted to fit a particular person or need",
+    "example": [
+      "The course is tailored to each student's level."
+    ],
+    "first_seen": "2026-07-09",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-09"
+    },
+    "synonyms": [
+      "customized",
+      "bespoke"
+    ],
+    "topic": "business"
+  },
+  {
+    "word": "observability",
+    "pos": "noun",
+    "definition": "how well you can understand what's happening inside a system from its outputs like logs, metrics, and traces",
+    "example": [
+      "Good observability lets us spot why the server slowed down."
+    ],
+    "first_seen": "2026-07-09",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-09"
+    },
+    "topic": "technology"
+  },
+  {
+    "word": "recap",
+    "pos": "noun",
+    "definition": "a short summary of the main points of something",
+    "example": [
+      "At the end of the meeting, she gave a quick recap of what we decided."
+    ],
+    "first_seen": "2026-07-09",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-09"
+    },
+    "synonyms": [
+      "summary",
+      "rundown"
+    ],
+    "topic": "communication"
+  },
+  {
+    "word": "compliance",
+    "pos": "noun",
+    "definition": "the act of following rules, laws, or standards that you are required to obey",
+    "example": [
+      "The company must ensure compliance with data privacy laws."
+    ],
+    "first_seen": "2026-07-09",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-09"
+    },
+    "topic": "business"
+  },
+  {
+    "word": "inbound",
+    "pos": "adjective",
+    "definition": "coming in or arriving toward a place",
+    "example": [
+      "The team handles all inbound customer calls."
+    ],
+    "first_seen": "2026-07-09",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-09"
+    },
+    "synonyms": [
+      "incoming"
+    ],
+    "topic": "business"
+  },
+  {
+    "word": "severity",
+    "pos": "noun",
+    "definition": "how serious, harsh, or bad something is",
+    "example": [
+      "Doctors rank each case by its severity.",
+      "Bugs are labeled by severity."
+    ],
+    "first_seen": "2026-07-09",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-09"
+    },
+    "synonyms": [
+      "seriousness"
+    ],
+    "topic": "academic"
+  },
+  {
+    "word": "provision",
+    "pos": "verb",
+    "definition": "to set up and provide something (like servers or supplies) so it is ready to use",
+    "example": [
+      "We provision a new server for each customer."
+    ],
+    "first_seen": "2026-07-09",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-09"
+    },
+    "topic": "technology",
+    "note": "cloud/infra sense"
+  },
+  {
+    "word": "opt",
+    "pos": "verb",
+    "definition": "to choose one thing over another",
+    "example": [
+      "She opted for the cheaper plan.",
+      "You can opt in or opt out of the emails."
+    ],
+    "first_seen": "2026-07-09",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-09"
+    },
+    "synonyms": [
+      "choose",
+      "select"
+    ],
+    "topic": "daily"
   }
 ]
