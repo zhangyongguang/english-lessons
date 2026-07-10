@@ -1,0 +1,562 @@
+[
+  {
+    "id": "2026-07-06-001",
+    "date": "2026-07-06",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "I didn't have many tasks so I can finish them quickly.",
+    "correction": "I didn't have many of them, so I was able to finish them quickly.",
+    "explanation": "The whole sentence is about the past, so the modal must be past too: \"could\" or, for a completed achievement, \"was able to.\" Present \"can\" clashes with \"didn't have.\" The teacher also modeled \"many of them\" to avoid repeating \"tasks.\"",
+    "correct_examples": [
+      "I didn't have many tasks, so I was able to finish them quickly.",
+      "She wasn't busy yesterday, so she could leave early."
+    ],
+    "context": "Describing his workday.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 15-23"
+  },
+  {
+    "id": "2026-07-06-002",
+    "date": "2026-07-06",
+    "category": "pronunciation",
+    "tag": "minimal-pair",
+    "my_sentence": "I think I had a favor.",
+    "correction": "I think I had a fever.",
+    "explanation": "\"Fever\" /ˈfiːvər/ was pronounced like \"favor\" /ˈfeɪvər/. The vowel in the first syllable is a long /iː/, not /eɪ/. The teacher immediately echoed \"You had a fever.\"",
+    "correct_examples": [
+      "I had a fever last night, so I stayed in bed.",
+      "Could you do me a favor and open the window?"
+    ],
+    "context": "Explaining why his voice sounded weak.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 27-29"
+  },
+  {
+    "id": "2026-07-06-003",
+    "date": "2026-07-06",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "I eat something but I forgot what I eat.",
+    "correction": "I ate something, but I forgot what I ate.",
+    "explanation": "(assistant note) Dinner already happened, so both verbs need the simple past \"ate.\" \"Forgot\" was already past, so the surrounding verbs must match. This is the same eat/ate slip corrected on earlier days.",
+    "correct_examples": [
+      "I ate something, but I forgot what it was.",
+      "I ate dinner an hour ago."
+    ],
+    "context": "The teacher asked what he ate for dinner.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 line 49"
+  },
+  {
+    "id": "2026-07-06-004",
+    "date": "2026-07-06",
+    "category": "grammar",
+    "tag": "agreement",
+    "my_sentence": "Each job has their own advantages and disadvantages.",
+    "correction": "Each job has its own advantages and disadvantages.",
+    "explanation": "(assistant note) \"Each job\" is singular and refers to a thing, so the possessive is \"its,\" not \"their.\" \"Their\" as a singular is only used for people of unknown gender, not for objects.",
+    "correct_examples": [
+      "Each job has its own advantages and disadvantages.",
+      "Every plan has its weak points."
+    ],
+    "context": "Summarizing the pros-and-cons-of-jobs lesson.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 line 75"
+  },
+  {
+    "id": "2026-07-06-005",
+    "date": "2026-07-06",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "A person to work on a class project with should be hardworking and communicative.",
+    "correction": "A person to work on a class project with should be hardworking and talkative.",
+    "explanation": "The teacher preferred \"talkative\" here, explaining that \"communicative\" is usually used in business contexts rather than for describing a person's everyday character.",
+    "correct_examples": [
+      "My project partner is hardworking and talkative.",
+      "She's very talkative, so meetings with her are never quiet."
+    ],
+    "context": "Choosing qualities for a class-project partner.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 177-181"
+  },
+  {
+    "id": "2026-07-06-006",
+    "date": "2026-07-06",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "Our vacation we are become a disaster.",
+    "correction": "Our vacation will become a disaster.",
+    "explanation": "For a future result, use \"will become.\" Mixing \"are\" with \"become\" creates a broken verb group — \"be\" and \"become\" cannot combine this way.",
+    "correct_examples": [
+      "Our vacation will become a disaster if we don't plan it.",
+      "Without a map, the trip will become a nightmare."
+    ],
+    "context": "What happens if a travel companion is not easygoing.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 217-219"
+  },
+  {
+    "id": "2026-07-06-007",
+    "date": "2026-07-06",
+    "category": "grammar",
+    "tag": "articles",
+    "my_sentence": "If someone is not easy going.",
+    "correction": "If someone is not an easygoing person.",
+    "explanation": "The teacher expanded the bare adjective into \"an easygoing person\": when you attach a noun like \"person,\" the singular countable noun needs the article \"an.\" Either \"is not easygoing\" (adjective only) or \"is not an easygoing person\" (article + adjective + noun) is fine; mixing the two patterns is not.",
+    "correct_examples": [
+      "If someone is not an easygoing person, traveling with them is hard.",
+      "He is an easygoing person."
+    ],
+    "context": "Explaining why a travel companion should be easygoing.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 225-229"
+  },
+  {
+    "id": "2026-07-06-008",
+    "date": "2026-07-06",
+    "category": "collocation",
+    "tag": "word-choice",
+    "my_sentence": "I ordered takeaway medicine and then I eat some medicine.",
+    "correction": "I took my medicine.",
+    "explanation": "In English you \"take\" medicine (or a pill); you don't \"eat\" it. The teacher corrected \"I eat some medicine\" to \"I took my medicine\" — note the verb is also past tense. The same slip appeared in session 1 as \"eat a pill to recover\" (should be \"take a pill\").",
+    "correct_examples": [
+      "I took my medicine after dinner.",
+      "Take a pill and rest; you'll recover soon."
+    ],
+    "context": "What he did between the two sessions while having a fever.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 13-17"
+  },
+  {
+    "id": "2026-07-06-009",
+    "date": "2026-07-06",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "I had a little fever so I buy some medicine.",
+    "correction": "I suffered a small fever earlier, so I took some medicine for it.",
+    "explanation": "The buying already happened, so present \"buy\" must be past (\"bought\"/\"took\"). The teacher also modeled the more natural \"I suffered a small fever earlier\" instead of \"had a little fever.\"",
+    "correct_examples": [
+      "I suffered a small fever earlier, so I took some medicine.",
+      "I felt sick this morning, so I bought some medicine."
+    ],
+    "context": "Explaining the medicine was for his fever, not a headache.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 21-25"
+  },
+  {
+    "id": "2026-07-06-010",
+    "date": "2026-07-06",
+    "category": "naturalness",
+    "tag": "conciseness",
+    "my_sentence": "They can give you some help.",
+    "correction": "They can help you.",
+    "explanation": "The teacher's rule: use \"help\" directly as a verb instead of wrapping it in a noun phrase (\"give you some help\"). He repeated the pattern later (\"who can give me some help\" → \"who can help me\") and the teacher reminded him: \"just straight up use it as a verb.\"",
+    "correct_examples": [
+      "They can help you a lot.",
+      "I want to go with someone who can help me."
+    ],
+    "context": "Explaining what makes a person reliable.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 45-47, 347-349"
+  },
+  {
+    "id": "2026-07-06-011",
+    "date": "2026-07-06",
+    "category": "collocation",
+    "tag": "word-choice",
+    "my_sentence": "I need to find someone who can help me when I meet some problems.",
+    "correction": "I need to find someone who can help me when I encounter some problems.",
+    "explanation": "\"Encounter problems\" is the natural collocation; \"meet problems\" is a direct translation from Chinese 遇到问题. The teacher explicitly recast it as \"when I encounter.\"",
+    "correct_examples": [
+      "I encountered some problems while installing the software.",
+      "You may encounter unexpected problems on a trip."
+    ],
+    "context": "Finding reliable people to help with problems.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 65-69"
+  },
+  {
+    "id": "2026-07-06-012",
+    "date": "2026-07-06",
+    "category": "grammar",
+    "tag": "pronoun",
+    "my_sentence": "A reliable person is someone who keep their promise.",
+    "correction": "A reliable person is someone who keeps his or her promise.",
+    "explanation": "The teacher asked for \"his or her\" to match the singular \"someone.\" The verb also needs third-person singular \"keeps.\"",
+    "correct_examples": [
+      "A reliable person is someone who keeps his or her promises.",
+      "Someone who keeps his or her word earns trust."
+    ],
+    "context": "Defining a reliable person.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 89-95"
+  },
+  {
+    "id": "2026-07-06-013",
+    "date": "2026-07-06",
+    "category": "pronunciation",
+    "tag": "minimal-pair",
+    "my_sentence": "A reliable person is someone who can generally help you.",
+    "correction": "A reliable person is someone who can genuinely help you.",
+    "explanation": "He read \"genuinely\" /ˈdʒenjuɪnli/ as \"generally\" /ˈdʒenrəli/. The teacher drilled the word twice: \"Genuinely. Genuinely.\" The two words also differ in meaning — genuinely = sincerely, generally = usually.",
+    "correct_examples": [
+      "She genuinely wants to help you.",
+      "Generally, I get up at seven."
+    ],
+    "context": "Repeating the teacher's model sentence about reliability.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 105-107"
+  },
+  {
+    "id": "2026-07-06-014",
+    "date": "2026-07-06",
+    "category": "grammar",
+    "tag": "pronoun",
+    "my_sentence": "I can give he or she some help.",
+    "correction": "I can give him or her my help. / I can help him or her.",
+    "explanation": "After a verb, the pronoun is the object form: \"him or her,\" not \"he or she.\" The subject form only appears before the verb. The teacher corrected this twice (\"when you need him or her\", \"I can give him or her my help\").",
+    "correct_examples": [
+      "When you need him or her, he or she can help you.",
+      "I can help him or her with easy tasks."
+    ],
+    "context": "Helping colleagues at work.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 113-117, 165-171"
+  },
+  {
+    "id": "2026-07-06-015",
+    "date": "2026-07-06",
+    "category": "pronunciation",
+    "tag": "minimal-pair",
+    "my_sentence": "For some personal things, I don't want to interface.",
+    "correction": "I don't want to interfere.",
+    "explanation": "\"Interfere\" /ˌɪntərˈfɪr/ came out as \"interface.\" The teacher echoed the intended word: \"You don't want to interfere.\" Interface is a noun (a connection point, e.g. in software); interfere is the verb meaning to get involved in others' affairs.",
+    "correct_examples": [
+      "I don't want to interfere in his personal matters.",
+      "The API interface is well documented."
+    ],
+    "context": "Why he avoids getting involved in colleagues' personal matters.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 173-175"
+  },
+  {
+    "id": "2026-07-06-016",
+    "date": "2026-07-06",
+    "category": "grammar",
+    "tag": "conditional",
+    "my_sentence": "For some personal things, even though you spend a lot of time, you can't get a good result.",
+    "correction": "For some personal matters, even if you spend a lot of time solving them, you may not get the results you want.",
+    "explanation": "Three fixes from the teacher: \"personal matters\" instead of \"personal things\"; \"even if\" (a condition about a possibility) instead of \"even though\" (a contrast about a fact); and \"spend time\" needs a complement — \"solving them.\" The teacher used this to review adverbial clauses of condition.",
+    "correct_examples": [
+      "For some personal matters, even if you spend a lot of time solving them, you may not get the results you want.",
+      "Even if you practice every day, you may not win."
+    ],
+    "context": "Why he doesn't take responsibility for colleagues' personal matters.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 193-231"
+  },
+  {
+    "id": "2026-07-06-017",
+    "date": "2026-07-06",
+    "category": "grammar",
+    "tag": "preposition",
+    "my_sentence": "You spend a lot of time for them.",
+    "correction": "You spend a lot of time on them.",
+    "explanation": "The collocation is \"spend time on something\" (or \"spend time doing something\"), not \"spend time for.\" The teacher repeated \"on, on, on\" until he self-corrected.",
+    "correct_examples": [
+      "I spent a lot of time on this report.",
+      "Don't spend too much time on small details."
+    ],
+    "context": "Same discussion about personal matters.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 201-205"
+  },
+  {
+    "id": "2026-07-06-018",
+    "date": "2026-07-06",
+    "category": "grammar",
+    "tag": "relative-clause",
+    "my_sentence": "If you go on vacation with someone who you don't like...",
+    "correction": "If you go on vacation with someone you don't like...",
+    "explanation": "When the relative pronoun is the object of the clause (\"you don't like [someone]\"), it can and usually should be dropped: \"someone you don't like.\" The teacher's rule: \"someone\" + subject + verb, no relative pronoun needed.",
+    "correct_examples": [
+      "Traveling with someone you don't like is exhausting.",
+      "She married a man she met in college."
+    ],
+    "context": "Why a travel companion should be easygoing.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 243-245"
+  },
+  {
+    "id": "2026-07-06-019",
+    "date": "2026-07-06",
+    "category": "collocation",
+    "tag": "phrasal-verb",
+    "my_sentence": "You can't get well with him or her.",
+    "correction": "You can't get along well with him or her.",
+    "explanation": "The phrasal verb is \"get along (well) with someone.\" \"Get well\" means to recover from an illness. The teacher pointed to \"getting along well\" and suggested synonyms like \"feel uncomfortable.\"",
+    "correct_examples": [
+      "I get along well with my roommate.",
+      "Get well soon!"
+    ],
+    "context": "Traveling with someone you don't like.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 251-253"
+  },
+  {
+    "id": "2026-07-06-020",
+    "date": "2026-07-06",
+    "category": "grammar",
+    "tag": "modal",
+    "my_sentence": "You will have a terrible experience for it.",
+    "correction": "You can have a terrible experience.",
+    "explanation": "The teacher pushed back on \"will\" — it claims certainty, but this is only a possibility, so \"can\" fits (\"are you sure about that?\"). She also removed the dangling \"for it.\" The same fix recurred later: \"I will meet many problems\" → \"I can meet many problems.\"",
+    "correct_examples": [
+      "If you travel with someone you don't like, you can have a terrible experience.",
+      "You can run into problems on any trip."
+    ],
+    "context": "Consequences of a bad travel companion.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 267-299, 335-337"
+  },
+  {
+    "id": "2026-07-06-021",
+    "date": "2026-07-06",
+    "category": "grammar",
+    "tag": "relative-clause",
+    "my_sentence": "I need to find someone is easy going.",
+    "correction": "I need to find a person who is easygoing.",
+    "explanation": "Two clauses need a connector: \"someone/a person WHO is easygoing.\" Dropping the subject relative pronoun is not allowed (unlike the object one in \"someone you don't like\"). The teacher also suggested \"a person\" to avoid repeating \"someone.\"",
+    "correct_examples": [
+      "I want to find a person who is easygoing.",
+      "She's looking for a roommate who is quiet."
+    ],
+    "context": "Why he'd choose an easygoing travel companion.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 311-319"
+  },
+  {
+    "id": "2026-07-06-022",
+    "date": "2026-07-06",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "He or she does not annoyed easily.",
+    "correction": "He or she does not get annoyed easily.",
+    "explanation": "\"Annoyed\" is a participle/adjective, so it needs \"get\" (or \"be\"): \"get annoyed.\" \"Does not annoyed\" leaves the verb group incomplete.",
+    "correct_examples": [
+      "An easygoing person does not get annoyed easily.",
+      "She never gets angry at small things."
+    ],
+    "context": "Defining an easygoing person.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 375-383"
+  },
+  {
+    "id": "2026-07-06-023",
+    "date": "2026-07-06",
+    "category": "grammar",
+    "tag": "relative-clause",
+    "my_sentence": "An easygoing person is someone relaxed.",
+    "correction": "An easygoing person is someone who is relaxed and tolerant.",
+    "explanation": "After \"someone,\" an adjective needs the frame \"who is\": \"someone who is relaxed.\" The teacher built the full definition with the two words she had taught: relaxed and tolerant.",
+    "correct_examples": [
+      "An easygoing person is someone who is relaxed and tolerant.",
+      "A leader is someone who is calm under pressure."
+    ],
+    "context": "Vocabulary work on easygoing / tolerant / relaxed.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 421-443"
+  },
+  {
+    "id": "2026-07-06-024",
+    "date": "2026-07-06",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "You can enjoy with him or her together.",
+    "correction": "You can enjoy your time together.",
+    "explanation": "\"Enjoy\" is transitive — it needs an object: \"enjoy your time.\" Also \"with him or her together\" is redundant; \"together\" alone already carries the meaning.",
+    "correct_examples": [
+      "You can enjoy your time together on the trip.",
+      "We enjoyed our vacation a lot."
+    ],
+    "context": "Benefits of traveling with a tolerant, relaxed person.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 453-465"
+  },
+  {
+    "id": "2026-07-06-025",
+    "date": "2026-07-06",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "I think that's a lot of places I wanted to visit with my family.",
+    "correction": "There are a lot of places I want to visit with my family.",
+    "explanation": "For existence use \"there are,\" not \"that's.\" And the wish is current, so present \"want,\" not \"wanted\" — he self-corrected after the teacher echoed \"There are a lot of places. I want to.\"",
+    "correct_examples": [
+      "There are a lot of places I want to visit with my family.",
+      "There are many cities on my travel list."
+    ],
+    "context": "Dream vacation destinations (he chose Paris).",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 481-485"
+  },
+  {
+    "id": "2026-07-06-026",
+    "date": "2026-07-06",
+    "category": "grammar",
+    "tag": "relative-clause",
+    "my_sentence": "You can avoid some bad things to happen.",
+    "correction": "You can avoid some bad things that can happen.",
+    "explanation": "\"Avoid something to happen\" is not a valid pattern. Use a relative clause (\"bad things that can happen\") or a gerund (\"avoid bad things happening\"). The teacher supplied \"that can happen.\"",
+    "correct_examples": [
+      "A friendly companion helps you avoid bad things that can happen.",
+      "Planning ahead helps you avoid problems happening on the trip."
+    ],
+    "context": "Why a travel companion should also be friendly.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 507-511"
+  },
+  {
+    "id": "2026-07-06-027",
+    "date": "2026-07-06",
+    "category": "collocation",
+    "tag": "word-choice",
+    "my_sentence": "If he or she wants to sleep early, I should reduce some noise.",
+    "correction": "If he or she wants to sleep early, I should observe silence.",
+    "explanation": "The teacher offered the set phrase \"observe silence\" (= deliberately keep quiet) instead of the awkward \"reduce some noise.\" She noted \"silence\" is the noun form of \"silent.\"",
+    "correct_examples": [
+      "If my roommate wants to sleep early, I observe silence.",
+      "Please observe silence in the library."
+    ],
+    "context": "Being a considerate roommate.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 541-545"
+  },
+  {
+    "id": "2026-07-06-028",
+    "date": "2026-07-06",
+    "category": "grammar",
+    "tag": "comparative",
+    "my_sentence": "Nowadays we have some modern vacuum cleaners. It's more smarter and easy to use.",
+    "correction": "It's much smarter and easier to use.",
+    "explanation": "\"Smarter\" is already comparative, so adding \"more\" doubles it — use \"much smarter\" to intensify instead. The second adjective must be comparative too for parallelism: \"easier to use.\" The teacher: \"It's much smarter, I told you — not more and smarter.\"",
+    "correct_examples": [
+      "Modern vacuum cleaners are much smarter and easier to use.",
+      "This phone is much faster than my old one."
+    ],
+    "context": "Recommending a robot vacuum to the teacher.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 577-581"
+  }
+]

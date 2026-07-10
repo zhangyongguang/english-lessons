@@ -1,6 +1,7 @@
 __pycache__/
 *.pyc
 .DS_Store
+._*
 
 # Privacy: for a public repo, uncomment the next line to exclude raw transcripts
 # data/raw/

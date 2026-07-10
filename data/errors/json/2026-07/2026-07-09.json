@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "2026-07-09-001",
+    "date": "2026-07-09",
+    "category": "naturalness",
+    "tag": "word-order",
+    "my_sentence": "For my throat, needs more time to recover. But for my body is no problem.",
+    "correction": "My throat needs more time to recover. / My body is fine — it's not a problem.",
+    "explanation": "Starting with \"For my X\" and then dropping the subject is a Chinese topic-comment pattern. In English the noun itself is the subject: \"My throat needs...\", \"My body is fine.\" The teacher recast both: \"My throat needs more time to recover. It needs more time to recover.\"",
+    "correct_examples": [
+      "My throat needs more time to recover.",
+      "My body is fine; it's not a problem."
+    ],
+    "context": "Recovering from the fever, voice still hoarse.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 17-21"
+  },
+  {
+    "id": "2026-07-09-002",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "I eat some food. I eat some pastry and beef.",
+    "correction": "I ate some food. I ate some pastries and beef.",
+    "explanation": "The meal already happened, so use the past \"ate\" — the teacher cut in with \"I ate.\" Also \"pastries\" should be plural. This eat/ate slip is a recurring one (also corrected on 2026-07-05 and 2026-07-06).",
+    "correct_examples": [
+      "I ate some pastries and beef for dinner.",
+      "I ate a lot at lunch today."
+    ],
+    "context": "What he ate before class.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 57-61"
+  },
+  {
+    "id": "2026-07-09-003",
+    "date": "2026-07-09",
+    "category": "collocation",
+    "tag": "word-choice",
+    "my_sentence": "We need to help each other when we meet some problems.",
+    "correction": "We need to help each other when we encounter some problems.",
+    "explanation": "\"Encounter problems\" is the natural collocation; \"meet problems\" mirrors Chinese 遇到问题. The teacher made the same correction yesterday (2026-07-06) and repeated it today: \"when we encounter some problems.\"",
+    "correct_examples": [
+      "We help each other when we encounter problems.",
+      "You may encounter difficulties in a new job."
+    ],
+    "context": "Why people should be considerate.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 119-125"
+  },
+  {
+    "id": "2026-07-09-004",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "plural",
+    "my_sentence": "We can reduce our stress and responsibility.",
+    "correction": "We can reduce our stress and responsibilities.",
+    "explanation": "\"Responsibilities\" needs the plural here (duties are countable and multiple). The teacher also drilled the pronunciation of \"stress,\" which came out garbled as \"stressed / restressed.\"",
+    "correct_examples": [
+      "Sharing chores reduces our stress and responsibilities.",
+      "He has many responsibilities at work."
+    ],
+    "context": "Benefits of considerate roommates.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 127-135"
+  },
+  {
+    "id": "2026-07-09-005",
+    "date": "2026-07-09",
+    "category": "discourse",
+    "tag": "conciseness",
+    "my_sentence": "We want to have a good mood, so we need to have a good mood, so we need to find...",
+    "correction": "We have to keep a good mood, so we must find some open-minded roommates.",
+    "explanation": "The teacher's big rule of the day: \"Stop repeating verbs, nouns, adjectives and adverbs in your sentences.\" When a word already appeared, switch to a synonym (have → keep, need → have to / must) or restructure. She stopped the class to write this reminder down after \"if you want to become a doctor... if you want to become a nurse.\"",
+    "correct_examples": [
+      "We have to keep a good mood, so we must find easygoing roommates.",
+      "If you want to become a doctor you need a high score; to be a nurse, you don't."
+    ],
+    "context": "Repeated words within one sentence — corrected in sessions 1 and 2.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 143-149; session2 lines 269-279"
+  },
+  {
+    "id": "2026-07-09-006",
+    "date": "2026-07-09",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "We have to find a pretty roommates.",
+    "correction": "We have to find some good-natured or open-minded roommates.",
+    "explanation": "\"Pretty\" describes appearance, but the point was character, so the teacher supplied \"good-natured / open-minded.\" Also \"a\" cannot go with the plural \"roommates\" — use \"some.\"",
+    "correct_examples": [
+      "We have to find some open-minded roommates.",
+      "She's looking for a good-natured person to live with."
+    ],
+    "context": "What kind of roommates to look for.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 151-155"
+  },
+  {
+    "id": "2026-07-09-007",
+    "date": "2026-07-09",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "That can help us keep our energy and pay patient.",
+    "correction": "That can help us keep our energy and patience.",
+    "explanation": "The noun is \"patience\"; \"patient\" is the adjective (or a person in a hospital). Same noun/adjective pair issue as silent/silence from an earlier class. The teacher drilled: \"Patience. Patience.\"",
+    "correct_examples": [
+      "Good roommates help us keep our energy and patience.",
+      "You need a lot of patience to teach children."
+    ],
+    "context": "Benefits of considerate roommates.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 159-167"
+  },
+  {
+    "id": "2026-07-09-008",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "plural",
+    "my_sentence": "It can help you and your neighbor keep a good relationship.",
+    "correction": "It can help you and your neighbors keep a good relationship with each other.",
+    "explanation": "The teacher corrected the singular to \"neighbors\" (you have more than one) and completed the phrase with \"with each other.\"",
+    "correct_examples": [
+      "Being considerate helps you and your neighbors keep a good relationship with each other.",
+      "We get along well with our neighbors."
+    ],
+    "context": "Why being considerate is a good thing.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 179-187"
+  },
+  {
+    "id": "2026-07-09-009",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "quantifier",
+    "my_sentence": "I think for most of people are willing to do that.",
+    "correction": "I think most people are willing to do it.",
+    "explanation": "\"Most people\" takes no \"of\" (and no leading \"for\") unless a determiner follows: \"most of THE people.\" The teacher's recast: \"I think most people are willing to do it.\"",
+    "correct_examples": [
+      "Most people are willing to help.",
+      "Most of the people in my team are considerate."
+    ],
+    "context": "Whether people are willing to be considerate.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 191-195"
+  },
+  {
+    "id": "2026-07-09-010",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "preposition",
+    "my_sentence": "I have met a lot of considerate people in my neighborhood, company and school.",
+    "correction": "I have met a lot of considerate people in my neighborhood, in the company and at school.",
+    "explanation": "Each place takes its own preposition pattern: \"in my neighborhood,\" \"in the company,\" \"at school.\" The teacher modeled the full string.",
+    "correct_examples": [
+      "I've met considerate people in my neighborhood, in the company and at school.",
+      "She works at school and lives in my neighborhood."
+    ],
+    "context": "How many considerate people he has met.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 199-207"
+  },
+  {
+    "id": "2026-07-09-011",
+    "date": "2026-07-09",
+    "category": "pronunciation",
+    "tag": "minimal-pair",
+    "my_sentence": "For me, I'm all focused on fixing problems.",
+    "correction": "For me, I am more focused on fixing problems.",
+    "explanation": "\"More\" came out sounding like \"all.\" The teacher corrected it twice: \"For me, I am more focused on.\" Watch the /m/ + /ɔːr/ in \"more.\"",
+    "correct_examples": [
+      "I'm more focused on solving problems than chatting.",
+      "She's more interested in design than coding."
+    ],
+    "context": "Why he is not a talkative person.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 239-243"
+  },
+  {
+    "id": "2026-07-09-012",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "I'm more focused on fixing problems or thinking some questions, not talk with the other.",
+    "correction": "I'm more focused on fixing problems or thinking about some questions, not talking with others.",
+    "explanation": "After \"focused on,\" all the parallel items stay in the -ing form: fixing... thinking... not talking. Also \"others\" (plural pronoun), not \"the other,\" and \"think ABOUT a question.\"",
+    "correct_examples": [
+      "I'm focused on fixing bugs, not talking with others.",
+      "He spends his time reading, not watching TV."
+    ],
+    "context": "Why he is not talkative at work.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 243-247"
+  },
+  {
+    "id": "2026-07-09-013",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "I like to thinking.",
+    "correction": "I like to think.",
+    "explanation": "After \"to,\" use the base form: \"to think.\" Either \"I like to think\" or \"I like thinking\" is fine — mixing them (\"to thinking\") is not.",
+    "correct_examples": [
+      "I like to think through problems by myself.",
+      "I like thinking about hard questions."
+    ],
+    "context": "Explaining his quiet working style.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 255-257"
+  },
+  {
+    "id": "2026-07-09-014",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "word-order",
+    "my_sentence": "If I hard work, I can finish project quickly.",
+    "correction": "If I work hard, I can finish my projects quickly.",
+    "explanation": "As a verb phrase the order is \"work hard\" (verb + adverb); \"hard work\" is the noun. The teacher: \"If I work hard.\" She also added the missing determiner: \"my projects.\"",
+    "correct_examples": [
+      "If I work hard, I can finish my projects quickly.",
+      "Hard work pays off."
+    ],
+    "context": "Why a project partner should be hardworking.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 271-281"
+  },
+  {
+    "id": "2026-07-09-015",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "modal",
+    "my_sentence": "I will have enough time to prepare.",
+    "correction": "I can have enough time to prepare.",
+    "explanation": "The teacher again softened \"will\" to \"can\" — it's a possibility, not a certainty. Same will→can correction as yesterday (2026-07-06).",
+    "correct_examples": [
+      "If I finish early, I can have enough time to prepare.",
+      "You can run into delays, so leave a buffer."
+    ],
+    "context": "Benefits of working hard on a project.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 283-287"
+  },
+  {
+    "id": "2026-07-09-016",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "pronoun",
+    "my_sentence": "I can have enough time to prepare something for them.",
+    "correction": "I can have enough time to prepare my own projects.",
+    "explanation": "\"Them\" had no clear referent — the teacher asked \"who is them?\" A pronoun needs an antecedent the listener already knows; otherwise name the thing: \"my own projects.\"",
+    "correct_examples": [
+      "I can have enough time to prepare my own projects.",
+      "I finished early, so I prepared materials for the next task."
+    ],
+    "context": "What he does with time saved by working hard.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 287-295"
+  },
+  {
+    "id": "2026-07-09-017",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "It will affect other people who cooperate with us.",
+    "correction": "It will affect other people who cooperated with us.",
+    "explanation": "The teacher put the relative clause in the past — \"who cooperated with us\" — matching the people who already joined the project.",
+    "correct_examples": [
+      "Missing the deadline will affect the people who cooperated with us.",
+      "We thanked everyone who helped us."
+    ],
+    "context": "Consequences of not finishing a project on time.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 311-315"
+  },
+  {
+    "id": "2026-07-09-018",
+    "date": "2026-07-09",
+    "category": "naturalness",
+    "tag": "word-choice",
+    "my_sentence": "I didn't want to make some problems for them.",
+    "correction": "I just don't want to trouble them.",
+    "explanation": "\"Make some problems for someone\" is unnatural; the teacher offered the verb \"trouble\": \"you just don't want to trouble them.\" Also the feeling is current, so present \"don't,\" not \"didn't.\"",
+    "correct_examples": [
+      "I just don't want to trouble them.",
+      "Don't trouble him with small questions."
+    ],
+    "context": "Why he works hard for his teammates.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 315-329"
+  },
+  {
+    "id": "2026-07-09-019",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "determiner",
+    "my_sentence": "A lot of people do that every day.",
+    "correction": "A lot of people do those things every day.",
+    "explanation": "The referent was plural (wasting others' time, troubling them...), so the teacher corrected to \"do those things.\" Singular \"that\" points to one thing only.",
+    "correct_examples": [
+      "A lot of people do those things every day.",
+      "Those habits are hard to change."
+    ],
+    "context": "People who waste others' time.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 347-351"
+  },
+  {
+    "id": "2026-07-09-020",
+    "date": "2026-07-09",
+    "category": "pronunciation",
+    "tag": "minimal-pair",
+    "my_sentence": "I think there are a lot of regions for them to do that.",
+    "correction": "I think there are a lot of reasons for them to do that.",
+    "explanation": "\"Reasons\" /ˈriːzənz/ came out as \"regions\" /ˈriːdʒənz/ — the difference is the /z/ vs /dʒ/ in the middle. The teacher: \"Reasons, I should say.\"",
+    "correct_examples": [
+      "There are a lot of reasons for the delay.",
+      "This region of China is famous for tea."
+    ],
+    "context": "Why some people can't finish tasks on time.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 355-357"
+  },
+  {
+    "id": "2026-07-09-021",
+    "date": "2026-07-09",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "Our evaluation depend on expert.",
+    "correction": "Our evaluations depend on the expertise.",
+    "explanation": "\"Expertise\" (the skill) is the right word here, not \"expert\" (the person) — the teacher: \"not on the experts, but the expertise... the masterful skills of people.\" Also plural subject + verb agreement: \"evaluations depend.\"",
+    "correct_examples": [
+      "Our evaluations depend on the expertise of the team.",
+      "She is an expert; her expertise is in networking."
+    ],
+    "context": "How project evaluations work at his company.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session1 lines 369-381"
+  },
+  {
+    "id": "2026-07-09-022",
+    "date": "2026-07-09",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "If you want to succeed, hardworking is necessary.",
+    "correction": "If you want to succeed, hard work is necessary.",
+    "explanation": "\"Hardworking\" is an adjective (a hardworking person); the noun is \"hard work.\" The teacher: \"Hardworking is an adjective. Do not make it a noun. Hard work is the proper way.\"",
+    "correct_examples": [
+      "Hard work is necessary if you want to succeed.",
+      "She is a hardworking student."
+    ],
+    "context": "Whether hard work guarantees success.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 41-49"
+  },
+  {
+    "id": "2026-07-09-023",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "preposition",
+    "my_sentence": "If you do something in right places and right time...",
+    "correction": "If you do something at the right place and time...",
+    "explanation": "The set phrase is \"AT the right place and (at the right) time,\" with the article \"the.\" The teacher corrected both the preposition and the missing article.",
+    "correct_examples": [
+      "Success often means being at the right place at the right time.",
+      "He was at the right place and time to get the job."
+    ],
+    "context": "Luck as a factor in success.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 57-65"
+  },
+  {
+    "id": "2026-07-09-024",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "If you invested in mobile phones 20 years ago, you can get succeed easily.",
+    "correction": "You can succeed easily.",
+    "explanation": "\"Succeed\" is already a verb, so it follows \"can\" directly — no \"get.\" The teacher: \"Succeed is a verb... if you know it has a verb form, do not try to use it as a noun.\" (Same rule as \"help,\" \"promote.\")",
+    "correct_examples": [
+      "If you had invested in mobile phones then, you could succeed easily.",
+      "Work smart and you can succeed."
+    ],
+    "context": "Being early in the mobile-phone era.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 69-71"
+  },
+  {
+    "id": "2026-07-09-025",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "relative-clause",
+    "my_sentence": "There are too many companies provide smart devices.",
+    "correction": "There are too many companies that provide smart devices.",
+    "explanation": "Two verbs (\"are\" and \"provide\") need a connector: the subject relative pronoun \"that.\" The teacher stopped him immediately: \"That, that — relative pronoun. There are too many companies THAT...\"",
+    "correct_examples": [
+      "There are too many companies that provide smart devices.",
+      "There are many apps that do the same thing."
+    ],
+    "context": "Why entering the mobile market now is too late.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 79-87"
+  },
+  {
+    "id": "2026-07-09-026",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "plural",
+    "my_sentence": "One of my friends has been learning new skills about website for many years.",
+    "correction": "One of my friends has been learning new skills about websites for many years.",
+    "explanation": "Talking about websites in general takes the bare plural \"websites,\" not singular \"website\" with no article. The teacher: \"About websites? Websites.\"",
+    "correct_examples": [
+      "He has been learning skills about websites for years.",
+      "She builds websites for small companies."
+    ],
+    "context": "A friend whose hard work hasn't paid off.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 111-117"
+  },
+  {
+    "id": "2026-07-09-027",
+    "date": "2026-07-09",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "If you make a big contributor, you can get promoted.",
+    "correction": "If you make a big contribution, you can get promoted.",
+    "explanation": "\"Contribution\" is the thing you make; \"contributor\" is the person who makes it. The teacher: \"Contribution.\"",
+    "correct_examples": [
+      "If you make a big contribution, you can get promoted.",
+      "He is a major contributor to the open-source project."
+    ],
+    "context": "What promotions depend on.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 159-163"
+  },
+  {
+    "id": "2026-07-09-028",
+    "date": "2026-07-09",
+    "category": "naturalness",
+    "tag": "conciseness",
+    "my_sentence": "If your manager wants to give you some promotion...",
+    "correction": "If your manager promotes you...",
+    "explanation": "Same verb-over-noun rule: \"promote\" is a verb, so use it directly instead of \"give you some promotion.\" The teacher: \"If your manager promotes you. Verb.\"",
+    "correct_examples": [
+      "If your manager promotes you, your salary rises.",
+      "She was promoted last year."
+    ],
+    "context": "How promotions work at his company.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 177-181"
+  },
+  {
+    "id": "2026-07-09-029",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "Your projects can finished and your skills are both important for your promotion.",
+    "correction": "Your projects can be finished, and your skills are both important for your promotion.",
+    "explanation": "The passive needs \"be\": \"can BE finished.\" The teacher supplied it: \"Your projects can... can be finished.\"",
+    "correct_examples": [
+      "Whether your projects can be finished on time matters for promotion.",
+      "The report can be completed by Friday."
+    ],
+    "context": "What managers check before promoting someone.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 185-189"
+  },
+  {
+    "id": "2026-07-09-030",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "preposition",
+    "my_sentence": "You will have more time to learn new things, or share your knowledge to other.",
+    "correction": "You will have more time to learn new things, or share your knowledge with others.",
+    "explanation": "(assistant note) \"Share\" goes with \"with\": share something WITH someone. And the plural pronoun is \"others.\" The teacher didn't stop him here, but corrected the same \"others\" form elsewhere.",
+    "correct_examples": [
+      "I share my knowledge with others on the team.",
+      "She shared her notes with us."
+    ],
+    "context": "Benefits of learning to use AI at work.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 197"
+  },
+  {
+    "id": "2026-07-09-031",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "possessive",
+    "my_sentence": "A nurse salary is about 5000 to 10000 per month.",
+    "correction": "A nurse's salary is about 5,000 to 10,000 yuan per month.",
+    "explanation": "The salary belongs to the nurse, so it needs the possessive 's: \"a nurse's salary.\" The teacher corrected it twice: \"A nurse's salary.\"",
+    "correct_examples": [
+      "A nurse's salary in my country is about 5,000 to 10,000 yuan a month.",
+      "A doctor's salary is much higher."
+    ],
+    "context": "Comparing nurse salaries in China and the Philippines.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 219-227"
+  },
+  {
+    "id": "2026-07-09-032",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "articles",
+    "my_sentence": "If you want to become a doctor, you need to get high score.",
+    "correction": "If you want to become a doctor, you need to get a high score.",
+    "explanation": "\"Score\" is a singular countable noun, so it needs \"a\": \"a high score.\" The teacher corrected this three times in a row (\"A high score\") until it stuck.",
+    "correct_examples": [
+      "You need to get a high score to become a doctor.",
+      "She got a high score on the entrance exam."
+    ],
+    "context": "China's college entrance exam and medical school.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 267-295"
+  },
+  {
+    "id": "2026-07-09-033",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "I don't think our country export nurses to other countries.",
+    "correction": "I don't think our country has exported nurses to other countries.",
+    "explanation": "Talking about whether something has ever happened takes the present perfect: \"has exported.\" The teacher prompted \"Exported\" and he self-corrected mid-sentence.",
+    "correct_examples": [
+      "Our country has never exported nurses.",
+      "Has your country ever produced famous scientists?"
+    ],
+    "context": "Whether China exports nurses abroad.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 319-323"
+  },
+  {
+    "id": "2026-07-09-034",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "If you want to become a doctor, you can choose medicine college.",
+    "correction": "You can choose to learn medicine in college.",
+    "explanation": "\"Choose\" here takes an infinitive: \"choose TO LEARN medicine,\" and the place is \"in college.\" \"Choose medicine college\" jams the noun phrases together.",
+    "correct_examples": [
+      "You can choose to learn medicine in college.",
+      "He chose to study computer science."
+    ],
+    "context": "Becoming a doctor via the college entrance exam.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 347-355"
+  },
+  {
+    "id": "2026-07-09-035",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "I find there are a lot of companies that recruit DevOps engineers. I checked there requirements. I find it's not difficult for me.",
+    "correction": "I found that there are a lot of companies recruiting DevOps engineers. I checked their requirements and found they are not difficult for me.",
+    "explanation": "The discovering already happened, so \"found (that),\" matching \"checked.\" The teacher: \"I found that.\" Note also \"their requirements\" (possessive), which the transcript garbled as \"there.\"",
+    "correct_examples": [
+      "I found that many companies are recruiting DevOps engineers.",
+      "I checked their requirements and found them reasonable."
+    ],
+    "context": "Job prospects abroad as a computer engineer.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 381-389"
+  },
+  {
+    "id": "2026-07-09-036",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "articles",
+    "my_sentence": "That's 90% possibility I can find a suitable job in Uk.",
+    "correction": "There's a 90% possibility I can find a suitable job in the UK.",
+    "explanation": "\"Possibility\" is a singular countable noun here, so it needs \"a\"; and country names with initials take \"the\": \"the UK.\" The teacher echoed \"in the UK.\"",
+    "correct_examples": [
+      "There's a 90% possibility I can find a suitable job in the UK.",
+      "She moved to the UK last year."
+    ],
+    "context": "Estimating his chances of being hired abroad.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 399-405"
+  },
+  {
+    "id": "2026-07-09-037",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "relative-clause",
+    "my_sentence": "If you cooperate with someone it talkative, you can easily get and share information.",
+    "correction": "If you cooperate with someone who is talkative, you can easily get and share information.",
+    "explanation": "An adjective after \"someone\" needs \"who is\": \"someone who is talkative.\" The teacher corrected this same pattern yesterday (\"someone who is easygoing\") and flagged it again twice today (\"Someone who is talkative\"; \"your relative pronoun, go on\").",
+    "correct_examples": [
+      "I like working with someone who is talkative.",
+      "There are a lot of people who like to talk in my company."
+    ],
+    "context": "Why a talkative project partner is useful.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 421-423, 469-471"
+  },
+  {
+    "id": "2026-07-09-038",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "pronoun",
+    "my_sentence": "You can listen to a lot of stories or gossip from him or her. You can get some information from it.",
+    "correction": "You can get some information from him or her.",
+    "explanation": "The source is a person, so the pronoun is \"him or her,\" not \"it.\" The teacher: \"From it? Ok — from him or her.\"",
+    "correct_examples": [
+      "You can get a lot of information from him or her.",
+      "I heard the news from her."
+    ],
+    "context": "Talkative coworkers as an information source.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 461-465"
+  },
+  {
+    "id": "2026-07-09-039",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "articles",
+    "my_sentence": "I think for me a considerate is the most important.",
+    "correction": "I think a considerate person is the most important for me.",
+    "explanation": "\"Considerate\" is an adjective and can't stand alone after \"a\" — it needs the noun: \"a considerate person.\" Same pattern as \"an easygoing person\" from 2026-07-06.",
+    "correct_examples": [
+      "A considerate person is the most important to me.",
+      "I'd rather live with a considerate person."
+    ],
+    "context": "Which quality matters most to him.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 489-493"
+  },
+  {
+    "id": "2026-07-09-040",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "pronoun",
+    "my_sentence": "If you don't like something that he or she did, you just need to tell him or her.",
+    "correction": "If you don't like something a person does, you just need to tell him or her.",
+    "explanation": "\"He or she\" appeared with no antecedent — the teacher: \"you don't have a precedent [antecedent], so you must not use he or she.\" Introduce the person first (\"a person\"), then pronouns can follow. She also fixed \"did\" to the general-truth present \"does.\"",
+    "correct_examples": [
+      "If you don't like something a person does, just tell him or her.",
+      "When a roommate is noisy, tell him or her directly."
+    ],
+    "context": "Handling problems with a considerate person.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 505-513"
+  },
+  {
+    "id": "2026-07-09-041",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "agreement",
+    "my_sentence": "I'd prefer someone who is fairly independent and don't trouble me.",
+    "correction": "I'd prefer someone who is fairly independent and doesn't trouble me.",
+    "explanation": "\"Someone\" is singular, so it takes \"doesn't\" / \"does not.\" The teacher corrected this three times across sessions (\"And doesn't, sir\", \"And does not ask\", \"Asks\") and stated the rule: \"always check if your main subject is one or many.\"",
+    "correct_examples": [
+      "I'd prefer someone who is independent and doesn't trouble me.",
+      "A fairly independent person finishes his or her tasks and does not ask others for help."
+    ],
+    "context": "Preferred travel companion; repeated in session 3.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session2 lines 573-577; session3 lines 7-21, 49-55"
+  },
+  {
+    "id": "2026-07-09-042",
+    "date": "2026-07-09",
+    "category": "vocabulary",
+    "tag": "adverb",
+    "my_sentence": "If he or she always asks me, it will bother me.",
+    "correction": "If he or she asks me repeatedly, that will bother me.",
+    "explanation": "The teacher upgraded \"always asks\" to the more precise \"asks repeatedly\": \"If he or she asks me repeatedly, you should say.\"",
+    "correct_examples": [
+      "If someone asks me repeatedly, it bothers me.",
+      "He repeatedly asked the same question."
+    ],
+    "context": "When asking for help becomes annoying.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session3 lines 57-61"
+  },
+  {
+    "id": "2026-07-09-043",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "A complaint is something that we don't comfortable.",
+    "correction": "A complaint is something that we are not comfortable with.",
+    "explanation": "\"Comfortable\" is an adjective, so it needs \"be\": \"we ARE not comfortable,\" and the clause needs the ending preposition \"with.\" The teacher: \"Comfortable is an adjective\" and later \"comfortable with.\"",
+    "correct_examples": [
+      "A complaint is about something we are not comfortable with.",
+      "I'm not comfortable with loud music at night."
+    ],
+    "context": "Defining the word \"complaint\".",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session3 lines 85-99"
+  },
+  {
+    "id": "2026-07-09-044",
+    "date": "2026-07-09",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "The neighbor must complaint to...",
+    "correction": "The neighbor complains about the noise. / The neighbor's complaint is about the noise.",
+    "explanation": "\"Complain\" (no T) is the verb; \"complaint\" (with T) is the noun — the thing you say. The teacher spelled it out: \"Complaint is the noun form, complain is the verb form. Can you see the difference?\"",
+    "correct_examples": [
+      "The neighbor is complaining about the loud noise.",
+      "They filed a complaint about the karaoke at night."
+    ],
+    "context": "Vocabulary work on complain vs. complaint.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session3 lines 173-189"
+  },
+  {
+    "id": "2026-07-09-045",
+    "date": "2026-07-09",
+    "category": "pronunciation",
+    "tag": "minimal-pair",
+    "my_sentence": "There are too much cabbage on the street.",
+    "correction": "There's too much garbage on the street.",
+    "explanation": "\"Garbage\" /ˈɡɑːrbɪdʒ/ came out as \"cabbage\" /ˈkæbɪdʒ/ — the initial /ɡɑːr/ vs /kæ/ is the difference. The teacher confirmed the intended sentence: \"There's too much garbage on the street.\"",
+    "correct_examples": [
+      "There's too much garbage on the street.",
+      "We bought a cabbage at the market."
+    ],
+    "context": "Giving a complaint about the world.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session3 lines 225-227"
+  },
+  {
+    "id": "2026-07-09-046",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "Our temperature, it shall become higher and higher.",
+    "correction": "Our temperature is becoming higher and higher.",
+    "explanation": "An ongoing trend takes the present continuous: \"is becoming.\" \"Shall become\" is archaic/wrong here, and the doubled subject (\"our temperature, it\") should be dropped.",
+    "correct_examples": [
+      "The temperature is becoming higher and higher.",
+      "Summers are getting hotter every year."
+    ],
+    "context": "Complaints about the world: global warming.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session3 lines 233-235"
+  },
+  {
+    "id": "2026-07-09-047",
+    "date": "2026-07-09",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "Like cars and air conditions and other things.",
+    "correction": "Like cars and air conditioners and other things.",
+    "explanation": "The machine is an \"air conditioner\"; \"air conditioning\" is the system/process. \"Air conditions\" is neither. The teacher: \"Air conditioners.\"",
+    "correct_examples": [
+      "We bought two air conditioners for the apartment.",
+      "The air conditioning in the office is too cold."
+    ],
+    "context": "Devices that consume resources.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session3 lines 239-243"
+  },
+  {
+    "id": "2026-07-09-048",
+    "date": "2026-07-09",
+    "category": "collocation",
+    "tag": "word-choice",
+    "my_sentence": "We are using more and more resources, so our temperature is increasing.",
+    "correction": "We are using more and more resources, so our temperature is rising.",
+    "explanation": "For temperature the natural verb is \"rise\": \"the temperature is rising.\" The teacher: \"Not increasing, but mostly rising.\"",
+    "correct_examples": [
+      "The temperature is rising every year.",
+      "Prices are rising quickly."
+    ],
+    "context": "Why the world is getting hotter.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session3 lines 251-257"
+  },
+  {
+    "id": "2026-07-09-049",
+    "date": "2026-07-09",
+    "category": "collocation",
+    "tag": "word-choice",
+    "my_sentence": "Whenever I take their card, I can smell something bad in it.",
+    "correction": "Whenever I ride their car, I can smell something bad in it.",
+    "explanation": "The teacher corrected to \"ride their car\" — and note the pronunciation: \"car\" /kɑːr/ kept coming out as \"card\" throughout the session. (You \"take a taxi\" as a whole, but with \"their car\" the verb is \"ride.\")",
+    "correct_examples": [
+      "Whenever I ride in a taxi, I check the seat first.",
+      "I take a taxi to work every day."
+    ],
+    "context": "His complaint that taxis are dirty and smelly.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session3 lines 345-353"
+  },
+  {
+    "id": "2026-07-09-050",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "preposition",
+    "my_sentence": "I want to find a new car to instead of it.",
+    "correction": "I want to find another car instead of the dirty one.",
+    "explanation": "\"Instead of\" is a preposition phrase — it takes a noun or -ing form and never follows \"to\": \"another car instead of the dirty one,\" not \"to instead.\" The teacher: \"To plus verb... instead of what? What is the it?\" — also name the thing instead of a vague \"it.\"",
+    "correct_examples": [
+      "I found another taxi instead of the dirty one.",
+      "We walked instead of taking a bus."
+    ],
+    "context": "What he does when a taxi is dirty.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session3 lines 357-381"
+  },
+  {
+    "id": "2026-07-09-051",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "quantifier",
+    "my_sentence": "Some of taxi drivers like to smoke.",
+    "correction": "Some taxi drivers like to smoke. / Some of the taxi drivers like to smoke.",
+    "explanation": "(assistant note) \"Some of\" must be followed by a determiner (\"some of THE taxi drivers\"); with a bare plural noun, drop \"of\": \"some taxi drivers.\" Same rule as \"most of people\" → \"most people\" from session 1.",
+    "correct_examples": [
+      "Some taxi drivers like to smoke.",
+      "Some of the drivers I met were very polite."
+    ],
+    "context": "Complaints about taxi drivers smoking.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session3 lines 439-447"
+  },
+  {
+    "id": "2026-07-09-052",
+    "date": "2026-07-09",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "Our market complete very serious.",
+    "correction": "Our market competition is extremely fierce.",
+    "explanation": "The intended noun is \"competition\" (not \"complete\"), it needs the verb \"is,\" and the natural intensity word for competition is \"fierce\" (not \"serious\"). The full corrected sentence he produced: \"Our market competition is extremely fierce, so they gave it up.\"",
+    "correct_examples": [
+      "Market competition in China is extremely fierce.",
+      "Competition for that job was fierce."
+    ],
+    "context": "Why Uber and Grab left the Chinese market.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session3 lines 493-501"
+  },
+  {
+    "id": "2026-07-09-053",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "preposition",
+    "my_sentence": "At the beginning, you can ride a taxi for free.",
+    "correction": "In the beginning, you could ride a taxi for free.",
+    "explanation": "Standing alone, the phrase is \"IN the beginning\"; \"at the beginning\" needs an \"of\" phrase (\"at the beginning of the year\"). The teacher: \"In the beginning.\" Past context also wants \"could.\"",
+    "correct_examples": [
+      "In the beginning, rides were free.",
+      "At the beginning of the promotion, taxis were free."
+    ],
+    "context": "The ride-hailing subsidy war in China.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session3 lines 509-513"
+  },
+  {
+    "id": "2026-07-09-054",
+    "date": "2026-07-09",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "Taxi drivers can get double of your share.",
+    "correction": "Taxi drivers can get double the payment.",
+    "explanation": "The money a passenger pays is \"the payment\" (or \"the fare\"), not \"your share,\" and the pattern is \"double THE payment\" (no \"of\"). The teacher: \"The pay... of the payment.\"",
+    "correct_examples": [
+      "Drivers could get double the payment from the company.",
+      "They charged double the normal fare."
+    ],
+    "context": "How the subsidy war paid drivers.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session3 lines 517-527"
+  },
+  {
+    "id": "2026-07-09-055",
+    "date": "2026-07-09",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "In my country, the taxi fee depend on your mile.",
+    "correction": "In my country, the taxi fee depends on the distance.",
+    "explanation": "\"Distance\" is the word for how far you travel (\"mile\" is just one unit, and unclear here); the teacher accepted his rephrase \"based on your distance.\" Also singular subject agreement: \"the taxi fee dependS.\"",
+    "correct_examples": [
+      "The taxi fee depends on the distance.",
+      "You pay based on the distance you travel."
+    ],
+    "context": "Why Chinese airport taxis don't overcharge.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session3 lines 539-547"
+  },
+  {
+    "id": "2026-07-09-056",
+    "date": "2026-07-09",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "When you use Didi or Uber, you can get the distance when you open it.",
+    "correction": "You can check the distance when you open the app.",
+    "explanation": "You \"check\" information on an app — the teacher insisted twice: \"You can check, not get.\"",
+    "correct_examples": [
+      "You can check the distance on the app before the ride.",
+      "I checked the route on my phone."
+    ],
+    "context": "How GPS apps prevent taxi-driver detours.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session3 lines 567-589"
+  },
+  {
+    "id": "2026-07-09-057",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "comparative",
+    "my_sentence": "Their taxi fees are more than five to ten times than us.",
+    "correction": "Their taxi fees are five to ten times higher than ours.",
+    "explanation": "A multiplier needs a comparative adjective: \"five to ten times HIGHER than.\" And the comparison is with \"ours\" (our fees), not \"us\" (the people). The teacher: \"Are higher — five to ten times higher than ours.\"",
+    "correct_examples": [
+      "Taxi fees in Japan are five to ten times higher than ours.",
+      "Rent there is three times higher than in my city."
+    ],
+    "context": "Comparing taxi prices in Japan and China.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session3 lines 609-625"
+  },
+  {
+    "id": "2026-07-09-058",
+    "date": "2026-07-09",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "I remembered that I ride a taxi from airport to the company. It's only 20min and spent more than 5000.",
+    "correction": "I rode a taxi from the airport to the company. It was only 20 minutes, and it cost me more than 5,000.",
+    "explanation": "A past anecdote needs past forms throughout: \"rode,\" \"was,\" and \"it COST me\" (money costs you; you don't \"spend\" without a subject). The teacher fed each piece: \"I rode a taxi,\" \"from the airport to the,\" \"it was only,\" \"it cost me.\"",
+    "correct_examples": [
+      "I rode a taxi from the airport to the company; it cost me 5,000 yen.",
+      "The trip was only 20 minutes but cost a lot."
+    ],
+    "context": "An expensive taxi ride in Japan.",
+    "review": {
+      "status": "new",
+      "times_seen_again": 0,
+      "last_reviewed": null
+    },
+    "source_ref": "session3 lines 629-645"
+  }
+]
