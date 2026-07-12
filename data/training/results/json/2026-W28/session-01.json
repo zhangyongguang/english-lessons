@@ -1,0 +1,55 @@
+{
+  "date": "2026-07-12",
+  "week": "2026-W28",
+  "session": 1,
+  "targets": [
+    {
+      "target_id": "past-tense-narrative",
+      "opportunities": 24,
+      "correct_first_attempt": 18,
+      "successful_self_corrections": 4,
+      "still_wrong_after_help": 2,
+      "delayed_correct": 8,
+      "delayed_total": 11,
+      "transfer_contexts": [
+        "yesterday after work",
+        "family evening",
+        "last trip",
+        "recent team problem",
+        "company last week"
+      ]
+    },
+    {
+      "target_id": "countable-noun-plurals",
+      "opportunities": 16,
+      "correct_first_attempt": 13,
+      "successful_self_corrections": 2,
+      "still_wrong_after_help": 1,
+      "delayed_correct": 7,
+      "delayed_total": 8,
+      "transfer_contexts": [
+        "neighborhood services",
+        "food and family activities",
+        "travel items",
+        "work environments",
+        "hospital patients"
+      ]
+    },
+    {
+      "target_id": "third-person-agreement",
+      "opportunities": 5,
+      "correct_first_attempt": 2,
+      "successful_self_corrections": 3,
+      "still_wrong_after_help": 0,
+      "delayed_correct": 1,
+      "delayed_total": 2,
+      "transfer_contexts": [
+        "good neighbor",
+        "careful traveler",
+        "good hospital",
+        "company habits"
+      ]
+    }
+  ],
+  "recommended_next_action": "repeat"
+}

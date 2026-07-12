@@ -17,13 +17,14 @@ It's deliberately small: a few **pure-standard-library** Python scripts (no depe
 
 | Command | What it does | Output |
 |---|---|---|
-| `/extract [date\|all]` | Extract my errors from pending transcripts | `data/errors/json/YYYY-MM/DATE.json` + `md/YYYY-MM/DATE.md` |
+| `/extract [date\|all]` | Extract errors and refresh that week's speaking training | Error JSON/Markdown + `training/live/current.md` |
 | `/weekly [week]` | Summarize a week, analyze high-frequency weak spots | `analysis/weekly/YEAR-Wnn.md` |
 | `/exercise [tag]` | Generate targeted practice by weak spot | `exercises/generated/...md` |
 | `/anki` | Export error Anki cards | `exercises/anki/anki_import.tsv` |
 | `/word [word(s)]` | Save looked-up words (or harvest them from this chat) | `data/vocab/vocab.md` + `vocab.json` |
 | `/vocab-quiz [topic]` | Quiz from recent/unmastered words | `exercises/generated/...md` |
 | `/vocab-anki` | Export vocab Anki cards | `exercises/anki/vocab_anki.tsv` |
+| `/training [refresh]` | Show the active Chat Live prompt, or rebuild the next session | `training/live/current.md` |
 | `/sync [message]` | Commit and push changes to GitHub | — |
 
 All arguments are optional:
@@ -31,6 +32,10 @@ All arguments are optional:
 - `/weekly` defaults to the "most recent pending" week; `/weekly 2026-W22` targets one week.
 - `/exercise articles` drills a single tag.
 - `/word eloquent junkyard` saves those words; bare `/word` harvests the words you asked about in the current session.
+
+## Weekly speaking-training loop
+
+`/extract` also refreshes the extracted date's weekly training. The first extraction in a week selects exactly three targets; later extractions update their evidence and session design without changing those targets midweek. Give `training/live/current.md` to Chat Live every time—this stable path always contains the next active standalone session. After training, save or paste Chat Live's `Training report` so mastery and the next session can be updated. Run `/training` to see the current status or `/training refresh` to rebuild the next prompt without extracting a transcript.
 
 ## How "new today/this week" is determined
 

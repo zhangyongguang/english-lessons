@@ -1,0 +1,61 @@
+{
+  "past-tense-narrative": {
+    "status": "learning",
+    "introduced_week": "2026-W28",
+    "last_practiced": "2026-07-12",
+    "next_review": "2026-07-13",
+    "sessions": 1,
+    "total_opportunities": 24,
+    "correct_first_attempt": 18,
+    "successful_self_corrections": 4,
+    "delayed_correct": 8,
+    "delayed_total": 11,
+    "transfer_contexts": [
+      "yesterday after work",
+      "family evening",
+      "last trip",
+      "recent team problem",
+      "company last week"
+    ],
+    "consecutive_unprompted_passes": 0
+  },
+  "countable-noun-plurals": {
+    "status": "reviewing",
+    "introduced_week": "2026-W28",
+    "last_practiced": "2026-07-12",
+    "next_review": "2026-07-13",
+    "sessions": 1,
+    "total_opportunities": 16,
+    "correct_first_attempt": 13,
+    "successful_self_corrections": 2,
+    "delayed_correct": 7,
+    "delayed_total": 8,
+    "transfer_contexts": [
+      "neighborhood services",
+      "food and family activities",
+      "travel items",
+      "work environments",
+      "hospital patients"
+    ],
+    "consecutive_unprompted_passes": 1
+  },
+  "third-person-agreement": {
+    "status": "learning",
+    "introduced_week": "2026-W28",
+    "last_practiced": "2026-07-12",
+    "next_review": "2026-07-13",
+    "sessions": 1,
+    "total_opportunities": 5,
+    "correct_first_attempt": 2,
+    "successful_self_corrections": 3,
+    "delayed_correct": 1,
+    "delayed_total": 2,
+    "transfer_contexts": [
+      "good neighbor",
+      "careful traveler",
+      "good hospital",
+      "company habits"
+    ],
+    "consecutive_unprompted_passes": 0
+  }
+}

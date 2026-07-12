@@ -1,5 +1,5 @@
 ---
-description: Extract my (Jack's) English errors from the latest Tencent Meeting transcript into a readable Markdown report
+description: Extract errors from transcripts and refresh the current weekly speaking training
 argument-hint: "[date, optional, e.g. 2026-05-28]"
 allowed-tools: Bash(python3:*), Bash(python:*), Read, Write, Glob
 ---
@@ -33,4 +33,12 @@ Field definitions and controlled tag vocabulary:
    If you change anything, rewrite the same `data/errors/json/YYYY-MM/DATE.json` (keep ids sequential) before moving on. Briefly note in your final report what the review changed (e.g. "added 1, fixed 2"), or "no changes" if clean.
 5. **Render the report**: run `python3 scripts/render_md.py DATE` (writes `data/errors/md/YYYY-MM/DATE.md`, a two-column "Mistake / Correct" table; the script creates the folder).
 6. **Update the master table**: run `python3 scripts/build_master.py`.
-7. **Report back**: tell me in one sentence how many errors were extracted (and what the self-review changed) and that the report is at `data/errors/md/YYYY-MM/DATE.md`. Don't restate them one by one and don't add extra explanation (I'll look it up myself).
+7. **Refresh this week's training (required)**:
+   - Determine DATE's ISO week WEEK.
+   - Follow `@.claude/skills/training-loop/SKILL.md` and refresh that week's training from the newly updated master table.
+   - If `training/plans/WEEK.md` does not exist, select exactly three targets and create the plan.
+   - If the plan already exists, **keep its three target IDs stable for the rest of the week**. Update their evidence with the new errors; don't replace targets midweek merely because counts changed.
+   - Read `data/training/mastery.json` and the latest report under `training/results/WEEK/` when present. Generate or update the next needed session prompt without overwriting completed session reports.
+   - Write the versioned prompt to `training/live/WEEK-session-NN.md` and write the same standalone prompt to `training/live/current.md`. `current.md` is the stable file the user gives to Chat Live.
+   - If WEEK is historical and a newer active training week already exists, refresh the historical plan but do not replace `training/live/current.md`.
+8. **Report back**: tell me how many errors were extracted (and what the self-review changed), give the error report path, and give the current Chat Live file path `training/live/current.md`. Don't restate errors one by one.

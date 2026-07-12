@@ -1,0 +1,4 @@
+interface:
+  display_name: "English Training Loop"
+  short_description: "Turn real errors into a weekly speaking practice loop"
+  default_prompt: "Use $training-loop to select exactly three weekly targets from my recent errors and generate a Chat Live speaking session."

@@ -26,6 +26,13 @@ Vocabulary (words I look up day to day):
 
 Misc:
 - `/sync [message]` — commit and push to GitHub (add + commit + push)
+- `/training [refresh]` — show or rebuild the active speaking session at `training/live/current.md`
+
+## Weekly speaking training
+- `/extract` refreshes the relevant ISO week's training after updating the master error table.
+- A week has exactly three stable targets. New extractions update evidence and exercises but do not replace targets until weekly review.
+- `training/live/current.md` is the stable, standalone file to give Chat Live; versioned prompts remain under `training/live/`.
+- Chat Live reports are preserved under `training/results/WEEK/`; normalized data and long-term state live under `data/training/`.
 
 ## How "new" is determined (important)
 Not based on the system clock or file download time, but on **whether it has been processed**:
