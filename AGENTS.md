@@ -6,6 +6,7 @@ Repository Skills:
 
 - `$extract` — process transcripts, rebuild error outputs, and refresh weekly training.
 - `$training-loop` — show or refresh `training/live/current.md`, process Chat Live reports, and update mastery.
+- `$save-note` — normalize pasted English-learning Markdown and save it as a dated study note.
 - `$sync` — explicitly commit and push intentional changes with an English message.
 
 Run `python3 -m unittest discover -s tests` and `python3 scripts/validate.py` after relevant changes. Never modify `data/raw/`.

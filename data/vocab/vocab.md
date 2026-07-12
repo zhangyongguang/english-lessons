@@ -1,9 +1,10 @@
 # Vocabulary  (latest first)
 
-289 word(s).
+290 word(s).
 
 | Word | Meaning | Example | Date |
 |---|---|---|---|
+| skydiving _(noun)_ | the activity of jumping from an airplane and using a parachute to land safely | She went skydiving on vacation. | 2026-07-12 |
 | opt _(verb)_ | to choose one thing over another | She opted for the cheaper plan. | 2026-07-09 |
 | provision _(verb)_ | to set up and provide something (like servers or supplies) so it is ready to use | We provision a new server for each customer. | 2026-07-09 |
 | severity _(noun)_ | how serious, harsh, or bad something is | Doctors rank each case by its severity. | 2026-07-09 |

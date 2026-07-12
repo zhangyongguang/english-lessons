@@ -8,6 +8,7 @@ Two things, one toolkit, driven by **Claude Code** slash commands or **Codex** S
 
 1. **Error log** — turn the Tencent Meeting transcript of a 1-on-1 English class into a structured database of my mistakes + the teacher's corrections, then find patterns, generate practice, and export to Anki.
 2. **Vocabulary store** — capture the unfamiliar words I look up day to day (translate/define them), dedup and date them, and export to Anki.
+3. **Study notes** — preserve grammar, vocabulary, and usage questions discussed with ChatGPT as consistently formatted Markdown.
 
 It's deliberately small: a few **pure-standard-library** Python scripts (no dependencies), Markdown prompts as the single source of truth, and slash commands that glue them together. Claude does the thinking; the scripts do the deterministic legwork.
 
@@ -40,10 +41,13 @@ Codex discovers the repository Skills under `.agents/skills/`. Invoke them with:
 ```text
 $extract
 $training-loop
+$save-note
 $sync
 ```
 
 `$extract` processes the latest pending lesson by default. `$training-loop` shows or refreshes the current Chat Live session. `$sync` commits and pushes intentional changes and must be invoked explicitly. If new Skills do not appear in Codex, restart Codex from this repository.
+
+Use `$save-note` and paste Markdown from an English-learning discussion to normalize it with `templates/study_note_template.md` and save it under `notes/questions/YYYY-MM/`.
 
 ## Weekly speaking-training loop
 
@@ -76,6 +80,7 @@ english-lessons/
 │   │   └── md/YYYY-MM/DATE.md       # readable
 │   └── vocab/              # vocab.json (single growing store) + vocab.md (readable, newest first)
 ├── database/errors_master.csv    # master table of all errors (script-generated)
+├── notes/questions/YYYY-MM/      # dated ChatGPT English study notes
 ├── exercises/{generated,anki}/   # practice + Anki files (anki_import.tsv = errors, vocab_anki.tsv = words)
 ├── analysis/weekly/        # weekly pattern reports
 ├── prompts/                # the prompts; commands reference them via @ as the single source of truth

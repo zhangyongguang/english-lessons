@@ -1,0 +1,4 @@
+interface:
+  display_name: "Save Study Note"
+  short_description: "Normalize and save pasted English study notes"
+  default_prompt: "Use $save-note to format and save the Markdown study notes I paste."

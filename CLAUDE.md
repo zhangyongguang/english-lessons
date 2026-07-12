@@ -24,6 +24,10 @@ Vocabulary (words I look up day to day):
 - `/vocab-quiz [topic]` — quiz from recent/unmastered words → `exercises/generated/`
 - `/vocab-anki` — export vocab Anki cards → `exercises/anki/vocab_anki.tsv`
 
+Study notes (questions discussed with ChatGPT):
+- `$save-note` — normalize pasted Markdown with `templates/study_note_template.md` and save it under `notes/questions/YYYY-MM/YYYY-MM-DD-topic.md`.
+- Preserve the language used in the pasted discussion; Chinese explanations and English examples may coexist in these notes.
+
 Misc:
 - `/sync [message]` — commit and push to GitHub (add + commit + push)
 - `/training [refresh]` — show or rebuild the active speaking session at `training/live/current.md`

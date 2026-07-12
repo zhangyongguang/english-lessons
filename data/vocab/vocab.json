@@ -5743,5 +5743,20 @@
       "select"
     ],
     "topic": "daily"
+  },
+  {
+    "word": "skydiving",
+    "pos": "noun",
+    "definition": "the activity of jumping from an airplane and using a parachute to land safely",
+    "example": [
+      "She went skydiving on vacation."
+    ],
+    "topic": "travel",
+    "first_seen": "2026-07-12",
+    "review": {
+      "status": "new",
+      "times_looked_up": 1,
+      "last_seen": "2026-07-12"
+    }
   }
 ]
