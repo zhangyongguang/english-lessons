@@ -1,0 +1,4 @@
+interface:
+  display_name: "Record Vocabulary"
+  short_description: "Save useful words to the vocabulary list"
+  default_prompt: "Use $word to save the useful words I looked up in this conversation."

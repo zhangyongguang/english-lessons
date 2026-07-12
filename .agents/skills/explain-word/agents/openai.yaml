@@ -1,0 +1,4 @@
+interface:
+  display_name: "Explain a Word"
+  short_description: "Explain a word in one simple English sentence"
+  default_prompt: "Use $explain-word to explain this English word or phrase simply."
