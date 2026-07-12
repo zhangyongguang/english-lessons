@@ -1,0 +1,6 @@
+interface:
+  display_name: "Sync English Lessons"
+  short_description: "Commit and push intentional repository changes"
+  default_prompt: "Use $sync to commit the current changes with an English message and push them."
+policy:
+  allow_implicit_invocation: false

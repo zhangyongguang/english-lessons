@@ -1,0 +1,4 @@
+interface:
+  display_name: "Extract English Errors"
+  short_description: "Extract lesson errors and refresh weekly training"
+  default_prompt: "Use $extract to process the latest pending lesson transcript."

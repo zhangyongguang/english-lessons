@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 
-Two things, one toolkit, driven by **Claude Code** slash commands:
+Two things, one toolkit, driven by **Claude Code** slash commands or **Codex** Skills:
 
 1. **Error log** — turn the Tencent Meeting transcript of a 1-on-1 English class into a structured database of my mistakes + the teacher's corrections, then find patterns, generate practice, and export to Anki.
 2. **Vocabulary store** — capture the unfamiliar words I look up day to day (translate/define them), dedup and date them, and export to Anki.
@@ -13,7 +13,7 @@ It's deliberately small: a few **pure-standard-library** Python scripts (no depe
 
 > ⚠️ **Privacy**: real transcripts under `data/raw/` contain personal classroom conversation. If you host your own copy publicly, uncomment `data/raw/` in `.gitignore` to keep transcripts local.
 
-## The commands (type `/` in Claude Code)
+## Claude Code commands (type `/` in Claude Code)
 
 | Command | What it does | Output |
 |---|---|---|
@@ -33,6 +33,18 @@ All arguments are optional:
 - `/exercise articles` drills a single tag.
 - `/word eloquent junkyard` saves those words; bare `/word` harvests the words you asked about in the current session.
 
+## Codex Skills
+
+Codex discovers the repository Skills under `.agents/skills/`. Invoke them with:
+
+```text
+$extract
+$training-loop
+$sync
+```
+
+`$extract` processes the latest pending lesson by default. `$training-loop` shows or refreshes the current Chat Live session. `$sync` commits and pushes intentional changes and must be invoked explicitly. If new Skills do not appear in Codex, restart Codex from this repository.
+
 ## Weekly speaking-training loop
 
 `/extract` also refreshes the extracted date's weekly training. The first extraction in a week selects exactly three targets; later extractions update their evidence and session design without changing those targets midweek. Give `training/live/current.md` to Chat Live every time—this stable path always contains the next active standalone session. After training, save or paste Chat Live's `Training report` so mastery and the next session can be updated. Run `/training` to see the current status or `/training refresh` to rebuild the next prompt without extracting a transcript.
@@ -50,6 +62,8 @@ Check status anytime: `python3 scripts/list_raw.py` (by day), `python3 scripts/l
 
 ```
 english-lessons/
+├── AGENTS.md               # project guidance auto-loaded by Codex
+├── .agents/skills/         # ★ Codex workflows: extract, training-loop, sync
 ├── CLAUDE.md               # project notes, auto-loaded by Claude Code (the "rules")
 ├── .claude/commands/       # ★ the slash commands
 │   ├── extract.md  weekly.md  exercise.md  anki.md  sync.md

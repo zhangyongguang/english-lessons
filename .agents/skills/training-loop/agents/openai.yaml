@@ -1,0 +1,4 @@
+interface:
+  display_name: "English Training Loop"
+  short_description: "Turn real errors into weekly speaking practice"
+  default_prompt: "Use $training-loop to show or refresh my current Chat Live training."
