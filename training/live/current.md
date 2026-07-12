@@ -35,6 +35,8 @@ Track only:
 2. Past-tense narratives — secondary target (75%).
 3. Countable noun plurals — spaced review target (81%).
 
+The July 11 lesson provides fresh evidence for the same stable targets: singular subjects still lost `-s` or used `don't`, and countability broke down with `bread`, `opportunity`, and `information`. Use comparable but unseen nouns and subjects in follow-ups; do not quote these corrections before Jack answers.
+
 ## Protocol
 
 1. Ask one question at a time and let Jack finish without interruption.
