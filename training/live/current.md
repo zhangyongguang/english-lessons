@@ -38,7 +38,7 @@ Prioritize delayed retrieval and the final unprompted assessment. Do not extend 
 - Common pattern: “some home shopping channel” → “some home-shopping channels”
 - Pass condition: at least 8 correct first attempts out of 10, one delayed retest, and two transfer contexts.
 
-The July 14–16 lessons provide fresh evidence for all three targets: singular subjects still lost third-person `-s`, completed events shifted into present tense, and plural marking failed after numbers, `some`, and general group references. Use unseen subjects, nouns, and completed events rather than quoting the corrected examples before Jack answers.
+The July 14–17 lessons provide fresh evidence for all three targets: singular subjects still lost agreement (“a friend who is firefighter” → “friends who are firefighters”), completed events shifted into present tense (“I didn't think it looks...” → “it looked”), and plural marking failed after `some` and in general group references (“in some emergency situation” → “in emergencies”). Use unseen subjects, nouns, and completed events rather than quoting the corrected examples before Jack answers.
 
 ## Teaching protocol
 

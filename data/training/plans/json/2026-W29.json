@@ -8,17 +8,28 @@
     {
       "id": "third-person-agreement",
       "name": "Use singular present-tense verbs automatically",
-      "reason": "This target remains in learning after 40% first-attempt accuracy in the first live session, and W29 speech still omitted third-person -s across work, traffic, healthcare, and daily-life topics.",
-      "source_tags": ["agreement"],
-      "recent_errors": 10,
-      "recent_days": 2,
-      "window_errors": 31,
-      "window_days": 11,
+      "reason": "This target remains in learning after 40% first-attempt accuracy in the first live session, and W29 speech through July 17 still broke singular/plural agreement across work, healthcare, and daily-life topics.",
+      "source_tags": [
+        "agreement"
+      ],
+      "recent_errors": 11,
+      "recent_days": 3,
+      "window_errors": 32,
+      "window_days": 12,
       "trigger": "Using the simple present with he, she, it, one person, one company, or one organization.",
       "error_examples": [
-        {"mistake": "One of my coworkers need to go to different places.", "correction": "One of my coworkers needs to go to different places."},
-        {"mistake": "Her mom sent her to school most times.", "correction": "Her mom sends her to school most of the time."},
-        {"mistake": "The manager need to check their tasks.", "correction": "The manager needs to check their tasks."}
+        {
+          "mistake": "One of my coworkers need to go to different places.",
+          "correction": "One of my coworkers needs to go to different places."
+        },
+        {
+          "mistake": "Her mom sent her to school most times.",
+          "correction": "Her mom sends her to school most of the time."
+        },
+        {
+          "mistake": "The manager need to check their tasks.",
+          "correction": "The manager needs to check their tasks."
+        }
       ],
       "success_criteria": {
         "opportunities": 10,
@@ -31,17 +42,33 @@
     {
       "id": "past-tense-narrative",
       "name": "Keep completed-event narratives in the past",
-      "reason": "This target remains in learning after 75% first-attempt accuracy, and W29 added tense errors across all three newly processed lesson days.",
-      "source_tags": ["tense", "aspect"],
-      "recent_errors": 8,
-      "recent_days": 3,
-      "window_errors": 33,
-      "window_days": 12,
+      "reason": "This target remains in learning after 75% first-attempt accuracy, and W29 added tense errors across all four processed lesson days, including reported speech on July 17 (\"I didn't think it looks...\").",
+      "source_tags": [
+        "tense",
+        "aspect"
+      ],
+      "recent_errors": 12,
+      "recent_days": 4,
+      "window_errors": 38,
+      "window_days": 14,
       "trigger": "Talking about yesterday, an earlier stage of life, a completed activity, or completed research.",
       "error_examples": [
-        {"mistake": "I had a good day today, stay at home, so I have enough time.", "correction": "I had a good day today. I stayed at home, so I had enough time."},
-        {"mistake": "During that time my salary is not high. I only have 100,000 yuan.", "correction": "At that time, my salary was not high. I only had 100,000 yuan."},
-        {"mistake": "I searched many places. I find Japan and the UK...", "correction": "I searched many places. I found that Japan and the UK..."}
+        {
+          "mistake": "I had a good day today, stay at home, so I have enough time.",
+          "correction": "I had a good day today. I stayed at home, so I had enough time."
+        },
+        {
+          "mistake": "During that time my salary is not high. I only have 100,000 yuan.",
+          "correction": "At that time, my salary was not high. I only had 100,000 yuan."
+        },
+        {
+          "mistake": "I searched many places. I find Japan and the UK...",
+          "correction": "I searched many places. I found that Japan and the UK..."
+        },
+        {
+          "mistake": "I had tried it before and I didn't think it looks pretty good.",
+          "correction": "I had tried it before and I didn't think it looked as good as I expected."
+        }
       ],
       "success_criteria": {
         "opportunities": 10,
@@ -54,17 +81,33 @@
     {
       "id": "countable-noun-plurals",
       "name": "Mark plural countable nouns consistently",
-      "reason": "Although the target had reached reviewing, twenty W29 plural errors across advertising, work, technology, travel, and family topics show that it is not yet automatic in free speech.",
-      "source_tags": ["plural", "quantifier"],
-      "recent_errors": 20,
-      "recent_days": 3,
-      "window_errors": 42,
-      "window_days": 11,
+      "reason": "Although the target had reached reviewing, twenty-seven W29 plural/quantifier errors across advertising, work, technology, travel, family, and the July 17 jobs discussion show that it is not yet automatic in free speech.",
+      "source_tags": [
+        "plural",
+        "quantifier"
+      ],
+      "recent_errors": 27,
+      "recent_days": 4,
+      "window_errors": 53,
+      "window_days": 12,
       "trigger": "Referring to two or more countable people, objects, places, events, services, or responsibilities.",
       "error_examples": [
-        {"mistake": "I can focus on their product and achievement.", "correction": "I can focus on their products and achievements."},
-        {"mistake": "One of my coworker needs to go to different places.", "correction": "One of my coworkers needs to go to different places."},
-        {"mistake": "If you have too much business trip...", "correction": "If you have too many business trips..."}
+        {
+          "mistake": "I can focus on their product and achievement.",
+          "correction": "I can focus on their products and achievements."
+        },
+        {
+          "mistake": "One of my coworker needs to go to different places.",
+          "correction": "One of my coworkers needs to go to different places."
+        },
+        {
+          "mistake": "If you have too much business trip...",
+          "correction": "If you have too many business trips..."
+        },
+        {
+          "mistake": "They save people in some emergency situation.",
+          "correction": "They save people in emergencies."
+        }
       ],
       "success_criteria": {
         "opportunities": 10,
