@@ -1,0 +1,54 @@
+[
+  {
+    "id": "2026-07-21-001",
+    "date": "2026-07-21",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "More and more companies start believe their data will help them.",
+    "correction": "More and more companies start to believe their data will help them.",
+    "explanation": "\"Start\" is followed by the infinitive \"to believe\" (or the gerund \"believing\"), not the bare verb \"believe.\" The teacher inserted \"to.\"",
+    "correct_examples": ["Companies start to believe in data.", "He started to learn English last year."],
+    "context": "Explaining why data scientists are in demand.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session1 lines 43-47"
+  },
+  {
+    "id": "2026-07-21-002",
+    "date": "2026-07-21",
+    "category": "grammar",
+    "tag": "plural",
+    "my_sentence": "Being a servant is one of the worst job.",
+    "correction": "Being a servant is one of the worst jobs.",
+    "explanation": "After \"one of the,\" the noun must be plural because you are picking one item out of a group: \"one of the worst jobs.\" The teacher repeated \"jobs.\"",
+    "correct_examples": ["It is one of the worst jobs.", "She is one of the best students."],
+    "context": "Arguing that being a servant is one of the worst jobs.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session2 lines 79-87"
+  },
+  {
+    "id": "2026-07-21-003",
+    "date": "2026-07-21",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "They have to reduce their prices to competitor with others.",
+    "correction": "They have to reduce their prices to compete with others.",
+    "explanation": "\"Competitor\" is a noun (the person/company); the verb is \"compete.\" After \"to\" you need the verb \"compete.\" The teacher said \"to compete, not competitor, that's a noun.\"",
+    "correct_examples": ["They lower prices to compete with rivals.", "Small firms compete with big companies."],
+    "context": "Explaining why online English tutoring prices dropped.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session2 lines 355-365"
+  },
+  {
+    "id": "2026-07-21-004",
+    "date": "2026-07-21",
+    "category": "naturalness",
+    "tag": "word-choice",
+    "my_sentence": "I need to buy some necessary things for my family.",
+    "correction": "I need to buy some things that are necessary for my family.",
+    "explanation": "(assistant note) Jack's version is understandable, but the teacher modeled the smoother relative-clause phrasing \"some things that are necessary for my family,\" which sounds more natural in speech and was drilled twice.",
+    "correct_examples": ["I buy things that are necessary for my family.", "We only spend on things that are necessary."],
+    "context": "Listing monthly expenses.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session2 lines 283-287"
+  }
+]

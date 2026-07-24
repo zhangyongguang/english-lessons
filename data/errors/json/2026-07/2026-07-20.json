@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2026-07-20-001",
+    "date": "2026-07-20",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "Only one of my classmates became to a writer.",
+    "correction": "Only one of my classmates became a writer.",
+    "explanation": "\"Become\" is a linking verb and takes the noun directly, with no preposition \"to.\" The teacher repeated \"became a writer\" to remove the extra \"to.\"",
+    "correct_examples": ["He became a teacher after college.", "She became a doctor last year."],
+    "context": "Talking about why being a writer is an unusual job.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session1 lines 163-167"
+  },
+  {
+    "id": "2026-07-20-002",
+    "date": "2026-07-20",
+    "category": "grammar",
+    "tag": "agreement",
+    "my_sentence": "AI become more and more, become smarter and smarter.",
+    "correction": "AI becomes smarter and smarter.",
+    "explanation": "\"AI\" is a singular subject, so the present-tense verb needs the -s ending: \"becomes.\" The teacher supplied \"becomes more and more.\"",
+    "correct_examples": ["AI becomes smarter every year.", "Technology becomes cheaper over time."],
+    "context": "Explaining why a dentist cannot be replaced by AI.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session2 lines 125-127"
+  },
+  {
+    "id": "2026-07-20-003",
+    "date": "2026-07-20",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "In other countries, they are earned a lot too.",
+    "correction": "In other countries, they earn a lot too.",
+    "explanation": "(assistant note) \"Earn\" is active here — the people do the earning — so use the plain present \"earn,\" not the passive \"are earned,\" which would mean they themselves are being earned.",
+    "correct_examples": ["Dentists earn a lot in other countries too.", "They earn good money abroad."],
+    "context": "Saying dentists earn a lot in many countries, not only China.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session2 lines 201-203"
+  },
+  {
+    "id": "2026-07-20-004",
+    "date": "2026-07-20",
+    "category": "naturalness",
+    "tag": "word-choice",
+    "my_sentence": "In my country we don't keep culture, so we just pay the basic money, not for tips.",
+    "correction": "In my country we don't have a tipping culture, so we just pay the basic price.",
+    "explanation": "The natural phrase is \"have a tipping culture,\" not \"keep culture.\" The teacher confirmed the intended word was \"tipping.\"",
+    "correct_examples": ["China doesn't have a tipping culture.", "We don't have a tipping culture, so we just pay the bill."],
+    "context": "Explaining that Jack does not tip his dentist.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session2 lines 157-169"
+  },
+  {
+    "id": "2026-07-20-005",
+    "date": "2026-07-20",
+    "category": "pronunciation",
+    "tag": "minimal-pair",
+    "my_sentence": "Data is very important for more than companies.",
+    "correction": "Data is very important for modern companies.",
+    "explanation": "Jack meant \"modern,\" but pronounced it so that the teacher heard \"more than.\" Stress the first syllable of \"modern\" (MO-dern) and keep the \"d\" clear so it isn't confused with \"more than.\"",
+    "correct_examples": ["Modern companies rely on data.", "Modern factories use a lot of automation."],
+    "context": "Explaining why data scientists have the best job.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session2 lines 427-451"
+  }
+]

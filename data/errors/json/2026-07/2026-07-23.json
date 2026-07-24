@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2026-07-23-001",
+    "date": "2026-07-23",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "Even you are smart or you are a talent, you will get the average salary.",
+    "correction": "Even if you are smart or talented, you can get the average salary.",
+    "explanation": "To describe a person, use the adjective \"talented,\" not the noun \"a talent.\" (Also \"even if,\" not \"even,\" to introduce the condition.) The teacher supplied \"talented.\"",
+    "correct_examples": ["He is very talented at music.", "Even talented workers get the same base salary."],
+    "context": "Explaining that government pay is flat regardless of ability.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session1 lines 135-141"
+  },
+  {
+    "id": "2026-07-23-002",
+    "date": "2026-07-23",
+    "category": "vocabulary",
+    "tag": "word-choice",
+    "my_sentence": "It's very complexity, so the AI can't understand this system easily.",
+    "correction": "It's very complex, so the AI can't understand this system easily.",
+    "explanation": "\"Complexity\" is a noun; the adjective after \"is very\" is \"complex.\" The teacher corrected \"it's very complex.\"",
+    "correct_examples": ["This system is very complex.", "The process is complex and hard to automate."],
+    "context": "Explaining why back-end work is hard for AI to replace.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session1 lines 311-315"
+  },
+  {
+    "id": "2026-07-23-003",
+    "date": "2026-07-23",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "I can't become a dentist because I didn't learn their skills.",
+    "correction": "I can't become a dentist because I haven't learned their skills.",
+    "explanation": "The relevant point is that Jack has not learned the skills up to now, so use the present perfect \"haven't learned,\" not the simple past \"didn't learn.\" The teacher gave \"I haven't learned.\"",
+    "correct_examples": ["I haven't learned those skills yet.", "She hasn't studied medicine, so she can't do it."],
+    "context": "Explaining why he could not be a dentist.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session2 lines 59-65"
+  },
+  {
+    "id": "2026-07-23-004",
+    "date": "2026-07-23",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "I can read a lot of articles about big companies fire their employees.",
+    "correction": "I read a lot of articles about big companies firing their employees.",
+    "explanation": "After the preposition \"about,\" the verb takes the -ing (gerund) form: \"firing.\" The teacher said \"firing, make it into -ing.\"",
+    "correct_examples": ["I read articles about companies firing staff.", "There is news about factories closing down."],
+    "context": "Talking about news of layoffs at big companies.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session2 lines 27-35"
+  },
+  {
+    "id": "2026-07-23-005",
+    "date": "2026-07-23",
+    "category": "grammar",
+    "tag": "articles",
+    "my_sentence": "Especially when I'm in the college, I need to go to the airport.",
+    "correction": "Especially when I'm in college, I need to go to the airport.",
+    "explanation": "\"In college\" (like \"at school\") takes no article when it means being a student / the general setting. The teacher gave \"when I am in college.\"",
+    "correct_examples": ["When I was in college, I lived on campus.", "He met her in college."],
+    "context": "Explaining when he needed rides to the airport.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session2 lines 437-439"
+  }
+]

@@ -1,0 +1,125 @@
+{
+  "week": "2026-W30",
+  "source_window": {
+    "first_week": "2026-W28",
+    "last_week": "2026-W30"
+  },
+  "targets": [
+    {
+      "id": "word-form-derivation",
+      "name": "Choose the right part of speech (noun / verb / adjective / adverb)",
+      "reason": "The dominant new pattern across all five W30 lesson days: Jack repeatedly used the wrong derivational form of a word, mixing up nouns, verbs, adjectives, and adverbs. Eleven such errors appeared from July 21-24, making this the top new priority for the week.",
+      "source_tags": [
+        "word-choice",
+        "verb-form"
+      ],
+      "recent_errors": 11,
+      "recent_days": 4,
+      "window_errors": 20,
+      "window_days": 9,
+      "trigger": "Reaching for a word that has related noun / verb / adjective / adverb forms (feedback, grow/growth, promote/promotion, serious/seriousness, easy/easily, tourism/tourist, compete/competitor, complex/complexity, talented/talent, embarrassing/embarrassed).",
+      "error_examples": [
+        {
+          "mistake": "It will feedback immediately.",
+          "correction": "It will give you feedback immediately."
+        },
+        {
+          "mistake": "You have to help them growth.",
+          "correction": "You have to help them grow."
+        },
+        {
+          "mistake": "It depends on the serious of the accident.",
+          "correction": "It depends on the seriousness of the accident."
+        },
+        {
+          "mistake": "Our printers are convenient and easily to use.",
+          "correction": "Our printers are convenient and easy to use."
+        }
+      ],
+      "success_criteria": {
+        "opportunities": 10,
+        "minimum_correct_first_attempt": 8,
+        "minimum_first_attempt_accuracy": 0.8,
+        "delayed_retests": 1,
+        "transfer_contexts": 2
+      }
+    },
+    {
+      "id": "verb-complementation",
+      "name": "Use the correct verb form after another verb or preposition",
+      "reason": "Across the whole window Jack keeps breaking the verb group: bare verbs where an infinitive or gerund is required, missing linking verbs, and irregular participles. Nine W30 errors on five days (start believe, help body healthy, ask to lend, about ... fire, caught, drown) show it is still not automatic.",
+      "source_tags": [
+        "verb-form"
+      ],
+      "recent_errors": 9,
+      "recent_days": 5,
+      "window_errors": 71,
+      "window_days": 15,
+      "trigger": "Building a verb after another verb or after a preposition: start/help/ask + verb, get/be + past participle, articles/news about + -ing.",
+      "error_examples": [
+        {
+          "mistake": "More and more companies start believe their data will help them.",
+          "correction": "More and more companies start to believe their data will help them."
+        },
+        {
+          "mistake": "Exercise can help your body healthy.",
+          "correction": "Exercise can help your body become healthy."
+        },
+        {
+          "mistake": "If you don't submit, you are catched by the policeman.",
+          "correction": "If you don't submit it, you can be caught by the police."
+        },
+        {
+          "mistake": "I read articles about big companies fire their employees.",
+          "correction": "I read articles about big companies firing their employees."
+        }
+      ],
+      "success_criteria": {
+        "opportunities": 10,
+        "minimum_correct_first_attempt": 8,
+        "minimum_first_attempt_accuracy": 0.8,
+        "delayed_retests": 1,
+        "transfer_contexts": 2
+      }
+    },
+    {
+      "id": "tense-past-and-perfect",
+      "name": "Keep finished events in the past and use present perfect for experience",
+      "reason": "Carried forward from the W29 past-tense focus, which is still in learning. W30 added both simple-past slips on completed events (eat->ate, rent->rented) and present-perfect gaps for experience up to now (haven't heard of, haven't learned, have done not have ever done).",
+      "source_tags": [
+        "tense",
+        "aspect"
+      ],
+      "recent_errors": 5,
+      "recent_days": 3,
+      "window_errors": 41,
+      "window_days": 13,
+      "trigger": "Talking about a finished event (yesterday, when he started his job) or about life experience up to now (something he has / hasn't done or heard of).",
+      "error_examples": [
+        {
+          "mistake": "I eat some meat and some vegetables.",
+          "correction": "I ate some meat and vegetables."
+        },
+        {
+          "mistake": "When I started my job, I rent an apartment with different people.",
+          "correction": "When I started my job, I rented an apartment with different people."
+        },
+        {
+          "mistake": "I can't become a dentist because I didn't learn their skills.",
+          "correction": "I can't become a dentist because I haven't learned their skills."
+        },
+        {
+          "mistake": "I have ever done this many times before.",
+          "correction": "I have done that many times before."
+        }
+      ],
+      "success_criteria": {
+        "opportunities": 10,
+        "minimum_correct_first_attempt": 8,
+        "minimum_first_attempt_accuracy": 0.8,
+        "delayed_retests": 1,
+        "transfer_contexts": 2
+      }
+    }
+  ]
+}
