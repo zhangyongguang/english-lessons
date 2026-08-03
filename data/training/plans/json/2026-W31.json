@@ -1,0 +1,57 @@
+{
+  "week": "2026-W31",
+  "source_window": {"first_week": "2026-W29", "last_week": "2026-W31"},
+  "targets": [
+    {
+      "id": "verb-complementation",
+      "name": "Use the correct verb form after another verb or preposition",
+      "reason": "Verb-form errors remain the largest recurring pattern. W31 added 30 errors across five lesson days, while the three-week window contains 81 verb-form errors across 18 lesson days.",
+      "source_tags": ["verb-form"],
+      "recent_errors": 30,
+      "recent_days": 5,
+      "window_errors": 81,
+      "window_days": 18,
+      "trigger": "Building a verb after a modal, another verb, or a preposition: can + base verb, ask/expect/help + complement, and to + verb.",
+      "error_examples": [
+        {"mistake": "They can came back to the society.", "correction": "They can come back to society."},
+        {"mistake": "You can't expect them pay the same taxes.", "correction": "You can't expect them to pay the same taxes."},
+        {"mistake": "It can help our society more stable.", "correction": "It can help our society become more stable."}
+      ],
+      "success_criteria": {"opportunities": 10, "minimum_correct_first_attempt": 8, "minimum_first_attempt_accuracy": 0.8, "delayed_retests": 1, "transfer_contexts": 2}
+    },
+    {
+      "id": "word-choice-precision",
+      "name": "Choose the precise word form and collocation",
+      "reason": "Jack repeatedly chose a related but incorrect word or collocation. W31 added 18 word-choice errors across four lesson days, and the window contains 67 word-choice errors across 16 lesson days.",
+      "source_tags": ["word-choice"],
+      "recent_errors": 18,
+      "recent_days": 4,
+      "window_errors": 67,
+      "window_days": 16,
+      "trigger": "Choosing among related forms or near-synonyms when naming a thing, action, quality, or relationship.",
+      "error_examples": [
+        {"mistake": "The economic will be pretty good.", "correction": "The economy will be pretty good."},
+        {"mistake": "Which situation can arrive more?", "correction": "Which situation can thrive more?"},
+        {"mistake": "He could borrow a lot of money to a teacher.", "correction": "He could lend a lot of money to a teacher."}
+      ],
+      "success_criteria": {"opportunities": 10, "minimum_correct_first_attempt": 8, "minimum_first_attempt_accuracy": 0.8, "delayed_retests": 1, "transfer_contexts": 2}
+    },
+    {
+      "id": "countable-nouns-and-quantifiers",
+      "name": "Mark plural count nouns and choose the right quantifier",
+      "reason": "Plural and quantifier problems returned strongly in W31: 23 errors across plural, quantifier, and determiner tags on four lesson days. The window contains 72 related errors across 13 lesson days.",
+      "source_tags": ["plural", "quantifier", "determiner"],
+      "recent_errors": 23,
+      "recent_days": 4,
+      "window_errors": 72,
+      "window_days": 13,
+      "trigger": "Talking about more than one countable person or thing, or choosing much/many, some, enough, most of, or a lot of.",
+      "error_examples": [
+        {"mistake": "They had too many hope.", "correction": "They had too much hope."},
+        {"mistake": "If they don't have enough consumer, their company will go bankrupt.", "correction": "If they don't have enough consumers, their company will go bankrupt."},
+        {"mistake": "Most of parents expected their children...", "correction": "Most of the parents expected their children..."}
+      ],
+      "success_criteria": {"opportunities": 10, "minimum_correct_first_attempt": 8, "minimum_first_attempt_accuracy": 0.8, "delayed_retests": 1, "transfer_contexts": 2}
+    }
+  ]
+}

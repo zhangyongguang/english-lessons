@@ -8,15 +8,15 @@
     {
       "id": "word-form-derivation",
       "name": "Choose the right part of speech (noun / verb / adjective / adverb)",
-      "reason": "The dominant new pattern across all five W30 lesson days: Jack repeatedly used the wrong derivational form of a word, mixing up nouns, verbs, adjectives, and adverbs. Eleven such errors appeared from July 21-24, making this the top new priority for the week.",
+      "reason": "The dominant new pattern across the W30 lesson window: Jack repeatedly used the wrong derivational form of a word, mixing up nouns, verbs, adjectives, and adverbs. Fifteen word-choice errors appeared across six lesson days, making this the top new priority for the week.",
       "source_tags": [
         "word-choice",
         "verb-form"
       ],
-      "recent_errors": 11,
-      "recent_days": 4,
-      "window_errors": 20,
-      "window_days": 9,
+      "recent_errors": 15,
+      "recent_days": 6,
+      "window_errors": 71,
+      "window_days": 15,
       "trigger": "Reaching for a word that has related noun / verb / adjective / adverb forms (feedback, grow/growth, promote/promotion, serious/seriousness, easy/easily, tourism/tourist, compete/competitor, complex/complexity, talented/talent, embarrassing/embarrassed).",
       "error_examples": [
         {
@@ -47,14 +47,14 @@
     {
       "id": "verb-complementation",
       "name": "Use the correct verb form after another verb or preposition",
-      "reason": "Across the whole window Jack keeps breaking the verb group: bare verbs where an infinitive or gerund is required, missing linking verbs, and irregular participles. Nine W30 errors on five days (start believe, help body healthy, ask to lend, about ... fire, caught, drown) show it is still not automatic.",
+      "reason": "Across the whole window Jack keeps breaking the verb group: bare verbs where an infinitive or gerund is required, missing linking verbs, and irregular participles. Fourteen W30 errors across all seven lesson days show it is still not automatic.",
       "source_tags": [
         "verb-form"
       ],
-      "recent_errors": 9,
-      "recent_days": 5,
-      "window_errors": 71,
-      "window_days": 15,
+      "recent_errors": 14,
+      "recent_days": 7,
+      "window_errors": 76,
+      "window_days": 17,
       "trigger": "Building a verb after another verb or after a preposition: start/help/ask + verb, get/be + past participle, articles/news about + -ing.",
       "error_examples": [
         {
@@ -85,15 +85,15 @@
     {
       "id": "tense-past-and-perfect",
       "name": "Keep finished events in the past and use present perfect for experience",
-      "reason": "Carried forward from the W29 past-tense focus, which is still in learning. W30 added both simple-past slips on completed events (eat->ate, rent->rented) and present-perfect gaps for experience up to now (haven't heard of, haven't learned, have done not have ever done).",
+      "reason": "Carried forward from the W29 past-tense focus, which is still in learning. W30 added eleven tense/aspect errors across five lesson days, including simple-past slips on completed events and past-perfect choices in unreal past conditions.",
       "source_tags": [
         "tense",
         "aspect"
       ],
-      "recent_errors": 5,
-      "recent_days": 3,
-      "window_errors": 41,
-      "window_days": 13,
+      "recent_errors": 11,
+      "recent_days": 5,
+      "window_errors": 47,
+      "window_days": 15,
       "trigger": "Talking about a finished event (yesterday, when he started his job) or about life experience up to now (something he has / hasn't done or heard of).",
       "error_examples": [
         {
