@@ -9,7 +9,7 @@
     "explanation": "\"Start\" is followed by the infinitive \"to believe\" (or the gerund \"believing\"), not the bare verb \"believe.\" The teacher inserted \"to.\"",
     "correct_examples": ["Companies start to believe in data.", "He started to learn English last year."],
     "context": "Explaining why data scientists are in demand.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session1 lines 43-47"
   },
   {
@@ -22,7 +22,7 @@
     "explanation": "After \"one of the,\" the noun must be plural because you are picking one item out of a group: \"one of the worst jobs.\" The teacher repeated \"jobs.\"",
     "correct_examples": ["It is one of the worst jobs.", "She is one of the best students."],
     "context": "Arguing that being a servant is one of the worst jobs.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session2 lines 79-87"
   },
   {

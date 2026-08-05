@@ -29,6 +29,7 @@ Study notes (questions discussed with ChatGPT):
 - Preserve the language used in the pasted discussion; Chinese explanations and English examples may coexist in these notes.
 
 Misc:
+- `$review` — show one recommended error in the conversation, then record the reply and schedule its next review
 - `/sync [message]` — commit and push to GitHub (add + commit + push)
 - `/training [refresh]` — show or rebuild the active speaking session at `training/live/current.md`
 
@@ -59,6 +60,7 @@ Not based on the system clock or file download time, but on **whether it has bee
 - `scripts/render_vocab_md.py` — vocab.json → vocab.md (newest first)
 - `scripts/make_vocab_anki.py` — vocab.json → vocab Anki import file
 - `scripts/list_vocab.py` — vocabulary status (totals, this week, repeat lookups)
+- `scripts/review_errors.py` — recommend one sentence error, record review results, and show review progress
 - `scripts/validate.py` — validate errors/vocab against the schemas (controlled vocab, required fields, duplicate id/word); read-only, used in CI
 - `scripts/_common.py` — shared helpers (date parsing, JSON loading, Markdown/TSV escaping); put common logic here, not duplicated
 - Run with `python3` (use `python` on Windows).

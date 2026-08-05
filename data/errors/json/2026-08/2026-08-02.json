@@ -9,7 +9,7 @@
     "explanation": "The two completed activities need parallel past-tense verbs: \"recited\" and \"listened.\" The teacher prompted the past form.",
     "correct_examples": ["I read a book and listened to music yesterday.", "She studied vocabulary and watched a lecture."],
     "context": "Describing what he did that day.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session1 lines 7-11"
   },
   {
@@ -22,7 +22,7 @@
     "explanation": "After \"have a good time,\" use a gerund: \"have a good time doing something,\" not an infinitive.",
     "correct_examples": ["We had a good time visiting the museum.", "She had a good time talking with her friends."],
     "context": "Talking about listening to English podcasts.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session1 lines 15-19"
   },
   {
@@ -61,7 +61,7 @@
     "explanation": "Use the subject pronoun \"they\" before the verb. \"There's\" means \"there is\" and cannot refer to the poor people here.",
     "correct_examples": ["They cannot expand because they do not have enough customers.", "They are struggling because they lack consumers."],
     "context": "Explaining why a stagnant market lacks buyers.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session1 lines 201-205"
   },
   {
@@ -74,7 +74,7 @@
     "explanation": "After the modal \"can\" and passive auxiliary \"be,\" use the past participle \"stopped.\"",
     "correct_examples": ["The service can be stopped at any time.", "A market can be affected by weak demand."],
     "context": "Explaining what stagnation means.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session1 lines 223-227"
   },
   {
@@ -87,7 +87,7 @@
     "explanation": "The intended meaning is lack of money. Use the possessive adjective \"their\" correctly, and say \"don't have any money to use\" rather than \"run out of they are money.\"",
     "correct_examples": ["They don't have any money to use.", "Poor families may not have enough money for food."],
     "context": "Explaining why poor people cannot keep spending.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session1 lines 215-223"
   },
   {
@@ -100,7 +100,7 @@
     "explanation": "After the plural quantifier \"enough\" in this context, use the plural count noun \"consumers.\"",
     "correct_examples": ["The store needs enough consumers to survive.", "Without enough customers, the business may close."],
     "context": "Explaining why rich companies still need buyers.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session2 lines 53-57"
   },
   {
@@ -178,7 +178,7 @@
     "explanation": "After \"is continuing,\" use the infinitive \"to drop\" to describe an ongoing change.",
     "correct_examples": ["Prices are continuing to rise.", "The exchange rate is continuing to change."],
     "context": "Discussing the falling value of the yen.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session3 lines 109-113"
   },
   {
@@ -191,7 +191,7 @@
     "explanation": "The phrase refers to more than one area of business, so use the plural noun \"industries.\"",
     "correct_examples": ["China is competitive in some industries.", "Several industries were affected by the policy."],
     "context": "Comparing Japanese and Chinese industries.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session3 lines 117-121"
   },
   {
@@ -217,7 +217,7 @@
     "explanation": "Here \"responsibility\" refers to one general duty, so use the singular uncountable form.",
     "correct_examples": ["It is not our responsibility to solve every problem.", "Helping is a personal responsibility."],
     "context": "Discussing whether people must help others.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session3 lines 223-227"
   },
   {
@@ -230,7 +230,7 @@
     "explanation": "The teacher was referring to one specific person, so the singular object pronouns are \"him or her\" rather than the plural \"them.\"",
     "correct_examples": ["It is not your responsibility to support him or her.", "She asked me to help her."],
     "context": "Discussing responsibility for a stranger's choices.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session3 lines 231-245"
   },
   {
@@ -282,7 +282,7 @@
     "explanation": "The subject \"salary\" is singular, so use \"is.\" Use \"salaries are\" only when referring to multiple salaries.",
     "correct_examples": ["His salary is not enough to support his family.", "Their salaries are different."],
     "context": "Explaining why poor people should not pay the same taxes.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session3 lines 373-381"
   },
   {
@@ -295,7 +295,7 @@
     "explanation": "The pattern is \"expect someone to do something,\" so the infinitive marker \"to\" is required after \"them.\"",
     "correct_examples": ["You cannot expect them to pay the same amount.", "We expect employees to follow the rules."],
     "context": "Comparing tax burdens for rich and poor people.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session3 lines 381-385"
   },
   {
@@ -308,7 +308,7 @@
     "explanation": "With \"some\" and a count noun in this general example, use the plural \"products.\"",
     "correct_examples": ["People compare products before buying them.", "They bought some products at the supermarket."],
     "context": "Making an example about ethical shopping.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session3 lines 447-455"
   },
   {
@@ -347,7 +347,7 @@
     "explanation": "When speaking about charitable activity in general, \"charity\" is normally uncountable and takes no article.",
     "correct_examples": ["Many people donate to charity.", "She gives money to charity every year."],
     "context": "Using the word \"charity\" in a sentence.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session4 lines 43-51"
   },
   {
@@ -360,7 +360,7 @@
     "explanation": "The natural collocation is \"contribute to society.\" Once \"society\" is the object, use the pronoun \"it\" in the second clause.",
     "correct_examples": ["Volunteers contribute to society by helping others.", "Education can make society better."],
     "context": "Explaining how people can improve society.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session4 lines 55-63"
   },
   {
@@ -399,7 +399,7 @@
     "explanation": "The pattern is \"ask someone to do something,\" so add \"to\" before the base verb after \"your children.\"",
     "correct_examples": ["You should not ask children to do things they hate.", "They asked me to wait outside."],
     "context": "Discussing parental obligations and choices.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session4 lines 105-111"
   },
   {
@@ -412,7 +412,7 @@
     "explanation": "In the teacher's model, the phrase was \"cheat on others.\" Keep the preposition when using this collocation.",
     "correct_examples": ["He tried to cheat on other people.", "The scammer cheated on his customers."],
     "context": "Creating an example with \"social engineering.\"",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session4 lines 215-221"
   },
   {
@@ -425,7 +425,7 @@
     "explanation": "The quantifier \"some\" requires the plural count noun \"rules.\"",
     "correct_examples": ["We need to define some basic rules.", "The school has strict rules about safety."],
     "context": "Using the word \"define.\"",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session4 lines 223-231"
   },
   {
@@ -451,7 +451,7 @@
     "explanation": "The head noun is the singular \"group,\" so the present-tense verb is \"wants.\"",
     "correct_examples": ["A group of students wants to visit the museum.", "A team of engineers wants to improve the design."],
     "context": "Creating a sentence with \"utopia.\"",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session4 lines 261-271"
   },
   {
@@ -464,7 +464,7 @@
     "explanation": "After \"help someone,\" use a base verb such as \"become\" before an adjective describing a change.",
     "correct_examples": ["The policy can help the economy become more stable.", "Exercise helps people become healthier."],
     "context": "Explaining a possible benefit of social support.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session4 lines 305-309"
   },
   {
@@ -477,7 +477,7 @@
     "explanation": "Because \"cases\" is plural, use the plural demonstrative and noun: \"these kinds of cases.\"",
     "correct_examples": ["These kinds of cases are difficult to solve.", "We should prevent these kinds of problems."],
     "context": "Describing different criminal cases.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session4 lines 429-433"
   },
   {
@@ -516,7 +516,7 @@
     "explanation": "After \"give,\" use the object pronoun \"us,\" not the possessive determiner \"our.\" The noun phrase also needs the article \"a.\"",
     "correct_examples": ["This policy gives us a sense of security.", "The job gave her a sense of purpose."],
     "context": "Explaining how social support can make people feel safer.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session5 lines 161-169"
   },
   {
@@ -529,7 +529,7 @@
     "explanation": "In the teacher's version, \"support someone to do something\" was used, so include \"to\" before the infinitive.",
     "correct_examples": ["The program supports people to overcome difficulties.", "Her family supported her to finish school."],
     "context": "Explaining how insurance can help someone recover.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session5 lines 177-185"
   },
   {
@@ -581,7 +581,7 @@
     "explanation": "The story is in the past, so use \"couldn't.\" The plural subject \"most of them\" also refers to multiple \"dreams.\"",
     "correct_examples": ["Many students could not finish their studies.", "They couldn't achieve their dreams at that time."],
     "context": "Describing childhood expectations that were not fulfilled.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session6 lines 35-43"
   },
   {
@@ -607,7 +607,7 @@
     "explanation": "After \"help someone,\" use the base verb directly: \"help you focus.\" Do not insert \"more\" before the verb here.",
     "correct_examples": ["A clear plan can help you focus on your work.", "Music helps me concentrate."],
     "context": "Explaining how hope can motivate people.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session6 lines 67-75"
   },
   {
@@ -633,7 +633,7 @@
     "explanation": "The pattern is \"push someone to do something.\" Use the object pronoun \"you\" and add \"to\" before the verb.",
     "correct_examples": ["Her support pushed me to go ahead.", "The goal pushed him to work harder."],
     "context": "Explaining how hope motivates people.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session6 lines 143-151"
   },
   {
@@ -646,7 +646,7 @@
     "explanation": "After the modal \"can,\" use the base form \"come.\" The general noun \"society\" normally takes no article here.",
     "correct_examples": ["Training can help people come back to society.", "She came back to society after receiving support."],
     "context": "Discussing education and opportunities for poor people.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session6 lines 259-265"
   },
   {
@@ -659,7 +659,7 @@
     "explanation": "The activity \"shopping online\" is used as a gerund phrase here, so it does not need the article \"the.\"",
     "correct_examples": ["When online shopping was new, people were cautious.", "Online shopping became popular quickly."],
     "context": "Explaining why a transaction platform was created.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session7 lines 7-19"
   },
   {
@@ -672,7 +672,7 @@
     "explanation": "The events happened in the past, so use the simple past forms \"found\" and \"built.\"",
     "correct_examples": ["They found a problem and built a new system.", "The team discovered the issue and fixed it."],
     "context": "Describing how Taobao addressed the trust problem.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session7 lines 23-35"
   },
   {
@@ -685,7 +685,7 @@
     "explanation": "For solving a problem, use the collocation \"fix a problem.\" \"Finish\" is normally used for an activity or task.",
     "correct_examples": ["The platform can fix the problem.", "The engineers fixed the issue quickly."],
     "context": "Explaining the role of the online platform.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session7 lines 43-49"
   },
   {
@@ -698,7 +698,7 @@
     "explanation": "After \"too many,\" use the plural noun \"kinds.\" The teacher recast the phrase as \"too many kinds of these cases.\"",
     "correct_examples": ["Too many kinds of scams can reduce trust.", "There are several kinds of online fraud."],
     "context": "Discussing repeated scams involving private classes.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session7 lines 61-73"
   },
   {
@@ -724,7 +724,7 @@
     "explanation": "Use the preposition \"to\" before a destination, and use the country name \"the Philippines.\"",
     "correct_examples": ["She went to the Philippines for work.", "He needed to go to Manila."],
     "context": "Discussing whether the victim should travel to recover the money.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session7 lines 205-217"
   },
   {
@@ -750,7 +750,7 @@
     "explanation": "The verb \"belong\" is an ordinary present-tense verb, so make the negative with \"does not,\" not \"is not.\"",
     "correct_examples": ["This benefit does not belong to everyone.", "The responsibility does not belong to him."],
     "context": "Explaining who qualifies for government-paid medical bills.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 2, "correct_count": 2, "incorrect_count": 0, "correct_streak": 2, "review_days": ["2026-08-03"], "next_review": "2026-08-06"},
     "source_ref": "session7 lines 365-373"
   },
   {
@@ -763,7 +763,7 @@
     "explanation": "The teacher used \"to some people\" when describing who receives the benefit. Use the recipient preposition \"to\" in that structure.",
     "correct_examples": ["The program is available to some poor families.", "The money was given to people in need."],
     "context": "Clarifying the limited recipients of a benefit.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 2, "correct_count": 2, "incorrect_count": 0, "correct_streak": 2, "review_days": ["2026-08-03"], "next_review": "2026-08-06"},
     "source_ref": "session7 lines 369-381"
   },
   {
@@ -776,7 +776,7 @@
     "explanation": "The singular subject \"government\" takes the third-person singular verb \"wants.\"",
     "correct_examples": ["The government wants to reduce costs.", "The company wants to improve its service."],
     "context": "Explaining why the government may pay certain medical bills.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-03", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-03"], "next_review": "2026-08-04"},
     "source_ref": "session7 lines 385-391"
   },
   {

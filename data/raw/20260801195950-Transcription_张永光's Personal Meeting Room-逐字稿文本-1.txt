@@ -1,0 +1,489 @@
+ZIVA_Teacher(00:00:20): Hello, sir. Hello. You see me. 
+
+Jack(00:00:22): Teacher. Yeah, I can see you. 
+
+ZIVA_Teacher(00:00:28): By the way, I notice that you your face doesn t look well, are you Ok? 
+
+Jack(00:00:37): Yeah, I think Ok, I'm ok. I think it's just light. 
+
+ZIVA_Teacher(00:00:46): The lie? Yeah, yeah, you also you you look so tired. Yeah, you look so tired. I hope you're not tired, right? Okay, so. 
+
+Jack(00:00:56): Mm. Yeah, I'm not tired. 
+
+ZIVA_Teacher(00:00:59): All right, sir, we will start our class. Okay, so tomorrow, by the way, sir, do you want? Actually, I was planning to excuse me. What do you call this? Reschedule our nine o'clock class later? Because. I am so tired, yeah, but I still yeah because I can't keep on rescheduling your classes, so I still took the 2h. 
+
+Jack(00:01:25): Yeah. 
+
+ZIVA_Teacher(00:01:35): Yeah, but for tomorrow, do you have time at four o'clock? No, then should. Is it Ok to reschedule the class at four o'clock tomorrow? Five o'clock is our break? Are you sure? 
+
+Jack(00:01:40): Yeah, I have time at Four o'clock. Yeah. Yeah, I think it's no problem. 
+
+ZIVA_Teacher(00:01:54): It's not a problem our class tomorrow. Our class tomorrow will start at 130. 
+
+Jack(00:01:55): It's not a problem, yeah. 
+
+ZIVA_Teacher(00:02:05): So wait, wait, Maybe ok, wait let me try to find Ok how about next week like four o'clock next week? No no, no no. Sara didn't. Eleven and ten, All right. How about no, no, no, no. What should we do? How about eleven o'clock on Sunday next week? Do you have time for that? 
+
+Jack(00:02:51): At eleven o'clock. 
+
+ZIVA_Teacher(00:02:54): Or no. 
+
+Jack(00:02:57): You you mean. Am right. 
+
+ZIVA_Teacher(00:03:01): Yes, yes, eleven o'clock am. Next week. 
+
+Jack(00:03:05): next sunday。Or Saturday? 
+
+ZIVA_Teacher(00:03:09): No Sunday because Joe has a class during that time. Yeah, excuse me. 
+
+Jack(00:03:20): Yeah, I think. Maybe no problem. 
+
+ZIVA_Teacher(00:03:27): Are you no no no no no ok maybe？Wait, I won't have Ai. Won't have enough time for this. Yeah, during this time though, where should for all goods? Tomorrow because I still need to. It's Ok. If we have 2h, so you'll have enough time to do the things you want, you should do. So we can't disrupt this one. No let s just get through it. It s just 1h. Yeah no need to cancel, I no need to reschedule, I still have class at. Again, I have class at nine. Another student booked it, but seriously, I am so tired. What should I do? 
+
+ZIVA_Teacher(00:04:39): Okay, I will reschedule. Go on. 
+
+Jack(00:04:39): Yeah, I yeah, I think. Yeah, I think Kris, you know, it's no problem. I think maybe you can move to next month or some date. 
+
+ZIVA_Teacher(00:04:52): Okay, I'll reschedule our class at nine o'clock, then I'm going to cancel my other class later. This is seriously giving me head a headache. OK monday sunday。Okay. Maybe I should reschedule it on Sunday. Next month, yeah for the the Ok, you can check it. I rescheduled it on a September 27. 
+
+Jack(00:05:21): 等一下。Yeah, Ok. 
+
+ZIVA_Teacher(00:05:33): My I can't feel my head. I'm very sorry. Seriously, it's a family problem that I had to deal with. That's why it took a toll on me. 
+
+Jack(00:05:50): Yeah. 
+
+ZIVA_Teacher(00:05:50): Yeah, this month has been very problematic. Why, why is this month so problematic? Yeah, there are seriously. We had so many rescheduled, rescheduled classes and even on pre play I had so many. I think I had more than 27 cancellations from the company, too. Yeah, I don't know what's ha. What happened to July. But. 
+
+ZIVA_Teacher(00:06:22): Yeah, anyways, all right. So this time, don't worry tomorrow, I promise there won't be any reschedules. Yeah, reschedule classes this month. No more. Yeah, let's just have a smooth classes this month. Ok, so we'll continue this one. Can you see it? Yeah? 
+
+Jack(00:06:47): 行。Yeah, I can see it. 
+
+ZIVA_Teacher(00:06:51): Okay, so now I would like you to share your opinion about this. Why do you think people? Why do you think people feel the hatred for the rich? Yeah. 
+
+Jack(00:07:07): Yeah, I think nowadays we can be easily affected by others, especially we can read many articles. 
+
+ZIVA_Teacher(00:07:22): Especially if we can. 
+
+Jack(00:07:24): Especially, we can read maniatic, especially if we can read many articles or. 
+
+ZIVA_Teacher(00:07:26): If we can. If. 
+
+Jack(00:07:35): Pictures on social media, the rich people like to share their daily life and then they can receive many feedbacks and likes. Yeah, however, at the same time a lot of poor people don't have enough money to buy food. They also can read these articles. 
+
+Jack(00:08:12): Some of them are struggling for their food and they can. they can read the。They can read the rich waste a lot of money or food. 
+
+ZIVA_Teacher(00:08:30): They hear. Or they learn, learn, they learn that the rich waste a lot of money. On. 
+
+Jack(00:08:42): Yeah, they learn to. 
+
+ZIVA_Teacher(00:08:43): They learned, learn no, they learn, learn. They learn that the rich spend much money on. 
+
+Jack(00:08:52): Yeah, they. 
+
+ZIVA_Teacher(00:08:53): Ok waste money on food. Ok. 
+
+Jack(00:08:59): They learned that the rich spent much money they wished. 
+
+ZIVA_Teacher(00:09:05): No, no, no, they learn, learn only they learn that the rich waste money on food. 
+
+Jack(00:09:11): They learn they learned that the rich waste money on food. 下车就 some more。Such as some water or food are very expensive for. For the poor people, if some food are some food and water are very expensive. 
+
+ZIVA_Teacher(00:09:44): Some food and water. 
+
+Jack(00:09:46): Some food and water are very. 
+
+ZIVA_Teacher(00:09:48): Some some foods and ok, some food and water are. 
+
+Jack(00:09:54): Some food and water are very expensive. Yeah, more than are more than their. Yearly salary. 
+
+ZIVA_Teacher(00:10:07): Ok. So. 
+
+Jack(00:10:10): So they can, they can be affected by internal. They can be affected by internet celebrities. yeah。They try to share some ideas and skills. To get more like so and feedback, so so some more. Poor people believe them and try to use their method to hurt or kill the rich. 
+
+ZIVA_Teacher(00:10:59): Well, actually the rich before, like the Rothschild family for the Rothschild family, definitely. They, their ancestors worked their asses off right. They worked so hard this one. 
+
+Jack(00:11:17): Yeah, yeah. 
+
+ZIVA_Teacher(00:11:18): They worked so hard to build up their own money. Maybe they in along the way they manipulated people and scammed them out of their savings, but at least still they had they made the effort. This one blood sweat and tears to actually be on the top so you can't blame them if they enjoy what they've earned. Am I right? 
+
+Jack(00:11:37): Yeah. Yeah. 
+
+ZIVA_Teacher(00:11:48): You can't blame them if they enjoy what they've earned. Who are we to judge them for that? But the Sikh? Reality is always so harsh wherein they have to know that people. Yeah, we humans are always jealous of many things. We desire what the other people have, am I right? We always did. We always do that. So basically we're telling ourselves that I think I can't do it. So Ifa person does it. 
+
+Jack(00:12:20): Yeah, right? Yeah, right. 
+
+ZIVA_Teacher(00:12:34): Ifa person does it himself or herself, we should grab the opportunity to rob that yeah to rob him or her. 
+
+Jack(00:12:45): Yeah. 
+
+ZIVA_Teacher(00:12:45): Isn't that right? Yeah, all the time that happens. So let's say your salary now is me. U is giving you a good life, right, sir? Yeah, so let's say that's the case now I want for me. I want your life. I want. I want to have what you have. I want to get what you have. So basically I want I'll rob you yeah, or maybe hurt your family. Yeah, it does. Just that is. 
+
+Jack(00:13:00): Yeah, yeah. 
+
+ZIVA_Teacher(00:13:24): That is my way of getting it. However, I can't sustain it for a long time because. It did not come from me so I didn't know the process of it. Yeah, but you see the the most ridiculous thing about. 
+
+Jack(00:13:40): Yeah. 
+
+ZIVA_Teacher(00:13:45): All of this. Yeah. Is that. You do not know how they got, how they got it. Yeah. 
+
+Jack(00:13:55): Yeah. 
+
+ZIVA_Teacher(00:13:55): However, is it still so disgusting wherein you took their money but the process of getting that was so hard and you still just said yeah, Ii got it but thank you let me let me have it by myself. Yeah, that kind of a very empty. What do you call this or cold bloodedness? You're not a person. If the moment you do that, you're not a person anymore, you're a monster. 
+
+ZIVA_Teacher(00:14:33): why。Because you're not thinking of their efforts. Yeah, on how they got there instead of focusing on your business. 
+
+Jack(00:14:34): Yeah. 
+
+ZIVA_Teacher(00:14:48): You went to the other side of the fence so that. You can have it all, but then after it is gone, you want it more when you saw you're going to hurt another person again. For it, am I right? It doesn't end there. So basically you've just opened an abyss that doesn't. 
+
+Jack(00:15:07): Yeah, I think you're right. Young. 
+
+ZIVA_Teacher(00:15:14): Get filled. Yeah, the moment you did that you just opened a gate or this one a bit that doesn't get filled. So no matter how you enjoy other people's. Hardware, a hard earned savings or money. You can't fill up your desires. You just want more and more and more and more. 
+
+ZIVA_Teacher(00:15:40): Until you die, so basically you're just an empty shell. You're nothing ye become nothing but for the rich. Well, we just need to think that they heard they worked hard for their own money. We don't have anything to do with that. Unless unless they took it from you so that s how you re going to get revenge right, isn t that justice already? Yeah, come on if Ifa person takes my money away from me. Nope, you re not getting away. Ii worked hard for that money. Where are you taking it? yeah. 
+
+ZIVA_Teacher(00:16:25): You're not getting away with it. Yeah, I'll fight tooth and nail to get that money from if ever, and I think that's the same for you too. Come on. Who who doesn't? Who wants to get robbed from their hard earned money? Yeah. But sadly. 
+
+Jack(00:16:45): Yeah. 
+
+ZIVA_Teacher(00:16:51): How should they put this? I don't want to bring the problem of my family here, but I just want to let it all out like yesterday. I was close to punching the Yeah, literally. Yeah, I want to make my hands bleed because of my anger. But yeah, I also wanted to. I also wanted to hire a hacker, yeah, and order him to hack my brother's account because. 
+
+ZIVA_Teacher(00:17:31): Okay, that s enough this is the problem of having a brother. Yeah, well, maybe for other people they have good relationships with their siblings, but. 
+
+Jack(00:17:39): Yeah. 
+
+ZIVA_Teacher(00:17:48): No, it's not as blissful as you think. We're eight siblings, okay, but none of them are close to me at all. 
+
+Jack(00:17:59): Yeah, yeah, I. I think it's very difficult to handle, handle relationships with your siblings. 
+
+ZIVA_Teacher(00:18:10): Yeah, yeah, yeah, yep, because you have you. Yeah, there are your siblings, but they are also a different kind of person. They are also a different kind of people, am I right? 
+
+Jack(00:18:20): Yeah, they. Yeah, yeah, I think they yeah, they have different. Each of them have had different families they need to consider. for themselves the first。
+
+ZIVA_Teacher(00:18:25): Each of them. 
+
+ZIVA_Teacher(00:18:37): Exactly, and that can happen to me too. However, you see, it's very hard to let go of the memories you've spent during your childhood with them. I can't let go of those because you see if I do that. 
+
+Jack(00:18:53): Yeah. 
+
+ZIVA_Teacher(00:18:59): I'm just closing my heart to something that was once a precious thing. Yeah, those memories were precious because we spent how Mo? Maybe one fort. 
+
+Jack(00:19:06): Yeah. 
+
+ZIVA_Teacher(00:19:14): Our lives together growing up. Yeah, taking care of each other. So basically, yeah, but I well, humans do change a lot, however habits. This one habits and characteristics usually stay with them unless unless they try to forcefully change themselves like what I did. I really forced myself to change my mindset and everything because I was told so wrong during my childhood like everything. 
+
+ZIVA_Teacher(00:19:54): Went chewing. Yeah, when I came into the city, I would have gone. I would have been played around by so many people, especially the smartest ones, if I didn't change my mindset forcefully and disciplined. Yeah, Mike. Yeah, I had to practice self discipline and I had to educate myself too for this. But with them, I spent one part of my life and that's like maybe 60 or 70%. So. It's very hard to let go of those shared memories. Yeah, maybe the affection the affection went down to. 
+
+ZIVA_Teacher(00:20:46): Negative zero? Yeah, Maybe my affection went down to negative zero, but I can't blame. I can't blame them for not having no no no. I have to blame them because they chose they chose the. Wrong way, but it's not my fault that they did that, am I right? 
+
+Jack(00:21:13): Yeah. 
+
+ZIVA_Teacher(00:21:15): However it s also my is it still yeah is it my fault or not my fault or not I just keep on asking that my fault or not if only you had a sibling sir you ll know yeah if your sibling. Chooses the wrong direction and it spends most of his or her time drinking gambling. 
+
+ZIVA_Teacher(00:21:44): But there was smoking and here you are doing your best not to disrespect other people, especially your the men. Yeah, I'm trying my best not to disrespect the men because I don't want women to be to be done. This yeah, to be disrespected too. No, no, no. I mean I don't want women to be to experience that this. I don't want women to be. 
+
+ZIVA_Teacher(00:22:21): Experiencing the same thing so basically it's like that, but here comes my brother, it's so hard. Yeah, anyways, let's just go back. 
+
+Jack(00:22:34): You know. 
+
+ZIVA_Teacher(00:22:35): Yeah, so well the hatred that many people feel towards the rich can. Excuse me can be overwhelming once you understand the motives or intentions of each and every one of the people. Yeah, especially the rich. You'll feel very, very sad for the rich. They can do many things because they have money. 
+
+Jack(00:23:06): Yeah. 
+
+ZIVA_Teacher(00:23:12): And they can ask the people to do the things they want. Excuse me and the ones that they and the ones that they usually target are the stupid. Yeah. 
+
+Jack(00:23:20): Yeah, right. 
+
+ZIVA_Teacher(00:23:31): Are the are the idiots? I should say? Am I right? Yeah. 
+
+Jack(00:23:36): Yeah. 
+
+ZIVA_Teacher(00:23:37): Yeah, like come on, a person will become an idiot if he or she be becomes if he or she is selfish. Let's say. I have a lot of money I will, but however, I want to hire you to do something bad for me. And the money is overwhelming. You, let's say I'll offer 1 million dollar No, no, No 10 million dollars in dollars. Ok in dollars. 
+
+ZIVA_Teacher(00:24:15): So imagine that in. Chinese yuan, how much is it? Maybe at around. 
+
+Jack(00:24:26): A. Million. 
+
+ZIVA_Teacher(00:24:30): Sir. 
+
+Jack(00:24:30): Yeah, sorry teacher, can you hear? 
+
+ZIVA_Teacher(00:24:35): Yeah, yeah, 70 million yuan, So that's that's more than enough for you to spend for the rest of your life, am I right? 
+
+Jack(00:24:35): 70 million. 
+
+ZIVA_Teacher(00:24:46): And let's say 70 million 1 million is enough for you to have a business on your own or build or buy an apartment complex. And then you earn, you'll earn money. 
+
+Jack(00:24:47): Yeah, right. 
+
+ZIVA_Teacher(00:25:06): Every every year, yeah, or monthly event? Yeah, so. 
+
+Jack(00:25:09): Yeah. 
+
+ZIVA_Teacher(00:25:14): Something like that now. Where will all this go?So basically, I'll just offer you this 110 million dollars for you to kill someone. Let's see my arrival. If you kill my rival, come yeah my rival I can. I can have all of the customers. Yeah I can have all the customers. From my for I can have all the customers go to my company and buy my products instead of my rivals. 
+
+ZIVA_Teacher(00:26:00): Yeah, so my annual income will triple and maybe at around 100 billion? Yeah, because they all they all. Transferred to my company, so yeah, 10 million is just a pocket change for me, kind of like that. That is how the rich works. No. I don't know they. And also here's the here's the saddest part. Most of the rich people are the wealthy. 
+
+ZIVA_Teacher(00:26:48): Do not want to hurt the people, they do not want to hurt us because they are our. We are their food, not exactly the food that you know like they eat us. We are their resources and food resources, what kind of resource we are, the resources or what kind of resource food. That means we feed them, but I just want to ask, Sir, which companies started from nothing in your country. 
+
+ZIVA_Teacher(00:27:30): Which companies started out of nothing? 
+
+Jack(00:27:36): Nothing. 
+
+ZIVA_Teacher(00:27:39): Yes. Which companies in your country started out of nothing? 
+
+Jack(00:27:46): Sorry teacher, what do you mean? Start out of nothing you mean suddenly become famous. 
+
+ZIVA_Teacher(00:27:54): Yes, yes, like scratch. No no, no, no, no like the ones being how to put this. Like they started from scratch like square one, something like that and then now they are the the company or their company is booming. Are there companies are booming? 
+
+Jack(00:28:25): Yeah, I think, yeah, I think a lot of companies are bombing especially. 
+
+ZIVA_Teacher(00:28:25): It started from scratch. No, No, No. I want to ask which companies in your country started from scratch. 
+
+Jack(00:28:44): Started from scratch. 
+
+ZIVA_Teacher(00:28:48): Yes. 的酸。
+
+Jack(00:28:51): Yeah, I mean, a lot of company Joe started from scratch, especially some companies are. 
+
+ZIVA_Teacher(00:28:56): Yeah. 
+
+Jack(00:29:00): Related. To Ai. 
+
+ZIVA_Teacher(00:29:05): Ok, such as. 
+
+Jack(00:29:06): For for, for example, yeah. For such as they produce storage, memory, Gpu and others. 
+
+ZIVA_Teacher(00:29:15): No, no name of companies. Names of companies, I'm asking. I'm asking the names of companies, the ones that started from scratch. 
+
+Jack(00:29:31): Yeah. Yeah, Ii think I need to write. 
+
+ZIVA_Teacher(00:29:39): I'm Ok. 
+
+Jack(00:29:42): I think recently Huawei learned a lot from Ai, especially from Gpu. In my country. Most hardware came from Huawei not. 英伟达。
+
+ZIVA_Teacher(00:30:01): 那 you。What? What? What do you mean, sir? 
+
+Jack(00:30:06): Navid Navid. 
+
+ZIVA_Teacher(00:30:08): 我那。
+
+Jack(00:30:12): N 维的。
+
+ZIVA_Teacher(00:30:13): nvidia nvidia。
+
+Jack(00:30:15): Nvidia Yeah. For most Ai company in my country they can't buy Gpu from Nvidia. 
+
+ZIVA_Teacher(00:30:25): 屋企。
+
+Jack(00:30:26): So they have to buy hardware from Huawei, so Huawei earned a lot from them. 
+
+ZIVA_Teacher(00:30:34): So we earned a lot from them because of that. Yes. 
+
+Jack(00:30:41): Yeah, Huawei earned a lot of. Money from hardware and. 
+
+ZIVA_Teacher(00:30:46): Earned a lot of money from hardware. 
+
+Jack(00:30:49): Yeah, earn a lot of money from hardware. and then it。Bite Dancer they produced. 
+
+ZIVA_Teacher(00:30:52): And. 
+
+Jack(00:31:01): tiktok。Take Tgo or do in. They have billions of customers so every year they can earn a lot from there. 
+
+ZIVA_Teacher(00:31:21): So that's what it is. Yes, excuse me, but it's still. 
+
+Jack(00:31:23): Yeah, yeah. 
+
+ZIVA_Teacher(00:31:32): By the way, this is very familiar to me. 
+
+Jack(00:31:37): Yeah. 
+
+ZIVA_Teacher(00:31:39): Yeah. Do they also do games 爱看 Yeah, yeah, yeah. Or maybe I just wait. 
+
+Jack(00:31:45): No, you mean bite bite dance, right? They produced the Tiktok Tiktok from this company. 
+
+ZIVA_Teacher(00:31:55): But I think Bytedance is familiar because they recently I've seen some newly produced films with with the producer, with Bytedance as one of their producers. Yeah. 
+
+Jack(00:32:15): Yeah, they they produced a app called said. Sorry, I forgot the name the defeat. 
+
+ZIVA_Teacher(00:32:28): What do you mean. 
+
+Jack(00:32:31): They produced a pretty good Ai model to produce videos. 
+
+ZIVA_Teacher(00:32:37): They produced a. Ai models for creating videos, you should say. 
+
+Jack(00:32:44): Yeah, they produced a Ai model for creating videos, they produced Ai models for creating videos. 
+
+ZIVA_Teacher(00:32:48): Models. Models. Ok. And. Did they succeed? 
+
+Jack(00:33:03): Yeah, I think they succeed. Yeah, I think they succeeded and they defeat the Chatgpt video models. 
+
+ZIVA_Teacher(00:33:05): Succeeded. They succeeded. They succeeded. Yeah. Ok, that's all. 
+
+Jack(00:33:17): Yeah, and the the the open Ai. Yeah, open Ai company. 给我 Openai Company gave up their video models. 
+
+ZIVA_Teacher(00:33:24): Companies. Why. 
+
+Jack(00:33:38): I think they find they can't defeat the they find that they can't compete with the fight dash they can't compete with. 
+
+ZIVA_Teacher(00:33:44): Did you find that. Compete. 
+
+Jack(00:33:52): Beta dance. Fight ten. 
+
+ZIVA_Teacher(00:33:53): Byte Dance. Is it really that good? Yeah. 
+
+Jack(00:33:57): Yeah, I think it's really good. You can't, you can't you. You can't find the difference the Ai videos and real videos. 
+
+ZIVA_Teacher(00:34:09): You. You can find the difference between. 
+
+Jack(00:34:13): You can't find the difference between real videos and Ai videos. 
+
+ZIVA_Teacher(00:34:19): A real and Ai videos. 
+
+Jack(00:34:22): You can't find the difference between Ai and real videos. 
+
+ZIVA_Teacher(00:34:29): Now that's alarming because there are. I watched some Ai videos too. However, okay, here's something that you should know. Okay, I've already stopped watching Ai vertical dramas from China because I I'm also yeah, I'm enjoying it, but I also want to see how they how no, no, no, the twigs and turns or the tricks that they put up in them. So. 
+
+ZIVA_Teacher(00:35:07): Like what I've said to you before or like what I've mentioned to you before they try to. I make Ai videos from the already produced ones that they've had, like the Chinese dramas yes, that they've made and then they turn them into Ai. That's the realistic, Yeah. 
+
+Jack(00:35:25): Yeah, yeah. 
+
+ZIVA_Teacher(00:35:35): So I'm just wondering Maybe for bite dance that's what they do. Yeah, they do the real time acting, but they change the faces of these actors into Ai. Am I right。
+
+Jack(00:35:49): Yeah, yeah, I think you're right. They had a Yeah, they have a lot of videos that their users uploaded so they can use these videos to train their Ai model. 
+
+ZIVA_Teacher(00:36:08): So basically, maybe in the future we can't see the real faces of these actors. It's very sad I won't see their proper expressions like for example, if I use Ai, you can't see my expressions like this. If I make my eyes bigger, you can't see it properly, yeah, but it's still that's very sad. 
+
+ZIVA_Teacher(00:36:38): I don't know what's becoming a becoming of this world, but still. I think we'll crave the real thing later on. This one will crave reality, right? The tangible. What do you call this? The tangible things later on, am I right? But there's one thing that I that scared me from Ai. Do you know like there was a video about the dog? It was a real footage, but they turned it into an Ai form so the footage showed a dog turning on the bed and then. 
+
+Jack(00:37:03): Yeah. 
+
+ZIVA_Teacher(00:37:24): When a used it on Ai and it it was time to change the panel or the slide like that the comp because videos are composed of slides right? Unless you just do this one like. 
+
+Jack(00:37:33): Yeah. 
+
+ZIVA_Teacher(00:37:42): You show it all all around the end. No. So it's it was like that no when when the video showed the dog flipping on the bed. It literally turn into the bed and then it just wink. The dog just popped out of out of it like that. So it scared me because. 
+
+ZIVA_Teacher(00:38:12): It just vanished into thin air and then like that. That is scary. Why is it scary because in the video the dog turned into bed and then at the same time the bed just went like this and then here comes the dog again. Yeah, so it's very scary. I don't know why it it just creeped me out. Yeah, but just by looking at it it it creeped me out like my gosh what s this, yeah. 
+
+Jack(00:38:33): Yeah. 
+
+ZIVA_Teacher(00:38:49): So so, yeah, but for you, sir, do you want to do you want to? Okay, Do you want Ai to change your face when you let's say if in the future you'll upload a video? 
+
+Jack(00:39:04): Yeah. 
+
+ZIVA_Teacher(00:39:07): Why do you want or is it okay for you? Is it okay for you to change your face into an Ai form if ever you'll upload some pictures or videos in the future? 
+
+Jack(00:39:09): Sorry, teacher. What's the question you mean? I want Ai to change. Change my face. No, I don't want to. Ai. to change my face。
+
+ZIVA_Teacher(00:39:34): Why. What do you mean by that? 
+
+Jack(00:39:38): 艾米 It's my yeah, I mean, my face is a kind of data. That belongs to me. If someone want to use it, they need to get permission from me. 
+
+ZIVA_Teacher(00:39:57): Yeah, but if they use Ai to change your face, what do you think? Yeah, are there any laws about? Sorry illegally using Ai to change the faces of people. Are there any laws related to how? How Ai should be properly used? Yeah. 
+
+Jack(00:40:33): Yeah, I think nowadays in my country we have some large to to limit if you use Ai to two. 
+
+ZIVA_Teacher(00:40:42): To limit the usage of Ai. 
+
+Jack(00:40:46): Yeah to to limit the usage of Ai. If you generate some pictures or videos from Ai, you need to label them. 
+
+ZIVA_Teacher(00:40:48): Limit. Okay, did they? Did they make a program for Ai to recognize? Or label it, or you have to do it manually. 
+
+Jack(00:41:17): No. You don't need to do it manually when you generate videos or pictures. It had some label in it. You can for some professional people they can use their device or method to to check to check it. 
+
+ZIVA_Teacher(00:41:42): ok so。That's how it is. I didn't know about that. 
+
+Jack(00:41:47): Yeah, yeah. Recently I find the Google company also produced a method to to order to order it. 
+
+ZIVA_Teacher(00:42:00): The Odia. 
+
+Jack(00:42:05): Or all it audit? Yeah, when you use Ai, generate a picture or video. 
+
+ZIVA_Teacher(00:42:06): Did Ok. Ok. 
+
+Jack(00:42:14): In Google platform, they can audit audit it you use some picture or data to generate it. 
+
+ZIVA_Teacher(00:42:27): Ok, so you have to audit that one, but seriously that is how do I put this. It is still Ba baffles me when. 的 What do you call this? The popularity of Ai nowadays is on the charts. However, many people for me, maybe for me I'm I'm old school, so I prefer the I prefer the authentic part of something. But if Ai is A, if Ai is used in the process, then that will be a big problem. 
+
+ZIVA_Teacher(00:43:18): Am I right? Let's say for you, sir, do you also input Ai or in your pro? Yeah, in the products that you design or develop? 
+
+Jack(00:43:34): Yeah, yeah, I'd like to use Ai to help me design or develop. 
+
+ZIVA_Teacher(00:43:40): 嘘 OK。Is it harder to manage, or it's actually easier now? 
+
+Jack(00:43:49): Yeah, I think it's so easier. It is easier to manage. 
+
+ZIVA_Teacher(00:43:56): Now now you should say it's easier to manage now. what's the difference。Yeah. 
+
+Jack(00:44:01): What's the difference? You mean? What's the difference? 
+
+ZIVA_Teacher(00:44:04): Yes. What's the difference between now and before? Yeah, when you weren't using Ai. 
+
+Jack(00:44:12): Yeah, before you need to. Yeah before if you wanted to design a picture or develop something you needed to spend monthly. 妈的 But nowadays you can finish your tasks. Indeed, then using Ai, you can improve your efficiency. 
+
+ZIVA_Teacher(00:44:45): Ok. And. 
+
+Jack(00:44:51): And it can help you make your tasks more. More creativity and yeah, make your tasks more creative and. 
+
+ZIVA_Teacher(00:45:01): More creative, sir. 
+
+Jack(00:45:10): Greater and greater. 
+
+ZIVA_Teacher(00:45:12): Ok, so that's all. 
+
+Jack(00:45:21): Yeah. That's. 
+
+ZIVA_Teacher(00:45:21): But seriously, yeah, we ve been having I think it s already. Excuse me it s already more than a year, almost a year in September, o it s going to be one year for user. Yeah, one year Actually, what are the changes that you Ve Uk now here s the time that I want that I want to ask from you, I want you to answer, honestly tell me. 
+
+Jack(00:45:42): Yeah. 
+
+ZIVA_Teacher(00:45:58): What are the changes that you've seen from your speaking skills before when you started learning from me and now? 
+
+Jack(00:46:13): Yeah, I think. One year ago. 
+
+ZIVA_Teacher(00:46:16): Now you're more talkative? Okay, go on first.。
+
+Jack(00:46:19): yeah I think one year ago。A year ago, if I want to speak. 
+
+ZIVA_Teacher(00:46:24): A year ago. Wanted to. 
+
+Jack(00:46:30): Yeah, if I want to speak a sentence, it's not a. It's not a very. 
+
+ZIVA_Teacher(00:46:39): It was not. 
+
+Jack(00:46:40): It was not very easy, but nowadays at least I can see two or three sentences. 
+
+ZIVA_Teacher(00:46:49): A lot. 
+
+Jack(00:46:52): Yeah, even though it had some grammar problem, grammatic errors. 
+
+ZIVA_Teacher(00:46:58): Grammatical errors. Actually sir you have to pat yourself in the ban I always correct you Ok im always harsh in correcting you I have to tell you this but excuse me seriously if im going to let you compete with other with some of my other students you re going to win yeah why why is that it s because im confident in your abilities. 
+
+ZIVA_Teacher(00:47:33): I have seen your improvement like before you had to you. We had to use the translator or you had to use it. But maybe. Six months, six to no, no, no, six to seven months. Sorry No. Four months to four to seven months later. Along the way you just stopped using the calculator and you just listened to me and you. You were able to understand my questions without even. 
+
+ZIVA_Teacher(00:48:12): You know, using something between the lines? Well, we had Ai, yes, but I don't think you turned it on. For a Chinese translation, right? No. And I remember during that time I I literally pushed you to make long presentations, I still remember during our first classes. Do you remember that like long presentations when you made like how many sentences? Yeah, yeah, but now yeah, Im happy that you are able to explain your point there were only. 
+
+Jack(00:48:27): Yeah, yeah, right. 
+
+ZIVA_Teacher(00:49:01): Excuse me, yeah, minimal. Your errors were mainly articles. Sometimes most of the time you miss. Yeah, you don't know where to put them. Your prepositions, that's okay, only two. Yeah, I think nowadays you only know how to misplace this one too. How to use it. 
+
+ZIVA_Teacher(00:49:25): And how to make Add how to add that and become make the verb an infinitive one like an infinitive verb? Yeah, you. You misplaced the two functions. What else? Repetitions only for mostly nouns and adjectives? That's all. 
+
+ZIVA_Teacher(00:49:47): Yeah, so minimal, very minimal, but when it comes to talking you're able to explain yourself so you have to be proud. But I don t want you to be proud because we re still. Yeah, a long way. 
+
+ZIVA_Teacher(00:50:04): However, if you're going to compete. 然后 You're going to win? Yeah, Ok, come on. I like winning. Do you like winning? Of course? Yes, Ok, so that's all. We're going to continue this tomorrow, so I will save this one. 
+
+Jack(00:50:04): It. 
+
+Jack(00:50:19): Yeah. 
+
+ZIVA_Teacher(00:50:29): And. Do you have any questions, sir. 
+
+Jack(00:50:33): No, I don't have any questions. 
+
+ZIVA_Teacher(00:50:35): Okay, so tomorrow our class will start. Basically at I didn't open any more slas tomorrow, so 130, yeah, we'll we'll start 130. 
+
+Jack(00:50:52): Young. 
+
+ZIVA_Teacher(00:50:52): So yeah, I'll end it here. And thank you, sir, I have a nice night. I'm very sorry. Ok, yeah, Ok, see you. See you see you Ok. Ok. Goodbye. 

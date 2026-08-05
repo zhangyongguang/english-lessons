@@ -4,11 +4,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 
-Two things, one toolkit, driven by **Claude Code** slash commands or **Codex** Skills:
+Four things, one toolkit, driven by **Claude Code** slash commands or **Codex** Skills:
 
 1. **Error log** — turn the Tencent Meeting transcript of a 1-on-1 English class into a structured database of my mistakes + the teacher's corrections, then find patterns, generate practice, and export to Anki.
 2. **Vocabulary store** — capture the unfamiliar words I look up day to day (translate/define them), dedup and date them, and export to Anki.
 3. **Study notes** — preserve grammar, vocabulary, and usage questions discussed with ChatGPT as consistently formatted Markdown.
+4. **Sentence review** — revisit one recommended real mistake at a time, with automatic counts and spaced repetition.
 
 It's deliberately small: a few **pure-standard-library** Python scripts (no dependencies), Markdown prompts as the single source of truth, and slash commands that glue them together. Claude does the thinking; the scripts do the deterministic legwork.
 
@@ -41,11 +42,16 @@ Codex discovers the repository Skills under `.agents/skills/`. Invoke them with:
 ```text
 $extract
 $training-loop
+$review
 $save-note
 $sync
 ```
 
-`$extract` processes the latest pending lesson by default. `$training-loop` shows or refreshes the current Chat Live session. `$sync` commits and pushes intentional changes and must be invoked explicitly. If new Skills do not appear in Codex, restart Codex from this repository.
+`$extract` processes the latest pending lesson by default. `$training-loop` shows or refreshes the current Chat Live session. `$review` uses English only, shows exactly one recommended mistake in the conversation, and records `y` (know), `n` (don't know), `s` (skip), or your own correction. `$sync` commits and pushes intentional changes and must be invoked explicitly. If new Skills do not appear in Codex, restart Codex from this repository.
+
+Sentence-level review progress lives in each error JSON's `review` object. Run
+`python3 scripts/review_errors.py status` for totals; the generated
+`data/errors/md/...` tables stay compact and unchanged.
 
 Use `$save-note` and paste Markdown from an English-learning discussion to normalize it with `templates/study_note_template.md` and save it under `notes/questions/YYYY-MM/`.
 
@@ -67,7 +73,7 @@ Check status anytime: `python3 scripts/list_raw.py` (by day), `python3 scripts/l
 ```
 english-lessons/
 ├── AGENTS.md               # project guidance auto-loaded by Codex
-├── .agents/skills/         # ★ Codex workflows: extract, training-loop, sync
+├── .agents/skills/         # ★ Codex workflows: extract, training-loop, review, sync
 ├── CLAUDE.md               # project notes, auto-loaded by Claude Code (the "rules")
 ├── .claude/commands/       # ★ the slash commands
 │   ├── extract.md  weekly.md  exercise.md  anki.md  sync.md
@@ -85,7 +91,7 @@ english-lessons/
 ├── analysis/weekly/        # weekly pattern reports
 ├── prompts/                # the prompts; commands reference them via @ as the single source of truth
 ├── scripts/                # small tools (pure standard library, no network or install)
-│   ├── list_raw.py  list_weeks.py  render_md.py  build_master.py  make_anki.py  new_day.py
+│   ├── list_raw.py  list_weeks.py  render_md.py  build_master.py  review_errors.py  new_day.py
 │   ├── render_vocab_md.py  make_vocab_anki.py  list_vocab.py
 │   ├── _common.py          # shared helpers (date parsing, JSON loading, escaping)
 │   └── validate.py         # schema/data validation (run in CI)

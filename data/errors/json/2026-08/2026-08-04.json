@@ -22,7 +22,7 @@
     "explanation": "The past-tense verb 'came' is needed. We usually say 'come back home' without 'to' before 'home.'",
     "correct_examples": ["I came back home at seven.", "She came home after work."],
     "context": "Describing what he did after work.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session1 line 11"
   },
   {
@@ -35,7 +35,7 @@
     "explanation": "The question asks about a completed meal, so use the past tense 'ate,' not the present tense 'eat.'",
     "correct_examples": ["I ate dinner at home.", "We ate our lunch together."],
     "context": "Talking about dinner that evening.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session1 lines 19-23"
   },
   {
@@ -48,7 +48,7 @@
     "explanation": "Use the past tense 'ate' because the meal had already happened.",
     "correct_examples": ["I ate some noodles for dinner.", "He ate rice and vegetables."],
     "context": "Saying what he ate for dinner.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session1 lines 27-29"
   },
   {
@@ -61,7 +61,7 @@
     "explanation": "Use past tense 'needed' for the past situation, add 'the' before 'afternoon,' and use the singular noun 'assignment' for one task.",
     "correct_examples": ["The report needed to be finished in the afternoon.", "I forgot the assignment."],
     "context": "Explaining why the homework was forgotten.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session1 line 59"
   },
   {
@@ -74,7 +74,7 @@
     "explanation": "The collocation is 'appreciate your help,' without 'for.' In a polite request, 'would appreciate' is natural.",
     "correct_examples": ["I would appreciate your help with this report.", "We would appreciate your feedback."],
     "context": "Writing an informal email request.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session1 line 87"
   },
   {
@@ -87,7 +87,7 @@
     "explanation": "After 'need,' use 'to' plus the base verb. The collocation is 'ask for help,' not 'ask help.'",
     "correct_examples": ["I need to ask for help.", "She asked for help with the task."],
     "context": "Explaining what a borrower does.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session1 line 141"
   },
   {

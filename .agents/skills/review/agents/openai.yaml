@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review English Errors"
+  short_description: "Review one high-priority mistake at a time"
+  default_prompt: "Use $review to show me the most important English mistake to review next."

@@ -20,6 +20,7 @@ import build_master  # noqa: E402
 import make_anki  # noqa: E402
 import make_vocab_anki  # noqa: E402
 import render_vocab_md  # noqa: E402
+import review_errors  # noqa: E402
 
 
 class TestParseDate(unittest.TestCase):
@@ -140,6 +141,8 @@ class TestFlatten(unittest.TestCase):
         self.assertEqual(row["correct_examples"], "e1 | e2")
         self.assertEqual(row["status"], "new")
         self.assertEqual(row["times_seen_again"], 2)
+        self.assertEqual(row["review_count"], 0)
+        self.assertEqual(row["incorrect_count"], 0)
         self.assertEqual(row["last_reviewed"], "")
 
 
@@ -165,6 +168,84 @@ class TestAnkiCards(unittest.TestCase):
         self.assertIn("fluent and persuasive", back)
         self.assertIn("articulate", back)
         self.assertEqual(tags, "adjective communication")
+
+
+class TestSentenceReview(unittest.TestCase):
+    def setUp(self):
+        self.tempdir = tempfile.TemporaryDirectory()
+        self.path = Path(self.tempdir.name) / "2026-08-01.json"
+        self.records = [
+            {
+                "id": "2026-08-01-001", "date": "2026-08-01", "category": "grammar",
+                "tag": "agreement", "my_sentence": "He go.", "correction": "He goes.",
+                "explanation": "Do not use the quoted word \"review\" here.", "correct_examples": [],
+                "review": {"status": "new", "times_seen_again": 0, "last_reviewed": None},
+            },
+            {
+                "id": "2026-08-01-002", "date": "2026-08-01", "category": "grammar",
+                "tag": "agreement", "my_sentence": "It work.", "correction": "It works.",
+                "explanation": "Use third-person singular agreement.", "correct_examples": [],
+                "review": {"status": "new", "times_seen_again": 0, "last_reviewed": None},
+            },
+        ]
+        self.path.write_text(json.dumps(self.records), encoding="utf-8")
+
+    def tearDown(self):
+        self.tempdir.cleanup()
+
+    def _rows(self):
+        return review_errors.load_records([self.path])
+
+    def test_next_prefers_recurring_foundational_error(self):
+        result = review_errors.next_record(self._rows(), review_errors.parse_day("2026-08-03"))
+        self.assertEqual(result["status"], "ok")
+        self.assertEqual(result["record"]["id"], "2026-08-01-002")
+        self.assertEqual(result["recommendation"]["tag_occurrences"], 2)
+        self.assertIn("foundational_pattern", result["recommendation"]["reasons"])
+
+    def test_record_incorrect_updates_counts_and_schedule(self):
+        before = self.path.read_text(encoding="utf-8")
+        record = review_errors.record_result(
+            self._rows(), "2026-08-01-001", "incorrect", review_errors.parse_day("2026-08-03")
+        )
+        after = self.path.read_text(encoding="utf-8")
+        self.assertEqual(record["review"]["review_count"], 1)
+        self.assertEqual(record["review"]["incorrect_count"], 1)
+        self.assertEqual(record["review"]["correct_streak"], 0)
+        self.assertEqual(record["review"]["next_review"], "2026-08-04")
+        self.assertIn('"my_sentence": "It work."', after)
+        self.assertEqual(before.count('"my_sentence"'), after.count('"my_sentence"'))
+
+    def test_review_update_supports_compact_json(self):
+        compact = json.dumps(self.records, separators=(",", ":"))
+        updated = review_errors.replace_review_text(
+            compact,
+            "2026-08-01-001",
+            {"status": "learning", "review_count": 1},
+        )
+        records = json.loads(updated)
+        self.assertEqual(records[0]["review"]["review_count"], 1)
+        self.assertEqual(records[1]["review"]["status"], "new")
+
+    def test_mastery_requires_three_distinct_days(self):
+        for day in ("2026-08-03", "2026-08-04", "2026-08-07"):
+            review_errors.record_result(
+                self._rows(), "2026-08-01-001", "correct", review_errors.parse_day(day)
+            )
+        record = self._rows()[0][0]
+        self.assertEqual(record["review"]["status"], "mastered")
+        self.assertEqual(record["review"]["correct_count"], 3)
+        self.assertEqual(record["review"]["review_days"], ["2026-08-03", "2026-08-04", "2026-08-07"])
+
+    def test_future_review_is_not_due(self):
+        review_errors.record_result(
+            self._rows(), "2026-08-01-001", "correct", review_errors.parse_day("2026-08-03")
+        )
+        result = review_errors.next_record(
+            self._rows(), review_errors.parse_day("2026-08-03"), exclude="2026-08-01-002"
+        )
+        self.assertEqual(result["status"], "nothing_due")
+        self.assertEqual(result["next_review"], "2026-08-04")
 
 
 class TestValidateScriptOnRealData(unittest.TestCase):

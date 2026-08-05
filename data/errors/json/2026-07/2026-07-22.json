@@ -9,7 +9,7 @@
     "explanation": "Dinner was already finished, so use the simple past \"ate.\" The teacher also removed the second \"some\" to avoid repetition: \"meat and vegetables.\"",
     "correct_examples": ["I ate rice and vegetables for dinner.", "We ate noodles last night."],
     "context": "Saying what he ate for dinner.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session1 lines 19-25"
   },
   {
@@ -22,7 +22,7 @@
     "explanation": "For a life experience up to now, use the present perfect \"haven't heard,\" and \"hear of\" needs the preposition \"of.\" The teacher gave \"I haven't heard of this company.\"",
     "correct_examples": ["I haven't heard of that brand.", "Have you heard of this app before?"],
     "context": "Being asked about a Philippine supermarket chain.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session1 lines 303-309"
   },
   {
@@ -48,7 +48,7 @@
     "explanation": "You need \"time in the countryside,\" with the article \"the\" before \"countryside.\" The teacher supplied \"During my time in the countryside.\"",
     "correct_examples": ["During my time in the countryside, life was simple.", "In the countryside, people grow their own food."],
     "context": "Recalling markets in the countryside.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session1 lines 351-355"
   },
   {
@@ -100,7 +100,7 @@
     "explanation": "The past participle of \"catch\" is the irregular \"caught,\" not \"catched,\" and \"can be caught\" expresses the possibility. The teacher gave \"you can be caught.\"",
     "correct_examples": ["You can be caught by the police.", "He was caught breaking the rule."],
     "context": "Talking about drone flying laws.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session2 lines 201-205"
   },
   {
@@ -113,7 +113,7 @@
     "explanation": "\"Drown\" is used actively for the person who drowns: \"I can drown.\" \"Drowned\" is the past form, not what you want for a present possibility. The teacher corrected \"I can drown, not drowned.\"",
     "correct_examples": ["He might drown in deep water.", "People can drown if they can't swim."],
     "context": "Explaining why he can't stay in the sea.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session2 lines 265-273"
   },
   {
@@ -139,7 +139,7 @@
     "explanation": "\"Growth\" is a noun; the verb is \"grow.\" After \"help them\" you need the verb \"grow.\" The teacher said \"grow, growth is a noun.\"",
     "correct_examples": ["A coach helps players grow.", "Good teachers help students grow."],
     "context": "Describing what a basketball coach does.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session2 lines 513-517"
   },
   {
@@ -152,7 +152,7 @@
     "explanation": "After \"get,\" use the past participle \"promoted\" for the passive idea. \"Promotion\" is the noun. The teacher said \"you didn't get promoted, that should be your term.\"",
     "correct_examples": ["She didn't get promoted this year.", "He finally got promoted to manager."],
     "context": "Role play: offering a job as a headhunter.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session2 lines 405-413"
   }
 ]

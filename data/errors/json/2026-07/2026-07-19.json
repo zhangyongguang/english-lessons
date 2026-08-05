@@ -347,7 +347,7 @@
     "explanation": "The sentence describes a repeated desire in the past, so use a past form rather than future \"will.\" The teacher modeled \"I wanted to buy a new one instead of the old one.\"",
     "correct_examples": ["Every year, I wanted to buy a new phone.", "I used to replace my laptop too often."],
     "context": "Buying the latest smart devices when he was younger.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session2 lines 181-187"
   },
   {
@@ -360,7 +360,7 @@
     "explanation": "The realization happened in the past, so both verbs should be in the past: \"found\" and \"wasn't.\" The teacher drilled the past form \"found.\"",
     "correct_examples": ["I found that the upgrade wasn't necessary.", "Later, I realized that I didn't need a new phone."],
     "context": "Realizing that yearly device upgrades were unnecessary.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session2 lines 189-195"
   },
   {
@@ -373,7 +373,7 @@
     "explanation": "(assistant note) After \"worth,\" use a gerund: \"worth changing,\" not an infinitive with \"to.\"",
     "correct_examples": ["It isn't worth changing phones every year.", "The small upgrade isn't worth paying for."],
     "context": "Whether small new features justify replacing devices.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session2 lines 193-199"
   },
   {
@@ -399,7 +399,7 @@
     "explanation": "(assistant note) \"Fail\" is normally active here, so use \"fails,\" not the passive \"is failed.\" For a possible result rather than a certainty, \"can lose\" fits the teacher's later recast.",
     "correct_examples": ["If the business fails, the owner can lose everything.", "If she fails, she can start again."],
     "context": "The financial risk of starting a business with little capital.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session2 lines 295-311"
   },
   {
@@ -425,7 +425,7 @@
     "explanation": "(assistant note) \"Many years ago\" establishes a completed past period, so keep the states and actions in the simple past: \"was, sold, got.\"",
     "correct_examples": ["Years ago, the company was small and its shares were cheap.", "They sold early and got only a little money."],
     "context": "Early employees selling shares before companies became very large.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session2 lines 397-405"
   },
   {
@@ -438,7 +438,7 @@
     "explanation": "The plural subject \"they\" refers to several people, so the countable complement must also be plural. The teacher explicitly supplied \"billionaires.\"",
     "correct_examples": ["Some early investors became billionaires.", "They hope to become successful business owners."],
     "context": "What early shareholders could gain if a company succeeds.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session2 lines 403-413"
   },
   {
@@ -451,7 +451,7 @@
     "explanation": "When \"lack\" is a verb, it takes a direct object with no \"of\": \"lack capital.\" The teacher later modeled the correct structure, \"when you lack capital.\"",
     "correct_examples": ["Some small businesses lack capital.", "When you lack capital, growth can be difficult."],
     "context": "Explaining the disadvantages of being poor.",
-    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
     "source_ref": "session2 lines 287-321"
   }
 ]

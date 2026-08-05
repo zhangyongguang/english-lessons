@@ -19,13 +19,22 @@ Every element is one error with these fields:
 | `review` | Review-status object, see below | ✅ |
 | `source_ref` | Location in the transcript, e.g. `line 412` (optional) | ⬜ |
 
-`review` object:
+`review` object (newly extracted errors use the compact initial form):
 ```json
 { "status": "new", "times_seen_again": 0, "last_reviewed": null }
 ```
 - `status`: `new` / `learning` / `mastered`
 - `times_seen_again`: how many times you made it again afterwards (tracks stubborn errors)
 - `last_reviewed`: last review date, or null
+- `review_count`: completed sentence-review interactions
+- `correct_count` / `incorrect_count`: self-ratings or assessed correction attempts
+- `correct_streak`: consecutive correct reviews
+- `review_days`: distinct `YYYY-MM-DD` review dates; repeated same-day attempts do not prove mastery
+- `next_review`: next spaced-review date
+
+The sentence-review fields are added lazily by `$review`; extraction does not need
+to populate zero values. A sentence becomes `mastered` only after three correct
+reviews on three distinct days with at least 80% accuracy.
 
 ## Controlled vocabulary (keep it consistent so stats stay accurate)
 

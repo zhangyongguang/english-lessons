@@ -14,7 +14,9 @@ OUT = ROOT / "database" / "errors_master.csv"
 COLUMNS = [
     "id", "date", "category", "tag", "my_sentence", "correction",
     "explanation", "correct_examples", "context",
-    "status", "times_seen_again", "last_reviewed", "source_ref",
+    "status", "times_seen_again", "review_count", "correct_count",
+    "incorrect_count", "correct_streak", "last_reviewed", "next_review",
+    "source_ref",
 ]
 
 
@@ -35,7 +37,12 @@ def flatten(rec):
         "context": rec.get("context", ""),
         "status": review.get("status", ""),
         "times_seen_again": review.get("times_seen_again", 0),
+        "review_count": review.get("review_count", 0),
+        "correct_count": review.get("correct_count", 0),
+        "incorrect_count": review.get("incorrect_count", 0),
+        "correct_streak": review.get("correct_streak", 0),
         "last_reviewed": review.get("last_reviewed") or "",
+        "next_review": review.get("next_review") or "",
         "source_ref": rec.get("source_ref", ""),
     }
 

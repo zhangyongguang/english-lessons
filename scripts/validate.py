@@ -42,6 +42,32 @@ def check_review(obj, where):
         return
     if "status" in review and review["status"] not in {"new", "learning", "mastered"}:
         warn(f"{where}: unusual review.status '{review['status']}'")
+    for field in ("times_seen_again", "review_count", "correct_count", "incorrect_count", "correct_streak"):
+        if field in review and (
+            not isinstance(review[field], int)
+            or isinstance(review[field], bool)
+            or review[field] < 0
+        ):
+            err(f"{where}: review.{field} must be a non-negative integer")
+    for field in ("last_reviewed", "next_review"):
+        value = review.get(field)
+        if value is not None and (not isinstance(value, str) or not DATE_RE.match(value)):
+            err(f"{where}: review.{field} must be null or YYYY-MM-DD")
+    if "review_days" in review:
+        days = review["review_days"]
+        if not isinstance(days, list) or any(
+            not isinstance(day, str) or not DATE_RE.match(day) for day in days
+        ):
+            err(f"{where}: review.review_days must be a list of YYYY-MM-DD dates")
+        elif len(days) != len(set(days)):
+            err(f"{where}: review.review_days must not contain duplicate dates")
+    review_count = review.get("review_count", 0)
+    correct_count = review.get("correct_count", 0)
+    incorrect_count = review.get("incorrect_count", 0)
+    if all(isinstance(value, int) and not isinstance(value, bool) for value in (
+        review_count, correct_count, incorrect_count
+    )) and correct_count + incorrect_count > review_count:
+        err(f"{where}: correct_count + incorrect_count cannot exceed review_count")
 
 
 def validate_errors():
