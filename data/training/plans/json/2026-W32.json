@@ -1,0 +1,57 @@
+{
+  "week": "2026-W32",
+  "source_window": {"first_week": "2026-W30", "last_week": "2026-W32"},
+  "targets": [
+    {
+      "id": "verb-complementation",
+      "name": "Use the correct verb form after another verb or preposition",
+      "reason": "Verb-form errors remain the strongest recurring pattern. W32 added nine verb-form errors, and the three-week window contains 53 verb-form errors across 14 lesson days.",
+      "source_tags": ["verb-form"],
+      "recent_errors": 9,
+      "recent_days": 2,
+      "window_errors": 53,
+      "window_days": 14,
+      "trigger": "Building a verb after need, should, stop, or to: use the correct complement and base or gerund form.",
+      "error_examples": [
+        {"mistake": "I need ask some help.", "correction": "I need to ask for help."},
+        {"mistake": "You need to stop your work and had a rest.", "correction": "You should stop working and have a rest."},
+        {"mistake": "He is to study hard to get a high score.", "correction": "He needs to study hard to get a high score."}
+      ],
+      "success_criteria": {"opportunities": 10, "minimum_correct_first_attempt": 8, "minimum_first_attempt_accuracy": 0.8, "delayed_retests": 1, "transfer_contexts": 2}
+    },
+    {
+      "id": "past-tense-narrative",
+      "name": "Keep completed events in the past tense",
+      "reason": "W32 added ten tense errors in short accounts of dinner, work, and past experiences. The window contains 32 tense errors across 14 lesson days.",
+      "source_tags": ["tense"],
+      "recent_errors": 10,
+      "recent_days": 2,
+      "window_errors": 32,
+      "window_days": 14,
+      "trigger": "Describing something that already happened: keep the main verbs consistently in the past tense.",
+      "error_examples": [
+        {"mistake": "I eat my dinner.", "correction": "I ate my dinner."},
+        {"mistake": "I eat some noodles.", "correction": "I ate some noodles."},
+        {"mistake": "When I try to fix some problems, I find the time went flying.", "correction": "When I try to fix something, I find that time flies so fast."}
+      ],
+      "success_criteria": {"opportunities": 10, "minimum_correct_first_attempt": 8, "minimum_first_attempt_accuracy": 0.8, "delayed_retests": 1, "transfer_contexts": 2}
+    },
+    {
+      "id": "countable-nouns-and-determiners",
+      "name": "Mark count nouns and choose the right determiner",
+      "reason": "W32 added eight plural, quantifier, and determiner errors involving permission, places, work, and responsibility. The window contains 44 related errors across 14 lesson days.",
+      "source_tags": ["plural", "quantifier", "determiner"],
+      "recent_errors": 8,
+      "recent_days": 2,
+      "window_errors": 44,
+      "window_days": 14,
+      "trigger": "Choosing a, the, no article, a plural form, or much/many/a lot of before a noun.",
+      "error_examples": [
+        {"mistake": "You need to ask your boss to get a permission.", "correction": "You need to ask your boss to get permission."},
+        {"mistake": "My family members often take a trip, but to different cities or place.", "correction": "My family members often take trips to different cities or places."},
+        {"mistake": "I have many work.", "correction": "I have a lot of work."}
+      ],
+      "success_criteria": {"opportunities": 10, "minimum_correct_first_attempt": 8, "minimum_first_attempt_accuracy": 0.8, "delayed_retests": 1, "transfer_contexts": 2}
+    }
+  ]
+}

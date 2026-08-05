@@ -1,0 +1,327 @@
+[
+  {
+    "id": "2026-08-04-001",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "I went to the company, finished to finish my task.",
+    "correction": "I went to the company and finished my task.",
+    "explanation": "After the verb 'finished,' use the noun phrase 'my task,' not an infinitive. The two verbs can also be joined with 'and.'",
+    "correct_examples": ["I went to the office and finished my report.", "She finished her work before dinner."],
+    "context": "Describing the day's work.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session1 line 7"
+  },
+  {
+    "id": "2026-08-04-002",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "Then I back to home.",
+    "correction": "Then I came back home.",
+    "explanation": "The past-tense verb 'came' is needed. We usually say 'come back home' without 'to' before 'home.'",
+    "correct_examples": ["I came back home at seven.", "She came home after work."],
+    "context": "Describing what he did after work.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session1 line 11"
+  },
+  {
+    "id": "2026-08-04-003",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "I eat my dinner.",
+    "correction": "I ate my dinner.",
+    "explanation": "The question asks about a completed meal, so use the past tense 'ate,' not the present tense 'eat.'",
+    "correct_examples": ["I ate dinner at home.", "We ate our lunch together."],
+    "context": "Talking about dinner that evening.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session1 lines 19-23"
+  },
+  {
+    "id": "2026-08-04-004",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "I eat some noodles.",
+    "correction": "I ate some noodles.",
+    "explanation": "Use the past tense 'ate' because the meal had already happened.",
+    "correct_examples": ["I ate some noodles for dinner.", "He ate rice and vegetables."],
+    "context": "Saying what he ate for dinner.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session1 lines 27-29"
+  },
+  {
+    "id": "2026-08-04-005",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "That need to be finished in afternoon and I forgot our assignments assessment.",
+    "correction": "That needed to be finished in the afternoon, and I forgot the assignment.",
+    "explanation": "Use past tense 'needed' for the past situation, add 'the' before 'afternoon,' and use the singular noun 'assignment' for one task.",
+    "correct_examples": ["The report needed to be finished in the afternoon.", "I forgot the assignment."],
+    "context": "Explaining why the homework was forgotten.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session1 line 59"
+  },
+  {
+    "id": "2026-08-04-006",
+    "date": "2026-08-04",
+    "category": "collocation",
+    "tag": "preposition",
+    "my_sentence": "I will appreciate for your help.",
+    "correction": "I would appreciate your help.",
+    "explanation": "The collocation is 'appreciate your help,' without 'for.' In a polite request, 'would appreciate' is natural.",
+    "correct_examples": ["I would appreciate your help with this report.", "We would appreciate your feedback."],
+    "context": "Writing an informal email request.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session1 line 87"
+  },
+  {
+    "id": "2026-08-04-007",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "I need ask some help.",
+    "correction": "I need to ask for help.",
+    "explanation": "After 'need,' use 'to' plus the base verb. The collocation is 'ask for help,' not 'ask help.'",
+    "correct_examples": ["I need to ask for help.", "She asked for help with the task."],
+    "context": "Explaining what a borrower does.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session1 line 141"
+  },
+  {
+    "id": "2026-08-04-008",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "I only generous to my family.",
+    "correction": "I am only generous to my family.",
+    "explanation": "The adjective 'generous' needs the linking verb 'am' after the subject 'I.'",
+    "correct_examples": ["I am generous to my family.", "She is generous to her colleagues."],
+    "context": "Discussing whether he is a generous person.",
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
+    "source_ref": "session1 lines 165-169"
+  },
+  {
+    "id": "2026-08-04-009",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "determiner",
+    "my_sentence": "You need to ask your boss to get a permission.",
+    "correction": "You need to ask your boss to get permission.",
+    "explanation": "Permission is normally an uncountable noun in this expression, so do not use the article 'a.'",
+    "correct_examples": ["You need permission to enter.", "She asked her manager for permission."],
+    "context": "Practicing the collocation 'get permission.'"
+    ,"review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session2 lines 75-81"
+  },
+  {
+    "id": "2026-08-04-010",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "possessive",
+    "my_sentence": "They went to the lawyers office to get a divorce.",
+    "correction": "They went to the lawyer's office to get a divorce.",
+    "explanation": "Use the possessive form 'lawyer's' because the office belongs to or is associated with the lawyer.",
+    "correct_examples": ["I went to the doctor's office.", "They visited the lawyer's office."],
+    "context": "Practicing the collocation 'get a divorce.'"
+    ,"review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session2 lines 104-106"
+  },
+  {
+    "id": "2026-08-04-011",
+    "date": "2026-08-04",
+    "category": "naturalness",
+    "tag": "word-choice",
+    "my_sentence": "We plan to go to a park to have a meal.",
+    "correction": "We plan to go to a park to have a picnic.",
+    "explanation": "A meal eaten outdoors in a park is usually called a 'picnic.' The teacher suggested this more natural expression.",
+    "correct_examples": ["We went to the park to have a picnic.", "They had a picnic by the lake."],
+    "context": "Practicing the collocation 'have a meal.'"
+    ,"review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session2 lines 120-126"
+  },
+  {
+    "id": "2026-08-04-012",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "You need to stop your work and had a rest.",
+    "correction": "You should stop working and have a rest.",
+    "explanation": "After 'should,' use the base form 'stop.' After 'stop,' use the gerund 'working,' and coordinate it with 'have.'",
+    "correct_examples": ["You should stop working and have a rest.", "We stopped working and took a break."],
+    "context": "Practicing the collocation 'have a rest.'"
+    ,"review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
+    "source_ref": "session2 lines 139-149"
+  },
+  {
+    "id": "2026-08-04-013",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "plural",
+    "my_sentence": "Yesterday I had an argument with my classmates. We can't understand each other the ideas.",
+    "correction": "Yesterday I had an argument with my classmates because we couldn't understand each other's ideas.",
+    "explanation": "Use the possessive reciprocal form 'each other's' before 'ideas.' Because the event was yesterday, use 'couldn't' for the past situation.",
+    "correct_examples": ["We couldn't understand each other's ideas.", "The two teams understood each other's concerns."],
+    "context": "Practicing the collocation 'have an argument.'"
+    ,"review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
+    "source_ref": "session2 around 20:25"
+  },
+  {
+    "id": "2026-08-04-014",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "determiner",
+    "my_sentence": "Before going to the bed, you'd better to take a shower.",
+    "correction": "Before going to bed, you should take a shower first.",
+    "explanation": "The fixed expression is 'go to bed' without an article. After 'should,' use the base verb 'take,' not 'to take.'",
+    "correct_examples": ["I take a shower before going to bed.", "You should go to bed early."],
+    "context": "Practicing the collocation 'take a shower.'"
+    ,"review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session2 lines 301-307"
+  },
+  {
+    "id": "2026-08-04-015",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "When we finished our dinner, I'd like to go out to take a walk.",
+    "correction": "When we finish eating our meal, I'd like to go out for a walk.",
+    "explanation": "For a repeated or planned situation, use present tense 'finish.' The natural expression is 'finish eating our meal' and 'go out for a walk.'",
+    "correct_examples": ["When we finish eating, I like to go for a walk.", "We went for a walk after finishing our meal."],
+    "context": "Practicing the collocation 'take a walk.'",
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
+    "source_ref": "session2 lines 411-415"
+  },
+  {
+    "id": "2026-08-04-016",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "agreement",
+    "my_sentence": "My family members often take a trip, but to different cities or place.",
+    "correction": "My family members often take trips to different cities or places.",
+    "explanation": "Use the plural forms 'trips,' 'cities,' and 'places' for repeated travel to more than one location. Use 'to' to introduce the destinations.",
+    "correct_examples": ["My family members often take trips to different cities.", "We take trips to different places every year."],
+    "context": "Talking about family travel.",
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
+    "source_ref": "session2 lines 439-449"
+  },
+  {
+    "id": "2026-08-04-017",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "quantifier",
+    "my_sentence": "I have many work.",
+    "correction": "I have a lot of work.",
+    "explanation": "Work is uncountable in this meaning, so use 'a lot of work' rather than 'many work.'",
+    "correct_examples": ["I have a lot of work today.", "She has too much work this week."],
+    "context": "Explaining why he is busy.",
+    "review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session2 lines 455-459"
+  },
+  {
+    "id": "2026-08-04-018",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "It's very important to learn how to take responsibilities that can help you get a promotion.",
+    "correction": "It's very important to learn how to take responsibility because that can help you get promoted.",
+    "explanation": "Use the uncountable expression 'take responsibility.' Here the result is expressed naturally with 'get promoted,' not 'get a promotion.'",
+    "correct_examples": ["Taking responsibility can help you get promoted.", "Good employees take responsibility for their work."],
+    "context": "Practicing the collocation 'take responsibility.'",
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
+    "source_ref": "session2 lines 465-469"
+  },
+  {
+    "id": "2026-08-04-019",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "Even though the project is very difficult, he decided to take a risk.",
+    "correction": "Even though the project is very difficult, he decides to take a risk.",
+    "explanation": "The exercise required the simple present, so use 'decides' for the third-person singular subject 'he.'",
+    "correct_examples": ["He decides to take a risk despite the difficulty.", "She decides carefully before accepting a challenge."],
+    "context": "Practicing the collocation 'take a risk.'"
+    ,"review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
+    "source_ref": "session2 lines 499-503"
+  },
+  {
+    "id": "2026-08-04-020",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "pronoun",
+    "my_sentence": "Dina wants to take control of her own life because he wants to go away with their parents.",
+    "correction": "Dina wants to take control of her own life because she plans to go away with her parents.",
+    "explanation": "Use pronouns that agree with the female subject Dina: 'she' and 'her,' not 'he' and 'their.'",
+    "correct_examples": ["Dina wants to control her own life.", "She plans to travel with her parents."],
+    "context": "Practicing the collocation 'take control.'"
+    ,"review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
+    "source_ref": "session2 lines 515-519"
+  },
+  {
+    "id": "2026-08-04-021",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "agreement",
+    "my_sentence": "No matter who need help.",
+    "correction": "No matter who needs help.",
+    "explanation": "In this clause, 'who' refers to one person at a time, so use the third-person singular verb 'needs.'",
+    "correct_examples": ["I help no matter who needs help.", "Call me if anyone needs help."],
+    "context": "Practicing the collocation 'do a favour.'"
+    ,"review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
+    "source_ref": "session2 lines 533-537"
+  },
+  {
+    "id": "2026-08-04-022",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "tense",
+    "my_sentence": "When I try to fix some problems, I find the time went flying.",
+    "correction": "When I try to fix something, I find that time flies so fast.",
+    "explanation": "Use the present-tense expression 'time flies' for a general experience. The natural phrase is 'time flies so fast,' not 'time went flying.'",
+    "correct_examples": ["When I work on a difficult problem, time flies.", "I find that time flies when I am busy."],
+    "context": "Talking about how quickly time passes while working.",
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
+    "source_ref": "session3 lines 38-41"
+  },
+  {
+    "id": "2026-08-04-023",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "determiner",
+    "my_sentence": "It's very important for him to make a choice to write a school.",
+    "correction": "It's very important for him to make a choice to select the right school.",
+    "explanation": "The intended verb is 'select,' not 'write.' Use the determiner 'the' before 'right school' when referring to the suitable choice.",
+    "correct_examples": ["He needs to select the right school.", "Choosing the right college is important."],
+    "context": "Practicing the collocation 'make a choice.'"
+    ,"review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session3 lines 120-126"
+  },
+  {
+    "id": "2026-08-04-024",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "verb-form",
+    "my_sentence": "He is to study hard to get a high score.",
+    "correction": "He needs to study hard to get a high score.",
+    "explanation": "The sentence needs the modal-like expression 'needs to' to express necessity; 'he is to study' does not fit this meaning.",
+    "correct_examples": ["He needs to study hard for the exam.", "You need to practice to improve your score."],
+    "context": "Explaining how a student can become a doctor.",
+    "review": {"status": "learning", "times_seen_again": 0, "last_reviewed": "2026-08-05", "review_count": 1, "correct_count": 1, "incorrect_count": 0, "correct_streak": 1, "review_days": ["2026-08-05"], "next_review": "2026-08-06"},
+    "source_ref": "session3 lines 124-126"
+  },
+  {
+    "id": "2026-08-04-025",
+    "date": "2026-08-04",
+    "category": "grammar",
+    "tag": "modal",
+    "my_sentence": "Tomorrow will be rain.",
+    "correction": "It can rain tomorrow.",
+    "explanation": "Use the dummy subject 'it' with weather expressions and the verb 'rain.' The modal 'can' expresses a possibility.",
+    "correct_examples": ["It may rain tomorrow.", "It can rain heavily in August."],
+    "context": "Practicing the collocation 'make a prediction.'"
+    ,"review": {"status": "new", "times_seen_again": 0, "last_reviewed": null},
+    "source_ref": "session2 lines 243-259"
+  }
+]
